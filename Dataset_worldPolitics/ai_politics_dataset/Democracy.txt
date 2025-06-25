@@ -1,0 +1,47 @@
+**Democracy**
+
+**Democracy** is a system of government in which political power is vested in the people, either directly or through elected representatives. Core principles include popular sovereignty, political equality, and the rule of law. Democracies typically feature competitive elections, protection of fundamental rights, and checks and balances among branches of government, ensuring that authority derives from and remains accountable to the electorate.
+
+## Etymology and Definition
+
+The term “democracy” derives from the ancient Greek **dēmokratia**, combining **dēmos** (“people”) and **kratos** (“power” or “rule”). While definitions vary, most political theorists agree that democracy involves regular, free, and fair elections; universal suffrage; and institutionalized civil liberties such as freedom of speech, assembly, and association.
+
+## Historical Development
+
+### Ancient and Early Forms
+
+The earliest known democracy emerged in Athens during the 5th century BC, where male citizens participated directly in legislative assemblies. Similar, though less formalized, practices appeared in some Italian city-states during the Middle Ages. Over time, republican principles influenced city councils and parliaments across Europe, though political participation remained limited to elites.
+
+### Modern Representative Democracy
+
+From the 17th century onward, Enlightenment ideas of natural rights and popular consent spurred constitutional experiments in England, the American colonies, and revolutionary France. By the 19th century, gradual extension of suffrage and parliamentary reforms in Europe and the Americas institutionalized representative democracy, replacing monarchies or oligarchies in many territories.
+
+## Forms of Democracy
+
+* **Direct Democracy**: Citizens vote on policy decisions without intermediary representatives; practiced on a limited scale in some Swiss cantons and U.S. states through referendums and initiatives.
+* **Representative Democracy**: Citizens elect delegates to legislate and govern on their behalf; this is the predominant modern form, exemplified by parliamentary and presidential systems.
+* **Deliberative Democracy**: Emphasizes public reasoning and dialogue through citizen assemblies and deliberative polls to inform policy, supplementing electoral mechanisms.
+
+## Democratic Institutions and Principles
+
+Key institutions include a legislature, executive, judiciary, and independent electoral commission. Checks and balances require separation of powers, preventing concentration of authority. Regular, contested elections ensure leadership accountability, while constitutions or charters codify rights and limit government action. Free media, civil society organizations, and political parties facilitate informed debate and representation of diverse interests.
+
+## Waves of Democratization
+
+Political scientists often identify three major waves of democratization:
+
+1. **First Wave (1828–1926)**: Expansion of suffrage in Western Europe and the Americas.
+2. **Second Wave (1943–1962)**: Post–World War II decolonization and the emergence of new democracies in Asia, Africa, and Europe.
+3. **Third Wave (1974–1990s)**: Democratic transitions in Southern Europe, Latin America, and post-Cold War Eastern Europe. A potential **Fourth Wave**, driven by the Arab Spring and recent protests, remains contested.
+
+## Challenges and Critiques
+
+Democracies face challenges including political polarization, populism, and influence of money in politics. Low turnout, misinformation, and declining trust in institutions threaten legitimacy. Critics argue that majoritarian rule can marginalize minorities and produce dysfunctional policy swings. Ongoing innovations—such as e-voting, participatory budgeting, and deliberative forums—seek to strengthen responsiveness, inclusion, and resilience.
+
+## Global Distribution and Trends
+
+As of the early 21st century, over 100 of the world’s roughly 195 sovereign states hold regular multiparty elections, though the quality of democracy varies. Indices measuring electoral integrity, civil liberties, and governance reveal a continuum from full democracies to hybrid regimes and authoritarian systems. International organizations, such as the United Nations and regional bodies, promote democratic norms through election observation, technical assistance, and diplomatic engagement.
+
+## Conclusion
+
+Democracy remains a defining ideal and political practice, continually adapting to new social, technological, and global contexts. Its historical evolution from direct assemblies to complex representative systems reflects enduring tensions between majority rule, minority rights, and effective governance. Debates about deepening participation, safeguarding freedoms, and ensuring equitable representation will shape the future of democracy worldwide.

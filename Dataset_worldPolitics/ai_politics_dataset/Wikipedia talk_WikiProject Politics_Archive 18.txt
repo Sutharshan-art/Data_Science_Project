@@ -1,0 +1,63 @@
+**Wikipedia talk\:WikiProject Politics/Archive 18**
+
+**Overview**
+“Wikipedia talk\:WikiProject Politics/Archive 18” is the eighteenth archived discussion page for WikiProject Politics on the English Wikipedia, preserving community deliberations and policy development conducted on the project’s main talk page between **January 1 and March 31, 2021**. WikiProject Politics is the collaborative effort responsible for improving the quality of political content—from biographies of officeholders to analyses of public policy—on Wikipedia. Archive 18 captures a three-month snapshot of discussions reflecting both the internal governance of the project and its engagement with contemporaneous global political events.
+
+**Purpose of the Archive**
+As part of Wikipedia’s archival system, “Archive 18” serves to:
+
+1. **Preserve Historical Record:** Maintain a permanent record of consensus decisions, policy proposals, and task coordination.
+2. **Improve Usability:** Streamline the live “Wikipedia talk\:WikiProject Politics” page by moving older threads to the archive, preventing menu clutter and improving navigability.
+3. **Facilitate Research:** Provide researchers and new project members with access to past discussions on political content standards, article assessments, and event coverage.
+
+**Organizational Structure**
+Archive 18 retains the structure of the active talk page under topical headings. These include:
+
+* **Project News and Announcements:** Summaries of editorial milestones and staffing changes.
+* **Policy Proposals:** Drafts and debates on refining sourcing guidelines for politically sensitive topics.
+* **Article Assessments:** Nominations for Good Article (GA) and Featured Article (FA) status in areas such as coronavirus pandemic policy and United States presidential transition.
+* **Current Events Coordination:** Task forces formed to manage coverage of the U.S. Capitol riot (January 6 2021), the second impeachment of U.S. President Donald Trump, and rollout of COVID-19 vaccination programs worldwide.
+* **Cross-Project Collaboration:** Discussions with WikiProject Medicine on COVID-19 content accuracy and with WikiProject Biography on BLP (Biographies of Living Persons) compliance during rapidly unfolding developments.
+
+Each thread includes timestamps and signed comments, preserving the identity and rationale of participants.
+
+**Key Discussions and Decisions**
+
+1. **U.S. Capitol Riot Coverage:**
+
+   * **Scope and Naming Conventions:** Debates centered on article titles—whether to use “2021 United States Capitol attack” versus “capitol riot”—to maintain neutrality and consistency with other political violence articles.
+   * **Source Reliability:** Editors evaluated which mainstream media and government reports met WP\:RS (Reliable Sources) criteria for documenting the event.
+   * **Image Use Policy:** Discussions on fair use of photographs depicting unrest within the Capitol, balancing encyclopedic value against privacy and copyright concerns.
+
+2. **Second Impeachment of Donald Trump:**
+
+   * **Article Organization:** Consensus on structuring the “Second impeachment of Donald Trump” article into sections on House proceedings, Senate trial, and public reaction.
+   * **Template Updates:** Suggestions to modify the political-event infobox template to accommodate multiple impeachment events in a single presidency.
+
+3. **COVID-19 Vaccination Program Coverage:**
+
+   * **Global Coordination:** Task forces were formed to assign regional editors to maintain articles on vaccination rollout by country, ensuring up-to-date statistics and logistic overviews.
+   * **Vaccine Policy Comparisons:** Debates arose over synthesizing public policy approaches—such as vaccine mandates and emergency use authorizations—while adhering strictly to WP\:STRUCTURE guidelines and avoiding original synthesis.
+
+4. **Policy Refinements:**
+
+   * **Sourcing Guidelines for Political Statements:** A proposal introduced enhanced guidance on attributing controversial political claims, requiring “headlining” according to WP\:VERIFY and avoiding undue weight.
+   * **Conflict-of-Interest Disclosure:** Editors discussed extending the COI guideline (WP\:COI) to cover paid advocacy in think-tank reports cited in policy articles.
+
+**Political Context**
+Archive 18 reflects a period of intense political change and public health crisis:
+
+* **U.S. Political Polarization:** The transition of presidential power in Washington, D.C., underscored deep partisan divides, influencing how editors negotiated neutral language in U.S. politics articles.
+* **Global Pandemic Response:** National vaccination campaigns and debates over vaccine nationalism shaped the project’s collaboration with medical and policy-focused WikiProjects.
+* **Rise of Disinformation Concerns:** Threads addressed the challenge of distinguishing verifiable policy analysis from propagandistic or fringe commentary, echoing broader societal efforts to combat misinformation.
+
+These global events heightened the stakes of Wikipedia’s political coverage, as the encyclopedia sought to remain a trusted, neutral resource amid rapid news cycles.
+
+**Significance and Legacy**
+“Wikipedia talk\:WikiProject Politics/Archive 18” stands as a testament to Wikipedia’s capacity for self-governance in politically charged environments. By documenting how volunteer editors negotiated contentious topics—ranging from insurrection to pandemic policy—the archive provides insight into:
+
+* **Consensus-Building Processes:** Demonstrating Wikipedia’s reliance on evidence-based discussion and policy invocation to resolve disputes.
+* **Adaptability of Policies:** Showing how core Wikipedia policies (WP\:NPOV, WP\:VERIFY, WP\:BLP) were interpreted and refined in response to novel situations.
+* **Community Resilience:** Highlighting the project’s ability to mobilize task forces and cross-project collaborations under tight deadlines and high public interest.
+
+As future WikiProject Politics members consult Archive 18, they inherit institutional memory critical for navigating the ever-evolving intersection of online collaboration and real-world politics.

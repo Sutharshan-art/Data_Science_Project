@@ -1,0 +1,44 @@
+**List of Bombs in the Vietnam War**
+
+The Vietnam War (c. 1955–1975) saw unprecedented aerial bombardment by U.S. and allied air forces, targeting North Vietnamese, Viet Cong, and neutral territories in Laos and Cambodia. The extensive use of diverse ordnance reflected shifting U.S. strategies—from limited interdiction under **Operation Rolling Thunder** (1965–1968) to total airpower in **Operation Linebacker** (1972)—and generated significant political controversy over civilian casualties, environmental damage, and compliance with international law.
+
+**Categories of Bombs**
+
+1. **General-Purpose (GP) “Dumb” Bombs**
+
+   * **Mk 82** (500 lb / 227 kg) and **Mk 84** (2,000 lb / 907 kg): The workhorses of USAF and Navy tactical bombing. Used in high-altitude precision strikes and carpet-bombing raids.
+   * **M117** (750 lb / 340 kg): Employed by B-52 Stratofortresses during **Arc Light** missions to blanket large target areas in South Vietnam and Laos.
+
+2. **Cluster Bomb Units (CBUs)**
+
+   * **CBU-24/49/58**: Contained hundreds of anti-personnel **BLU** and **M1/M4** bomblets, designed to deny enemy movement along the Ho Chi Minh Trail and in jungle sanctuaries.
+   * **CBU-55/71**: Thermobaric weapons introduced late in the war to clear cave complexes and fortified positions.
+
+3. **Incendiary and Napalm Weapons**
+
+   * **M-47 and M-50** napalm bombs: Gelled gasoline mixtures deployed from fighter-bombers and helicopters to destroy vegetation (denuding cover) and enemy troops.
+   * **AN-Mi 8/A/B** white phosphorus: Used for marking targets and anti-personnel effects, controversially causing severe burns and fires.
+
+4. **Chemical Defoliants and Herbicides**
+
+   * **Agent Orange, Agent Blue, Agent White**: Aerially sprayed under **Operation Ranch Hand** (1962–1971) to remove jungle canopy and rice crops. Though not “bombs” in the explosive sense, these aerial chemical munitions had profound ecological and health consequences, fueling domestic and international condemnation.
+
+5. **Precision-Guided Munitions (PGMs)**
+
+   * **GBU-2/10/24 Paveway** laser-guided bombs: Introduced late in the war (1972 onward) during **Linebacker II** to improve bombing accuracy over Hanoi and Haiphong. Their limited use marked the beginnings of modern smart-bombing but could not fully compensate for dense air defenses.
+
+**Political and Strategic Context**
+
+* **Limited Bombing vs. Escalation:** President Lyndon B. Johnson resisted large-scale bombing of North Vietnam until repeated provocations led to **Rolling Thunder** in March 1965. Its gradual escalation aimed to degrade North Vietnamese will, but stringent rules of engagement and Soviet/Chinese air-defense aid limited effectiveness.
+* **Neutral Territory Bombing:** The porous Ho Chi Minh Trail ran through Laos and Cambodia. Covert bombing operations (e.g., **Operation Barrel Roll**, **Operation Menu**) targeted communist sanctuaries but provoked international outcry and raised questions of state sovereignty.
+* **Domestic Opposition:** Graphic media coverage of bomb damage—especially napalm’s horrific effects—galvanized the U.S. anti-war movement. Congressional restrictions (the **Cooper–Church Amendment**) and the War Powers Act reflected growing legislative checks on executive bombing authority.
+* **International Law:** The extensive use of cluster munitions and chemical defoliants predated formal prohibitions but later informed arms-control treaties such as the 1980 **Convention on Certain Conventional Weapons** and the 2008 **Cluster Munitions Convention**. Napalm’s use spurred discussions leading to its protocol addition in 1980.
+
+**Operational Impact and Controversies**
+
+* **Civilian Casualties:** Estimates vary, but U.S. bombing campaigns caused tens of thousands of civilian deaths and widespread displacement, undermining South Vietnamese government legitimacy.
+* **Environmental Damage:** Millions of acres of forest and cropland were destroyed; residual dioxin contamination continues to affect human health and ecosystems.
+* **Military Effectiveness:** While interdiction bombing disrupted North Vietnamese logistics, it failed to halt infiltration completely. The introduction of PGMs improved strike precision but was insufficient to break North Vietnamese resolve.
+
+**Legacy**
+The Vietnam War’s bombing campaigns reshaped military doctrine and public attitudes toward airpower. Lessons learned influenced U.S. rules of engagement in later conflicts—emphasizing target verification, minimization of collateral damage, and the integration of precision munitions. Politically, the conflict’s aerial dimension contributed to the emergence of post-Vietnam war skepticism toward prolonged bombing and the primacy of clear strategic objectives before authorizing air strikes.

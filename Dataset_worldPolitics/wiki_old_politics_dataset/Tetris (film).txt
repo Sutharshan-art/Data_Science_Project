@@ -1,0 +1,87 @@
+Tetris is a 2023 biographical thriller film based on true events around the race to license and patent the video game Tetris from Russia in the late 1980s during the Cold War. It was directed by Jon S. Baird and written by Noah Pink. The film stars Taron Egerton, Nikita Efremov, Sofia Lebedeva, and Anthony Boyle. The plot follows Henk Rogers of Bullet-Proof Software, who becomes interested in the game Tetris, created by Alexey Pajitnov, during an electronics show. Desperate to obtain handheld console rights for Nintendo, he takes trips between Japan, the United States, and Russia to win legal battles over the game's ownership.
+Development of Tetris began in July 2020. Filming began in Glasgow in December 2020, including Glasgow Prestwick Airport. In February 2021, filming took place in Aberdeen at locations including the University of Aberdeen's Zoology Building. Filming took place for 7 days in and around the former (RAF) military base at Balado in Perth & Kinross. Production wrapped in early March 2021.
+Tetris premiered at the SXSW Film Festival on March 15, 2023, and was released on March 31, by Apple TV+. The film received generally positive reviews from critics and was praised by Pajitnov and Rogers.
+
+
+== Plot ==
+At the 1988 Consumer Electronics Show in Las Vegas, Dutch video game designer Henk Rogers of Bullet-Proof Software discovers Tetris, a captivating puzzle game developed by Soviet programmer Alexey Pajitnov. Tetris is owned by the Soviet Union's ELORG. Rogers learns that the worldwide licensing rights were sold to British entrepreneur Robert Stein, who sublicensed them to Robert Maxwell's Mirrorsoft, headed by Maxwell's son, Kevin. Rogers acquires the rights to distribute Tetris in Japan for PC, console, and arcade.
+Rogers pitches a partnership to Nintendo CEO Hiroshi Yamauchi, proposing to adapt Tetris for the Famicom console and arcades. Yamauchi agrees, and Rogers secures a $3 million loan from bank manager Eddie, using his family home as collateral. However, Kevin informs Rogers that Sega has already been promised arcade rights, complicating Rogers's ability to move forward with the Famicom version. Rogers desperately presses Nintendo for an advance on residuals, hoping to buy enough time to secure the needed rights, but is instead redirected to Nintendo's Seattle headquarters. There, Rogers proposes Tetris as the launch title for Nintendo's upcoming Game Boy handheld console instead of Super Mario Land. Nintendo of America's President Minoru Arakawa and General Counsel Howard Lincoln agree, provided Rogers secures handheld rights.
+Rogers negotiates with Stein in London, offering $25,000 for the handheld rights. However, Stein later promises the rights to Atari for $100,000. Realizing he must deal directly with ELORG, Rogers travels to Moscow despite the risks of operating in a tightly controlled Soviet system. At ELORG, Rogers meets chairman Nikolai Belikov and learns that his Famicom version of Tetris is considered illegal because Stein exploited ambiguous contract language to sublicense rights beyond PC versions. Rogers reveals these manipulations, leading Belikov to draft a new contract defining platform-specific rights.
+Rogers meets Pajitnov, and they gradually develop a friendship. The growing potential of Tetris attracts scrutiny from Valentin Trifonov, a corrupt Communist Party official with KGB connections. Trifonov attempts to leverage Tetris as a political and financial asset, threatening Rogers, Pajitnov, and their families. Trifonov pressures Belikov into selling Tetris to Mirrorsoft. Belikov tells Kevin that Mirrorsoft can have Tetris if they are wired $1 million within a week. Belikov then privately talks to Rogers about making his own offer within the week and gives him a separate letter of intent. Back in Tokyo, Rogers faces personal strain when his dedication to the Tetris deal causes him to miss his daughter Maya's concert.
+Ordered by Belikov, Pajitnov faxes Mirrorsoft's letter to Rogers at his job, showing that Mirrorsoft failed to obtain Tetris rights on the agreed upon deadline. Nintendo tells Rogers of Atari releasing their Tetris version. Rogers says Stein and the Maxwells lied and that the letter expired the day before, meaning Atari has zero rights to Tetris. He urges Arakawa and Lincoln to finalize the deal in Moscow. Stein furiously confronts Kevin for dealing with ELORG behind his back, leading the Maxwells to personally warn Soviet leader Mikhail Gorbachev against selling to capitalist interests. Gorbachev dismisses their concerns but orders Trifonov to be monitored. ELORG ultimately accepts Nintendo's $5 million offer for console and handheld rights.
+Tensions escalate when Robert Maxwell offers Trifonov a 50% stake in Tetris in exchange for blocking Rogers. A high-stakes car chase ensues as Trifonov tries to intercept Rogers, Arakawa, and Lincoln en route to the airport. Sasha, Rogers's interpreter and a covert KGB agent, intervenes to arrest Trifonov, allowing the trio to escape.
+Tetris becomes a global phenomenon following its release on Game Boy and other platforms. Rogers returns to Tokyo, reconciling with his family and showing his wife Akemi the $5 million check to Bullet-Proof Software. In his homeland, Pajitnov watches the Singing Revolution and receives a Game Boy with Tetris from Rogers. Rogers helps Pajitnov and his family relocate to the US. An epilogue reveals Rogers and Pajitnov co-founded The Tetris Company, of which Maya later becomes CEO, and remain friends.
+
+
+== Cast ==
+
+
+== Production ==
+
+
+=== Development ===
+In July 2020, it was reported that a biopic was being made about the making of Tetris, which would delve into the legal battles that took place during the Cold War over ownership of the game, with Jon S. Baird directing and Taron Egerton cast to portray the game publisher Henk Rogers. Egerton confirmed this report in an August 2020 interview, explaining that the film would mirror a tone similar to The Social Network. In November 2020, Apple TV+ acquired the film.
+Baird explained that the appeal of the film's script lay in its focus on the legal battle over the rights to the game, set against the backdrop of the Cold War. With a background in politics and international relations, Baird was drawn to the high-stakes, thrilling nature of the story, which he likened to a "fast-paced, high-stakes thriller on steroids." He emphasized that, unlike typical video game adaptations, the film centers on the real-world drama surrounding the game's distribution rights rather than trying to adapt the gameplay itself. When asked why the film was made now, Baird remarked that, while the story had been in development for years, the current geopolitical situation—particularly the Russian invasion of Ukraine—provided new resonance. He noted that the film's portrayal of East-West relations during the Cold War would be more meaningful now than it might have been in the past, as modern audiences have a clearer understanding of how dangerous and politically charged that period was.
+
+
+=== Filming ===
+Filming for Tetris originally planned for Moscow was disrupted by the COVID-19 pandemic in 2021, prompting the production to relocate to various locations in Scotland, including Edinburgh, Ayrshire, Glasgow, and Aberdeen. Director Jon S. Baird, a native of Aberdeen, described filming in his hometown as a special experience, highlighting the region’s untapped cinematic potential and the enthusiastic local reception. Producer Gillian Berrie noted the serendipitous connection between Moscow's architecture—partially influenced by Scottish designers—and the Scottish filming locations, which helped create a convincing stand-in for the Russian capital. Lead actor Taron Egerton remarked on Scotland's "abundance of greyness" and architectural similarities to Moscow, particularly in parts of Glasgow. The production was supported by £500,000 from Screen Scotland’s production growth fund.
+Filming began in Glasgow in December 2020, including Glasgow Prestwick Airport on the Ayrshire coast. In February 2021, filming took place in Aberdeen at locations including the University of Aberdeen's Zoology Building, which was used as the headquarters of Soviet firm ELORG, and Seamount Court which was used for several scenes. Filming took place for 7 days in and around the former (RAF) military base at Balado in Perth & Kinross; particularly internal scenes for a quasi-military backdrop. Production then returned to Glasgow for a few days, before wrapping in early March 2021.
+
+
+=== Visual effects ===
+Coffee & TV was tasked with creating motion design for the Tetris film, incorporating a "blocky" pixel art style to align with the film's 1980s retro gaming aesthetic. The project began in the post-production phase, where Coffee & TV was commissioned to design various graphic and animation assets, including titles, scene establishers, and maps to enhance the storytelling.
+The team faced a challenge in rendering the pixelated aesthetic in 4K resolution, initially attempting to pixelize graphics made at 4K, but finding the results unsatisfactory. To maintain control over pixel placement, they scaled the designs to approximately 1:10, creating artwork 400 pixels wide. The artwork was developed on small canvases using Adobe Photoshop, Aseprite, and Pixaki, the latter two being specifically designed for retro, 8-bit pixel art. In Adobe After Effects, the team discovered a simple method to preserve the pixelated look by disabling a specific checkbox that otherwise smoothed out lines and gradients, contradicting the desired aesthetic. For the animations, they ensured that movements felt blocky, adjusting motion to maintain the pixelated style even in high resolution.
+Coloring was approached with some flexibility, using different color schemes to set the scene contextually—red for Russia, blue for London, and green for Tokyo—while still drawing from Tetris' extensive visual history. The original game’s simple, bracket-like visuals served as inspiration, challenging the designers to make concise decisions about storytelling and character design within the pixelated constraints. Reflecting on the project, Boyle highlighted the rewarding nature of working within these boundaries, emphasizing the creative discipline required to convey narrative and visual elements in a minimalist style.
+
+
+=== Music ===
+
+The movie's soundtrack features original score cues from the film composed by Lorne Balfe and songs performed by Aaron Hibell, aespa, Polina, ReN, as well as remixes of yesteryear songs newly produced for the film. The album was released on 31 March 2023 by Parlophone Records and Marv Music, and was led by two singles — "Benevolence" by Aaron Hibell and "Hold on Tight" by Aespa released on 17 and 24 March.
+
+
+== Release ==
+
+The film premiered at the 2023 South by Southwest Film & TV Festival on March 15, 2023. It premiered on Apple TV+ on March 31, 2023. According to a Samba TV research panel of 3.1 million smart television households who tuned in for at least one minute, Tetris drew in 88,000 viewers in its first two days.
+
+
+== Reception ==
+
+
+=== Critical response ===
+On the review aggregator website Rotten Tomatoes, 82% of 190 critics' reviews are positive, with an average rating of 6.7/10. The website's consensus reads: "While it's nowhere near as addictive or fast-paced as the game, Tetris offers a fun, fizzy account of the story behind an 8-bit classic." Metacritic, which uses a weighted average, assigned the film a score of 61 out of 100, based on 36 critics, indicating "generally favorable" reviews.
+Several reviewers contrasted the film with the real-life events. Matthew Jackson of The A.V. Club wrote, "Tetris doesn't cast the same spell as its namesake, but it will at least make you look at those falling blocks in a new way." In contrast, Vince Mancini of UPROXX found the film "mostly entertaining and simplifies an impossibly complex story admirably, but it also loses some its most important themes in the process." "The legal battle over Tetris has been thoroughly dissected in the decades since," wrote Ollie Barder of Forbes, "and while this movie sticks to the spirit of that, there are some inevitable film related exaggerations." Tim Robey said "Tetris is best when it’s geeking out right in front of us... There's no nostalgia quite as addictive, this proves, as the 8-bit kind." Jeannette Catsoulis of New York Times said Tetris is, "Fast and fizzy and relentlessly buoyant, "Tetris" finds its heart in the connection between [Pajitnov and Rogers], the game's modest creator and its tenacious evangelist."
+Henk Rogers, the entrepreneur who played a key role in securing the rights to Tetris, and Alexey Pajitnov, the game's creator, shared their thoughts on the impact of the film and their personal connections to the game. Rogers expressed excitement that the origin story of Tetris would be revealed to the public, as many people play games without knowing the behind-the-scenes history of their development. Pajitnov, meanwhile, praised the filmmakers for capturing the most significant moment in the Tetris story, noting that it was a pivotal point in the game's journey to global popularity.  In a 2023 interview, Alexey Pajitnov admitted that the film "didn't make an actual biography or an actual recreation of what actually happened", but was "close enough and very right emotionally and spiritually".
+
+
+=== Accolades ===
+
+
+=== Lawsuit ===
+In August 2023, Dan Ackerman, the chief editor of Gizmodo, sued Apple for "illegally copying" his 2016 book The Tetris Effect: The Game That Hypnotized the World. Ackerman asked the court for monetary damages of $4.8 million, which was 6% of the film's $80 million production budget. The claim was rejected by the court later.
+
+
+== Historical accuracy ==
+In an interview prior to the film's release, Henk Rogers said that he and Alexey Pajitnov reviewed the script and made suggestions. Rogers noted, "It's a Hollywood script, a movie. It's not about history so a lot of [what's in the movie] never happened." Some events in the movie were true. For instance, Rogers notes that he convinced Nintendo to bundle Tetris with the Game Boy at launch in place of Super Mario Land. Rogers emphasized that the producers wanted to "capture the darkness and the brooding" that he felt during his time trying to get the rights to Tetris in Soviet Russia. For dramatic effect, the interpreter in the film was a KGB agent, which Rogers had already been aware of. In the end of the film, a car chase is depicted, although this did not happen when Rogers left the Soviet Union.
+
+
+== See also ==
+Tetris: The Games People Play, 2016 graphic novel
+
+
+== References ==
+
+
+=== Notes ===
+
+
+=== Citations ===
+
+
+== Further reading ==
+"The Story of Tetris: Henk Rogers". Sramana Mitra. 16 September 2009. Retrieved 6 April 2023.
+
+
+== External links ==
+
+Tetris at IMDb

@@ -1,0 +1,42 @@
+The Steyr Scout (German pronunciation: [ˈʃtaɪɐ]) is an Austrian bolt-action rifle manufactured by Steyr Mannlicher, and chambered primarily for 7.62 NATO (.308 Winchester), although other caliber options in 5.56×45mm NATO (.223 Remington), .243 Winchester, 6.5 Creedmoor, .376 Steyr and 7mm-08 Remington are also offered commercially.  It is intended to fill the role of a versatile, lightweight all-around rifle as specified in Jeff Cooper's scout rifle concept. Apart from the barrel and action, the gun is made primarily of polymers and is designed to be accurate to at least 800 m (870 yd).
+
+
+== Design ==
+The Steyr Scout has the following features:
+
+Removable box magazines with a magazine cut-off, individual rounds can be manually loaded through the ejection port, allowing for the magazine to be kept in reserve.
+Second spare magazine stored in the butt of the rifle.
+Light weight due to aluminium receiver housing, hammer forged fluted barrel, and extensive use of polymers.
+Top integral Weaver rail.
+Bottom UIT rail at the forend.
+Roller tang safety with "Locked Safe", "Loading" and "Fire" positions.
+Bolt handle locks downward against receiver in "Locked Safe" mode.
+User-adjustable trigger, factory set at 1.6 kg (3.5 lb).
+Reserve flip-up "ghost ring" iron sights.
+Integral folding bipod.
+Third attachment point for a "Ching sling".
+There were early reports of problems with the Steyr Scout rifle relating to breakage of the bipod pivot pin. The affected part was subsequently redesigned to improve its strength. Some shooters complained that the bipod was too tall.
+The Weaver rail above the action and barrel allows either for conventional positioning of a scope with normal 1.5–3.5 in eye relief or for the forward placement of an intermediate/long eye relief "scout scope".  The latter is more faithful to Cooper's Scout concept, and the Steyr-Mannlicher rifle can be ordered from the factory with a low-magnification Leupold scope with long eye relief.
+In January, 2015, Steyr Arms announced that a limited edition Steyr Camo Scout would be available in 3 variations of hydro-dipped camouflage due to customer demand.
+
+
+== Variants ==
+
+
+=== Steyr Elite ===
+
+A sniper rifle variant and effectively the successor of the Scout is the Steyr Elite (previously known as the Steyr Tactical Elite), a more robustly constructed model with many of the same features of the Scout, but designed primarily for the law enforcement market for an urban tactical role. Differences to the standard Scout include an extended STANAG type mounting rail, an enlarged bolt knob of the SSG type, an adjustable cheek piece, and a height-adjustable buttpad. It is fitted with a heavy 570 mm (22 in) barrel, and can produce high muzzle velocities due to a "fast" internal profile. The additional features of the Elite give it a weight of over 4.2 kg (9.3 lb), which makes it fall outside the definition of a scout rifle. Although intended for intermediate ranges, with match grade 7.62 mm (.308 inch) ammunition and 10.0 g (155 grain) projectiles, entirely acceptable performance at up to 800 m (870 yd) has been recorded, making it a good all-rounder. It is standard with a synthetic 5-round magazine, but an external adaptor kit can be attached to fit a 10-round magazine (not available on 5.56 NATO). It is normally available in two calibers; 5.56 NATO and 7.62 NATO, but can be specially ordered in 7 mm-08 Remington upon request.
+
+
+=== Steyr Scout RFR ===
+Also referred to as the Scout Survival, the Scout RFR is the rimfire version of the Scout, with three caliber choices of .17 HMR, .22 LR and .22 WMR.  It is a new addition to the lineup, formally introduced in the 2017 SHOT Show.  The RFR has an ISSC SPA-style "toggle" straight-pull action and a UNF 1/2"-20 threaded (except the .22 WMR version) 510 mm (20 in) heavy blued barrel, with an overall rifle length of 900 mm (35.6 in) and weighing 3.3 kg (7.3 lb).  It comes with a 10-round metal box magazine, and an optional survival knife that can be hidden in the storage cavity in the buttstock.  It has a full-length Picatinny rail over the handguard in front of the receiver, which has dovetail grooves but includes two Weaver-style adaptor bases for mounting optics.  Unlike the centerfire models, which have three attachment points for using Ching slings, the RFR only has two attachment points for using conventional slings.
+
+
+== References ==
+
+
+== External links ==
+Steyr Scout at steyr-arms.com
+The Steyr Scout Rifle Page Fan site
+patent 403,043
+patent 5,852,892

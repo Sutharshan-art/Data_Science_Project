@@ -1,0 +1,50 @@
+**Fort Gordon**
+
+Fort Gordon is a United States Army installation located in Richmond and Columbia counties, Georgia, approximately 10 miles southeast of Augusta. Established in 1941, the post has evolved from a World War II signal training center into the U.S. Army Cyber Center of Excellence, reflecting the military’s shift toward information warfare and cyber operations. Fort Gordon plays a pivotal role in Army doctrine, training, and technology development, and significantly contributes to the economic and civic life of the Central Savannah River Area.
+
+### Historical Background
+
+**World War II and Signal Training**
+Fort Gordon was activated on October 7, 1941, as Camp Gordon, named for Confederate General John Brown Gordon. Initially designated as a signal training center, Camp Gordon trained thousands of radio, telephone, and cryptographic specialists vital to wartime communications. At its wartime peak, the post encompassed over 73,000 acres and hosted more than 60,000 troops, making it one of the largest signal training facilities in the Army.
+
+**Post–World War II and Cold War Era**
+Deactivated briefly after World War II, the post reopened in 1956 as Fort Gordon in response to Cold War communications demands. It continued signal training and hosted the U.S. Army Signal School. During the Vietnam War, Fort Gordon expanded its scope to include electronic warfare and message security instruction. The base also supported NATO communications exercises and developed early encryption technologies to secure transatlantic data links.
+
+### Transition to Information and Cyber Warfare
+
+**Creation of the Signal Center and School**
+In 1966, the U.S. Army Signal Corps Center and School was established at Fort Gordon, consolidating all signal training. The Center modernized curricula to address satellite communications, computer networking, and advanced encryption, reflecting the increasing importance of digital systems in military operations.
+
+**Establishment of U.S. Army Cyber Center of Excellence**
+Recognizing emerging cyber threats, the Department of Defense designated Fort Gordon as the home of the U.S. Army Cyber Center of Excellence (CCoE) in 2010. The CCoE, activated in 2014, integrates the functions of doctrine development, training, and career management for cyber, signal, and electronic warfare professionals. It hosts the Army’s Cyber School, responsible for the Military Occupational Specialty (MOS) 17-series cyber and electronic warfare career fields.
+
+### Role and Functions
+
+**Training and Education**
+Fort Gordon provides resident and mobile training for over 5,000 signal and cyber soldiers annually. Key courses include the Network Switching Systems Course, Cyber Operations Specialist Course, and the Electronic Warfare Officer Course. Through partnerships with industry and academia, Fort Gordon incorporates cutting-edge technologies—such as artificial intelligence, machine learning, and cloud computing—into its training pipelines.
+
+**Doctrine and Capability Development**
+The CCoE develops Army doctrine for cyberspace and electronic warfare, publishing field manuals and operational guidelines. It collaborates with U.S. Cyber Command and interagency partners to refine tactics, techniques, and procedures, ensuring alignment across joint and coalition operations.
+
+**Force Generation and Readiness**
+Fort Gordon houses several operational units, including the 780th Military Intelligence Brigade (Cyber), the 911th Technical Rescue Engineer Company, and the 35th Signal Brigade. These units deploy globally to support network operations centers, defensive cyber operations, and tactical communications for combatant commanders.
+
+### Economic and Community Impact
+
+Fort Gordon is the largest single-site employer in the Augusta region, with over 20,000 military, civilian, and contractor personnel. The base’s annual payroll and procurement activities generate over \$1.5 billion in regional economic activity. Fort Gordon partners with local school districts through the Military Interstate Children’s Compact Commission and sponsors community events, fostering strong civil–military relations.
+
+### Environmental and Infrastructure Development
+
+Covering approximately 74,000 acres, Fort Gordon includes training ranges, test beds for cyber-physical systems, and environmental conservation areas. The post has invested in sustainable energy projects, such as solar arrays and water-recycling systems, to reduce operational costs and environmental impact. Historic preservation efforts maintain several World War II–era buildings, recognized on the National Register of Historic Places.
+
+### Security and Strategic Importance
+
+As cyber operations become central to national defense, Fort Gordon’s role has strategic significance. It supports the Army’s contribution to national cyber defense and international cooperation on information security. The base’s proximity to Augusta, a Tier II city for the National Cyber Range, enhances its capacity for large-scale cyber exercises and inter-service coordination.
+
+### Future Developments
+
+Planned expansions at Fort Gordon include new facilities for the Army’s specialized cyber forces, additional dormitory and family housing, and upgraded training simulators integrating virtual and augmented reality. Investments in high-performance computing and secure 5G test networks aim to keep U.S. cyber training capabilities at the forefront of technological advancement.
+
+---
+
+Fort Gordon’s transformation from a signal training post to the epicenter of U.S. Army cyber operations reflects broader shifts in warfare and national security priorities. Its comprehensive integration of training, doctrine, and operational units underscores its enduring importance to both the Army and the nation’s defense posture in the information age.

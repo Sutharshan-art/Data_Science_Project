@@ -1,0 +1,51 @@
+**List of Aircraft Losses of the Vietnam War**
+
+The Vietnam War (1955–1975) witnessed one of the largest aerial campaigns in history, encompassing strategic bombing, close air support, interdiction, and reconnaissance missions over North and South Vietnam, Laos, and Cambodia. Aircraft losses on both sides reflected evolving tactics, anti-aircraft defenses, and political constraints. This article summarizes major categories and totals of fixed-wing and rotary-wing aircraft lost by the principal combatants, and places these figures in their broader historical and political context.
+
+**Historical and Political Context**
+United States-led air operations escalated under Presidents John F. Kennedy and Lyndon B. Johnson, peaking with Operations **Rolling Thunder** (1965–1968) and **Linebacker** I & II (1972). Political debates over bombing campaigns, civilian casualties, and Congressional oversight (e.g., the Gulf of Tonkin Resolution, the Cooper–Church Amendment) shaped the intensity and duration of air strikes. North Vietnam’s air defenses—Soviet-supplied surface-to-air missiles (SAMs), anti-aircraft artillery, and MiG fighters—imposed heavy costs on U.S. aviators. Meanwhile, the Republic of Vietnam Air Force (RVNAF) and U.S. Army rotary-wing units contended with the ground insurgency in the South.
+
+**United States Aircraft Losses**
+During the conflict, U.S. losses included fixed-wing combat aircraft, helicopters, and reconnaissance platforms. Exact figures vary by source, but approximate totals are:
+
+* **Fixed-Wing Combat Aircraft:**
+
+  * **U.S. Air Force (USAF):** \~2,251 aircraft lost (including F-4 Phantoms, F-105 Thunderchiefs, A-1 Skyraiders, and B-52 Stratofortresses)
+  * **U.S. Navy (USN) and Marine Corps (USMC):** \~1,737 aircraft lost (including F-4s, A-4 Skyhawks, A-6 Intruders, and AV-8 Harriers)
+
+* **Helicopters and Rotary-Wing Aircraft:**
+
+  * **U.S. Army Aviation:** \~5,607 helicopters lost (including UH-1 Hueys, AH-1 Cobras, and CH-47 Chinooks)
+  * **USMC/USAF/USN:** additional \~1,200 rotary-wing assets lost to enemy fire and operational accidents
+
+* **Reconnaissance and Electronic Warfare Aircraft:**
+  Platforms such as the RF-4C, EB-66, and DC-130 drones contributed to these totals but are often included in overall fixed-wing loss figures.
+
+These losses stemmed from hostile action (SAMs, AAA, MiG interception, small arms fire), navigational accidents, and mechanical failures in challenging tropical environments. Public awareness of pilot casualties and downed aircraft fueled anti-war sentiment, particularly during high-profile losses such as the downing of **Operation Linebacker II** B-52s over Hanoi in December 1972.
+
+**Republic of Vietnam and Allied Aircraft Losses**
+
+* **Republic of Vietnam Air Force (RVNAF):**
+  Approx. 1,000 fixed-wing aircraft lost, including A-1 Skyraiders, F-5 Freedom Fighters, and O-2 Skymasters, largely to ground fire and mechanical issues.
+* **South Korean, Australian, Thai, and New Zealand Air Forces:**
+  Contributed combat and transport aircraft, with combined losses under 50 fixed-wing planes and several dozen helicopters, reflecting smaller force sizes but participation in close air support and transport missions.
+
+**North Vietnamese Aircraft Losses**
+North Vietnam deployed modern Soviet and Chinese aircraft primarily for air defense. Losses include:
+
+* **MiG-17, MiG-19, MiG-21 Fighters:**
+  Over 150 aircraft lost in air-to-air combat and ground fire. U.S. claims of MiG kills are offset by North Vietnamese records, but total losses approximate 150–200.
+* **Transport and Trainer Aircraft:**
+  Limited numbers of Antonov transports (An-2), Il-28 bombers, and trainer types suffered losses in interdiction strikes, totaling around 50–70 airframes.
+
+Operational constraints—such as limited sortie rates, pilot shortages, and the need to protect critical industrial sites—meant that North Vietnamese air operations were tightly controlled. MiG units flew mainly defensive patrols in designated “MiG areas,” and losses were politically sensitive, as the government tightly managed information on military casualties.
+
+**Impact on Air Campaigns**
+High U.S. aircraft attrition rates during Rolling Thunder led to demands for more effective tactics and technology, accelerating development of precision-guided munitions and Wild Weasel SAM-suppression programs. The political imperative to limit U.S. ground troop casualties contrasted with the willingness to risk aircrews, fueling debates in Washington over the cost-effectiveness and moral implications of sustained bombing.
+
+North Vietnam’s ability to absorb losses and keep air defenses operational under heavy bombardment demonstrated the resilience of Soviet-backed “asymmetric” defense strategies. Each side’s aircraft losses influenced negotiation stances at the Paris Peace Talks (1968–1973), as U.S. willingness to escalate or de-escalate bombing reflected both military assessments and domestic political pressures.
+
+**Epilogue and Post-War Analysis**
+In the war’s final phases, technological advances—such as the use of smart bombs in **Operation Linebacker II**—reduced U.S. losses, though significant air defenses remained. By the war’s end, the cumulative allied and North Vietnamese aircraft losses shaped future airpower doctrine, underlying the shift toward multirole fighters, improved electronic warfare, and robust search-and-rescue support.
+
+The Vietnam War’s aircraft loss statistics continue to inform studies of air warfare attrition rates, force structure planning, and political-military relations. They underscore the interdependence of tactical innovation, alliance politics, and public opinion in shaping strategic decisions in prolonged conflicts.

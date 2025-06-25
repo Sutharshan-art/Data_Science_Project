@@ -1,0 +1,50 @@
+Politicians and pundits frequently refer to the ability of the president of the United States to "create jobs" in the U.S. during his term in office.
+The numbers are most often seen during the election season or in regard to a president's economic legacy.  The numbers typically used and most frequently cited by economists are total nonfarm payroll employment numbers as collected by the Bureau of Labor Statistics on a monthly and annual basis.  The BLS also provides numbers for private-sector non-farm employment and other subsets of the aggregate.
+Among the presidents from Jimmy Carter to Donald Trump, Bill Clinton created the most jobs at 18.6 million, while Ronald Reagan had the largest cumulative percentage increase in jobs at 15.6%. This computation treats the base month as the December before the month of inauguration and last month as December of the final full year in office. Using the month after inauguration as the base month as shown in the accompanying diagram, the top four presidents in terms of cumulative job creation percentage are Clinton (D), Reagan (R), Carter (D), and Obama (D).
+
+
+== Methodology ==
+The jobs numbers are reported as part of the "Monthly Employment Situation Report" from the Bureau of Labor Statistics. The widely publicized "job creation" number is a net figure, computed as jobs created less jobs lost during the survey month. Estimates are generated via the "Establishment Survey", also known as the payroll survey or Current Employment Statistics (CES) program.  The Establishment Survey as of May 2020 included "approximately 145,000 businesses and government agencies representing approximately 697,000 worksites." The Establishment Survey publishes jobs, hours, and earnings estimates at varying levels of detail (nation, state, metro area) and for different industries.
+The sample establishments are drawn from private non-farm businesses such as factories, offices, and stores, as well as federal, state, and local government entities. Employees on non-farm payrolls are those who received pay for any part of the reference pay period (which includes the 12th of the month), including persons on paid leave.  Further, BLS explains that: "The CES employment series are estimates of nonfarm wage and salary jobs, not an estimate of employed persons; an individual with two jobs is counted twice by the payroll survey. The CES employment series excludes employees in agriculture, private households, and the self-employed." These monthly job counts are revised (sometimes by 20% or more) within 90 days to reflect additional data, seasonal adjustment models, and annual adjustments resulting from unemployment insurance filings. Figures are seasonally adjusted, which removes from the series the effects of normal variation from recurring events within a year, such as holidays and weather changes, and helps reveal underlying economic trends.
+Journalist Glenn Kessler of The Washington Post explained in 2020 that economists debate which month to use as the base for counting job creation, between either January of the first term (the month of inauguration) or February.  Survey data is typically from around the twelfth of the month, so January numbers are counted before the new president takes office. For that reason, The Washington Post uses the February jobs level as the starting point. For example, for President Obama, the computation takes the 145.815 million jobs of February 2017 and subtracts the 133.312 million jobs of February 2009 to arrive at the 12.503 million figure.  Four of the top five presidents in terms of total jobs added were Democrats. For these 13 presidents beginning with Truman, total job creation was 2.4 times faster under Democrats, 70.5 million for the seven Democratic presidents and 29.1 million for the six Republican presidents. The Democratic presidents were in office for a total of 429 months, with 164,000 jobs per month added on average, while the Republicans were in office for 475 months, with a 61,000 jobs added per month average. The table below summarizes the results for the past seven presidents, with data through January 2021 for President Trump:
+
+
+== Controversy ==
+
+The exact usefulness of these numbers is debated. On the one hand, they include only nonfarm payroll employment, which excludes certain types of jobs, notably the self-employed. However, as a semi-balancing factor, they count one person with two jobs as two employed persons.
+Additionally, for at least the first eight months of a president's term, he inherits a budget proposed and implemented by his predecessor (as well as an overall economy which may be in decline or recovery). The data in columns shown for September (in italic) correlate better with the federal fiscal year starting each October, showing the impact of a given president and resulting federal budget on the job count.
+Moreover, according to the United States Constitution, the United States Congress is responsible for government spending and thus, regardless of presidential advocacy, bears constitutional responsibility for such things as spending and tax policy that have enormous effects upon the economy. Furthermore, it is debatable how much effect any president realistically could have on a system as large, diverse, and complex as the U.S. economy.  Nevertheless, the nonfarm payrolls number is the one most frequently used in the media and by economists, largely because the alternative (household survey numbers) is thought to drastically overestimate employment.
+Another factor to consider is population growth, which provides opportunities for the creation of jobs, rendering these figures less impressive, or in the case of the already subpar, clearly insufficient.
+The Heritage Foundation has pointed to Alan Greenspan's general economic optimism in 2004 as support for household survey numbers over payroll numbers. However, the subsequent downturn, and Greenspan's admission of having been wrong, may have discredited that view.
+According to a Harris Poll, despite persistent reports that inflation is falling and the unemployment rate is nearing a 50-year low, two-thirds of Americans (68%) are unhappy with the economy.
+
+
+== Job creation lists ==
+
+
+=== By four-year presidential term ===
+Numbers listed from 1941 and onward are Bureau of Labor Statistics data of nonfarm jobs (in thousands), and are shown from the year beginning and ending each presidential term. The monthly statistics are quoted from January, as U.S. presidents take office at the end of that month.
+
+**In thousands. Approximate
+
+
+=== By presidency ===
+
+For information on the United States public debt divided by gross domestic product by presidential term, see National debt by U.S. presidential terms
+
+
+== Graphs and data ==
+The Federal Reserve Economic Data (FRED) database contains the total nonfarm employment level. A graph with a simple download of data on jobs by month since the late 1930s is available here:
+
+Federal Reserve Economic Data (FRED) Database-Total Non-Farm Employment (PAYEMS Data Series)
+
+
+== See also ==
+U.S. economic performance under Democratic and Republican presidents
+
+
+== External links and references ==
+
+BLS Employment Situation Archived News Releases
+BLS Employment Situation Explanatory Note
+Jobs Created During Each Presidency Term

@@ -1,0 +1,242 @@
+The Kamov Ka-50 "Black Shark" (Russian: Чёрная акула, romanized: Chyornaya akula, English: kitefin shark), NATO reporting name Hokum A, is a Soviet/Russian single-seat attack helicopter with the distinctive coaxial rotor system of the Kamov design bureau. It was designed in the 1980s and adopted for service in the Russian army in 1995. The Ka-50 is manufactured by the Progress company in Arsenyev. It is used as a heavily armed scout helicopter and has a rescue ejection system, rare for helicopters.
+During the late 1990s, Kamov and Israel Aerospace Industries developed a tandem-seat cockpit version, the Kamov Ka-50-2 "Erdogan" (Russian: Эрдоган, Turkish: Erdoğan), to compete in Turkey's attack helicopter competition. Kamov also designed another two-seat variant, the Kamov Ka-52 "Alligator" (Russian: Аллигатор, NATO reporting name: Hokum B).  The Ka-52's unit cost is US$16 million as of 2023.
+
+
+== Development ==
+The Ka-50 is the production version of the V-80Sh-1 prototype. Production of the attack helicopter was ordered by the Soviet Council of Ministers on 14 December 1987. Development of the helicopter was first reported in the West in 1984, while the first photograph appeared in 1989. During operational testing from 1985 to 1986, the workload on the pilot was found to be similar to that of a fighter-bomber pilot, such that the pilot could perform both flying and navigation duties.
+Like other Kamov helicopters, it features Kamov's characteristic coaxial contra-rotating rotor system, which removes the need for the entire tail rotor assembly and improves the aircraft's aerobatic qualities—it can perform loops, rolls and "the funnel" (circle-strafing), where the aircraft maintains a line-of-sight to the target while flying circles of varying altitude and airspeed around it. The omission of the tail rotor is a qualitative advantage, because the torque-countering tail rotor can use up to 30% of engine power. The Ka-50's entire transmission presents a comparatively small target to ground fire.
+For improved pilot survivability the Ka-50 is fitted with a NPP Zvezda (transl. Star) K-37-800 ejection seat, which is a rare feature for a helicopter. Before the rocket in the ejection seat deploys, the rotor blades are blown away by explosive charges in the rotor disc and the canopy is jettisoned.
+
+Following initial flight testing and system tests, the Council ordered the first batch of helicopters in 1990. The attack helicopter was first described publicly as the "Ka-50" in March 1992 at a symposium in the United Kingdom. The helicopter was unveiled at the Mosaeroshow '92 at Zhukovskiy in August 1992. The following month, the second production example made its foreign debut at the Farnborough Airshow, where it was displayed with an image of a werewolf on its rudder—gaining the popular nickname "Werewolf". The fifth prototype, painted black, played the title role in the movie Чёрная акула (Black Shark), which made the Ka-50 known by its current nickname.
+In November 1993, four production helicopters were flown to the Army Aviation Combat Training Centre at Torzhok to begin field trials. The president of the Russian Federation authorized the fielding of the Ka-50 with the Russian Ground Forces (army) on 28 August 1995. The collapse of the Soviet Union led to a severe drop in defense procurement. This resulted in only a dozen Ka-50s delivered, instead of the planned several hundred to replace the Mil Mi-24.
+The single-seat configuration was considered undesirable by NATO. The first two Ka-50 prototypes had false windows painted on them, which successfully misled the first western reports of the aircraft in the mid-1980s, to the point of some analysts even concluding that its primary mission was as an air superiority aircraft for hunting and killing NATO attack helicopters, an alarming but expected Soviet move by NATO planners following the recent J-CATCH program evaluation.
+The Ka-50 and its modifications have been chosen as the special forces' support helicopter, while the Mil Mi-28 has become the main army's gunship. The production of Ka-50 was recommenced in 2006. In 2009, the Russian Air Force received three units built from incomplete airframes dating from the mid-1990s.
+
+
+=== Ka-50N "Night Shark" and Ka-50Sh ===
+From the time the Ka-50 was ordered in 1987, it was known that the limited night-time capability of the original version would have to be upgraded to meet night attack requirements. Initially, Ka-50N was meant to be fitted with the Merkury Low-Light TV (LLTV) system. Due to lack of funding, the system was late and experienced reliability and capability issues. As a result, focus shifted to forward looking infrared (FLIR) systems. Kamov drafted a design in 1993 that included the Shkval-N sighting system with an infrared sensor. Many variants were tried. On some, the original Shkval was supplemented by a thermal imaging system, while others saw a complete replacement by the Samshit day-and-night system (also used on Ka-52). Some of the imagers included in the trials were manufactured by the French SAGEM and Thomson companies. Kamov was forced to consider foreign analogues as a temporary replacement for domestic imaging systems because of their slow development.
+Trials led to two "final" versions: Ka-50N "Night Shark" (Russian: Ночная акула, "velvet belly lanternshark") and Ka-50Sh (Russian: Шар, romanized: Shar, "ball"; because of the spherical FLIR turret). The first Ka-50Sh, which was the eighth pre-production aircraft, Bort 018, first flew on 4 March 1997. The Kamov company and Black Shark logos were displayed on the endplate fins and the vertical tail. It featured the Samshit-50 system installed within a 640 mm (25 in) diameter sphere under the nose. Shkval system was moved to the nose cone area. Neither of the Ka-50 night-attack versions has entered full production.
+
+
+=== Ka-50-2 "Erdogan" ===
+In 1997, Israel Aerospace Industries (IAI) in cooperation with the Kamov bureau entered the Ka-50-2 Erdoğan in a Turkish design competition for a $4 billion contract for 145 (later changed to 50) combat helicopters.
+The Ka-50-2 is a tandem cockpit variant of the Ka-50. It featured a modern, Israeli-made "glass cockpit" avionics and a turret-mounted folding (for landing clearance) 30 mm cannon instead of the fixed cannon on the Ka-50. It features combat-proven avionics and advanced anti-tank guided missiles for a high level of combat effectiveness. It is equipped with IAI's flexible modular avionics suite, which can be readily tailored to meet the TLF's operational requirements and provides growth potential.
+IAI and Kamov performed flights of the variant with IAI's Core Avionics. These flights demonstrated the helicopter's "glass cockpit" with multifunctional displays and Control and Display Unit (CDU) driven by centralized mission computers. Also tested were its flight navigation and the operation of the Helicopter Multi-Mission Optronic Stabilized Payload (HMOSP) targeting system. The demonstration flights included night mission capability demonstrations using Night Vision Goggles (NVG) and the day/night targeting system.
+Turkey initially selected an improved version of the Bell AH-1 SuperCobra over the Erdogan, Eurocopter Tiger, AH-64 Apache, Denel Rooivalk, and A129 Mangusta. In the end, the contract was awarded to the A129 in 2007.
+
+
+=== Ka-52 "Alligator" ===
+
+In the early 1980s, while comparative tests of the V-80 (Ka-50 prototype) and the Mi-28 were being conducted, the Kamov design team came up with a proposal to develop a dedicated helicopter to conduct battlefield reconnaissance, provide target designation, support and coordinate group attack helicopter operations based on the Ka-60. However, the economic hardships that hit the nation in the late 1980s hampered this new development program. This prompted Kamov's Designer General to choose a modified version of Ka-50 on which to install the reconnaissance and target designation system. The modified "Black Shark" required a second crew member to operate the optotronics/radar reconnaissance suite. Kamov decided to use side-by-side seating arrangement, due to the verified improvements in co-operation between the crew members. This twin-seat version was designated Ka-52.
+
+In comparison to the original Ka-50, the Ka-52 has a new radome with a nose-mounted radar system for targeting giving the Ka-52 a rounder nose profile. A day-and-night TV/thermal sighting system is fitted in a spherical turret under the nose (some examples have an additional mast radar for aerial targets and a second sighting system above the cockpit). The Ka-52 has the side-mounted cannon of the original Ka-50. It features six wing-mounted hardpoints compared to four on the Ka-50. To keep the weight and performance on par with that of the Ka-50, the armor and the capacity of the cannon magazine/feed were reduced. Also some flight parameters deteriorated: rate of climb dropped from 10 to 8 m/s and maximum positive load factor became 3.0 g. Most of the problems were solved by installing the new VK-2500 engine. The Ka-52 is approved for day, night and adverse weather conditions.
+Manufacturing of the first Ka-52 airframe began in mid-1996. Series production was started in autumn 2008. As of September 2010, the 696th Instructor and Research Helicopter Regiment, based at Torzhok (air base), is operating eight helicopters, in varying degrees of capability and/or modification, for research and development. In December 2010, four new, series-production Ka-52s were delivered to the Air Base of the 344th Centre for Combat Training and Aircrew Conversion.
+
+The first phase of the official tests (ГСИ) was completed in December 2008 and after that permission was given for the production of an experimental batch for phase 2 (ГСИ, including fire tests and the search for targets)
+Serial production of the Ka-52 began at the Progress Arsenyev Aviation Company plant in Arsenyev, Primorsky Krai by end of the 2008. After the completion of the state trials, the Ka-52 entered service in May 2011 with first operational units joining the Russian Air Force the same month. Under previous State Defense Procurement Plans, the Russian Armed Forces was to receive 2 experimental and 24 serial Ka-52s by 2012. The second long-term contract signed in 2011 worth 120 billion rubles is to provide the Russian Aerospace Forces with 146 Ka-52 helicopters in total until 2020. In February 2018, the Russian Ministry of Defence expressed an interest to purchase 114 Ka-52s of a new version within the new State Armament Program for 2018–2027.
+
+
+=== Ka-52 "Nile Crocodile" ===
+In 2015, Egypt signed a deal for the purchase of 46 Ka-52 helicopters, with a stated completion year of 2020. Russian Helicopters started producing its first export models in early 2017, the overall production was doubled in order to meet new demands. The first batch of 3 Ka-52 attack helicopters was delivered to Egypt in July 2017, with a second batch of another 3 helicopters being delivered in August. By year-end 2017, Egypt had received 19 Ka-52s, but these early units came with issues related to power, night vision, navigation systems, and other avionics equipment. On 6 December 2018, it was announced at the Egypt Defence Expo (EDEX) that Ka-52s had officially entered service with the Egyptian Air Force.
+Egypt's helicopter is a modified version of the basic Ka-52 Alligator that serves in the Russian Aerospace Forces. Unlike the basic model, the Egyptian Ka-52 utilizes anti-corrosion materials and has a reinforced fuselage structure. It received new landing gear and wheels, designed for the increased takeoff weight of the helicopter. The Egyptian model features updated avionics and a new cooling system for operating in hot climate. Dmitry Rogozin, Deputy Prime Minister of Russia on defense and space industry, proposed to name it the "Nile Crocodile".
+The helicopter is equipped with the new OES-52 electro-optical observation and laser targeting system, replacing the standard GOES-451 mounted under the nose. The new optronic system began development in 2011 as a collaboration between Kamov and Sagem, and is based on the French company's STRIX sighting System. The OES-52 provides greater range of target detection and recognition.
+The helicopter features the Arbalet-52 dual-band coherent pulse radar, which has an Earth mapping range of 32 km and a detection range of 25 km for ground targets and 15 km for aerial targets.
+The Nile Crocodiles use President-S airborne defense systems for protection against guided missiles. The system includes both radar and laser warning receivers, MAW sensors, chaff/flare dispensers, in addition to ECM and DIRCM jammers. Egyptian Ka-52s feature two new DIRCM sets installed on either side of the fuselage, which are different from the standard L370-5 sets. Moreover, the laser-warning system present on the Russian variants of the Ka-52 has been removed, and a L-150 Pastel radar warning receiver has been installed instead.
+Egypt plans to arm its Ka-52s with Russian anti-tank guided missiles. The Air Force has chosen two types of missiles; namely the laser-guided Vikhr and the radar-guided Ataka beam-riding missiles.
+
+
+=== Ka-52K "Katran" ===
+
+The Mistral-class amphibious assault ships, ordered by the Russian Defense Ministry, were to contain rotary-wing assets, formed into aviation groups. Each of these groups was planned to include eight attack and eight assault/transport helicopters. The Ka-52K "Katran" (Russian: Катран, 'mud shark'), a navalised derivative of the Ka-52, has been selected as the new ship-borne attack type for the Russian Naval Aviation. Its features include folding rotor blades, folding wings, and reinforced landing gear. Since its wings are shorter than those of the land-based variants, the Ka-52K only has four weapons pylons, instead of six on the land-based Ka-52. There are plans to install a new radar in the Ka-52K, with longer range compared to the Ka-52's radar. The Ka-52K will also be able to use Kh-35 and Kh-38 missiles. However, they haven't yet been integrated in the helicopter's mission suite. Russian Naval Aviation will need at least 40 Ka-52Ks, the first of which was tentatively slated to enter squadron service by early 2015, coinciding with the delivery of the first carrier.
+However, following the Russian annexation of Crimea the sale of the Mistrals was cancelled and they have since been sold to Egypt. Later, Egypt bought 46 Ka-52s, with deliveries lasting from 2017 to 2019. These helicopters have been deployed on the Mistrals originally built for Russia; however, Egyptian Ka-52s are regular land-based variants, not Ka-52Ks.
+Still, the first of four Ka-52Ks ordered for the Russian Navy flew on 7 March 2015; the Navy also had an option for a further 28 helicopters. As of 2017, 4 pre-series Ka-52Ks were operated and used for testing by the Russian Navy. After a period of uncertainty, the Ka-52K's future with the Russian Navy now appears clearer. In July 2020, the keel was laid for two new Project 23900 amphibious assault ships in the Zalyv Shipbuilding yard. Each ship will be able to carry up to 18 helicopters, including Ka-52Ks. The Ka-52K has passed all tests and was ready for serial production as of September 2020.
+According to the SCMP, China is considering the purchase of 36 Ka-52Ks to be used aboard the Type 075 helicopter carrier, which would fulfil the role of a heavy attack helicopter. These helicopters are necessary to equip the carrier with powerful attack weapons, which it currently lacks.
+
+
+=== Ka-52M ===
+The new version announced by the Russian Ministry of Defence in 2018 eventually crystalized into the Ka-52M; 114 helicopters of this new version are to be acquired. Additionally, older Ka-52s are to be upgraded to Ka-52M standard. The contract for the first 30 Ka-52Ms was signed in August 2021. A new contract was signed in August 2022. Upgrades embodied in the Ka-52M include a modernized GOES-451M electro-optical targeting turret with an increased range, stronger undercarriage wheels, and improved cockpit ergonomics, with better adaptation to the use of night-vision goggles. The LMUR missile is added to the helicopter's armament options. Several new radar types are being considered for the Ka-52M. A new self-protection system will also be fitted to the Ka-52M, replacing the current L370-5 Vitebsk. Lastly, the Ka-52M is adapted to work within a new battlefield command and control system. The Russian military received its first 10 modified Ka-52M helicopters on 9 January 2023. The state defense order for the helicopters was doubled in 2023.
+
+
+== Design ==
+
+The Ka-50 and its two-seat version Ka-52 are high-performance combat helicopters with day and night capability, high survivability and fire power, to defeat air targets and heavily armoured tanks armed with air defence weapons. It was designed to be small, fast and agile to improve survivability and lethality.
+
+
+=== Manoeuvering ===
+The hovering ceiling is 4,000 m and vertical rate of climb 10 m/s at an altitude of 2,500 m. Having a coaxial rotor with blades of polymer results in low inertia both relative to vertical and lateral axes, at 50%–75% as compared to a single rotor helicopter with tail rotor. No tail rotor also means it can perform flat turns at all speeds. A maximum vertical load of 3.5 g combined with low inertia makes the Ka-50 highly agile.
+
+
+=== Navigation systems ===
+Flight systems include an inertial navigation system (INS), autopilot and head-up display (HUD). Sensors include forward-looking infrared (FLIR) and terrain-following radar.
+The Kamov Ka-50 is also fitted with an electronic radio and sighting-piloting-navigating system allowing flights at day and night in VFR and IFR weather conditions. The novelty of this avionics is based on the system of precise target designation with digital coded communication system, which ensures the exchange of information (precise enemy coordinates) between helicopters flying far apart from each other as well as with ground command posts. The Ka-52 is also equipped with a "Phazotron" cockpit radio-locator, allowing flights in adverse meteorological conditions and at night. The necessary information acquired by this radio-locator is transferred to the cockpit's multi-functional display screen. For conducting a fight, both pilots are equipped with range-finders built-in their helmets and they can use night vision eyepieces for night flights.
+
+
+=== Protection and survivability ===
+For its own protection, Ka-50 is fitted with a radar warning receiver, electronic warfare system and chaff and flare dispensers. Aerodynamic cases at wings' ends each contain two dispensers, which in turn have 32 x 26 mm countermeasures each. The whole system works on principle of evaluated response based on infrared or electronic impulse irradiation. Extensive all-round armour in the cockpit protects the pilot against 12.7 mm armour-piercing bullets and 23 mm projectile fragments. The rotor blades are rated to withstand several hits of ground-based automatic weapons.
+Other survivability features include armour protection for vital aircraft systems, and crash-absorbing landing gear and seats. Also, not having a tail rotor can improve survivability, since the tail boom isn't load-bearing; during testing, a Ka-50 lost its tail, but still managed to return to base without a problem.
+It is the world's first operational helicopter with a rescue ejection system allowing the pilot to escape at all altitudes and speeds. The rotor blades detach using explosive bolts prior to ejection to prevent damage to the crew. The K-37-800 rocket-assisted ejection system is manufactured by NPP Zvezda.
+
+
+=== Armament ===
+
+The aircraft has one Shipunov 2A42 autocannon with selective fire, and a dual-feed, giving it a cyclic rate of fire between 200 and 800 rounds per minute. It is mounted near centre of gravity for accuracy, and carries 460 high-fragmentation, explosive incendiary, or armour-piercing rounds. The type of ammunition is selected by the pilot during flight. The integrated 30 mm cannon is semi-rigidly fixed on the helicopter's side, movable only slightly in elevation and azimuth. Semi-rigid mounting improves the cannon's accuracy, giving the 30 mm a longer practical range and better hit ratio at medium ranges than with a free-turning turret mount.
+The fire control system automatically shares all target information in real time, allowing one helicopter to engage a target spotted by another aircraft, and the system can also input target information from ground-based forward scouts with personnel-carried target designation gear.
+Weapons can be carried on four external hardpoints under the stub wings, plus two on the wingtips, a total of more than 2,000 kg (depending on the mix). The pylons can be tilted up to 10 degrees downward. Fuel tanks may be mounted on a suspension point, whenever necessary.
+Anti-tank armament comprises twelve Vikhr laser-guided anti-tank missiles (transl. Vortex or whirlwind), with a maximum range of some 8 km. The laser guidance is reported to be virtually jam-proof and the system features automatic guidance to target, enabling evasive action immediately after missile launch, alternatively it can also use Ataka laser-guided anti-tank missiles. Before firing laser-guided missiles it often must hover a few hundred feet off the ground to direct a laser at a target, leaving itself briefly exposed.
+Ka-50/52 can also carry several rocket pods, including the S-13 and S-8 rockets. The "dumb" rockets could be upgraded to laser guided with the proposed Ugroza system.
+
+
+== Operational history ==
+
+
+=== Second Chechen War ===
+The Ka-50 took part in the Russian Army's operations against separatists in the Chechen Republic during the Second Chechen War. In December 2000, a pair of production Ka-50s arrived in the area. With the Ka-50s was a Ka-29 to provide reconnaissance and target designation. On 6 January 2001, the Ka-50 used live weapons against a real enemy for the first time. On 9 January, at the entry into a mountain gorge in the area of a settlement named Komsomolskoye, a single Ka-50 accompanied by an Mi-24 used S-8 unguided rockets to destroy a warehouse full of ammunition belonging to Chechen insurgents. On 6 February, in the forest-covered mountain area to the south of the village of Tsentoroj, a strike group composed of two Ka-50s and the sole Ka-29 discovered and, from a range of 3 km, destroyed a fortified camp of insurgents using two "9K121 Vikhr" guided missiles. On 14 February, a similar strike group carried out a "hunting" mission in the area of Oak-Yurt and Hatun. In difficult conditions, pilots found and destroyed eight targets. These missions tested the type's airframe, as well as its on-board systems and armament. Its successful performance in difficult, mountainous terrain confirmed the usefulness of the many advanced features of the Ka-50's design, and its power and maneuverability.
+
+
+=== Syrian Civil War ===
+Ka-52 helicopters were spotted being deployed in support of the Russian military intervention in the Syrian Civil War in 2015, various sources stating they were involved in defense of the Russian base in Latakia, providing escort for search and rescue helicopters, and supporting Russian special forces.
+On 5 May 2018, a Ka-52 crashed near Mayadin due to a technical failure, according to some sources.
+The Ka-52 was briefly used in Syria during the Fall of the Assad regime in December 2024.
+
+
+=== Russian invasion of Ukraine ===
+
+On 24 February 2022, during the initial stages of the Russian invasion of Ukraine, at least one Russian Ka-52 helicopter was damaged but was able to land on its own. On 2 March, a Russian Ka-52 was hit by a surface-to-air missile and crash landed. On 12 March, Ukrainian forces reported that Ka-52 tail number RF-13409 had been shot down in Novomykolaivka near Kherson. Ukraine officials claimed on 16 March 2022 that Ka-52 number RF-13411 was shot down at an undisclosed location in Ukraine, providing footage of the airframe wreckage. Footage appeared on social media on 5 April 2022 that appeared to show a hovering Ka-52 shot down by a Ukrainian Stugna-P anti-tank guided missile. On 15 April, Ukrainian forces claimed to have shot down another Ka-52 and published footage of the wreckage; the crew were reported to have died. On 1 May footage appeared of another Ka-52 shot down using a Stugna-P anti-tank guided missile. On 4 June, Ukrainian forces of the 128th Mountain Brigade reported the downing of a Russian Ka-52 in the north. According to Ukrainian officials, the helicopter was shot down by MANPADS. On 27 June, another helicopter was hit by a British-made Martlet MANPADS, forcing it to land. On 15 August, Ukrainian forces damaged a Russian Ka-52 helicopter flying in Donetsk Oblast.
+Reportedly, a few Ka-52s have suffered from wing vibration under heavy-load attack missions. This was observed months after the invasion. It has been suggested that this may be due to causes such as fatigue, inadequate design, lack of maintenance, and poor management. Ukrainian military intelligence claimed that the Ka-52 can be "disabled with a 7.62mm machine gun" despite a claimed ability to withstand 12.7mm rounds.
+Ka-52s have been heavily used by Russian forces to defend against the 2023 Ukrainian counteroffensive. They have been successful, due in part to a shortage of Ukrainian short-range air defence, or SHORAD, weapons. Due to the unique design of the coaxial main rotors, the helicopter can withstand the destruction of the tail. A video released on 19 June 2023 shows a Ka-52 losing its tail. The UK MOD has noted the movement of additional Ka-52s to an airfield near Berdiansk, "In the constant contest between aviation measures and counter-measures, it is likely that Russia has gained a temporary advantage in southern Ukraine, especially with attack helicopters employing longer-range missiles against ground targets".
+As of late July 2023, the UK MoD claimed that Russia has lost 40 Ka-52s since the start of the Russian invasion. At the same time the UK MoD said on 27 July 2023: "One of the single most influential Russian weapon systems in the sector is the Ka-52 HOKUM attack helicopter". With the LMUR missile, the Ka-52 has an attack range of 15 km, putting it beyond the range of Ukrainian air defences.
+On 7 August 2023, a Russian Ka-52 was reported shot down over Robotyne, making it the 40th lost during the current invasion according to Oryx. Oryx only counts losses confirmed through open sources.
+On 17 August 2023, Ukrainian military claimed to have shot down two Ka-52s in one day. One was downed near Robotyne with a MANPAD by the 47th Mechanized Brigade, a second was claimed by the Ukrainian Air Force near Bakhmut. Ukraine has reported that the missile system used to shoot down a Ka-52 near Robotyne was the RBS-70. While a Ka-52 has countermeasures for infra-red and laser guided missiles, it appears to lack radar jamming. It has to rely flying with helicopters like the Mi-28s that have radar jamming technology. Despite sanctions Russia has continued to manufacture Ka-52s.
+Additionally five Ka-52s have been destroyed by Ukrainian tactical missiles on 18 October on the grounds of Berdiansk airport, as reported by Oryx (via satellite imaging). A Ka-52 was shot down during the Wagner Group rebellion. Another Ka-52 was able to decoy a missile fired from a Wagner operated 9K35 Strela-10 by use of flares.
+On 19 July 2024, a Ka-52 was purportedly shot down by a BM-27 Uragan rocket according to Russian telegram source, both crew were killed, but the location and date of the downing have not been released. This followed a similar event where a rocket narrowly missed an Ka-52 per cockpit footage.
+On 7 August 2024 during the Ukrainian incursion into Kursk, a Ka-52 was destroyed along with the two-man crew. The Ukrainians are concerned about the ability of the aircraft to carry 9K121 Vikhr air-to-surface missiles, as they are able to penetrate tank armour. The Ka-52 "can carry up to 12 units, allowing it to attack targets from 5 to 11 kilometres."
+Ukrainian forces have shot down a Ka-52 attack helicopter using a Swedish-made RBS-70 man-portable anti-air missile in the Kursk region. As of 7 September 2024, 61 Ka-52s have been destroyed during the conflict.
+On 23 March 2025, in an operation carried out by the Ukrainian special operations forces, two KA-52s along with two Mi-8s were destroyed by HIMARS at a forward deployment point in Ivnyansky Raion, Belgorod Oblast. 
+Russia downs several Ukrainian kamikaze drones with KA-52's 30mm cannon and Igla-V missiles.[2][3][4]
+Oryx, a Dutch open source website, visually confirmed 64 Ka-52s were destroyed or damaged as of 24 March 2025 (of which, 51 destroyed and 13 damaged).
+
+
+=== Other ===
+It has participated in a number of exercises, including "Boundary 2004" at the Edelweiss training center in Kyrgyzstan during August 2004. The "Shark" demonstrated its advantages by operating at a high altitude and an air temperature of more than 30 °C. A Ka-50 provided cover for the landing of troops and then worked on the ground targets using its cannons and rockets.
+India issued a request for proposal for 22 attack helicopters for the Indian Air Force in May 2008. The Ka-50, the Mil Mi-28, and the Eurocopter Tiger were the front-runners for this order as of October 2008. The tender though was eventually cancelled and later India announced a new tender, with revised conditions. Russia again offered the Mi-28N and Ka-52.
+The Russian Air Force has accepted 12 Ka-52 helicopters for operational service in 2011, and the total number of completed Ka-52s was already 65 units. 20 Ka-52 aircraft were located at the 575th Airbase Chernigovsky District, Eastern Military District. 16 were at 393rd "Sevastopol" Airbase Korenovsk, Southern Military District, 12 were transferred to newly formed 15th Army Aviation Brigade of the Western Military District at the airport of Ostrov, 8 – Torzhok 344th Centre for Combat Training and Flight Personnel Training. Five test aircraft are owned by JSC "Kamov"; two machines were lost in accidents. The Ka-52 was displayed to the international community at the 2013 Paris Air Show.
+In 2013, the AAC "Progress" has completed the contract with the Ministry of Defense of the Russian Federation, signed in 2009, and would begin the next long-term contract for supplying 143 Ka-52, worth about 120 billion rubles (≈US$3.5 bln).
+In June 2015, Sergei Kornev, the head of Rosoboronexport's delegation, said that Russia has signed its first contracts on the export of Ka-52 Alligator attack helicopters. "We have the Ka-52 in its export model and we have contracts for it, and it's already being spun because it has a good, firm future" he said at the airshow outside Paris. Kornev did not specify the volume of contracts or with whom they were signed.
+The Algerian Air Force is negotiating a sale for 12 Ka-52Es as of 2022. In September 2015, the Ka-52 was presented at Aïn Oussera Air Base.
+North Macedonia reportedly bought two Ka-52s (or Ka-50s) from Russia in June 2001 for its North Macedonia Air Brigade. However, the Ministry of Defense of Macedonia denied this report.
+
+
+== Variants ==
+
+Kamov V-80
+Prototype version for the Ka-50.
+Kamov Ka-50
+Single-seat version
+Kamov Ka-50Sh
+Ka-50 with improved night-attack capability
+Kamov Ka-50-2 "Erdogan"
+Version marketed to Turkey, with a two-seat tandem cockpit.
+Kamov Ka-52 "Alligator"
+Highly upgraded version with a two-seat side-by-side cockpit for the Russian Aerospace Forces
+Kamov Ka-52E
+Export version, sold to Egypt.
+Kamov Ka-52K "Katran"
+Naval version with folding blades and reinforced landing gear, wing shortened for basing on ships and planned capability of using Kh-35 and Kh-38 missiles.
+Kamov Ka-52M
+Upgraded Ka-52 with a modernized targeting turret with an increased range, stronger undercarriage wheels, and improved cockpit ergonomics, nicknamed "Super Alligator".
+
+
+== Operators ==
+ Egypt
+Egyptian Air Force – 46 Ka-52s as of 2022.
+549 Air Wing
+39 Squadron (Wadi al Jandali)
+40 Squadron (Wadi al Jandali)
+41 Squadron (Wadi al Jandali)
+ Russia
+Russian Aerospace Forces – 133 Ka-52 helicopters as of 2022. At least 61 Ka-52s have been destroyed or heavily damaged since the Russian invasion of Ukraine in 2022, as of January 2025.
+39th Guards Independent Helicopter Regiment (Dzhankoi)
+55th Independent Helicopter Regiment (Korenovsk)
+319th Independent Helicopter Regiment (Chernigovka)
+440th Independent Helicopter Regiment (Vyazma/Dvoevka)
+15th Army Aviation Brigade (Ostrov)
+18th Army Aviation Brigade (Khabarovsk/Bolshoy)
+Special Purpose Aviation Brigade Syria
+Helicopter Squadron (Khmeimim Air Base)
+Russian Naval Aviation
+
+
+== Specifications (Ka-50) ==
+
+Data from Manufacturer sources Donald, naval-technology.com, Federation of American ScientistsGeneral characteristics
+Crew: 1
+Length: 16 m (52 ft 6 in)
+Height: 4.93 m (16 ft 2 in)
+Empty weight: 7,700 kg (16,976 lb)
+Gross weight: 9,800 kg (21,605 lb)
+Max takeoff weight: 10,800 kg (23,810 lb)
+Powerplant: 2 × Klimov VK-2500 turboshaft engines, 1,800 kW (2,400 shp)  each
+Main rotor diameter: 2 × 14.5 m (47 ft 7 in)
+Main rotor area: 330.3 m2 (3,555 sq ft) contra-rotating 3-bladed main rotors
+Performance
+
+Maximum speed: 315 km/h (196 mph, 170 kn)
+Cruise speed: 270 km/h (170 mph, 150 kn)
+Never exceed speed: 350 km/h (220 mph, 190 kn)
+Range: 545 km (339 mi, 294 nmi)
+Combat range: 470 km (290 mi, 250 nmi)
+Ferry range: 1,160 km (720 mi, 630 nmi)
+Service ceiling: 5,500 m (18,000 ft)
+Rate of climb: 12 m/s (2,400 ft/min)
+Disk loading: 30 kg/m2 (6.1 lb/sq ft)
+Power/mass: 0.33 kW/kg (0.20 hp/lb)
+Armament
+
+Guns: 1 × mobile semi-rigid 30 mm Shipunov 2A42 cannon (460 rounds total, dual feeding AP or HE-Frag)
+Hardpoints: 6 × under-wing hardpoints, plus 2 on wingtips for countermeasures or air-to-air missiles with a capacity of 2,000 kg, with provisions to carry combinations of:
+Rockets: 80 × 80 mm S-8 rockets and 20 × 122 mm S-13 rocket, 4 × Igla air-to-air missiles
+Missiles: 2 × APU-6 Missile racks, able to accommodate a total of 12 × 9K121 Vikhr anti-tank missiles, 2 × LMUR
+Bombs: 4 × 250 kg (550 lb) bombs or 2 × 500 kg (1,100 lb) bombs,
+Other: 23 mm UPK-23-250 gun pods (240 rounds each), 500 L (130 US gal) external fuel tanks.
+Two pods on the wingtips with flare and chaff countermeasure dispensers, 4 UV-26 dispensers each (total 32 chaff/flare cartridges in each pod)
+
+
+== See also ==
+
+Related development
+
+Kamov Ka-25
+Kamov Ka-27
+Kamov V-80
+Aircraft of comparable role, configuration, and era
+
+Agusta A129 Mangusta
+AgustaWestland Apache
+Bell AH-1 SuperCobra
+Bell AH-1Z Viper
+Boeing AH-64 Apache
+CAIC Z-10
+Denel Rooivalk
+Eurocopter Tiger
+HAL Prachand
+Harbin WZ-19
+IAIO Toufan
+Mil Mi-28
+Panha 2091
+TAI/AgustaWestland T129 ATAK
+
+
+== References ==
+
+
+=== Notes ===
+
+
+=== Bibliography ===
+
+
+== External links ==
+
+Kamov Ka-50, and Kamov Ka-52 official pages
+Helicopter site Archived 23 March 2014 at the Wayback Machine
+Ka-52 Rosoboronexport Archived 29 January 2020 at the Wayback Machine

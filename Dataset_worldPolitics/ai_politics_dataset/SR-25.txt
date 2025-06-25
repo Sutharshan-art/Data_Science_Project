@@ -1,0 +1,57 @@
+**SR-25**
+
+The **SR-25** (Stoner Rifle-25) is a semi-automatic precision rifle developed in the United States in the early 1990s by **Eugene Stoner**, a prominent American firearms designer, in collaboration with **Knight's Armament Company (KAC)**. Designed to provide long-range accuracy with rapid follow-up shots, the SR-25 has been widely used by military and law enforcement units, particularly within the U.S. and among NATO allies. It played a significant role in the modernization of military sniper systems and is often considered a key component of the U.S. military’s shift toward semi-automatic sniper rifles.
+
+Originally conceived as a merger between the ergonomics of the AR-15/M16 platform and the ballistic performance of the 7.62×51mm NATO cartridge, the SR-25 was developed with both battlefield and law enforcement applications in mind. Its deployment reflected broader shifts in U.S. and allied military doctrine during the post-Cold War and Global War on Terror eras.
+
+---
+
+### Design and Development
+
+The SR-25 was developed by **Eugene Stoner**, best known for his work on the **AR-10** and **AR-15** rifle platforms, in collaboration with Knight's Armament Company in **Vero Beach, Florida**. The rifle represents a modernized version of the AR-10, re-engineered for contemporary military use. The design combines the modularity and familiarity of the AR-15 platform with the increased range and power of the 7.62mm NATO round.
+
+The SR-25 utilizes a **direct impingement gas system**, free-floating match-grade barrel, and standard AR-style controls. It was designed with an emphasis on **accuracy, reliability, and modularity**, using high-quality components to ensure consistent performance at ranges exceeding 800 meters. Initially equipped with a 20-inch barrel, newer variants offered shorter barrel lengths for increased maneuverability.
+
+---
+
+### Military Adoption and Use
+
+The SR-25 gained early interest from the **U.S. military**, particularly special operations forces, as a replacement or supplement to bolt-action sniper systems like the **M24 Sniper Weapon System**. Its semi-automatic capability allowed trained marksmen to deliver accurate follow-up shots more quickly than with bolt-action rifles.
+
+In the late 1990s, the SR-25 was adopted by the U.S. Navy SEALs under the designation **Mk 11 Mod 0**. The Mk 11 featured enhanced optics, suppressors, and bipods, making it suitable for precision engagement in a variety of combat scenarios, including urban environments and counterinsurgency operations.
+
+Following its success with special forces, the U.S. Army and Marine Corps explored further iterations of the SR-25 platform. Eventually, a modernized variant known as the **M110 Semi-Automatic Sniper System (SASS)** was adopted by the U.S. Army in the mid-2000s, replacing many of the older M24 systems. The M110 maintained the core SR-25 design but featured improvements in ergonomics, suppressor integration, and optics compatibility.
+
+---
+
+### Global Deployment and NATO Alignment
+
+The SR-25 and its derivatives have been adopted by multiple NATO and allied countries. Its compatibility with **NATO-standard ammunition**, optics, and accessories facilitated its integration into various national defense arsenals.
+
+In addition to the U.S., military and law enforcement units in countries such as the **United Kingdom**, **Australia**, **Canada**, and **Israel** have fielded SR-25 rifles or derivatives for designated marksman roles. Its precision and adaptability made it particularly effective in asymmetrical warfare environments, such as Iraq and Afghanistan, where long-range engagement in complex terrain was common.
+
+The rifle’s widespread use also reflects the **NATO emphasis on interoperability and modularity** in small arms procurement since the 1990s. By adopting platforms with common parts and calibers, NATO members have aimed to simplify logistics and ensure battlefield cohesion.
+
+---
+
+### Political and Strategic Context
+
+The SR-25's rise to prominence occurred within a broader political and strategic transformation of Western militaries after the Cold War. The dissolution of the Soviet Union shifted the focus from large-scale, conventional engagements to **flexible, rapid-response forces** capable of handling diverse missions, from peacekeeping to counterterrorism.
+
+Semi-automatic sniper systems like the SR-25 became ideal for these new operational paradigms. They offered increased firepower and speed without sacrificing precision, supporting both **designated marksman** roles within infantry units and traditional sniper missions.
+
+During the **Global War on Terror** (post-2001), the U.S. and its allies faced insurgencies in urban and mountainous environments, where long-range, precision fire was often necessary. The SR-25, in its various configurations, proved particularly valuable in providing overwatch, counter-sniper capabilities, and engaging high-value targets at extended distances.
+
+---
+
+### Legacy and Influence
+
+The SR-25 is widely regarded as one of the most influential precision rifles of its generation. It helped catalyze a broader shift toward **semi-automatic sniper rifles** in modern militaries and directly influenced the development of several successor platforms, including the **M110A1**, based on the **Heckler & Koch G28**, which began replacing the M110 SASS in the U.S. Army in the 2010s.
+
+The modularity and effectiveness of the SR-25 platform continue to inform sniper rifle design and procurement strategies worldwide. While newer systems have emerged, the SR-25 remains in service with various special forces and law enforcement units, underscoring its enduring value in the complex security environment of the 21st century.
+
+---
+
+### Conclusion
+
+The SR-25 occupies a critical place in the evolution of modern precision rifles. Blending battlefield reliability with long-range accuracy, it bridged the gap between traditional sniper systems and the needs of a new era of conflict. Politically and strategically, it represents a move toward more flexible, responsive, and integrated small arms doctrine within the U.S. and its allies.

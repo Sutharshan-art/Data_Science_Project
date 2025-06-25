@@ -1,0 +1,40 @@
+Iron Curtain was an active protection system (APS) created in 2005 and designed by Artis, an American technology development and manufacturing firm. The system deactivated threats, such as rocket-propelled grenades (RPG) and other shoulder-launched missiles.
+The company currently markets its latest system known as "Sentinel," a third-generation, software-defined, modular, close-in APS which Artis claims offers full top-attack protection, extensive multishot protection, protection against fuzed and kinetic energy threats, minimal collateral damage, and expansible to defeat future threats, usually with just a software upgrade.
+The system had been tested as part of an accelerated acquisition effort by the U.S. Army to characterize and field active protection systems as quickly as possible. It was evaluated on the Stryker Infantry Carrier Vehicle, with two systems undergoing tests by the U.S. Army: one at Aberdeen Proving Ground in Maryland and the other at Redstone Arsenal in Alabama.
+
+
+== Technology ==
+Iron Curtain used radar to detect any incoming projectiles. As projectiles came into close range, the optical sensor tracked it within 1 cm (0.39 in) of accuracy to select an aim point and determine which ballistic countermeasure to fire. The countermeasure deflagrated the RPG warhead without detonating it, leaving the dudded round to bounce off the vehicle's side.
+Because of its shelf-like design, the system was able to be modified to protect almost any surface, from the sides of the vehicle to all-around protection, including a turret. Artis claimed that the Iron Curtain could be enhanced to protect against “more challenging threats” such as the RPG-29 and RPG-32 ‘Hashim’ multipurpose anti-tank grenade launchers, which utilize tandem warheads for penetrating tanks with explosive reactive armor. Iron Curtain was also able to defend against ATGMs (Anti-Tank Guided Missiles).  
+
+
+=== Safety ===
+The system, which began in 2005 as a DARPA program, was capable of defeating threats fired from an extremely close range. It had undergone significant safety testing, including temperature and shock testing, and its software architecture had been approved by the U.S. military's Joint Services Weapons Safety Review Process. The countermeasure fired straight down or up, neutralizing the incoming threat within inches of the vehicle and thereby separating the system from many others which intercept threats several meters out, resulting in minimal risk of collateral damage to dismounted troops or civilians.  
+
+
+=== Radar ===
+Iron Curtain was designed to be highly modular, and the system's radar did not need to track the threat; hence, a relatively inexpensive radar sufficed. Over time, several radars were integrated onto Iron Curtain.[1] 
+
+
+== Army testing and characterization ==
+In April 2013, the company had announced it achieved a perfect score during rigorous government tests. “We proved not only that Iron Curtain defeats threats and saves lives, but the risk from collateral damage is minimal, especially when compared with the alternative," said the company's CEO, Keith Brendley. Brendley affirmed that the system is ready to be deployed onto battlefields.
+In 2016, the U.S. Army began an expedited effort to install and characterize several APS's, including Iron Curtain on the Stryker fighting vehicle, in preparation for fielding decisions. Then in August 2018 the Army decided not to continue qualifying Iron Curtain onto the Stryker, saying that while the system "generally worked in concept" and was "generally able to hit its targets," it was still not mature enough. Since that time, no system has been designated for the Stryker.
+
+
+== Vehicles integrated ==
+The system had been integrated onto four ground vehicles, including tracked, turreted, and wheeled vehicles. In 2016, Iron Curtain was selected for integration onto the U.S. Army's Stryker.
+Previously, Iron Curtain was integrated onto the Army's Ground Combat Vehicle built by BAE Systems; the MATV built by Oshkosh Defense; and the Humvee built by AM General. 
+In addition, General Dynamics Land Systems designed the system for integration onto its LAV III.
+
+
+== See also ==
+Active protection system
+
+
+== References ==
+
+
+== External links ==
+Artis Iron Curtain website
+DARPA video of Iron Curtain demonstration, shooting down missile
+National Geographic TV report on Iron Curtain

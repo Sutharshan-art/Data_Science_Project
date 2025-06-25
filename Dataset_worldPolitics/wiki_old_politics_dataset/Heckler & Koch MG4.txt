@@ -1,0 +1,100 @@
+The Heckler & Koch MG4 (also marketed as the HK123 and was previously known as the MG43 prior to its adoption by the Bundeswehr) is a belt-fed 5.56×45mm NATO light machine gun designed and developed by German firearm manufacturer Heckler & Koch. It was developed in the late 1990s and first seen publicly in September 2001. 
+The MG4 has been selected to replace the Rheinmetall MG3 7.62×51mm NATO general-purpose machine gun in the Bundeswehr at the squad support level; it will complement the MG3 in other roles. It will also be the secondary armament of the new Puma infantry fighting vehicle. Overall, it is designed to be light, provide maximum safety to the user and function reliably under adverse conditions using a wide range of ammunition from different manufacturers, without the need to adjust the gas system. 
+
+
+== Design details ==
+
+The MG4 is an air-cooled, belt-fed gas-operated light machine gun with a positively locked rotary bolt and is somewhat similar in concept to the Belgian Minimi light machine gun. The receiver of the MG4 is made out of stamped sheet metal.
+
+
+=== Operating mechanism ===
+The safety mechanisms on the machine gun includes a manual safety incorporated into the fire mode selector toggle; setting the fire selector lever on the "safe" position blocks the trigger mechanically and locks the bolt in the cocked position. When the bolt is not pulled back completely, accidental firing is prevented by an integral, automatic mechanism that prevents the bolt from traveling forward. In addition, the firing pin cannot reach the cartridge primer until the cartridge has been fully chambered.
+
+
+=== Ammunition ===
+The MG4 is fed from a disintegrating M27 ammunition belt and is carried out in two stages from the top left using an enhanced pawl mechanism. As on the MG 42 family of machine guns, empty M27 belt links are expelled to the right and spent cartridge cases are ejected downwards, although sideways ejection to the right is an option.
+
+
+=== Barrel ===
+The MG4 has a hammer-forged quick-change barrel that can be safely exchanged when hot without the need for protective gloves; the carrying handle serves as the barrel change grip. The barrel assembly weighs 1.80 kg (3.97 lb).
+
+
+=== Sights ===
+The MG4 takes zero shifts between barrel assemblies into account by making the front sight of the assemblies mechanically adjustable. In its standard form, the MG4 is equipped with closed type iron sights with range settings up to 1,000 m (1,094 yd) in 100 m (109 yd) increments. The folding front sight element is mounted on the barrel assembly and is adjustable mechanically for both windage and elevation. The sight line radius is 602 millimeters (23.7 in). Optical or night sights or laser pointers can be mounted on a length of MIL-STD-1913 Picatinny rail located on the receiver feed tray cover. Bundeswehr models are equipped with telescopic sights with 3× magnification.
+
+
+=== Stock ===
+To reduce the overall length of the machine gun for transport, the butt stock can be folded to the left side of the receiver. With the buttstock folded, the MG4 remains fully operable. A field cleaning kit is housed within the stock.
+
+
+=== Bipod and tripod ===
+A folding bipod weighing 0.70 kg (1.54 lb) is provided. Supporting interfaces are integrated into the receiver to allow the MG4 to be mounted on the standard American M122 tripod for increased accuracy and stability.
+
+
+== Variants ==
+
+
+=== MG4 ===
+
+The Heckler & Koch MG4 (HK123) is chambered in 5.56×45mm NATO cartridge, adopted by the Bundeswehr as their standard issue light machine gun.
+
+
+==== MG4 A3 ====
+The MG4 A3 is a German Army modernised variant is under test that introduces Heckler & Koch MG5 elements such as being fitted with the Hensoldt ZO 4×30 Intermediate Range Targeting Optic combined with a red dot as optical day sights with 4× magnification to promote accuracy of fire. Like the MG5 the MG4 A3 uses a RAL 8000 green brown surface finish.
+
+
+==== MG4E (HK123E) ====
+The MG4E (HK123E) is an export variant that has been slightly modified and is comparably lighter. The letter "E" in the designation stands for "Export". It has a different gas assembly that reduces the cyclic rate of fire to 775 (± 50) rounds per minute. In 2007, the Spanish Army adopted this variant as their standard light machine gun. The Spanish Military of Defence ordered 1,800–2,000 of these light machine guns.
+
+
+=== MG4K ===
+The MG4K (HK123K) is a variant of the MG4 with a shorter barrel.
+
+
+==== MG4KE ====
+The MG4KE (HK123KE) is an export variant of the MG4K.
+
+
+=== MG4 A1 ===
+The MG4 A1 (MG4/HK123 vehicle weapon) is a variant configured for use as a vehicle or coaxial machine gun. It lacks a buttstock, rear sight, cartridge case deflector, handguard, and bipod mount. It can be fitted with a remote firing device and safety/fire selector lever. It can also be fitted for dismounted use.
+
+
+=== MG5 ===
+
+The Heckler & Koch MG5 (HK121) is chambered in 7.62×51mm NATO cartridge. It has been adopted by the Bundeswehr as their standard general-purpose machine gun. The MG5 is heavily based on the MG4, however there are only few parts that are interchangeable due to the machine guns having different calibres and their size differences.
+
+
+== Users ==
+
+ Albania: Standard light support weapon of Albanian Land Forces
+ Brazil: Federal Police
+ Chile: Acquired by the Chilean Marine Corps in 2014.
+ Estonia: Used by ESTSOF.
+ Germany: Standard platoon-level support weapon of the German Army, adopted in 2005.
+ Malaysia: Used by PASKAL special operations force tactical of the Royal Malaysian Navy, adopted in 2006.
+ Portugal: Used by Portuguese Army, Portuguese Air Force and National Republican Guard.
+ Saudi Arabia
+ Spain: Ordered 1,800–2,000 MG4E machine guns in 2007 with deliveries expected to continue over the next four years. Standard LMG for the Spanish Army, usually fitted with an ACOG sight.
+ Turkey: Used by the Turkish Air Force personnel.
+ Ukraine
+ Yemen
+
+
+== See also ==
+Daewoo Precision Industries K3  – (South Korea)
+FN Minimi  – (Belgium)
+IWI Negev  – (Israel, Vietnam)
+M250
+RPL-20  – (Russia)
+Ultimax 100  – (Singapore)
+
+
+== References ==
+
+
+== External links ==
+
+Official website
+Modern Firearms – MG4
+Heckler & Koch Product Catalog 2018 Archived 2020-04-14 at the Wayback Machine
+Das Maschinengewehr MG4

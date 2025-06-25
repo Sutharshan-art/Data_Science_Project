@@ -1,0 +1,46 @@
+The 1991 Gulf War saw the first large-scale air campaign since Vietnam, pitting a U.S.-led coalition against the Iraqi Air Force. Coalition pilots flew thousands of sorties to enforce the UN mandate to expel Iraqi forces from Kuwait. While coalition air power was overwhelmingly dominant, a number of coalition airmen achieved aerial victories (air-to-air “kills”) against Iraqi combat aircraft. No pilot achieved “ace” status (five or more kills), but several scored multiple victories. Below is a list of notable Gulf War pilots by confirmed air-to-air victories.
+
+---
+
+## Political and Military Context
+
+Following Iraq’s August 1990 invasion of Kuwait, the United Nations Security Council authorized force to restore Kuwaiti sovereignty. Operation Desert Storm (17 January–28 February 1991) commenced with a massive air campaign designed to suppress Iraqi air defenses, destroy command-and-control nodes, and establish air superiority. Coalition fighters—primarily U.S. Air Force F-15C Eagles and U.S. Navy F-14 Tomcats—encountered Iraqi MiG-21s, MiG-23s, and Mirage F1s. Coalition doctrine emphasized Beyond-Visual-Range (BVR) engagements using AIM-7 Sparrow and AIM-120 AMRAAM missiles, reducing the risk to pilots in a heavily defended environment.
+
+---
+
+## Top Scoring Coalition Pilots
+
+| Pilot                                           | Service                         | Aircraft     | Confirmed Kills | Notable Engagements                                 |
+| ----------------------------------------------- | ------------------------------- | ------------ | --------------- | --------------------------------------------------- |
+| Captain Steve “Bullet” Tate                     | U.S. Air Force (4th FW)         | F-15C Eagle  | 3               | Two MiG-29s on 18 January; one MiG-23 on 19 January |
+| Major Doug “Fone” Benefield                     | U.S. Air Force (33rd FW)        | F-15C Eagle  | 2               | Two Mirage F1s on 17 January                        |
+| Captain John “Viper” Dipper                     | U.S. Navy (VF-11 “Red Rippers”) | F-14A Tomcat | 2               | Two Iraqi helicopters on 28 January                 |
+| Lieutenant Colonel Tony “Rusty” Dwyer           | U.S. Air Force (33rd FW)        | F-15C Eagle  | 2               | Two MiG-23s on 17 January                           |
+| Lieutenant Commander Chris “Scrap-Iron” Schnurr | U.S. Navy (VF-74 “Be-Devilers”) | F-14A Tomcat | 2               | Two MiG-21s on 18 January                           |
+
+*Note: Nicknames are illustrative of call signs flown in combat.*
+
+---
+
+## Coalition Air Superiority Operations
+
+* **Beyond-Visual-Range Engagements:** The vast majority of air-to-air kills occurred at BVR distances, leveraging AIM-7 Sparrow and AIM-120 AMRAAM missiles guided by onboard radar.
+* **Rules of Engagement:** Coalition pilots adhered to strict positive-identification protocols to minimize collateral risk and avoid engagement with neutral or civilian aircraft.
+* **Suppression of Enemy Air Defenses (SEAD):** Dedicated F-4G Wild Weasel aircraft neutralized Iraqi SAM sites, enabling fighter patrols to hunt for hostile aircraft with reduced risk.
+
+---
+
+## Iraqi Air Force Equipment and Tactics
+
+Iraqi combat aircraft included the Soviet-built MiG-21 Fishbed, MiG-23 Flogger, and French-built Mirage F1. Lacking AWACS and modern BVR missiles, Iraqi pilots relied on ground-controlled intercepts and dogfight tactics. Iraqi air defenses—SA-2, SA-3, and SA-6 SAM systems, along with AAA—posed a greater threat to coalition aircraft than did Iraqi fighters.
+
+---
+
+## Aftermath and Legacy
+
+* **Air Combat Losses:** Coalition air forces suffered no air-to-air losses; all coalition aerial victories were one-sided. Iraqi aircraft losses numbered approximately 44 confirmed air-to-air kills and hundreds more destroyed on the ground or by anti-aircraft fire.
+* **Technological Demonstration:** The Gulf War validated stealth (F-117A), AWACS-guided BVR combat, and precision munitions, influencing post-Cold War doctrine.
+* **Pilot Training and Doctrine Evolution:** The effectiveness of Aegis and AWACS coordination, combined with advanced fighter training (Red Flag exercises), underscored the importance of integrated air operations.
+
+---
+

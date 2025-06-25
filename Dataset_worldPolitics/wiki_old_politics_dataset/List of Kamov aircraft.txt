@@ -1,0 +1,94 @@
+This is a list of aircraft produced by Kamov, a Russian aircraft manufacturer.
+
+
+== Designs ==
+
+KaSkr-I Gyrocraft 1929
+25 September 1929, the first Soviet autogyro, designed by Kamov and Skrzhinskii. Based on Cierva models named The Red Engineer.
+KaSkr-II Gyrocraft 1930
+Re-engined KASKR-I with a Gnome-Rhone Titan engine.
+Kamov A-7 1934
+An autogyro primarily used for observation duties.
+Ka-8 Irkutyanin 1947
+single seat helicopter
+Ka-9
+
+Ka-10 1950
+Single-seat observation helicopter. NATO reporting name Hat.
+Ka-11
+small single-seat helicopter
+Ka-12
+multi-purpose nine-seat helicopter
+Ka-14
+light multipurpose helicopter
+Ka-15 1952
+Two-seat utility helicopter. Nato reporting name Hen.
+Ka-18 1955
+A Ka-15 with a large fuselage and a 280 hp Ivchenko AI-14VF engine. Could carry 4 passengers. 200 units built (approximately). NATO reporting name Hog.
+Ka-20 1958
+Twin-engine antisubmarine helicopter prototype. NATO reporting name Harp.
+Ka-22 Vintokryl 1959
+Experimental rotor-winged transport aircraft. NATO reporting name Hoop.
+Ka-25 1961
+Naval helicopter. NATO reporting name Hormone.
+Ka-26 1965
+Light utility helicopter. NATO reporting name Hoodlum.
+Ka-27 1974
+Anti-submarine helicopter. NATO reporting name Helix.
+Ka-28
+export version of Ka-27 Helix
+Ka-29
+assault transport version of the Ka-27 Helix
+Ka-31
+airborne early warning helicopter
+Ka-32
+civilian version of the Ka-27 Helix
+Ka-34
+heavy rotary-wing aircraft
+Ka-35
+heavy jet-powered rotary-wing aircraft
+Ka-37 1993
+An unmanned coaxial helicopter developed with Daewoo of South Korea initially designed for agricultural tasks. Performances are a max weight of 250 kg ( 50 payload ), speed of 110 km/h, and a flight duration about 45 minutes.
+Ka-40 1990s?
+anti-submarine helicopter (Replacement for the Ka-27. In development)
+Ka-50 "Black Shark" 1982
+Single-seat attack helicopter. NATO reporting name Hokum.
+Ka-52 "Alligator" 1997
+two seat attack helicopter and widely used model
+Ka-56
+ultralight helicopter for special forces
+Ka-60 Kasatka 1990s
+Transport/utility helicopter
+Ka-62 1990s
+civilian transport and utility helicopter
+Ka-64 Sky Horse 1990s
+naval transport and utility helicopter
+Ka-90
+High-speed helicopter project.
+Ka-92
+passenger helicopter
+Ka-115 Moskvichka 1990s
+light multi-purpose helicopter
+Ka-118 1980s-1990s
+A NOTAR development - light multirole helicopter
+Ka-126 1980s
+Light utility helicopter. NATO reporting name Hoodlum-B.
+Ka-128
+light utility helicopter (one prototype only)
+Ka-137 1990s
+Unmanned drone/unmanned multipurpose helicopter
+Ka-226 "Sergei" 1990s
+small, twin-engined utility helicopter
+V-50 1960s
+A high-speed assault helicopter project with tandem rotors. Cancelled.
+V-60 1980s
+A light scout and escort helicopter
+V-80 1970s
+A series of design studies for an attack helicopter (culminating in the Ka-50)
+V-100 1980s
+Twin-rotor combat helicopter project
+Rotorfly R-30 2000s
+ultralight coaxial helicopter developed by a different company, but built by Kamov
+
+
+== References ==

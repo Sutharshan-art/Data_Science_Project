@@ -1,0 +1,132 @@
+**List of Equipment of the Vietnam People’s Ground Forces**
+
+The Vietnam People’s Ground Forces (VPGF), the land component of the Vietnam People’s Army, trace their origins to the Việt Minh insurgency (1944–1954) and were formalized during the First Indochina War against France. Throughout the Cold War, the VPGF was equipped primarily with Soviet and Chinese weapons, reflecting Hanoi’s geopolitical alliances. Since economic reforms (Đổi Mới) began in 1986, Vietnam has steadily modernized its ground forces—retaining legacy systems while acquiring new equipment through imports and domestic production.
+
+---
+
+## Small Arms
+
+* **Assault Rifles:**
+
+  * **Type 56 (AK-47 variant):** The standard issue since the 1960s, locally produced under Chinese license.
+  * **AKM (Type 56-2):** Modernized derivative with stamped receivers.
+  * **Vz. 58:** Limited numbers inherited from former Eastern Bloc stocks.
+
+* **Light Machine Guns:**
+
+  * **RPK (Type 56 LMG):** Squad support weapon firing 7.62×39 mm rounds.
+  * **PKM:** General-purpose machine gun in 7.62×54 mm R, used at battalion and regimental level.
+
+* **Sniper and Designated Marksman Rifles:**
+
+  * **SVD Dragunov:** Semi-automatic sniper rifle for company-level precision.
+  * **PSL (Tokarev-based):** Used by some units, primarily for long-range engagements.
+
+* **Submachine Guns and Sidearms:**
+
+  * **MP5:** Special operations forces use limited numbers of 9×19 mm H\&K MP5.
+  * **TT-33 and Makarov PM:** Soviet-era pistols serve as personal weapons for officers and NCOs.
+
+---
+
+## Anti-Armor and Anti-Personnel Weapons
+
+* **Rocket-Propelled Grenades (RPG):**
+
+  * **RPG-7:** Ubiquitous launcher for infantry anti-tank and bunker-busting roles.
+
+* **Recoilless Rifles:**
+
+  * **SPG-9:** 73 mm tripod-mounted weapon against light armor and fortifications.
+  * **Type 65:** Chinese 82 mm variant of the Soviet B-10.
+
+* **Anti-Tank Guided Missiles (ATGMs):**
+
+  * **9M14 Malyutka (AT-3 Sagger):** Early-generation wire-guided system in limited use.
+  * **9K111 Fagot (AT-4 Spigot):** Introduced in the 1980s for mechanized units.
+
+* **Mortars and Grenade Launchers:**
+
+  * **Mortars:** 60 mm, 82 mm, and 120 mm Soviet/Chinese designs provide infantry fire support.
+  * **GP-25:** Under-barrel grenade launcher adapted to some assault rifles.
+
+---
+
+## Armored Fighting Vehicles
+
+* **Main Battle Tanks (MBTs):**
+
+  * **T-54/T-55 series:** Backbone of Vietnam’s armored forces since the 1970s; variants include locally upgraded T-54M.
+  * **T-62:** In smaller numbers, used for secondary roles.
+  * **T-72M1:** Acquired in the 1990s to replace older models; modernization programs continue.
+
+* **Infantry Fighting Vehicles (IFVs) and Armored Personnel Carriers (APCs):**
+
+  * **BTR-60/BTR-152:** Soviet wheeled APCs for mechanized infantry units.
+  * **Type 63:** Chinese 4×4 light amphibious APC used in riverine operations.
+  * **BMP-1:** Limited numbers of tracked IFVs for mechanized brigades.
+
+* **Self-Propelled Artillery:**
+
+  * **2S1 Gvozdika:** 122 mm tracked howitzer for regimental fire support.
+  * **Type 89:** Chinese 152 mm SPH in small numbers.
+
+---
+
+## Artillery
+
+* **Towed Howitzers:**
+
+  * **D-30 122 mm:** Versatile Soviet design providing indirect fire across the force.
+  * **D-20 152 mm:** Longer‐range fire support for division-level assets.
+  * **M-46 130 mm:** Legacy gun retained in battalion artillery units.
+
+* **Multiple Rocket Launchers (MRLs):**
+
+  * **BM-21 Grad (122 mm):** Widespread use since the 1980s for saturation bombardment.
+  * **Type 63 (107 mm):** Chinese towed MRL supplementing heavier systems.
+
+---
+
+## Air Defense
+
+* **Man-Portable Air Defense Systems (MANPADS):**
+
+  * **SA-7 Grail (9K32 Strela-2):** First-line shoulder-fired SAM for infantry units.
+  * **SA-18 Grouse (Igla):** Modern infrared‐homing replacement for SA-7.
+
+* **Towed and Vehicle-Mounted SAMs:**
+
+  * **Kub (SA-6):** Short-range 3D radar–guided system deployed around strategic sites.
+  * **S-75 Dvina (SA-2):** High‐altitude SAMs protecting major cities and military bases.
+
+* **Anti-Aircraft Artillery:**
+
+  * **ZPU series:** 14.5 mm and 23 mm AAA for low‐altitude defense.
+  * **ZSU-23-4 Shilka:** Self-propelled twin-barrel 23 mm AAA with radar fire control.
+
+---
+
+## Engineering and Support Equipment
+
+* **Combat Engineering Vehicles:**
+
+  * **MT-55A:** Armored bridgelayer based on T-55 chassis, enabling river crossings.
+  * **IMR-2:** Soviet combat engineer vehicle for obstacle clearing.
+
+* **Logistics and Recovery:**
+
+  * **BREM-1:** Armored repair and recovery vehicle to maintain armored column mobility.
+  * **Ural and KamAZ Trucks:** Mainstays of military transport for personnel and materiel.
+
+---
+
+## Modernization and Domestic Industry
+
+Since the 1990s, Vietnam has pursued a dual approach: upgrading legacy Soviet‐era systems and acquiring new equipment from Russia (T-90S tanks, K-300P Bastion coastal defense missiles) and Israel (Spike ATGMs, TRG-300 MRLs). Domestic defense firms—Vietnamese-Russian joint ventures—have developed upgraded variants (e.g., T-54M, light armored vehicles) and small arms modernization under local design bureaus.
+
+---
+
+## Political Significance
+
+The composition of the VPGF’s equipment reflects Vietnam’s historical alliances with the Soviet Union and China during wars of national liberation and the Cold War. Post–Đổi Mới, diversification of suppliers underscores Hanoi’s strategic balance between great powers and its emphasis on self-reliance through indigenous defense industries. Today, the VPGF’s mixed inventory supports both border security against regional disputes and its commitments within ASEAN and United Nations peacekeeping missions.

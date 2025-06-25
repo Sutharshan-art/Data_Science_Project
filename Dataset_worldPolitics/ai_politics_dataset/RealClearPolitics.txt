@@ -1,0 +1,39 @@
+**RealClearPolitics**
+
+**Overview**
+RealClearPolitics (RCP) is an independent political news and polling data aggregator founded in 2000. Based in Chicago, it provides comprehensive coverage of U.S. and international politics, including real-time polling averages, original commentary, and curated news links. Best known for its “poll of polls,” RCP has become a staple resource for journalists, analysts, and the public seeking to gauge electoral trends and political sentiment.
+
+**History**
+RealClearPolitics was established in January 2000 by former investment analysts John McIntyre and Tom Bevan. Initially conceived as a blog to share political commentary and links to external reporting, the site added its signature polling averages during the 2004 U.S. presidential election. Rapid user growth during that cycle affirmed the demand for a centralized polling resource. Over subsequent election cycles, RCP expanded its offerings—adding state and congressional poll data, fundraising trackers, and issue‐specific polling—while maintaining a reputation for timeliness and comprehensiveness.
+
+**Structure and Features**
+RCP’s homepage is organized into several core sections:
+
+* **Poll Averages**: The site’s marquee feature aggregates publicly released statewide and national polls, calculating simple averages of recent surveys. Each average displays the number of polls included, the polling organizations, and a date range.
+* **Electoral Predictions**: During election seasons, RCP publishes “Electoral College Map” projections, assigning states as “Safe,” “Likely,” “Leans,” or “Toss-up” for each major party candidate. These assessments synthesize polling data, historical voting patterns, and expert analysis.
+* **News and Analysis**: RCP curates links from across the political press, organized by topic—such as economy, foreign policy, or Supreme Court—and by ideological bent. It also commissions original op-eds from a spectrum of pundits and academics.
+* **Market and World**: Sister sites RealClearMarkets and RealClearWorld extend RCP’s aggregation model to financial markets and global affairs, respectively, providing similar data-driven tools for economists and international relations observers.
+
+**Polling Methodology**
+RealClearPolitics employs a straightforward aggregation technique. For each race or issue, it compiles polls meeting basic methodological standards—such as sample size, polling organization transparency, and recency—then calculates an arithmetic mean of the reported figures. No weighting is applied for pollster reputation or methodology, though the site clearly lists each poll’s source and margin of error. This simplicity contrasts with more complex models that adjust for pollster bias or historical accuracy.
+
+**Political Alignment and Criticism**
+RCP maintains that it is nonpartisan, offering balanced coverage and polling across the political spectrum. Its curated news links span outlets from across the ideological continuum, and its original commentary platform hosts voices from left, center, and right. Nevertheless, critics have raised several concerns:
+
+* **Aggregation Simplicity**: By not weighting polls based on past performance or methodological robustness, RCP averages may give disproportionate influence to outlier surveys.
+* **Link Selection**: Though aiming for balance, the selection of featured news articles and opinion pieces has drawn scrutiny, with some observers alleging a tilt toward establishment conservative outlets.
+* **Data Updates**: During fast-moving campaign events, polls may be added quickly, leading to short-lived averages that can shift dramatically day to day, potentially misleading casual observers.
+
+RCP’s transparent presentation of raw polling data and immediate updates, however, have also been lauded as strengths, enabling users to see both nuanced fieldwork and aggregate trends without opaque adjustments.
+
+**Influence and Impact**
+RealClearPolitics has become a fixture in political journalism and electoral analysis. Its polling averages are frequently cited by major news organizations, academic studies, and political campaigns. The site’s “RCP Average” is often invoked alongside other aggregators—such as FiveThirtyEight and The Economist’s model—providing a baseline against which more complex forecasts are compared. During high-stakes elections, television networks and blogs display RCP data in graphics and discussion panels, underscoring the site’s role in shaping public understanding of electoral dynamics.
+
+**Business Model and Audience**
+RCP generates revenue through advertising and premium sponsorships, offering marketers access to a politically engaged audience. The site attracts millions of unique monthly visitors, particularly during election years, with peaks in traffic corresponding to primary seasons and national debates. While access to polling data and news links remains free, RCP selectively monetizes video content—such as debates and interview clips—and offers email newsletters summarizing key developments for subscribers.
+
+**Comparison with Other Aggregators**
+Unlike algorithm-driven forecast platforms that weight polls and adjust for historical bias, RCP’s appeal lies in its unembellished, transparent averages. FiveThirtyEight’s model, for example, applies pollster ratings and demographic adjustments to project probabilities, while RCP presents unfiltered point estimates. This distinction makes RCP especially valuable to users seeking direct access to poll results without interpretive layers.
+
+**Conclusion**
+RealClearPolitics has established itself as a leading online hub for political data aggregation and commentary. Its user-friendly presentation of polling averages, coupled with a broad news curation strategy, has influenced how the media, scholars, and the public track elections and political sentiment. While debates over methodology and editorial balance persist, RCP’s enduring presence underscores the importance of accessible, up-to-date political information in a rapidly evolving media environment.

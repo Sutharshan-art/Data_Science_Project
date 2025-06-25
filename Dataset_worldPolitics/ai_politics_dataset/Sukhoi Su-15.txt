@@ -1,0 +1,30 @@
+\==Introduction==
+The Sukhoi Su-15 (NATO reporting name “Flagon”) was a twin-engine, all-weather interceptor developed by the Soviet Union during the Cold War. Entering service in the mid-1960s, the Su-15 formed a key component of the Soviet air defense network, tasked with intercepting high-speed threats approaching Soviet airspace. Its deployment reflected both the technological rivalry and the intense geopolitical tensions between the Eastern Bloc and NATO powers.
+
+\==Background and Development==
+In the early 1960s, rapid advances in Western strategic bomber and reconnaissance aircraft—exemplified by the American B-58 Hustler and SR-71 Blackbird—prompted the Soviet military to pursue a new generation of high-performance interceptors. The Sukhoi Design Bureau responded with the Su-15, evolving from earlier prototypes such as the Su-9 and Su-11. The first flight occurred in 1962, and following successful trials, the type was approved for mass production in 1964. Production continued until 1972, with over 1,200 units built.
+
+\==Design Features==
+The Su-15 featured a robust airframe with highly swept wings optimized for Mach 2 flight, powered by twin Tumansky R-11 turbojet engines. Its radar suite, centered on the RP-22 “Oryol-D,” enabled detection and engagement of targets at ranges exceeding 30 kilometers, even under adverse weather conditions. Armament comprised radar-guided missiles—originally the R-8 (AA-3 “Anab”) series—and two internal 23 mm cannons for close-range defense. The aircraft’s design emphasized rapid climb rates and high-speed interception capability, essential for countering reconnaissance missions and potential nuclear-armed bombers.
+
+\==Operational History==
+Upon entering service with PVO Strany (Soviet Air Defense Forces) in 1965, the Su-15 was deployed across key regions, including the Arctic north, the Baltic coast, and the Far Eastern borders. It often operated from forward airfields to maximize reaction times. During routine patrols, Su-15 crews scrambled to intercept incursions by NATO reconnaissance aircraft and defector flights along the Iron Curtain. The aircraft remained in frontline service through the late 1980s, eventually replaced by more advanced interceptors such as the MiG-31.
+
+\==Political Context==
+The Su-15’s operational tenure coincided with pivotal moments in the Cold War, serving as a tangible deterrent against perceived Western provocations. Stationed in strategic sectors, its presence bolstered Soviet claims of sovereignty over contested airspaces, especially in regions where overflights by Western aircraft—sometimes unannounced—heightened bilateral tensions. The very act of scrambling Su-15s underscored the USSR’s resolve to defend its borders and project military strength, reinforcing internal propaganda narratives of vigilance against imperialist threats.
+
+\==International Incidents==
+The Su-15 was directly involved in several high-profile engagements that reverberated internationally. In September 1978, two Su-15s intercepted a Korean Air Lines cargo flight that strayed into Soviet airspace, forcing it down at Murmansk after a brief chase. More notably, on 1 September 1983, a Su-15 piloted by Lieutenant Gennadi Osipovich shot down Korean Air Lines Flight 007 after it entered prohibited airspace near Sakhalin Island. All 269 passengers and crew perished, triggering global condemnation and further straining U.S.-Soviet relations. The incident underscored the precariousness of aerial boundaries and became emblematic of Cold War mistrust.
+
+\==Strategic Impact==
+The deployment of the Su-15 had broader strategic implications beyond individual encounters. It served as a force multiplier within the Soviet air defense network, integrated with ground-based radars and surface-to-air missile sites. Its rapid reaction capability forced NATO planners to adjust reconnaissance routes and adopt more clandestine tactics. The psychological effect of an ever-present interceptor lowered the threshold for aerial incursions, effectively limiting direct Western surveillance missions. Conversely, Soviet leadership leveraged the Su-15’s reputation to justify expansions in air defense budgets and to rally domestic support for military modernization.
+
+\==Legacy==
+Though retired from Russian service by the early 1990s, the Su-15’s legacy persists in both military history and political discourse. It exemplifies the technological arms race that defined Cold War air power, as well as the doctrinal emphasis on air sovereignty. Surviving airframes are displayed in museums across Russia and former Warsaw Pact states, serving as reminders of an era when the skies above Europe and Asia were arenas for superpower confrontation. The controversies surrounding its interceptions continue to inform debates on rules of engagement, civilian overflight safety, and the ethics of aerial defense.
+
+\==Variants and Operators==
+Several Su-15 variants emerged, including the Su-15TM with upgraded avionics, the Su-15UM two-seat trainer, and export derivatives for Warsaw Pact allies. Primary operators included the Soviet Union, with limited exports to allied air forces. While no major combat operations beyond airspace defense are recorded, the platform’s service record remains a case study in the intersection of aviation technology and Cold War geopolitics.
+
+---
+
+*This article omits references, external links, and “See also” sections in accordance with the provided guidelines.*

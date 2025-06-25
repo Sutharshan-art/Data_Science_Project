@@ -1,0 +1,28 @@
+A safety curtain (or fire curtain in America) is a passive fire protection feature used in large proscenium theatres. It is usually a heavy fabric curtain located immediately behind the proscenium arch. Asbestos-based materials were originally used to manufacture the curtain, before the dangers of asbestos were widely known. The safety curtain is sometimes referred to as an iron curtain (or iron) in British theatres, regardless of the actual construction material.
+Occupational safety and health regulations state that the safety curtain must be able to resist fire for a short time to delay fires starting on stage from spreading to the auditorium and the rest of the theatre, to provide additional exiting time for audience members and members of staff.
+The curtain is heavy and requires its own dedicated operating mechanisms. In an emergency, the stage manager can usually pull a lever backstage which will cause the curtain to fall rapidly into position. Alternatively, heat-sensitive components can be built into the rigging to automatically close the curtain in case of fire. It may be released electronically with the activation of the building's fire alarm system. It can also be flown in and out, as regulations in some jurisdictions state that it must be shown to the audience, to prove its effective operation, for a certain amount of time during every performance.
+A safety curtain is required per United States building codes if the proscenium wall is required to be fire rated. The curtain is required to demonstrate a fire rating of approximately 30 min per testing.
+In the UK, it is a requirement that a safety curtain must be fully down within the proscenium opening within 30 seconds of being released. 
+In 1794 the Theatre Royal, Drury Lane became the first theatre to install an iron safety curtain. Several other serious fires, including the 1887 Exeter Theatre Royal fire, led to the introduction of safety curtains on a wider scale. However, Edinburgh's Royal Lyceum Theatre, built in 1883, has also been described as the "[first] theatre in Britain to be fitted with an iron safety curtain". 
+
+A very early example of a safety curtain installation in the United States was at the New Fifth Avenue Theatre (New York City) which opened in 1873. Chicago's 1903 Iroquois Theatre fire resulted in over 600 deaths when the theater's safety curtain got stuck midway down, along with other structural deficiencies in the building.
+
+
+== Related stage fire safety devices ==
+
+The safety curtain can be combined with other safety devices, such as:
+
+Smoke pockets - are steel channels located at either side of the proscenium arch that the safety curtain travels within to create a physical barrier between the auditorium and the stage. The safety curtain is not intended to create an air seal but rather prevent material from falling from the stage house into the audience.
+Fire doors - that automatically close any doorway onto the stage in the event of a fire.
+Smoke vents - vents above the stage which will allow smoke to move out of the roof of the theatre, enabling safer evacuation of the audience.
+Water curtain - sprinkler heads or other nozzles directly in front of the proscenium to prevent sparks from flying off the stage or to extinguish any burning material (such as a set) which may fall through the proscenium.
+
+
+== References ==
+
+
+== External links ==
+
+Berufsgenossenschaft Regulation: Accident-Prevention Regulation BGV-C1, for Staging and Production Facilities for the Entertainment Industry, adopted on 1 April 1998 (PDF, 266 KB)
+Safety Curtains: Types and Models
+Fire Safety in the Theater

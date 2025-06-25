@@ -1,0 +1,123 @@
+Aerial reconnaissance is reconnaissance for a military or strategic purpose that is conducted using reconnaissance aircraft. The role of reconnaissance can fulfil a variety of requirements including artillery spotting, the collection of imagery intelligence, and the observation of enemy maneuvers.
+
+
+== History ==
+
+
+=== Early developments ===
+
+After the French Revolution, the new rulers became interested in using the balloon to observe enemy manoeuvres and appointed scientist Charles Coutelle to conduct studies using the balloon L'Entreprenant, the first military reconnaissance aircraft. The balloon found its first use in the 1794 conflict with Austria, where in the Battle of Fleurus they gathered information. Moreover, the presence of the balloon had a demoralizing effect on the Austrian troops, which improved the likelihood of victory for the French troops. To operate such balloons, a new unit of the French military, the French Aerostatic Corps, was established; this organisation has been recognised as being the world's first air force.
+
+After the invention of photography, primitive aerial photographs were made of the ground from manned and unmanned balloons, starting in the 1860s, and from tethered kites from the 1880s onwards. An example was Arthur Batut's kite-borne camera photographs of Labruguière starting from 1889.
+In the early 20th century, Julius Neubronner experimented with pigeon photography. These pigeons carried small cameras that incorporated timers.
+Ludwig Rahrmann in 1891 patented a means of attaching a camera to a large calibre artillery projectile or rocket, and this inspired Alfred Maul to develop his Maul Camera Rockets starting in 1903. Alfred Nobel in 1896 had already built the first rocket carrying a camera, which took photographs of the Swedish landscape during its flights. Maul improved his camera rockets and the Austrian Army even tested them in the Turkish-Bulgarian War in 1912 and 1913, but by then and from that time on camera-carrying aircraft were found to be superior.
+The first use of airplanes in combat missions was by the Italian Air Force during the Italo-Turkish War of 1911–1912. On 23 October 1911, an Italian pilot, Capt. Carlo Piazza, flew over the Turkish lines in Libya to conduct an aerial reconnaissance mission; Another aviation first occurred on November 1 with the first ever dropping of an aerial bomb, performed by Sottotenente Giulio Gavotti, on Turkish troops from an early model of Etrich Taube aircraft.
+The first reconnaissance flight in Europe took place in Greece, over Thessaly, on 18 October 1912 (5 October by the Julian calendar) over the Ottoman army. The pilot also dropped some hand-grenades over the Turkish Army barracks, although without success. This was the first day of the Balkan wars, and during the same day a similar mission was flown by German mercenaries in Ottoman service in the Thrace front against the Bulgarians. The Greek and the Ottoman mission flown during the same day are the first military aviation combat missions in a conventional war. A few days later, on 16 October 1912, a Bulgarian Albatros aircraft performed one of Europe's first reconnaissance flight in combat conditions, against the Turkish lines on the Balkan peninsula, during the Balkan Wars of 1912–1913.
+
+
+=== Maturation during the First World War ===
+
+The use of aerial photography rapidly matured during the First World War, as aircraft used for reconnaissance purposes were outfitted with cameras to record enemy movements and defences. At the start of the conflict, the usefulness of aerial photography was not fully appreciated, with reconnaissance being accomplished with map sketching from the air.
+Frederick Charles Victor Laws started experiments in aerial photography in 1912 with  No. 1 Squadron RAF using  the British dirigible  Beta. He discovered that vertical photos taken with 60% overlap could be used to create a stereoscopic effect when viewed in a stereoscope, thus creating a perception of depth that could aid in cartography and in intelligence derived from aerial images. The dirigibles were eventually allocated to the Royal Navy, so Laws formed the first aerial reconnaissance unit of fixed-wing aircraft; this became No. 3 Squadron RAF.
+Germany was one of the first countries to adopt the use of a camera for aerial reconnaissance, opting for a Görz, in 1913. French Military Aviation began the war with several squadrons of Bleriot observation planes, equipped with cameras for reconnaissance. The French Army developed procedures for getting prints into the hands of field commanders in record time.
+
+The Royal Flying Corps recon pilots began to use cameras for recording their observations in 1914 and by the Battle of Neuve Chapelle in 1915 the entire system of German trenches was being photographed. The first purpose-built and practical aerial camera was invented by Captain John Moore-Brabazon in 1915 with the help of the Thornton-Pickard company, greatly enhancing the efficiency of aerial photography. The camera was inserted into the floor of the aircraft and could be triggered by the pilot at intervals.
+Moore-Brabazon also pioneered the incorporation of stereoscopic techniques into aerial photography, allowing the height of objects on the landscape to be discerned by comparing photographs taken at different angles. In 1916, the Austro-Hungarian Empire made vertical camera axis aerial photos above Italy for map-making.
+By the end of the war, aerial cameras had dramatically increased in size and focal power and were used increasingly frequently as they proved their pivotal military worth; by 1918 both sides were photographing the entire front twice a day and had taken over half a million photos since the beginning of the conflict.
+In January 1918, General Allenby used five Australian pilots from No. 1 Squadron AFC to photograph a 624-square-mile (1,620 km2) area in Palestine as an aid to correcting and improving maps of the Turkish front. This was a pioneering use of aerial photography as an aid for cartography. Lieutenants Leonard Taplin, Allan Runciman Brown, H. L. Fraser, Edward Patrick Kenny, and L. W. Rogers photographed a block of land stretching from the Turkish front lines 32 miles (51 km) deep into their rear areas. Beginning 5 January, they flew with a fighter escort to ward off enemy fighters. Using Royal Aircraft Factory BE.12 and Martinsyde airplanes, they not only overcame enemy air attacks, but also bucked 65 mile-per-hour winds, anti-aircraft fire, and malfunctioning equipment to complete their task circa 19 January 1918.
+
+
+=== Second World War ===
+
+
+==== High-speed reconnaissance aircraft ====
+
+During 1928, the Royal Air Force (RAF) developed an electric heating system for the aerial camera; this innovation allowed reconnaissance aircraft to take pictures from very high altitudes without the camera parts freezing. In 1939, Sidney Cotton and Flying Officer Maurice Longbottom of the RAF suggested that airborne reconnaissance may be a task better suited to fast, small aircraft which would use their speed and high service ceiling to avoid detection and interception. Although this may perhaps seem obvious today with modern reconnaissance tasks performed by fast, high flying aircraft, at the time it was radical thinking.
+
+Cotton and Longbottom proposed the use of Spitfires with their armament and radios removed and replaced with extra fuel and cameras. This concept led to the development of the Spitfire PR variants. With their armaments removed, these planes could attain a maximum speed of 396 mph while flying at an altitude of 30,000 feet, and were used for photo-reconnaissance missions. The Spitfire PR was fitted with five cameras, which were heated to ensure good results (while the cockpit was not). In the reconnaissance role, the Spitfire proved to be extremely successful, resulting in numerous Spitfire variants being built specifically for that purpose. These served initially with what later became No. 1 Photographic Reconnaissance Unit (PRU).
+
+Other fighters were also adapted for photo-reconnaissance, including the British Mosquito and the American P-38 Lightning and P-51 Mustang. Such aircraft were painted in PRU Blue or Pink camouflage colours to make them difficult to spot in the air, and often were stripped of weapons or had engines modified for better performance at high altitudes (over 40,000 ft (12,000 m)).
+The American F-4, a factory modification of the Lockheed P-38 Lightning, replaced the nose-mounted four machine guns and cannon with four high-quality K-17 cameras. Approximately 120 F-4 and F-4As were hurriedly made available by March 1942, reaching the 8th Photographic Squadron in Australia by April (the first P-38s to see action). The F-4 had an early advantage of long range and high speed combined with ability to fly at high altitude; a potent combination for reconnaissance. In the last half of 1942 Lockheed would produce 96 F-5As, based on the P-38G with all later P-38 photo-reconnaissance variants designated F-5. In its reconnaissance role, the Lightning was so effective that over 1,200 F-4 and F-5 variants were delivered by Lockheed, and it was the United States Army Air Forces's (USAAF) primary photo-reconnaissance type used throughout the war in all combat theatres. The Mustang F-6 arrived later in the conflict and, by spring 1945, became the dominant reconnaissance type flown by the USAAF in the European theatre. American photo-reconnaissance operations in Europe were centred at RAF Mount Farm, with the resulting photographs transferred to Medmenham for interpretation. Approximately 15,000 Fairchild K-20 aerial cameras were manufactured for use in Allied reconnaissance aircraft between 1941 and 1945.
+The British de Havilland Mosquito excelled in the photo-reconnaissance role; the converted bomber was fitted with three cameras installed in what had been the bomb bay. It had a cruising speed of 255 mph, maximum speed of 362 mph and a maximum altitude of 35,000 feet. The first converted PRU (Photo-Reconnaissance Unit) Mosquito was delivered to RAF Benson in July 1941 by Geoffrey de Havilland himself. The PR Mk XVI and later variants had pressurized cockpits and also pressurized central and inner wing tanks to reduce fuel vaporization at high altitude. The Mosquito was faster than most enemy fighters at 35,000 ft, and could roam almost anywhere. Colonel Roy M. Stanley II of United States Air Force (USAF) stated of the aircraft: "I consider the Mosquito the best photo-reconnaissance aircraft of the war". The United States Army Air Forces (USAAF) designation for the photo-reconnaissance Mosquito was F-8.
+Apart from (for example) the Mosquito, most World War II bombers were not as fast as fighters, although they were effective for aerial reconnaissance due to their long range, inherent stability in flight and capacity to carry large camera payloads. American bombers with top speeds of less than 300 mph used for reconnaissance include the B-24 Liberator (photo-reconnaissance variant designated F-7), B-25 Mitchell (F-10) and B-17 Flying Fortress (F-9). The revolutionary B-29 Superfortress was the world's largest combat-operational bomber when it appeared in 1944, with a top speed of over 350 mph which at that time was outstanding for such a large and heavy aircraft; the B-29 also had a pressurized cabin for high altitude flight. The photographic reconnaissance version of the B-29 was designated F-13 and carried a camera suite of three K-17B, two K-22 and one K-18 with provisions for others; it also retained the standard B-29 defensive armament of a dozen .50 caliber machine guns. In November 1944 an F-13 conducted the first flight by an Allied aircraft over Tokyo since the Doolittle Raid of April 1942. The Consolidated B-32 Dominator was also used for reconnaissance over Japan in August 1945.
+The Japanese Army Mitsubishi Ki-46, a twin-engined aircraft designed expressly for the reconnaissance role with defensive armament of 1 light machine gun, entered service in 1941. Codenamed "Dinah" this aircraft was fast, elusive and proved difficult for Allied fighters to destroy. More than 1,500 Ki-46s were built and its performance was upgraded later in the war with the Ki-46-III variant. Another purpose-designed reconnaissance aircraft for the Imperial Japanese Navy Air Service was the carrier-based, single-engine Nakajima C6N Saiun ("Iridescent Cloud"). Codenamed "Myrt" by the Allies, the Nakajima C6N first flew in 1943 and was also highly elusive to American aircraft due to its excellent performance and speed of almost 400 mph. As fate would have it on 15 August 1945, a C6N1 was the last aircraft to be shot down in World War II. Japan also developed the high-altitude Tachikawa Ki-74 reconnaissance bomber, which was in a similar class of performance as the Mosquito, but only 16 were built and did not see operational service.
+The Luftwaffe began deploying jet aircraft in combat in 1944, and the twin-jet Arado Ar 234 Blitz ("Lightning") reconnaissance bomber was the world's first operational jet-powered bomber. The Ar 234B-1 was equipped with two Rb 50/30 or Rb 75/30 cameras, and its top speed of 460 mph allowed it to outrun the fastest non-jet Allied fighters of the time. The twin piston-engined Junkers Ju 388 high-altitude bomber was an ultimate evolution of the Ju 88 by way of the Ju 188. The photographic reconnaissance Ju 388L variant had a pressurized cockpit from the Ju 388's original multi-role conception as not only a bomber but also a night fighter and bomber destroyer, due to RLM's perceived threat of the U.S.'s high-altitude B-29 (which ended up not being deployed in Europe). Approximately 50 Ju 388Ls were produced under rapidly deteriorating conditions at the end of the war. As with other high performance weapons introduced by Nazi Germany, too many circumstances in the war's logistics had changed by late 1944 for such aircraft to have any impact.
+The DFS 228 was a rocket-powered high-altitude reconnaissance aircraft under development in the latter part of World War II. It was designed by Felix Kracht at the Deutsche Forschungsanstalt für Segelflug (German Institute for Sailplane Flight) and in concept is an interesting precursor to the post-war American U-2, being essentially a powered long-wingspan glider intended solely for the high-altitude aerial reconnaissance role. Advanced features of the DFS 228 design included a pressurized escape capsule for the pilot. The aircraft never flew under rocket power with only unpowered glider prototypes flown prior to May 1945.
+
+
+==== Imagery analysis ====
+
+The collection and interpretation of aerial reconnaissance intelligence became a considerable enterprise during the war. Beginning in 1941, RAF Medmenham was the main interpretation centre for photographic reconnaissance operations in the European and Mediterranean theatres. The Central Interpretation Unit (CIU) was later amalgamated with the Bomber Command Damage Assessment Section and the Night Photographic Interpretation Section of No 3 Photographic Reconnaissance Unit, RAF Oakington, in 1942.
+During 1942 and 1943, the CIU gradually expanded and was involved in the planning stages of practically every operation of the war, and in every aspect of intelligence. In 1945, daily intake of material averaged 25,000 negatives and 60,000 prints. Thirty-six million prints were made during the war. By VE-day, the print library, which documented and stored worldwide cover, held 5,000,000 prints from which 40,000 reports had been produced.
+American personnel had for some time formed an increasing part of the CIU and on 1 May 1944 this was finally recognised by changing the title of the unit to the Allied Central Interpretation Unit (ACIU). There were then over 1,700 personnel on the unit's strength. A large number of photographic interpreters were recruited from the Hollywood Film Studios including Xavier Atencio. Two renowned archaeologists also worked there as interpreters: Dorothy Garrod, the first woman to hold an Oxbridge Chair, and Glyn Daniel, who went on to gain popular acclaim as the host of the television game show Animal, Vegetable or Mineral?.
+Sidney Cotton's aerial photographs were far ahead of their time. Together with other members of his reconnaissance squadron, he pioneered the technique of high-altitude, high-speed photography that was instrumental in revealing the locations of many crucial military and intelligence targets. Cotton also worked on ideas such as a prototype specialist reconnaissance aircraft and further refinements of photographic equipment. At its peak, British reconnaissance flights yielded 50,000 images per day to interpret.
+Of particular significance in the success of the work of Medmenham was the use of stereoscopic images, using a between plate overlap of exactly 60%. Despite initial scepticism about the possibility of German rocket development, stereoscopic analysis proved its existence and major operations, including the 1943 offensives against the V-2 rocket development plant at Peenemünde, were made possible by work carried out at Medmenham. Later offensives were also made against potential launch sites at Wizernes and 96 other launch sites in northern France.
+Particularly important sites were measured, from the images, using Swiss stereoautograph machines made by Wild (Heerbrugg) and physical models made to facilitate understanding of what was there or what it was for.
+It is claimed that Medmanham's greatest operational success was Operation Crossbow which, from 23 December 1943, destroyed the V-1 infrastructure in northern France. According to R.V. Jones, photographs were used to establish the size and the characteristic launching mechanisms for both the V-1 flying bomb and the V-2 rocket.
+
+
+=== Cold War ===
+
+Immediately after the Second World War, the long range aerial reconnaissance role was quickly taken up by adapted jet bombers, such as the English Electric Canberra and its American development the Martin B-57, that were capable of flying higher or faster than enemy aircraft or defenses. Shortly after the Korean War, the United States begun to use RB-47 aircraft; these were at first were converted B-47 bombers, but later purposely built as RB-47 reconnaissance aircraft that had no bombing capability. Large cameras were mounted in the plane's belly and a truncated bomb bay was used for carrying photoflash bombs. Later versions of the RB-47, such as the RB-47H, were extensively modified for signals intelligence (ELINT), with additional equipment operator crew stations in the bomb bay; unarmed weather reconnaissance WB-47s with cameras and meteorological instruments also served the United States Air Force (USAF) during the 1960s.
+
+The onset of the Cold War led to development of several highly specialized and clandestine strategic reconnaissance aircraft, or spy planes, such as the Lockheed U-2 and its successor the SR-71 Blackbird (both from the United States). Flying these aircraft became an exceptionally demanding task, with crews specially selected and trained due to the aircraft's extreme performance characteristics in addition to risk of being captured as spies. The American U-2 shot down in Soviet airspace and capture of its pilot caused political turmoil at the height of the Cold War.
+
+Beginning in the early 1960s, United States aerial and satellite reconnaissance was coordinated by the National Reconnaissance Office (NRO). Risks such as loss or capture of reconnaissance aircraft crewmembers also contributed to U.S. development of the Ryan Model 147 RPV (Remotely Piloted Vehicle) unmanned drone aircraft which were partly funded by the NRO during the 1960s.
+During the 1960s, the United States Navy opted to convert many of its supersonic carrier-based nuclear bomber, the North American A-5 Vigilante, into the capable RA-5C Vigilante reconnaissance aircraft. Beginning in the early 1980s, the U.S. Navy outfitted and deployed Grumman F-14 Tomcat aircraft in one squadron aboard an aircraft carrier with a system called Tactical Airborne Reconnaissance Pod System (TARPS), which provided naval aerial reconnaissance capability until the Tomcat's retirement in 2006.
+
+
+=== Post Cold War ===
+Since the 1980s, there has been an increasing tendency for militaries to rely upon assets other than manned aircraft to perform aerial reconnaissance. Alternative platforms include the use of surveillance satellites and unmanned aerial vehicles (UAVs), such as the armed MQ-9 Reaper. By 2005, such UAVs could reportedly be equipped with compact cameras capable of identifying an object the size of a milk carton from altitudes of 60,000 feet.
+The U-2 has repeatedly been considered for retirement in favour of drones. In 2011, the USAF revealed plans to replace the U-2 with the RQ-4 Global Hawk, a UAV, within four years; however, in January 2012, it was instead decided to extend the U-2's service life. Critics have pointed out that the RQ-4's cameras and sensors are less capable and lack all-weather operating capability; however, some of the U-2's sensors could be installed on the RQ-4. In late 2014, Lockheed Martin proposed converting the manned U-2 fleet into UAVs, which would substantially bolster its payload capability; however, the USAF declined to provide funding for such an extensive conversion.
+During the 2010s, American defense conglomerate Lockheed Martin promoted its proposal to develop a hypersonic UAV, which it referred to the SR-72 in allusion to its function as a spiritual successor to the retired SR-71 Blackbird. The company has also developed several other reconnaissance UAVs, such as the Lockheed Martin RQ-170 Sentinel.
+
+
+== Technologies ==
+
+
+=== Miniature UAVs ===
+Due to the low cost of miniature UAVs, this technology brings aerial reconnaissance into the hands of soldiers on the ground. The soldier on the ground can both control the UAV and see its output, yielding great benefit over a disconnected approach. With small systems being man packable, operators are now able to deploy air assets quickly and directly. The low cost and ease of operation of these miniature UAVs has enabled forces such as the Libyan Rebels to use miniature UAVs.
+
+AeroVironment Wasp III (airplane – electric propulsion)
+Aeryon Scout/Aeryon SkyRanger (VTOL Rotorcraft) – Some UAVs are small enough to carry in a backpack with similar functionality to larger ones
+EMT Aladin (aircraft – electric – Made in Germany)
+Bramor C4EYE (aircraft – electric – Made in Slovenia)
+Bayraktar Mini UAV (aircraft – electric – Made in Turkey)
+RQ-84Z Areohawk (aircraft – electric – Made in New Zealand)
+Low cost miniature UAVs demand increasingly miniature imaging payloads. Developments in miniature electronics have fueled the development of increasingly capable surveillance payloads, allowing miniature UAVs to provide high levels of capability in never before seen packages.
+
+
+=== Reconnaissance pods ===
+Reconnaissance pods can be carried by fighter-bomber aircraft. Examples include the British Digital Joint Reconnaissance Pod (DJRP); Chinese KZ900; UK RAPTOR; and the US Navy's F-14 Tomcat Tactical Airborne Reconnaissance Pod System (TARPS). Some aircraft made for non-military applications also have reconnaissance pods, i.e. the Qinetiq Mercator.
+
+
+== See also ==
+Aerial photography
+Aerorozvidka
+Air observation post
+Forward air control
+Imagery intelligence
+National Collection of Aerial Photography
+Surveillance aircraft
+United States aerial reconnaissance of the Soviet Union
+List of United States Air Force reconnaissance aircraft
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== Bibliography ===
+Bowman, Martin. de Havilland Mosquito (Crowood Aviation series). Ramsbury, Marlborough, Wiltshire, UK: The Crowood Press, 2005. ISBN 1-86126-736-3.
+Lewis, Peter. British Racing and Record Breaking Aircraft. London: Putnam, 1970. ISBN 0-370-00067-6.
+Natola, Mark. "Boeing B-47 Stratojet." Schiffer Publishing Ltd, 2002. ISBN 0-76431-670-2.
+Pedlow, Gregory W. & Donald E Welzenbach. The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and Oxcart Programs, 1954–1974. Washington, DC: Central Intelligence Agency, 1992. ISBN 0-7881-8326-5.
+Polmar, Norman. Spyplane: The U-2 History Declassified. London: Zenith Imprint, 2001. ISBN 0-7603-0957-4.
+Stanley, Colonel Roy M. II, USAF (Ret). V-Weapons Hunt: Defeating German Secret Weapons. Barnsley, South Yorkshire, UK: Pen & Sword, 2010. ISBN 978-1-84884-259-5.
+
+
+== External links ==
+
+National Collection of Aerial Photography The official archive of British Government declassified aerial photography.

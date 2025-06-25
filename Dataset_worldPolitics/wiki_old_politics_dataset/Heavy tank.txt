@@ -1,0 +1,54 @@
+A heavy tank is a tank classification produced from World War I to the end of the Cold War. These tanks generally sacrificed mobility and maneuverability for better armour protection and equal or greater firepower than tanks of lighter classes.
+
+
+== Role ==
+Heavy tanks achieved their greatest, albeit limited, success when fighting lighter tanks and destroying fortifications. Heavy tanks often saw limited combat in their intended roles, instead becoming mobile pillboxes or defensive positions, such as the German Tiger I and Tiger II designs, or the Soviet KV and IS designs.
+
+
+== Design ==
+Heavy tanks feature very heavy armor and weapons relative to lighter tanks. Many heavy tanks shared components with lighter tanks. For example, the US M103 heavy tank shared many components with the lighter Patton tank, including transmission and engine. As a result, they tend to be either underpowered and comparatively slow, or have engine and drive train reliability issues. In case of an entirely new design development, which was the case with the German Tiger I, designs often became needlessly complex and costly, resulting in low production numbers. Although it is often assumed that heavy tanks suffered inferior mobility to medium tanks, this was not always the case, as many of the more sophisticated heavy tank designs featured advanced suspension and transmissions to counteract this drawback. As mentioned previously, heavy tanks are often extremely expensive and resource-intensive to produce and operate. The German Tiger I, for example, had similar speed and better terrain-handling characteristics when compared to its main competitor, the significantly lighter Panzer IV medium tank. However, low reliability and limited resources meant that just 1,347 were produced, compared to roughly 8,800 Pz.Kpfw. IV.
+
+
+== History ==
+
+The origins of the class date to World War I and the first tank designs, which were intended to operate in close concert with infantry.
+Virtually all early tanks possessed thick armor to allow them to survive in no man's land. As lighter and more maneuverable designs were introduced during the Interwar period, these larger vehicles with stronger defensive and offensive capabilities became known as "heavy" tanks.
+Heavy tanks had gradually progressed from their trench warfare and bunker destroying role to dedicated anti-tank purposes by the onset of World War II. Heavy tanks saw limited deployment by France at the beginning of the war, and were only ever used in conflict by Nazi Germany and the USSR from about 1943 to the war's end.
+This tank type remained a decisive factor in the early years of the Cold War. The purpose of heavies would not change until their replacement by the main battle tank. Often referred to as MBTs, these designs effectively filled all roles required by armies, thus rendering more specialized designs obsolete.
+
+
+=== World Wars ===
+The first British tank, the Mark I of World War I, was introduced to break through German defensive lines of trenches and barbed wire. When lighter, faster tanks were introduced, the larger tanks were classified as heavy.
+The French Char 2C was one of the largest tanks ever produced. At the start of World War II, France and the Soviet Union were the only countries to have inventories of heavy tanks, such as the Char B1, T-35, and KV-1. The Matilda II was designed under the British infantry tank concept, which is similar to the heavy tank, having thick armour and tending to weigh more than their other tanks. However, it is usually considered separate because infantry tanks generally had less firepower, with their cruiser tanks (comparable to mediums) at the time having the same main armament but more machine guns. Later war examples were the German Tiger I and II, as well as the Soviet IS series. Note that "heavy" versus "medium" is more a question of tactical roles than weight; the Panther, for example, was a "medium" tank that outweighed most Allied "heavy" tanks.
+American forces rarely fielded heavy tanks, as they still held on to the infantry-support doctrine like the British; in addition, the Americans recognized the logistical and mobility issues that came with possessing a heavy tank force and did not want to compromise its 4,800 km (3,000 miles) supply line to Europe. The M6 heavy tank was designed in 1940 but held few advantages over medium tanks and planned production of several thousand was stopped. The Anglo-American T14 heavy tank project started in 1941 did not deliver a pilot model until 1944.
+The US preferred to use tank destroyers (mobile but relatively lightly armoured vehicles) for anti-tank defence, and prior to 1944 there were few indications that the US M4 Sherman was outclassed in terms of armor and weapons by German heavy tanks which were few in number. Near the end of World War II, a few early model M26 Pershings were sent to Europe to gain combat experience. Aside from these the closest the Americans came to putting a heavy tank into service were up-armored M4 Sherman "Jumbos" which were used as assault guns.
+Both the US and UK developed very well-armoured and armed tanks intended for assaulting heavily defended areas - the T28 GMC and 'Tortoise' had casement designs and weighed around 80 tonnes but did not enter service.
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Cold War ===
+
+The immediate post-war period saw the final fielding of heavy tanks, including the US M103 heavy tank, the British FV214 Conqueror, and the French ARL 44 (in very limited numbers for the ARL 44), all in response to the  Soviet heavy tanks of the period. The largest tank guns were approaching maximum calibre whose shell could still be handled by the crew, even using awkward two-part ammunition (separate projectile and propellant case, similar to battleship guns), which greatly slowed their rate of fire. Thanks to improved shell designs and fire control technology improving accuracy, postwar medium tanks were catching up to heavy tanks in firepower. The tactical value of heavy tanks thus declined to the point that no new designs were fielded; the heavily armed mediums came to be known as the main battle tank (MBT). Doctrine held that less expensive self-propelled artillery could serve in the infantry support role. The weight of MBTs quickly increased during the Cold War, and most third generation MBTs including the M1 Abrams, Challenger 2, Leopard 2, Merkava, Arjun MBT, and Type 99 have weights similar to those of 1950s heavy tanks.
+Older heavy tanks with steel armour were rendered obsolete by anti-tank guided missiles and high-explosive anti-tank (HEAT) ammunition. The much more flexible missiles are effective at ranges beyond a tank gun's range, and sheer armour mass was no longer a guarantee of survivability against the largest HEAT warheads of tank guns or missiles.
+
+
+== See also ==
+Light tank
+Medium tank
+Super-heavy tank
+Main battle tank
+
+
+== Notes ==
+
+
+== References ==
+Chamberlain, Peter; Ellis, Chris (1981) [1969], British and American Tanks of World War II, Arco Publishing

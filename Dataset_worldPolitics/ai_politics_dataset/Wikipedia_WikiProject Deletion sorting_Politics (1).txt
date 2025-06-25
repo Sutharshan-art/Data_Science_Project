@@ -1,0 +1,58 @@
+**Wikipedia\:WikiProject Deletion sorting/Politics (1)**
+
+**Overview**
+“Wikipedia\:WikiProject Deletion sorting/Politics (1)” (often shortened to “Deletion sorting/Politics (1)”) is a subject-area subpage of WikiProject Deletion sorting on the English Wikipedia. Established to centralize and organize Articles for Deletion (AfD) nominations that pertain to political topics, this first Politics subpage helps volunteers triage, review, and coordinate deletion discussions for content ranging from policy explanations to political organizations.
+
+**Historical Background**
+As Wikipedia expanded throughout the late 2000s, the volume of deletion discussions grew substantially, creating challenges for volunteers to locate and engage with AfD nominations. In 2009, WikiProject Deletion sorting introduced a system of topic-based subpages to distribute workload among editors with relevant expertise. The Politics (1) subpage was one of the earliest created—launched in March 2010—to handle nominations concerning general political subjects (as opposed to biographies of politicians, which are managed on the “Politicians” subpage).
+
+**Purpose and Scope**
+Deletion sorting/Politics (1) is intended to:
+
+1. **Aggregate AfD Candidates:** List active deletion nominations for articles about political ideologies, governmental bodies, electoral systems, policy issues, and other non-biographical political content.
+2. **Categorize by Topic:** Organize entries under thematic headings—such as “Political Ideologies,” “Electoral Systems,” “International Organizations,” and “Public Policy”—so that editors specializing in each area can efficiently locate discussions.
+3. **Flag High-Priority Cases:** Highlight time-sensitive or legally sensitive topics (e.g., articles challenging defamation thresholds or containing incipient POV violations) with warning icons for accelerated review.
+4. **Facilitate Expertise:** Direct subject-matter experts in political science, comparative politics, and public administration to relevant AfDs, improving the quality and consistency of deletion decisions.
+
+**Organization and Content**
+The typical layout of Politics (1) includes:
+
+* **Sectional Headings:** Broad topic categories under which AfD entries are listed chronologically.
+* **Entry Format:** Each nomination appears as an indented bullet with the article title linked to its page, the AfD discussion link, the nomination date, and a brief annotation (e.g., “No independent secondary sources,” “Original research concerns,” or “Merge proposed”).
+* **BLP and Legal Flags:** Although primarily for non-biographical topics, the subpage may flag articles on living public figures’ policies or organizations to invoke Biographies of Living Persons (BLP) caution.
+* **Archival Links:** Closed AfD threads are periodically moved to an archive subpage (e.g., “Archive 1”) and struck through on the main list, preserving a clean index of active nominations.
+
+**Relation to Deletion Policy and Political Context**
+Deletion sorting/Politics (1) operates within the broader framework of Wikipedia’s deletion policies:
+
+* **WP\:NOTPOLICY:** Ensures political articles do not straddle advocacy or original research, requiring secondary sourcing for policy descriptions.
+* **WP\:NOTNOT:** Guides deletion of policy stubs lacking any demonstrable notability outside self-published or partisan sources.
+* **WP\:BLP:** Although biographies are elsewhere, deletion discussions here occasionally touch on living individuals’ political actions, invoking strict sourcing and legal risk considerations.
+
+In the political context, topics on Politics (1) frequently reflect real-world events—new legislation, emerging movements, or contested policy issues—leading to a surge of AfD nominations following elections, major political scandals, or referenda. The subpage thus mirrors shifts in global politics and the evolving informational demands on Wikipedia.
+
+**Community Participation**
+Active participants include:
+
+* **Deletion Sorting Volunteers:** Editors who regularly patrol AfD nominations across Wikipedia and direct political-topic discussions to Politics (1).
+* **Subject Experts:** Academics, students, and enthusiasts of political science who contribute specialized knowledge on notability, sourcing, and article scope.
+* **BLP Watchers:** Volunteers who monitor nominations with potential legal or defamation implications.
+
+Collaboration often extends to related WikiProjects—such as WikiProject Politics, WikiProject International Organizations, and WikiProject Political Philosophy—which cross-link their relevant deletion nominations to Politics (1) for coordinated review.
+
+**Challenges and Best Practices**
+Deletion sorting for political content presents unique challenges:
+
+* **Rapid Topic Turnover:** Political developments can render articles obsolete or under-sourced overnight, creating fluctuating workloads.
+* **Ideological Disputes:** AfDs on politically charged subjects may devolve into POV skirmishes, requiring impartial facilitation.
+* **Notability Thresholds:** Establishing clear criteria for when a policy concept or minor political association merits a standalone article, versus being merged into broader entries.
+
+To address these, best practices on Politics (1) recommend:
+
+* **Clear Annotations:** Brief, objective reasons for nomination to guide reviewers.
+* **Specialized Tags:** Use of templates (e.g., {{BLP}} or {{merge}}) to signal proposed outcomes.
+* **Cross-Project Coordination:** Referrals to relevant projects for expert input prior to closure.
+
+**Impact and Evolution**
+Since its inception, Deletion sorting/Politics (1) has contributed to more consistent and transparent AfD outcomes for political content, reducing both unnecessary deletions of notable topics and retention of non-notable or fan-cruft articles. In 2018, the subpage underwent a redesign to integrate automated sorting bots, further streamlining entry management. Ongoing discussions on the subpage talk area continue to refine category definitions and prioritize cases aligning with Wikipedia’s mission to provide reliable, neutral information on global political affairs.
+

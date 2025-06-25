@@ -1,0 +1,37 @@
+**Legality of the Iraq War**
+
+The legality of the 2003 invasion of Iraq has been a subject of intense international debate, centering on whether the military action undertaken by a U.S.-led coalition complied with binding norms of international law, particularly the United Nations Charter and prior UN Security Council resolutions.
+
+**Background and Legal Framework**
+Under the UN Charter, the use of force by one state against another is prohibited except in cases of self-defense or when authorized by the Security Council. In the aftermath of Iraq’s 1990 invasion of Kuwait, the Security Council adopted Resolution 678 (1990), authorizing member states to “use all necessary means” to uphold and implement Resolution 660, which demanded Iraq’s withdrawal. After the Gulf War, Resolution 687 (1991) established the cease-fire terms, including disarmament obligations for Iraq’s weapons of mass destruction (WMD) programs.
+
+Throughout the 1990s, subsequent resolutions—most notably 986 (1995), 1153 (1998), and 1441 (2002)—addressed sanctions relief and inspection regimes. Resolution 1441 declared Iraq to be in “material breach” of its disarmament obligations and offered a final opportunity to comply or face “serious consequences.” However, it did not explicitly authorize force.
+
+**Coalition Position**
+In late 2002 and early 2003, the United States and the United Kingdom advanced two principal legal justifications for invasion:
+
+1. **Revival of Resolution 678 Authority:** They argued that because Iraq remained in breach of Resolution 687, the authority conferred by Resolution 678 to “use all necessary means” had not been terminated by any subsequent binding resolution. Thus, enforcement action was still permissible without a new mandate.
+
+2. **Self-Defense:** The coalition also cited a right of collective self-defense, claiming that Iraq’s non-compliance represented an ongoing threat to regional security. While invoking self-defense, the coalition did not allege an imminent attack but rather potential future aggression via WMD.
+
+The U.K. government, in its Attorney General’s legal opinion, adopted the first argument as its primary basis, while the U.S. administration emphasized both.
+
+**UN Security Council Deliberations**
+In the months preceding the invasion, the Security Council held negotiations on a new resolution explicitly authorizing force should Iraq fail to comply. Draft texts circulated by the U.K. and U.S. included language invoking Chapter VII of the UN Charter. However, key Council members—most notably France, Russia, and China—rejected the draft, insisting on more time for inspections by the UN Monitoring, Verification and Inspection Commission (UNMOVIC) and the International Atomic Energy Agency (IAEA). The draft resolution was not put to a vote due to a lack of consensus and the risk of a veto.
+
+On 17 March 2003, after Security Council talks stalled, the U.S. and U.K. announced a decision to initiate military action “to disarm Iraq.” Major combat operations commenced on 19 March 2003, without explicit Security Council authorization.
+
+**Legal Opinions and Scholarly Debate**
+The invasion’s legality was vigorously debated by international legal scholars. Some experts upheld the coalition’s interpretation of existing resolutions, arguing that prior authorizations remained in force. Others contended that Resolution 1441’s language, combined with the Council’s failure to revive enforcement authorization, precluded unilateral military action. They argued that force without a new, explicit mandate violated Article 2(4) of the UN Charter.
+
+The UN Secretary-General at the time, drawing on advisory sessions of the UN Legal Counsel, characterized the war as lacking “clear” basis in the Charter and Security Council decisions. The International Court of Justice, when asked in 2004 for an advisory opinion on the legality of the threat or use of nuclear weapons, noted jurisprudentially that unauthorized uses of force were inconsistent with the Charter but did not directly address Iraq.
+
+**International Reaction and Aftermath**
+The invasion provoked widespread diplomatic protest. More than fifty countries, including several U.S. allies, withheld support or explicitly opposed the action. Protests in major cities around the world in early 2003 reflected public skepticism of the coalition’s legal rationale.
+
+Following the fall of Baghdad in April 2003, the Coalition Provisional Authority governed Iraq under a mandate derived from U.S. and British authority, rather than a UN Chapter VII resolution. In December 2003, the Security Council adopted Resolution 1511, welcoming the invasion’s outcome and authorizing the multinational force under U.S. command, thereby regularizing the occupation but not retroactively legitimizing the initial use of force.
+
+**Legacy and Impact on International Law**
+The debate over the Iraq War’s legality has had lasting implications for the interpretation of UN resolutions and the use of force. It highlighted ambiguities in the drafting and enforcement of cease-fire terms, as well as the challenges of achieving Security Council consensus. The episode has been cited in subsequent discussions on the Responsibility to Protect and the pre-emptive use of force doctrine, underscoring tensions between state sovereignty, collective security, and humanitarian considerations.
+
+Critics argue that the Iraq case weakened the UN’s authority to regulate military interventions and encouraged unilateral action under contested legal premises. Proponents counter that adherence to international norms requires timely enforcement against serious breaches of peace obligations. The Iraq War thus remains a focal point in analyses of international legal order, state practice regarding Security Council resolutions, and the legitimacy of preventive military operations.

@@ -1,0 +1,25 @@
+**Trump Administration Farmer Bailouts**
+
+**Overview**
+Between 2018 and 2020, the Trump administration implemented a series of ad hoc assistance programs—commonly referred to as “farmer bailouts”—to mitigate the economic effects of retaliatory tariffs and the COVID-19 pandemic on U.S. agricultural producers. Chief among these were the Market Facilitation Program (MFP), launched in July 2018, and the Coronavirus Food Assistance Program (CFAP), initiated in May 2020. Together, these programs distributed over \$50 billion in direct payments to farmers, marking one of the largest expansions of U.S. farm subsidies in decades.
+
+**Background: Trade War and Agricultural Distress**
+In mid-2018, the Trump administration imposed tariffs on approximately \$250 billion of Chinese imports, prompting China to retaliate with duties on U.S. soybeans, pork, and other commodities. These measures depressed export markets and commodity prices, particularly hurting Midwestern row-crop and livestock producers. Facing widespread calls for relief, the administration turned to direct USDA payments as a stopgap, bypassing traditional Farm Bill mechanisms and congressional appropriations to expedite aid.
+
+**Market Facilitation Program (2018–2019)**
+President Trump announced the MFP on July 23, 2018, authorizing up to \$12 billion in payments for losses incurred in 2018, followed by a second tranche of \$3 billion in December 2018, and up to \$14.5 billion for 2019, bringing total authorization to \$29.5 billion. Payments were calculated per acre—ranging from \$15 to \$150 depending on county—and capped at \$250 000 per commodity group and \$500 000 per entity. By late 2019, USDA had disbursed roughly \$16 billion in MFP payments covering both 2018 and 2019 losses, with final payouts extending into early 2020.
+
+**Coronavirus Food Assistance Program (2020)**
+Amid the COVID-19 pandemic’s disruptions to food supply chains, USDA introduced CFAP on May 19, 2020, initially authorizing \$16 billion to cover lost demand and increased costs for commodities, dairy, and specialty crops. A second round (CFAP 2) on September 18, 2020, provided an additional \$14 billion for producers still beset by market disruptions, bringing CFAP’s total authorization to \$30 billion. Eligibility mirrored MFP’s per-entity limits (\$250 000 per commodity group, with combined ceilings up to \$750 000) and prioritized operators demonstrating pandemic-related losses.
+
+**Implementation and Eligibility**
+Both MFP and CFAP were administered by the Farm Service Agency through streamlined sign-up periods. Producers self-certified losses and submitted acreage reports or inventory documents; USDA calculated payments using county-level rates and commodity-specific formulas. Critics noted limited compliance checks and minimal audit funding, raising concerns about overpayments and misuse.
+
+**Political Context and Debate**
+The bailouts garnered bipartisan attention but became entwined in broader debates over the merits of the Trump administration’s trade strategy. Supporters argued that direct payments were necessary to sustain rural economies while awaiting new trade agreements. Opponents, including many Democrats and some free-market conservatives, contended that the aid rewarded the costs of an “unforced error” in trade policy and disproportionately benefited large operations. Analyses showed that a significant share of MFP funds went to the largest and wealthiest farms, with relatively little relief for small and mid-sized producers.
+
+**Economic and Social Impact**
+Total USDA subsidy payments nearly quintupled—from \$4 billion in fiscal 2017 to over \$20 billion in fiscal 2020—driven largely by MFP and CFAP. While rural communities in major commodity-producing states received critical relief, the concentration of payments raised equity concerns. Some studies linked the influx of aid to delayed structural adjustment in agriculture, as persistently low commodity prices disincentivized diversification and farm consolidation continued.
+
+**Legacy and Subsequent Developments**
+The Trump-era bailouts represented a departure from Farm Bill–driven commodity programs, setting a precedent for executive-branch emergency subsidies. They underscored the vulnerability of U.S. agriculture to geopolitical shifts and public health crises. In subsequent Farm Bill debates, lawmakers grappled with codifying emergency aid mechanisms and enhancing program transparency to avoid over-reliance on presidential directives. The Trump administration’s approach remains a reference point in discussions on resilience, trade policy, and the federal government’s role in stabilizing farm incomes.

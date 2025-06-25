@@ -1,0 +1,46 @@
+**Jobs Created during U.S. Presidential Terms**
+
+“Jobs created” is a frequently cited metric for evaluating the economic performance of U.S. presidents. While the President does not directly control job growth, the figure is used to assess the impact of administration policies—fiscal stimulus, tax changes, regulatory reform, trade agreements, and broader economic conditions—on the labor market.
+
+### Measurement and Methodology
+
+Job creation statistics are primarily derived from the U.S. Bureau of Labor Statistics (BLS) Current Employment Statistics (CES) program, often called the “establishment survey.” This monthly survey samples approximately 142,000 business establishments and government agencies to estimate non‐farm payroll employment. Key features include:
+
+* **Net Change**: Figures report the net difference in total payroll employment between periods, encompassing both new hires and separations.
+* **Seasonal Adjustment**: Data are adjusted to remove predictable seasonal hiring patterns, such as holiday retail or agricultural labor swings.
+* **Exclusions**: The CES excludes agricultural workers, self‐employed individuals, and informal (“gig”) labor; these are captured separately by the BLS household survey.
+
+Presidential job‐creation totals are often calculated from the month following inauguration through the last full month in office. Economists caution that measurement lags and the timing of recessions can distort early and late‐term figures.
+
+### Historical Context
+
+Systematic job‐creation data trace reliably to 1939, but comparisons before 1948 are limited by methodological changes. Over successive administrations, trends have reflected larger economic cycles—wartime mobilization, post‐war booms, oil shocks, dot-com expansion, and the Great Recession. While administrations frequently take credit for strong job growth, analysts note that monetary policy, global economic conditions, and automatic stabilizers (e.g., unemployment insurance) play substantial roles.
+
+### Notable Administrations
+
+* **Franklin D. Roosevelt (1933–1945)**: New Deal programs and wartime production transformed unemployment, adding millions of jobs between 1939 and 1944 as defense industries expanded.
+* **Ronald Reagan (1981–1989)**: After early 1980s recessions, the economy recovered strongly under monetary tightening and tax cuts; net payroll gains exceeded 16 million, driven by service‐sector growth and financial deregulation.
+* **Bill Clinton (1993–2001)**: Benefiting from the 1990s technology boom and balanced‐budget policies, net payrolls rose by over 22 million, averaging more than 2.5 million jobs per year.
+* **George W. Bush (2001–2009)**: Two recessions (2001 dot-com bust, 2007 financial crisis) led to net job losses of approximately 1.2 million over two terms.
+* **Barack Obama (2009–2017)**: Inherited the deepest postwar recession; after losing 8.7 million jobs by early 2010, the economy added about 11.6 million jobs through January 2017, reversing the decline.
+* **Donald Trump (2017–2021)**: The first three years saw payrolls increase by nearly 6.6 million on the strength of tax cuts and deregulation, followed by a sharp COVID-19–induced loss of over 22 million jobs in early 2020.
+* **Joe Biden (2021–present)**: Coming after the pandemic‐induced recession, the economy regained millions of jobs in 2021–2022, though late‐2023 and 2024 growth moderated amid inflation concerns and tighter monetary policy.
+
+### Economic and Political Considerations
+
+* **External Shocks**: Wars, oil crises, pandemics, and financial panics can overwhelm domestic policy. For instance, the 2008 crisis and 2020 pandemic triggered rapid, large‐scale job losses.
+* **Federal vs. Local**: State and local hiring often offsets private‐sector losses; for example, federal stimulus after the 2009 recession funded education and infrastructure jobs.
+* **Structural Change**: Globalization and technological shifts have reshaped manufacturing and service employment, complicating direct attribution to short‐term policy.
+* **Partisan Use**: Job‐creation numbers are central to campaign messaging; both major parties cite peak monthly gains to highlight their policy successes, sometimes downplaying timing effects around term beginnings and endings.
+
+### Criticisms and Limitations
+
+Economists caution against over‐attributing job growth to presidential actions. Key critiques include:
+
+* **Timing Lag**: Employment data often reflect policies enacted months earlier; monetary policy set by the Federal Reserve also exerts strong influence.
+* **Population Growth**: Net job gains must be weighed against labor‐force growth; unemployment rates and labor‐force participation provide complementary insights.
+* **Quality vs. Quantity**: Aggregate job numbers do not capture wage levels, benefit coverage, or full‐time versus part‐time distinctions, which affect living standards.
+
+### Conclusion
+
+“Jobs created during U.S. presidential terms” remains a politically resonant measure of economic performance, reflecting the health of the labor market under different administrations. While the headline net payroll figures provide a convenient comparison, nuanced analysis requires understanding the broader economic cycle, demographic trends, and the complex interplay between fiscal, monetary, and global forces shaping employment outcomes.

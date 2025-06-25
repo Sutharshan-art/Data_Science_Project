@@ -1,0 +1,44 @@
+**Dead Hand**
+
+The **Dead Hand**, known in Russia as **Perimeter**, is a Cold War–era automatic nuclear-control system developed by the Soviet Union to ensure a retaliatory strike in the event that Soviet command and control were disabled by a nuclear first strike. Conceived in the 1960s and deployed by the late 1980s, Dead Hand formed a critical pillar of Soviet “launch on warning” doctrine and contributed to the broader concept of mutual assured destruction (MAD) that underpinned nuclear deterrence between superpowers.
+
+## Historical Context
+
+During the 1950s and early 1960s, the advent of increasingly powerful thermonuclear weapons and fast intercontinental ballistic missiles (ICBMs) created a precarious strategic environment. Both the United States and the Soviet Union feared that a surprise first strike could render the adversary incapable of responding. In the Soviet leadership, concerns grew that decapitation of political and military command—through attacks on Moscow or central command bunkers—might prevent Moscow from launching its strategic arsenal, thus undermining deterrence.
+
+In response, Soviet military planners sought a system that could detect signs of a disabling attack and automatically order a nuclear counterstrike without human intervention. Such a system would guarantee retaliation even if the country’s leadership and communications networks were destroyed, thereby reinforcing the credibility of Soviet deterrence.
+
+## Development
+
+Initial studies for an automated “retaliatory strike” system began in the mid-1960s under the direction of Colonel General Yevgeny Ivanov and scientists at the Kremlin’s Scientific Research Institute of Automatic Equipment. Early prototypes tested simplified sensors and communications loops linking command posts to strategic bomber bases and missile fields. By the late 1970s, the concept evolved into the Perimeter system, integrating seismic, air-pressure, and communications-loss detectors.
+
+Construction of hardened command bunkers around Moscow, notably at Kosvinsky Mountain, provided the physical infrastructure for Perimeter’s control nodes. Parallel research refined algorithms to distinguish wartime nuclear detonations from false positives such as large earthquakes or meteor impacts.
+
+## System Design and Operation
+
+Perimeter’s core components include:
+
+* **Detection Sensors**: A nationwide network of seismic sensors, radiation detectors, and atmospheric pressure monitors designed to identify nuclear detonations and shock waves originating from Soviet territory.
+* **Communication Links**: Redundant low-frequency radio channels and laser-based underground fiber optics ensured that launch orders could reach remote missile silos and bomber airfields even if primary networks were destroyed.
+* **Automated Command Module**: Housed in a subterranean bunker, this module continuously assessed sensor data. If the system detected multiple strikes near command centers coupled with loss of secure communications for a preset interval (typically 10–30 minutes), it would assume hostile decapitation.
+* **Launch Authorization**: Upon triggering, Perimeter would transmit pre-set launch commands to surviving ICBM and submarine forces, hammering codes that activated missile sequences and released bombers from patrol orders. Human operators retained the ability to override or abort the procedure before final transmission.
+
+The system’s safeguards included multiple sensor confirmations and encrypted authentication codes to prevent accidental or unauthorized launches.
+
+## Political and Strategic Implications
+
+By ensuring a guaranteed retaliatory capability, Dead Hand bolstered Soviet strategic stability. Western analysts believed it reduced the incentive for a U.S. decapitating strike, as any first strike could still prompt massive Soviet nuclear retaliation. Consequently, the system became emblematic of the darker side of MAD: the notion that human control over apocalyptic weapons might be ceded to automated logic.
+
+During arms-control negotiations—most notably the Strategic Arms Reduction Talks (START)—Perimeter’s existence was a point of contention. U.S. negotiators pressed for increased transparency and limitations on launch-on-warning postures, while Soviet representatives argued that such systems were defensive measures vital to preserve deterrence.
+
+## Speculation and Controversy
+
+The Soviet Union kept Perimeter highly classified, and Western governments relied on espionage, satellite imagery, and defectors’ testimony to piece together its capabilities. Speculation abounded regarding its reliability, potential for false alarms, and ethical ramifications of delegating life-and-death decisions to machines.
+
+Critics argued that any automated launch system risked catastrophic accidental nuclear war due to sensor malfunctions or misinterpretation of natural phenomena. Proponents countered that human response times under nuclear attack conditions would be too slow or compromised by panic, making automated retaliation the only viable guarantee against disarmament.
+
+## Legacy and Modern Status
+
+After the Soviet Union’s collapse in 1991, Russia inherited the Perimeter system, which reportedly entered full operational readiness by 1988. While details remain classified, Russian officials have periodically reaffirmed its continued maintenance, albeit with updates integrating satellite early-warning data and improved command encryption.
+
+In the post–Cold War era, the concept of automated deterrence has lost favor in Western doctrine, which emphasizes robust human command and control. Nonetheless, Perimeter remains a potent symbol of the extent to which nuclear-armed states considered automation essential to strategic stability. Its legacy endures in ongoing debates over the role of artificial intelligence, automated decision aids, and human oversight in modern high-stakes military systems.

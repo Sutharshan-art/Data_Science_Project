@@ -1,0 +1,52 @@
+**Wikipedia talk\:Administrator elections**
+
+**Introduction**
+“Wikipedia talk\:Administrator elections” (commonly abbreviated “Wikipedia talk\:AEs”) is the central discussion page on the English Wikipedia used for nominating, evaluating, and deciding the promotion of regular editors to administrator (sysop) status. Administrators possess access to additional technical tools—such as page protection, deletion, and blocking—intended to help maintain encyclopedia quality and community standards. The Administrator elections process exemplifies Wikipedia’s community-driven governance and consensus-based decision-making.
+
+**Historical Background**
+In Wikipedia’s early years (2001–2003), administrators were appointed ad hoc by site founders or informal consensus among veteran editors. As the project grew, a more transparent and standardized procedure was needed. In August 2003, the “Requests for Adminship” (RfA) process was established: any editor who met basic activity and tenure requirements could nominate themselves or be nominated by peers. RfA discussions took place on the “Wikipedia\:Requests for adminship” page, with talk pages used for debate and consensus gauging. Over time, discussions migrated to the “Wikipedia talk\:Administrator elections” page to separate formal RfAs from broader policy talk.
+
+**Nomination and Eligibility**
+The Administrator elections process begins when a candidate is nominated—either through a self-nomination or by another editor’s recommendation—by placing a standardized nomination template on the “Wikipedia talk\:Administrator elections” page. Candidates must typically meet minimum criteria established in policy, including:
+
+* A sufficient edit count (commonly 1,500 to 2,000 edits).
+* A minimum period of active editing (commonly four to six months).
+* Familiarity with core policies (neutral point of view, verifiability, civility).
+* Demonstrated use of administrator tools in requests-for-deletion, page protection, or dispute resolution.
+
+Nomination eligibility and criteria are guided by “Wikipedia\:Administrator election policy,” which allows the community to adjust thresholds over time in response to project growth and workload.
+
+**Discussion and Consensus-Building**
+Once nominated, a candidate’s entry remains open for community discussion—usually seven days—to allow editors to ask questions, raise concerns, and express support or opposition. Discussions may cover:
+
+* **Editing history:** Quality and scope of contributions, policy adherence.
+* **Behavioral record:** Interaction style, respectfulness in conflicts, collaboration.
+* **Technical competence:** Previous use of rollback, deletion, and protection tools.
+* **Site vision:** Candidate’s perspective on Wikipedia’s mission and challenges.
+
+Editors indicate support by adding “Support” followed by reasons; opposition by adding “Oppose” with rationale; and neutrality by “Neutral” or “Comment.” Participants are expected to sign comments using four tildes (\~\~\~\~) to maintain accountability.
+
+**Decision Criteria and Outcome**
+After the discussion period, experienced community members—often including current administrators—assess whether a clear consensus exists for promotion. Although there is no strict numerical threshold (e.g., percentage of support votes), customary norms seek substantial support voices, minimal sustained objections, and reasoned debate demonstrating that the candidate’s skills and judgment meet community expectations. The closing process, known as “closing the RfA,” is performed by an uninvolved editor summarizing the discussion and announcing the decision: “Promoted” or “Not promoted.” Successful candidates are granted administrator privileges; unsuccessful candidates may re-nominate after a cooling-off period, commonly three months.
+
+**Evolution and Policy Refinement**
+Over nearly two decades, the administrator elections process has evolved through policy discussions, experiments, and retrospective reviews. Key developments include:
+
+* **Formalizing policy:** Transition from informal guidelines to the codified “Wikipedia\:Administrator election policy” allowing consistent treatment of nominees.
+* **Addressing volume:** Implementation of prerequisites (e.g., minimum edit count) to manage nomination inflow and reduce low-quality RfAs.
+* **Transparency measures:** Encouragement of signposting conflicts of interest and maintaining archives of past elections for institutional memory.
+* **Training and mentoring:** Creation of “WP\:Admin-references” and “WP\:Admin mentorship” avenues to prepare prospective candidates.
+
+**Controversies and Criticisms**
+While broadly respected, the Administrator elections process has faced criticisms:
+
+* **“Popularity contest” concerns:** Some argue that vocality and social networking can overshadow editing merit.
+* **Incumbent bias:** Observers note that established administrators and veteran editors wield disproportionate influence in consensus judgments.
+* **Process fatigue:** Lengthy, detailed discussions can deter qualified candidates from re-nomination.
+* **Diversity issues:** Calls for encouraging candidates from underrepresented regions, languages, and backgrounds to ensure broader community representation.
+
+The community has addressed these critiques through policy tweaks, outreach initiatives, and increased emphasis on behavior and skill over social visibility.
+
+**Impact on Wikipedia Governance**
+Administrator elections play a central role in Wikipedia’s self-governance, distributing responsibilities for maintaining the encyclopedia’s technical and policy standards. Administrators arbitrate edit disputes, enforce policy, and safeguard historic revisions. Their accountability to the community—via potential removal through “Requests for adminshipUndo” or “Demotion processes”—reinforces Wikipedia’s commitment to transparent authority.
+

@@ -1,0 +1,40 @@
+**Iron Curtain (countermeasure)**
+
+The **Iron Curtain** is an active protection system (APS) designed to defend lightly armored military vehicles against anti-armor threats such as rocket-propelled grenades (RPGs) and similar munitions. Developed by the U.S. company Artis, the system employs high‐speed sensors and counter-munitions to detect and intercept incoming projectiles at close range, thereby enhancing vehicle survivability in asymmetric and conventional warfare environments.
+
+### Historical and Political Context
+
+In the post-Cold War era, Western militaries increasingly confronted irregular adversaries using readily available anti-armor weapons in urban and guerrilla settings—extensively demonstrated during the conflicts in Iraq and Afghanistan. Conventional armor upgrades alone proved insufficient against hand-held rocket systems, which inflicted significant casualties on lightly protected vehicles such as the Humvee. The resulting political pressure on defense establishments to reduce vehicle losses and enhance troop protection drove investment in APS technologies as part of broader force‐protection initiatives.
+
+### Development and Technology
+
+Artis founded in 2007 by former U.S. Army engineers, leveraged advances in microelectronics, radar, and munitions to develop Iron Curtain. The system consists of two primary components:
+
+1. **Detection Subsystem**: Multiple compact electro-optical sensors mounted on the vehicle roof provide 360° coverage. They continuously scan for the muzzle flash or flight signature of an incoming RPG or recoilless rifle round.
+2. **Countermeasure Munitions**: Upon threat detection—typically at ranges under two meters—the system fires a small, directed fragmentation round that destroys or deflects the incoming projectile before it impacts the vehicle’s armor.
+
+Iron Curtain’s low collateral‐damage design allows its installation on soft-skinned vehicles and lightly armored personnel carriers operating in civilian or urban areas, addressing political and ethical concerns over civilian casualties from defensive intercepts.
+
+### Demonstrations and Trials
+
+Initial demonstrations in 2010 and 2011 at U.S. Army Aberdeen Proving Ground validated the system’s capability to defeat RPG-7 and similar threats. In 2012, the Spanish Army mounted Iron Curtain on Mowag Piranha armored vehicles during joint trials in Zaragoza, Spain, further proving its effectiveness in multinational exercises. The system’s rapid sensor-to-shooter cycle—under 10 milliseconds—was lauded by military observers as a breakthrough in APS technology.
+
+### Political and Procurement Debates
+
+The emergence of Iron Curtain and competing APS technologies (notably Israel’s Trophy system) sparked debates within defense ministries and legislatures over industrial policy, interoperability, and export controls. Proponents argued that domestically developed systems preserved national defense industrial bases and reduced reliance on foreign suppliers. Critics raised concerns about the cost per unit—estimated at several hundred thousand U.S. dollars per installation—and questioned whether APS diverted funds from other modernization priorities, such as improved armor plating or unmanned vehicle systems.
+
+In the United States, the Army’s Combat Vehicle Modernization strategy weighed the integration of Iron Curtain against the pending selection of an APS for the Stryker and Armored Multi-Purpose Vehicle (AMPV) fleets. Congressional hearings in 2014-2015 examined program affordability, domestic job creation, and tactical utility, reflecting broader political scrutiny of defense spending amid sequestration and shifting strategic priorities in the Asia-Pacific and European theaters.
+
+### Operational Role and Export Controls
+
+While no large‐scale combat deployment has been officially confirmed, Iron Curtain-equipped vehicles participated in capability demonstrations during NATO exercises in Eastern Europe after 2016, signaling allied interest in bolstering deterrence along Russia’s western frontier. Artis pursued export licenses under the U.S. International Traffic in Arms Regulations (ITAR), highlighting the political sensitivity of dual-use defense technologies. Potential customers included U.S. allies facing irregular threat environments in the Middle East and Eastern Europe.
+
+### Comparative Systems and Future Prospects
+
+Iron Curtain competes with other APS solutions—such as Trophy (Israel), ADS (Germany), and Quick Kill (U.S.)—each reflecting different design philosophies and national industrial priorities. Ongoing political discussions in NATO and at the European Defence Agency emphasize interoperability and standardized threat libraries to ensure allied vehicles can operate seamlessly in coalition operations.
+
+Looking forward, the integration of Iron Curtain with vehicle network systems and unmanned platforms is under development. Artis has explored lighter sensor arrays and counter-munition variants suitable for infantry fighting vehicles and logistic convoys. Politically, the adoption of APS like Iron Curtain underscores a consensus among defense policymakers that active defenses are integral to future armored vehicle design, as NATO recalibrates force posture in response to renewed great-power competition.
+
+### Significance
+
+The Iron Curtain APS represents a technological and doctrinal shift in vehicle protection, moving beyond passive armor to integrated, sensor-driven active defenses. Its development and evaluation have been shaped by the political imperatives of force protection, defense industrial strategy, and coalition interoperability. As military forces modernize for contested-access and hybrid threats, systems such as Iron Curtain are likely to play an increasing role in allied procurement decisions and defense policy debates.

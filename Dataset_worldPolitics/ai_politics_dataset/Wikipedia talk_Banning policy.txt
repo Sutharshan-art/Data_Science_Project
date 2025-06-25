@@ -1,0 +1,47 @@
+**Wikipedia talk\:Banning policy**
+
+**Introduction**
+“Wikipedia talk\:Banning policy” is the central discussion page on the English-language Wikipedia where editors debate, refine, and clarify the project’s policy on banning users. The underlying policy, “Wikipedia\:Banning policy,” governs when and how users may be blocked or banned from editing, and the talk page serves as the primary venue for community input, proposals for amendments, and dispute resolution concerning enforcement guidelines. As bans constitute one of the most restrictive sanctions available to Wikipedia administrators, the policy and its talk page occupy a pivotal role in balancing site integrity, freedom of contribution, and due process.
+
+**Historical Background**
+In Wikipedia’s early years (2001–2004), administrative blocks were handled on an ad hoc basis by local administrators, often with minimal public documentation. As the community grew, editors recognized the need for a formalized, transparent approach. In 2004, the “Banning policy” was drafted on the main namespace, codifying criteria for temporary and indefinite bans, distinguishing between blocks (temporary restrictions on editing certain pages) and bans (longer-term site-wide prohibitions). The corresponding talk page—“Wikipedia talk\:Banning policy”—was established simultaneously to solicit broad community feedback.
+
+**Purpose and Scope of the Talk Page**
+The talk page’s primary functions are to:
+
+1. **Develop and Revise Policy:** Editors propose amendments—such as adjusting ban durations for specific offenses, refining the categorization of misconduct (e.g., personal attacks, spamming, sockpuppetry), and clarifying escalation procedures.
+2. **Interpretation and Guidance:** Administrators and experienced editors discuss edge cases, ensuring consistent interpretation across different contexts (e.g., cross-project bans vs. site-wide blocks).
+3. **Dispute Resolution:** When editors contest a block as unfair or misapplied, the talk page serves as a forum for structured debate before escalation to higher bodies (e.g., Requests for Arbitration).
+4. **Transparency and Accountability:** By recording rationale for policy changes and major enforcement decisions, the talk page upholds Wikipedia’s norm of openness in governance.
+
+**Major Policy Debates and Milestones**
+Over nearly two decades, “Wikipedia talk\:Banning policy” has hosted numerous significant discussions:
+
+* **Introduction of Progressive Sanctions (2006):** Editors debated replacing a binary warning-or-block system with gradual sanctions (warnings → temporary blocks → topic bans), leading to formal adoption of “progressive discipline.”
+* **Sockpuppet Enforcement (2007–2008):** With rising sockpuppetry cases, the talk page refined guidelines for identifying and banning puppet accounts, including evidence thresholds and appeals procedures.
+* **Global Account Lockdown (2010):** As cross-wiki vandalism grew, discussions led to the “global lock” mechanism, allowing stewards to lock accounts across all Wikimedia projects.
+* **Harassment and Hate Speech (2015):** Editors engaged in a prolonged debate over adding “harassment” and “hate speech” as standalone grounds for immediate, indefinite bans, balancing free expression against community safety.
+* **Ban Re-evaluation Process (2019):** To address concerns about indeterminate bans, the talk page hosted proposals for a formal “ban review” or “appeals” process, culminating in guidelines for users to request unblocking after a cooling-off period.
+
+**Key Policy Elements Under Discussion**
+Current and recurring topics on “Wikipedia talk\:Banning policy” include:
+
+* **Block Durations:** The appropriate length for blocks on first-time vandalism, edit-warring, or policy-violating content removal. Proposals often distinguish between 24-hour blocks, week-long blocks, and indefinite bans.
+* **Topic Bans vs. Site-Wide Bans:** Criteria for restricting an editor’s ability to edit only certain pages (topic bans) versus the entire site. Discussions address how to determine when an editor’s misconduct is confined to a topic area and ensuring editors understand the scope of their ban.
+* **Block Evading:** Defining and responding to attempts by banned users to continue editing via new accounts, including guidance on when to indefinitely ban second accounts and related IP addresses.
+* **Procedural Fairness:** Debates over whether administrators should be required to provide advance notice, a clear statement of reasons, and instructions for appeal when issuing a ban.
+* **Privacy and Public Record:** Balancing transparency (publicly documenting bans and evidence) with privacy concerns, particularly in cases involving personal harassment or off-wiki allegations.
+
+**Community Participation and Decision-Making**
+Contributions to the talk page are open to all registered editors. Major policy changes are typically preceded by a “Request for Comments” (RfC) on the talk page, inviting editors to present rationale, evidence, and counterarguments. Once consensus emerges—often through the absence of sustained objections and the presence of clear, reasoned support—the policy page is updated, and a summary of changes is documented both on the policy page and its talk page. In unresolved or highly contentious cases, the matter may escalate to the Arbitration Committee.
+
+**Relationship to Other Governance Pages**
+“Wikipedia talk\:Banning policy” interfaces with several related pages:
+
+* **Wikipedia\:Banning policy:** The current policy text, kept in sync with talk page deliberations.
+* **Wikipedia\:Timeout, topic ban, and other sanctions guidelines:** Specialized pages detailing particular sanctions, whose updates often derive from talk page consensus.
+* **Wikipedia\:Blocking policy:** A related policy focusing specifically on page and namespace blocks rather than user bans.
+* **Requests for Arbitration:** The forum for appeals when block disputes cannot be resolved through the policy talk page.
+
+**Impact and Ongoing Evolution**
+“Wikipedia talk\:Banning policy” has been instrumental in shaping a nuanced, community-endorsed framework for sanctioning misconduct. Its open, iterative discussions reflect Wikipedia’s broader governance model, emphasizing consensus, transparency, and gradual policy refinement. As the project confronts evolving challenges—such as automated vandalism, harassment in real-time collaborations, and global legal pressures—the talk page remains a vital venue for adapting the banning policy to ensure Wikipedia remains a respectful, reliable, and inclusive encyclopedia.

@@ -1,0 +1,96 @@
+Executive privilege is the right of the president of the United States and other members of the executive branch to maintain confidential communications under certain circumstances within the executive branch and to resist some subpoenas and other oversight by the legislative and judicial branches of government in pursuit of particular information or personnel relating to those confidential communications. The right comes into effect when revealing the information would impair governmental functions. Neither executive privilege nor the oversight power of Congress is explicitly mentioned in the United States Constitution.  However, the Supreme Court of the United States has ruled that executive privilege and congressional oversight each are a consequence of the doctrine of the separation of powers, derived from the supremacy of each branch in its area of constitutional activity.
+The Supreme Court confirmed the legitimacy of this doctrine in United States v. Nixon in the context of a subpoena emanating from the judiciary instead of emanating from Congress. The Court held that there is a qualified privilege, which once invoked, creates a presumption of privilege, and the party seeking the documents must then make a "sufficient showing" that the "presidential material" is "essential to the justice of the case". Chief Justice Warren Burger further stated that executive privilege would most effectively apply when the oversight of the executive would impair that branch's national security concerns.  Regarding requests from Congress (instead of from the courts) for executive branch information, as of a 2014 study by the Congressional Research Service, only two federal court cases had addressed the merits of executive privilege in such a context, and neither of those cases reached the Supreme Court.
+In addition to which branch of government is requesting the information, another characteristic of executive privilege is whether it involves a "presidential communications privilege" or instead a "deliberative process privilege" or some other type of privilege. The deliberative process privilege is often considered to be rooted in common law. In contrast, the presidential communications privilege is often considered rooted in the separation of powers, thus making the deliberative process privilege less difficult to overcome. Generally speaking, presidents, congresses and courts have historically tended to sidestep open confrontations through compromise and mutual deference because of previous practice and precedents regarding the exercise of executive privilege.
+
+
+== Early precedents ==
+Deliberative process privilege is a specific instance of the more general principle of executive privilege.  It is usually considered to be based upon common law rather than separation of powers, and its history traces back to the English crown privilege (now known as public-interest immunity).  In contrast, the presidential communications privilege is another specific instance of executive privilege, usually considered based upon the separation of powers. Therefore, it is more difficult to overcome than the deliberative process privilege.  A significant requirement of the presidential communications privilege is that it can only protect communications sent or received by the president or his immediate advisors. In contrast, the deliberative process privilege may extend further down the chain of command.
+In the context of privilege assertions by United States presidents, law professor Michael Dorf has written: "In 1796, President George Washington refused to comply with a request by the House of Representatives for documents related to the negotiation of the then-recently adopted Jay Treaty with the Kingdom of Great Britain. Washington reasoned that the Senate alone plays a role in the ratification of treaties, and therefore the House had no legitimate claim to the material. Therefore, Washington provided the documents to the Senate but not the House."
+President Thomas Jefferson continued the precedent for this in the trial of Aaron Burr for treason in 1809. Burr asked the court to issue a subpoena duces tecum to compel Jefferson to testify or provide his private letters concerning Burr. Chief Justice John Marshall, a strong proponent of the powers of the federal government but also a political opponent of Jefferson, ruled that the Sixth Amendment to the Constitution, which allows for these sorts of court orders for criminal defendants, did not provide any exception for the president. As for Jefferson's claim that disclosure of the document would imperil public safety, Marshall held that the court, not the president, would be the judge of that. Jefferson refused to testify personally but provided selected letters.
+In 1833, President Andrew Jackson cited executive privilege when Senator Henry Clay demanded that he produce documents concerning statements the president made to his cabinet about the removal of federal deposits from the Second Bank of the United States during the Bank War.
+
+
+== Cold War era ==
+During 1947–49, several major security cases became known to Congress. There followed a series of investigations, culminating in the famous Hiss–Chambers case of 1948. At that point, the Truman Administration issued a sweeping secrecy order blocking congressional efforts from FBI and other executive data on security problems. Security files were moved to the White House and Administration officials were banned from testifying before Congress on security related matters. Investigation of the State Department and other cases was stymied, and the matter was left unresolved.
+During the Army–McCarthy hearings in 1954, Eisenhower used the claim of executive privilege to forbid the "provision of any data about internal conversations, meetings, or written communication among staffers, with no exception to topics or people." Department of Defense employees were also instructed not to testify on such conversations or produce any such documents or reproductions. This was done to refuse the McCarthy Committee subpoenas of transcripts of monitored telephone calls from Army officials, as well as information on meetings between Eisenhower officials relating to the hearings. This was done in the form of a letter from Eisenhower to the Department of Defense and an accompanying memo from Eisenhower Justice. The reasoning behind the order was that there was a need for "candid" exchanges among executive employees in giving "advice" to one another. In the end, Eisenhower invoked the claim 44 times between 1955 and 1960.
+
+
+== United States v. Nixon ==
+
+The Supreme Court addressed executive privilege in United States v. Nixon, the 1974 case involving the demand by Watergate special prosecutor Archibald Cox that President Richard Nixon produce the audiotapes of conversations he and his colleagues had in the Oval Office of the White House in connection with criminal charges being brought against members of the Nixon Administration for breaking into the Watergate complex. President Nixon invoked the privilege and refused to produce any records.
+The Supreme Court did not reject the claim of privilege out of hand; it noted, in fact, "the valid need for protection of communications between high Government officials and those who advise and assist them in the performance of their manifold duties" and that "[h]uman experience teaches that those who expect public dissemination of their remarks may well temper candor with a concern for appearances and for their own interests to the detriment of the decisionmaking process." The Supreme Court stated: "To read the Article II powers of the president as providing an absolute privilege as against a subpoena essential to enforcement of criminal statutes on no more than a generalized claim of the public interest in confidentiality of nonmilitary and nondiplomatic discussions would upset the constitutional balance of 'a workable government' and gravely impair the role of the courts under Article III." Because Nixon had asserted only a generalized need for confidentiality, the Court held that the more considerable public interest in obtaining the truth in the context of a criminal prosecution took precedence.
+
+Once executive privilege is asserted, coequal branches of the Government are set on a collision course. The Judiciary is forced into the difficult task of balancing the need for information in a judicial proceeding and the Executive's Article II prerogatives. This inquiry places courts in the awkward position of evaluating the Executive's claims of confidentiality and autonomy, and pushes to the fore difficult questions of separation of powers and checks and balances. These 'occasion[s] for constitutional confrontation between the two branches' are likely to be avoided whenever possible. United States v. Nixon, supra, at 692.
+
+
+== Post-Watergate era ==
+
+
+=== Ford administration ===
+In the wake of Nixon's heavy use of executive privilege to block investigations of his actions, Ford was scrupulous in minimizing its usage. However, that complicated his efforts to keep congressional investigations under control. Political scientist Mark J. Rozell concludes that Ford's:
+
+failure to enunciate a formal executive privilege policy made it more difficult to explain his position to Congress. He concludes that Ford's actions were prudent; they likely salvaged executive privilege from the graveyard of eroded presidential entitlements because of his recognition that the Congress was likely to challenge any presidential use of that unpopular perquisite.
+
+
+=== Reagan administration ===
+In November 1982, President Ronald Reagan signed a directive regarding congressional requests for information. Reagan wrote that if Congress seeks information potentially subject to executive privilege, executive branch officials should "request the congressional body to hold its request in abeyance" until the president decides whether to invoke it.
+
+
+=== George H. W. Bush administration ===
+Before becoming attorney general in 1991, Deputy Attorney General William P. Barr issued guidance in 1989 about responding to congressional requests for confidential executive branch information. He wrote: "Only when the accommodation process fails to resolve a dispute, and a subpoena is issued does it become necessary for the president to consider asserting executive privilege".
+
+
+=== Clinton administration ===
+The Clinton administration invoked executive privilege on fourteen occasions.
+In 1998, President Bill Clinton became the first president since Nixon to assert executive privilege and lose in court when a federal judge ruled that Clinton aides could be called to testify in the Clinton–Lewinsky scandal.
+Later, Clinton exercised a form of negotiated executive privilege when he agreed to testify before the grand jury called by Independent Counsel Kenneth Starr only after negotiating the terms under which he would appear. Declaring that "absolutely no one is above the law", Starr said such a privilege "must give way" and evidence "must be turned over" to prosecutors if it is relevant to an investigation.
+
+
+=== George W. Bush administration ===
+The Bush administration invoked executive privilege on six occasions.
+President George W. Bush first asserted executive privilege in December 2001 to deny disclosure of details regarding former attorney general Janet Reno, the scandal involving Federal Bureau of Investigation (FBI) misuse of organized crime informants James J. Bulger and Stephen Flemmi, and Justice Department deliberations about President Bill Clinton's fundraising tactics.
+Bush invoked executive privilege "in substance" in refusing to disclose the details of Vice President Dick Cheney's meetings with energy executives, which the GAO did not appeal. In a separate Supreme Court decision in 2004, however, Justice Anthony Kennedy noted, "Executive privilege is an extraordinary assertion of power 'not to be lightly invoked.'" United States v. Reynolds, 345 U.S. 1, 7 (1953).
+Further, on June 28, 2007, Bush invoked executive privilege in response to congressional subpoenas requesting documents from former presidential counsel Harriet Miers and former political director Sara Taylor, citing that:
+
+The reason for these distinctions rests upon a bedrock presidential prerogative: for the president to perform his constitutional duties, it is imperative that he receive candid and unfettered advice and that free and open discussions and deliberations occur among his advisors and between those advisors and others within and outside the Executive Branch.
+
+On July 9, 2007, Bush again invoked executive privilege to block a congressional subpoena requiring the testimonies of Taylor and Miers. Furthermore, White House Counsel Fred F. Fielding refused to comply with a deadline set by the chairman of the Senate Judiciary Committee to explain its privilege claim, prove that the president personally invoked it, and provide logs of which documents were being withheld. On July 25, 2007, the House Judiciary Committee voted to cite Miers and White House Chief of Staff Joshua Bolten for contempt of Congress.
+On July 13, less than a week after claiming executive privilege for Miers and Taylor, Fielding effectively claimed the privilege again, this time concerning documents related to the 2004 death of Army Ranger Pat Tillman. In a letter to the House Committee on Oversight and Government Reform, Fielding claimed certain papers relating to discussion of the friendly fire shooting "implicate Executive Branch confidentiality interests" and would therefore not be turned over to the committee.
+On August 1, 2007, Bush invoked the privilege for the fourth time in a little over a month, rejecting a subpoena for Karl Rove. The subpoena would have required Rove to testify before the Senate Judiciary Committee in a probe over fired federal prosecutors. In a letter to Senate Judiciary chairman Patrick Leahy, Fielding claimed that "Rove, as an immediate presidential advisor, is immune from compelled congressional testimony about matters that arose during his tenure and that relate to his official duties in that capacity."
+Leahy claimed that President Bush was not involved in the decision to terminate the service of U.S. attorneys. Furthermore, he asserted that the president's executive privilege claims to protect Bolten and Rove were illegal. The senator demanded that Bolten, Rove, Sara Taylor, and J. Scott Jennings comply "immediately" with their subpoenas. This development paved the way for a Senate panel vote on whether to advance the citations to the full Senate. "It is obvious that the reasons given for these firings were contrived as part of a cover-up and that the stonewalling by the White House is part and parcel of that same effort", Leahy concluded.
+As of 17 July 2008, Rove still claimed executive privilege to avoid a congressional subpoena. Rove's lawyer wrote that his client is "constitutionally immune from compelled congressional testimony."
+
+
+=== Obama administration ===
+On June 20, 2012, President Barack Obama asserted executive privilege to withhold certain Department of Justice documents related to the Operation Fast and Furious controversy ahead of a United States House Committee on Oversight and Government Reform vote to hold Attorney General Eric Holder in contempt of Congress for refusing to produce the documents. Later the same day, the House Committee voted 23–17 along party lines to hold Holder in contempt of Congress over not releasing the documents.
+
+
+==== House investigation of the SEC ====
+Leaders of the U.S. Securities and Exchange Commission (SEC) testified on February 4, 2009, before the United States House Committee on Financial Services subcommittee. The subject of the hearings was why the SEC had failed to act when Harry Markopolos, a private fraud investigator from Boston, alerted the SEC, detailing his persistent and unsuccessful efforts to get the SEC to investigate Bernard Madoff beginning in 1999. One official claimed executive privilege in declining to answer some questions.
+
+
+=== Trump administration ===
+While investigating claims of Russian interference in the 2016 presidential election, the Senate Intelligence Committee subpoenaed former FBI Director James Comey to testify. Comey was fired several weeks before being subpoenaed but had appeared before the committee once before in March while still serving as director. Less than a week before the scheduled hearing, it was reported that President Trump was considering invoking executive privilege to prevent Comey's testimony. According to attorney Page Pate, it seemed unlikely that executive privilege would be applicable, as Trump had publicly spoken about the encounters in question multiple times.
+Sarah Huckabee Sanders, a White House spokesperson, released a statement on June 5: "The president's power to assert executive privilege is very well-established. However, to facilitate a swift and thorough examination of the facts sought by the Senate Intelligence Committee, President Trump will not assert executive privilege regarding James Comey's scheduled testimony."
+On May 8, 2019, Trump asserted executive privilege regarding the entire Mueller report at the attorney general's request. According to The New York Times, this was Trump's "first use of the secrecy powers as president".
+On June 12, 2019, Trump asserted executive privilege over documents related to adding a citizenship question to the 2020 census. This was in response to a subpoena from the House of Representatives leading up to their impending vote over whether to hold Wilbur Ross and Attorney General William Barr in contempt of Congress over the census question.
+Trump invoked the privilege against the House Judiciary Committee: In re: Don McGahn then-U.S. District Judge Ketanji Brown Jackson ruled against the President, but an appellate court overruled Jackson.
+Congress's ability to subpoena the president's tax returns was the subject of the federal court case Trump v. Mazars USA, LLP. However, the Supreme Court ruled in 2020 that this case raised questions of separation of powers rather than executive privilege. It said Congress needed a legislative reason to request the documents rather than conducting a criminal investigation, which is a power of the executive branch.
+
+
+=== Biden administration ===
+On May 16th, 2024, Biden asserted executive privilege over tapes of interviews from the special counsel report into his mishandling of classified documents.  This came as Republicans in the House of Representatives were considering a contempt motion for Attorney General Merrick Garland, who had refused a congressional subpoena to turn over the tapes.
+
+
+== See also ==
+State secrets privilege
+Attorney–client privilege
+Parliamentary privilege
+
+
+== References ==
+
+
+== Further reading ==
+Johnsen, Dawn E. (1999). "Executive Privilege Since United States v. Nixon: Issues of Motivation and Accommodation". Minnesota Law Review. 83 (5): 1127–1141. SSRN 3385755.
+Rozell, Mark J. (2010). Executive Privilege : Presidential Power, Secrecy, and Accountability (3rd, rev. and updated ed.). Lawrence: University Press of Kansas. ISBN 978-0-7006-1712-8.

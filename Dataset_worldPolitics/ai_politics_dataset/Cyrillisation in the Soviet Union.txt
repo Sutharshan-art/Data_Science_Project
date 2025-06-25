@@ -1,0 +1,49 @@
+**Cyrillisation in the Soviet Union**
+
+Cyrillisation in the Soviet Union refers to the policy and process by which the Cyrillic alphabet was imposed upon the writing systems of a wide range of non-Slavic languages within the USSR. Conducted primarily during the 1930s and early 1940s, Cyrillisation replaced earlier scripts—Arabic in many Central Asian Turkic and Caucasian languages, and Latin in several others—with Cyrillic orthographies standardized under Moscow’s direction. This initiative formed part of broader language and nationality policies aimed at political control, cultural integration, and the promotion of Russian as the Union’s lingua franca.
+
+## Historical Background
+
+In the aftermath of the 1917 Revolution, Soviet nationality policy initially favoured **korenizatsiya** (“indigenization”), which encouraged the development of local languages, cultures, and cadres. Between 1922 and 1928, many Turkic and Caucasian languages transitioned from Arabic‐based scripts to Latin script under the “Uniform Turkic Alphabet” and similar Latinisation campaigns. The goal was to increase literacy, modernize writing systems, and weaken religious institutions tied to Arabic orthographies.
+
+## Shift to Cyrillisation
+
+By the late 1920s, Soviet leadership grew concerned that widespread use of Latin alphabets facilitated cultural and economic ties with Turkey and Iran, and impeded the integration of minority populations into a Russian‐centered Soviet identity. In 1930, the Party issued directives calling for a gradual shift to Cyrillic for “Oriental” languages. Between 1937 and 1940, the Central Asian republics—Azerbaijani, Uzbek, Turkmen, Kazakh, Kyrgyz, and Tajik—along with many North Caucasian and Volga‐Ural languages (Tatar, Bashkir, Chuvash, Mari, Udmurt, and others), officially adopted Cyrillic‐based orthographies.
+
+## Political and Ideological Motivations
+
+Cyrillisation served multiple interlinked objectives:
+
+* **Russification and Political Control**: Embedding Cyrillic reinforced the prestige of the Russian language and centralized Party authority. Schools and publications in local languages now employed scripts closely aligned with Russian orthography, facilitating bilingual education and administration.
+* **Integration of Republics**: Standardizing scripts across diverse languages was perceived to promote intra‐republic communication and loyalty to the Soviet state, countering separatist or pan‐Turkic sentiments.
+* **Isolation from External Influence**: By discarding Latin and Arabic scripts, Soviet authorities curtailed cultural and intellectual exchange with non‐Soviet Muslim and Turkic societies, reinforcing ideological isolation.
+
+## Implementation and Standardization
+
+The shift to Cyrillic was managed by the People’s Commissariat for Education (Narkompros) and linguistic institutes established in each republic. Key steps included:
+
+1. **Script Design**: Linguists developed new alphabets by adapting the 33-letter Russian Cyrillic with additional characters or digraphs to represent language-specific phonemes.
+2. **Textbook and Publishing Overhaul**: Schools replaced Latin or Arabic textbooks with Cyrillic versions; local presses retooled printing equipment.
+3. **Teacher Training**: Rapid instruction programs were launched to retrain thousands of teachers, often involving summer courses and intensive workshops.
+4. **Public Campaigns**: Newspapers and radio broadcasts promoted the new scripts, while posters and “literacy brigades” traveled rural areas to teach farmers and workers.
+
+By 1941, the vast majority of Soviet non-Slavic languages utilized Cyrillic alphabets approved by Moscow.
+
+## Impact on Language and Society
+
+Cyrillisation had profound effects on linguistic development and cultural identity:
+
+* **Literacy Rates**: The initial disruption caused short-term declines in literacy among older generations, but the unified approach ultimately facilitated the rapid expansion of bilingual education in local and Russian languages.
+* **Literary Production**: Writers and journalists learned new orthographies and produced literature in Cyrillic, but some older works in Latin or Arabic scripts became inaccessible to new readers, creating a generational literature gap.
+* **Cultural Discontinuity**: The break with Islamic script traditions and Latin influences altered the visual appearance of written language, contributing to a sense of dislocation among communities with deep Arabic script heritage.
+* **Administrative Efficiency**: Government records, legal documents, and statistical data became easier to compile and compare across republics, strengthening centralized planning mechanisms.
+
+## Post-Soviet Developments and Legacy
+
+After the Soviet collapse in 1991, some newly independent states reevaluated their script policies. Azerbaijan reverted to a modified Latin alphabet in 1992; Turkmenistan and Uzbekistan have since adopted Latin scripts; while Kazakhstan and Kyrgyzstan have announced gradual Latinisation plans to complete by the 2020s. Other republics—such as Tajikistan, Ukraine, and the Baltic states—similarly shifted away from Cyrillic to assert national identity.
+
+Nevertheless, Cyrillisation’s legacy endures: Russian remains a key interethnic language across the former USSR, and many educational institutions and older generations continue to use Cyrillic. The Soviet-era alphabets shaped the standardization of diverse languages, and many post-Soviet scripts still reflect Cyrillic influences in their character sets and orthographic conventions.
+
+## Conclusion
+
+Cyrillisation in the Soviet Union exemplified how language policy functioned as an instrument of state power, balancing educational goals, ideological conformity, and administrative integration. Though it achieved rapid script uniformity and facilitated literacy campaigns, it also created cultural ruptures and contributed to long-term Russification. The post-1991 reversal of Cyrillisation in several republics underscores the enduring link between script choice and national self-determination in the former Soviet space.

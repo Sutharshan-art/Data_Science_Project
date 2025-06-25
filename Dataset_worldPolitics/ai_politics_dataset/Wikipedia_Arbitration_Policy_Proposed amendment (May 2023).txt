@@ -1,0 +1,63 @@
+**Wikipedia Arbitration Policy – Proposed Amendment (May 2023)**
+
+**Background**
+The Wikipedia Arbitration Policy establishes the framework by which the English Wikipedia community’s ultimate dispute-resolution body, the Arbitration Committee (ArbCom), conducts its proceedings and issues binding decisions. Originally adopted in 2004 as part of the “Requests for Arbitration” process, the policy has been revised periodically to clarify ArbCom’s scope, standards of evidence, and procedural norms. By early 2023, ArbCom members and community stakeholders identified areas requiring greater transparency, consistency, and due-process protections, prompting a formal proposal to amend the policy in May 2023.
+
+**Rationale for Amendment**
+Several high-profile arbitration cases in 2021–2022 had drawn criticism regarding:
+
+* **Lack of Clarity in Evidence Standards:** Disparate rulings on sockpuppetry and paid-editing allegations underscored inconsistencies in how ArbCom weighed technical (e.g., checkuser) evidence versus documentary sources.
+* **Procedural Transparency:** Community members called for clearer timelines and publication of redacted hearing summaries to enhance understanding of ArbCom’s reasoning while preserving privacy of parties.
+* **Appeals and Review:** Unlike most judicial systems, ArbCom lacked a formal mechanism for parties to request reconsideration of decisions, leading to appeals through ad hoc “requests for reconsideration” without codified criteria.
+
+These concerns coalesced into a community consensus that ArbCom’s underpinning policy required systematic revision.
+
+**Proposal Overview**
+On 3 May 2023, a draft amendment was posted to “Wikipedia\:Arbitration/Policy/Proposed amendment/May 2023.” Key elements included:
+
+1. **Standardized Evidence Protocols:**
+
+   * **Tiered Evidence Classification:** Introduction of Tier 1 (technical forensic evidence, e.g., checkuser logs), Tier 2 (documentary evidence, such as email leaks), and Tier 3 (testimonial evidence, including editor statements). ArbCom would be required to articulate which tiers informed its conclusions.
+   * **Disclosure Requirements:** Mandating that parties receive notice of all Tier 1 evidence used against them, subject to redaction for privacy.
+
+2. **Enhanced Procedural Transparency:**
+
+   * **Public Timetable:** ArbCom must publish expected dates for major milestones (notice of hearing, submission deadlines, and decision publication) within seven days of case acceptance.
+   * **Redacted Summaries:** Decisions would be accompanied by a one-page public summary highlighting findings of fact, legal conclusions, and sanction rationales, with sensitive details kept confidential.
+
+3. **Formal Review Mechanism:**
+
+   * **Motion for Reconsideration:** Establishing a “Motion for Reconsideration” process allowing a party to request review within 30 days of a decision if significant procedural irregularities or newly discovered material evidence exist.
+   * **Grounds and Limits:** Specifying limited grounds (procedural unfairness, material misapprehension of evidence) and capping the number of reconsiderations to one per case to prevent endless appeals.
+
+**Discussion and Community Input**
+The proposal attracted robust debate on the Arbitration Policy talk page throughout May and June 2023. Editors raised a variety of concerns and suggestions:
+
+* **Supportive Views:** Proponents argued that codifying evidence tiers would promote consistency and fairness, while public timetables and summaries would demystify ArbCom’s work for the broader community.
+* **Critical Perspectives:** Some expressed worry that mandatory disclosure of technical evidence could compromise checkuser confidentiality and reveal ArbCom’s detection methods to potential abusers. Others cautioned that a formal reconsideration process might overburden ArbCom’s limited volunteer capacity.
+* **Refinements Suggested:**
+
+  * Narrowing the disclosure requirement to a high-level description of Tier 1 evidence rather than detailed logs.
+  * Extending the motion window from 30 to 45 days to accommodate parties on hiatus.
+  * Including a requirement for ArbCom to post anonymized case statistics quarterly to monitor policy impact.
+
+A total of 112 editors participated in the discussion, with sentiment roughly split between strong support (42%), qualified support with amendments (38%), and opposition (20%).
+
+**Decision and Adoption**
+Following the standard “Request for Comments” (RfC) period, community consensus emerged in July 2023 in favor of adopting the amendment with modifications. The ArbCom policy page was revised on 15 July 2023 to incorporate:
+
+* Tiered evidence classifications, with redacted disclosure protocols.
+* A public “ArbCom Calendar” outlining expected case timelines.
+* The “Motion for Reconsideration” process with a 45-day window and specified grounds.
+
+A transitional provision allowed cases accepted before 1 September 2023 to follow either the old or new procedures by party agreement.
+
+**Implementation and Early Impact**
+In the months following adoption, ArbCom convened training sessions for new members on the revised policy. Early indicators suggested:
+
+* **Improved Clarity:** Parties reported greater satisfaction with understanding the evidence basis for decisions.
+* **Timeliness:** Publication of decision summaries and timetables contributed to perceptions of efficiency, though ArbCom cautioned it would take additional cycles to fully assess long-term effects.
+* **Review Requests:** Three motions for reconsideration were filed by the end of 2023, two of which were denied on procedural grounds, and one granted, resulting in a limited factual re-hearing.
+
+**Significance and Future Prospects**
+The May 2023 amendment to the Arbitration Policy represents a noteworthy evolution in Wikipedia’s self-governance, reflecting a maturing institution seeking to balance confidentiality, consistency, and transparency in its highest dispute-resolution body. As ArbCom continues to refine its processes, the community may revisit the policy in future cycles—potentially expanding data-driven evaluation of sanctions or integrating restorative justice principles into its toolkit. The successful adoption of these reforms underscores Wikipedia’s capacity for principled, collaborative policy development in complex governance domains.

@@ -1,0 +1,62 @@
+**List of Aviation Shootdowns and Accidents during the Yugoslav Wars**
+
+During the breakup of the Socialist Federal Republic of Yugoslavia (1991–2001), combatants employed aircraft extensively for transport, close air support, reconnaissance, and enforcement of no-fly zones. Both military engagements and harsh operating conditions led to numerous shootdowns and accidents. Below is a summary of the most significant incidents, organized by conflict phase, with attention to their political and operational context.
+
+---
+
+## Slovenian Ten-Day War (June–July 1991)
+
+* **No confirmed combat shootdowns** occurred during the brief conflict between the Slovenian Territorial Defense and the Yugoslav People’s Army (JNA).
+* **Accidents:** Several JNA helicopters (Mi-8/17) and light transport aircraft reported forced landings or crashes due to friendly fire, navigational errors in mountainous terrain, and mechanical failures under austere conditions. The unclear chain of command and lack of adequate air traffic deconfliction contributed to these losses.
+
+## Croatian War of Independence (1991–1995)
+
+* **JNA Shootdowns by Croatian Air Defense:**
+
+  * *August 1991:* A Yugoslav MiG-21 was shot down near Vukovar by Croatian air defenses, marking one of the first fixed-wing combat losses.
+  * *1992:* Croatian armed forces, having acquired shoulder-fired SAMs (SA-7), downed several JNA helicopters (Mi-8/17) conducting troop insertions in Dalmatia and Banovina.
+* **Accidents:**
+
+  * *October 1991:* A Croatian MiG-21 crashed on takeoff at Pleso Air Base, killing both pilots—attributed to maintenance issues amid rapid militarization.
+  * *1993:* Multiple civilian C-47/DC-3 transports chartered by humanitarian organizations crashed in mountainous areas due to poor weather and airstrip conditions, exacerbating concerns about neutral relief operations.
+
+## Bosnian War (1992–1995)
+
+* **Early UN and JNA Helicopter Losses:**
+
+  * *14 December 1992:* Two United Nations relief helicopters (SA-330 Puma) were downed—one by Bosnian Serb ground fire near Gornji Vakuf, and one crashed under ambiguous circumstances en route to Srebrenica—resulting in the death of nine UN peacekeepers.
+* **NATO Enforcement – Operation Deny Flight (1993–1995):**
+
+  * *28 February 1994:* USAF F-16CJ 88-0428 shot down a Republika Srpska Air Force Jastreb near Banja Luka, the first combat kill by a USAF fighter outside a declared war, demonstrating NATO’s willingness to enforce the no-fly zone mandated by UN Resolution 816.
+  * *10 March 1994:* Two USAF F-16s intercepted and downed a Serb Su-25 near Tuzla, underscoring NATO’s escalating air combat rules of engagement.
+* **Bosnian Serb Shootdowns of NATO Helicopters:**
+
+  * *14 May 1995:* An Italian Army AB-205 helicopter was hit by heavy machine-gun fire but managed a crash landing; all aboard survived.
+* **Accidents:**
+
+  * *1993–1995:* Several MiG-21s operated by Bosnia’s Army of the Republic of Bosnia and Herzegovina (ARBiH) crashed due to spare-parts shortages and insufficient pilot training, reflecting logistic challenges under embargoes.
+
+## Kosovo War (1998–1999)
+
+* **NATO Aircraft Losses to Yugoslav Air Defenses:**
+
+  * *27 March 1999:* An F-117A Nighthawk stealth fighter (AF Ser. No. 82-0806) was shot down by an SA-3 Goa battery near Belgrade. This rare loss of a stealth asset had a significant impact on NATO’s operational planning and highlighted the resilience of Yugoslav integrated air defenses.
+  * *2 May 1999:* A USAF F-16CJ was lost to an SA-6 Gainful missile over Drina Valley during Operation Allied Force; the pilot ejected and was rescued, but the incident intensified debates over coalition tactics.
+* **Yugoslav Aircraft Losses:**
+
+  * Limited fixed-wing sorties by the JNA/Serbian Air Force ended in several Su-22 and J-22 Orao losses to NATO strikes and accident under heavy airspace restrictions.
+* **Accidents:**
+
+  * *1999:* Multiple Yugoslav helicopter accidents (Mi-8/17 and SA-341 Gazelle) occurred due to night-flying under threat, mechanical fatigue, and crew disorientation, reflecting the high-risk environment of intense airspace denial.
+
+---
+
+## Political and Military Significance
+
+* **Escalation of International Involvement:** Shootdowns during the Bosnian and Kosovo phases marked key turning points—NATO air-to-air engagements demonstrated alliance resolve, while the F-117 loss signaled the limits of stealth technology against well-prepared defenses.
+* **Humanitarian Implications:** Downing of UN and civilian relief aircraft impacted neutral humanitarian operations and raised legal questions about combatant immunity and safe corridors.
+* **Logistics and Maintenance:** Widespread accidents underscored the effects of sanctions, logistical shortfalls, and operational tempo on the airworthiness of both state and non-state operators.
+
+## Legacy
+
+The record of aviation shootdowns and accidents during the Yugoslav Wars informs studies of modern air warfare, multinational enforcement of no-fly zones, and the interplay between airpower and ground operations in ethnically fragmented conflicts. These incidents continue to influence NATO doctrine, rules of engagement, and international legal frameworks governing aerial conflict in civil war contexts.

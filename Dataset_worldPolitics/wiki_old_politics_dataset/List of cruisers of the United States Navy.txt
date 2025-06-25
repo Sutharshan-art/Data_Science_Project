@@ -1,0 +1,745 @@
+This list of cruisers of the United States Navy includes all ships that were ever called "cruiser", either publicly or in internal documentation.
+The Navy has 9 Ticonderoga-class cruisers in active service, as of 10 October 2024, with the last tentatively scheduled for decommissioning in 2029. With the cancellation of the CG(X) program in 2010, the Navy currently has no cruiser replacement program planned. The Navy is looking to the Aegis-equipped Arleigh Burke-class destroyers to increasingly fill the role of the cruiser in the protection of the carrier strike group, as it could be well into the 2030s before any possible cruiser replacement program is up and running.
+Ship status is indicated as either currently active [A] (including ready reserve), inactive [I], or precommissioning [P]. Ships in the inactive category include only ships in the inactive reserve, ships which have been disposed from US service have no listed status. Ships in the precommissioning category would include ships under construction or on order; as described above there currently are no such cruisers.
+
+
+== Historical overview ==
+
+
+=== Nomenclature ===
+Comprehension of the history of cruisers as shown in these lists requires some understanding of the unique role (sharing both independent and combined fleet operations) that cruisers were expected to support in the US fleet, and of the consequent influence this role had on design. In one example, the Navy's Bureau of Ships issued a memorandum in 1947 listing the ways in which cruiser hulls differed from destroyer hulls, including details such as double hull construction, electrical generation and distribution, water mains for firefighting, fuel lines and tankage, and fresh water distillation.
+CGN-9 Long Beach, commissioned in 1961, was the last US cruiser built on a true cruiser hull. All subsequent cruisers, including nuclear powered cruisers, were based on the less expensive and less capable destroyer hulls. The one attempt since Long Beach to revert to the advantages of a "cruiser hull" design was the canceled CSGN nuclear strike cruiser; the CSGN proposal mentioned the greater powerplant survivability from the separation of the two nuclear reactors in a cruiser hull over the adjacent reactors in a destroyer hull.
+The sole example of a destroyer built on a cruiser hull was the experimental DL-1 Norfolk, which was originally classed as a hunter-killer cruiser (CLK).
+
+
+=== Overview of hull classifications ===
+
+Since the cruiser nomenclature predates the hull numbering system, and there were several confusing renumberings and renamings, there are multiple entries on these lists referring to the same physical ship. Combat history summaries (wars and battle stars) are listed only for the specific hull classification and number; for example, the World War II battle stars for a heavy cruiser (CA) and the Vietnam War battle stars for the same ship after its conversion to a guided missile cruiser (CG) are listed separately in each ship type list.
+
+
+=== Hull reclassifications and skipped hull numbers ===
+
+CA-1, CA-6 and CA-10 were never used, as ACR-1 Maine, ACR-6 California/San Diego and ACR-10 Tennessee/Memphis were lost prior to the 1920 redesignation, and their sisters' original hull numbers were carried over. CA-20 through CA-23 were skipped with the merger of the CA and CL sequences, which allowed the reclassification of the Washington Treaty CLs as CAs without re-numbering.
+Heavy cruisers CA-149 and CA-151 to CA-153, light cruisers CL-154 to CL-159, and nuclear guided missile cruiser CGN-42 were canceled before being named.
+Guided missile cruisers CG-1 through 8 and CG-10 through 12 were converted from World War II cruisers. CAG-1 USS Boston and CAG-2 USS Canberra retained most of their original gun armament and were later returned to their gun cruiser designations CA-69 and CA-70. CGN-9, Long Beach, originally held the last designation in the heavy-light cruiser sequence, CLGN-160.
+CG-15 was skipped so the Leahy-class guided missile frigates (CG-16 class) could be redesignated without renumbering. The other missing numbers in the guided-missile cruiser series, 43–46, were not used so that DDG-47 Ticonderoga and DDG-48 Yorktown could be similarly redesignated. (It has been argued in some sources that the DDG-993 Kidd-class guided missile destroyers, which were essentially identically armed to the Virginia-class cruisers, should have been redesignated CG-43 through −46.)
+Before 30 June 1975, CG-16 USS Leahy through CGN-38 USS Virginia were designated DLG or DLGN (Destroyer Leader, Guided Missile (Nuclear powered)). They were redesignated cruisers in the 1975 ship reclassification. CGN-39 USS Texas and CGN-40 USS Mississippi were laid down as DLGNs but redesignated CGN before commissioning. CG-47 Ticonderoga and CG-48 Yorktown were ordered as guided missile destroyers (DDG) but were redesignated to guided missile cruisers (CG) before any ship was laid down. CGN-41 Arkansas and CG-49 through 73 were ordered, laid down and delivered as guided missile cruisers, although as Virginia or Ticonderoga-class ships they had not been designed as cruisers.
+
+
+== Cruisers without hull designations ==
+
+
+=== First cruisers ===
+The first three modern cruisers in the Navy, the Atlanta, Boston, and Chicago, were most successful as technology demonstrators that stimulated the US industrial base, with features such as steel hulls and electricity generation. Their technology proved so operationally decisive they came to be seen as the dividing line between the "Old Navy" and the "New Navy". The last two protected cruisers which initially served without hull classification numbers, the New Orleans and Albany, were purchased from a British builder during mobilization for the 1898 Spanish–American War.
+
+Atlanta (1884), protected cruiser
+Boston (1884), protected cruiser – Spanish–American War, later Despatch (IX-2)
+Chicago (1885), protected cruiser
+Vesuvius (1888), experimental dynamite guns – Spanish–American War
+New Orleans class
+
+New Orleans (1898), ex-Brazilian Amazonas – Spanish–American War, WW1
+Albany (1899), ex-Brazilian Almirante Abreu – Spanish–American War, WW1
+
+
+=== Armed merchant cruisers ===
+
+Beginning in 1891 Congress subsidized a number of fast ocean liners with plans to requisition them in wartime. St. Louis, St. Paul, Harvard, and Yale were the largest and were chartered by the Navy for the Spanish–American War, and seven others were purchased in 1898.
+
+St. Louis (1894) – Spanish–American War
+St. Paul (1895) – Spanish–American War
+Harvard (1898), ex-SS City of New York – Spanish–American War, later WW1 as troopship USS Plattsburg SP-1645
+Yale (1889), ex-SSCity of Paris – Spanish–American War, later WW1 as troopship USS Harrisburg ID-1663
+Badger (1889), ex-Yumuri – Spanish–American War
+Panther (1889), ex-Austin – Spanish–American War, later WW1 as destroyer tender AD-6
+Prairie (1890), ex-El Sol – Spanish–American War, United States occupation of Veracruz, later WW1 as destroyer tender AD-5
+Buffalo (1892), ex-El Cid, later WW1 as destroyer tender AD-8
+Yankee (1892), ex-El Norte – Spanish–American War, sank 4 December 1908 after grounding
+Yosemite (1892), ex-El Sud – Spanish–American War, scuttled on or after 15 November 1900 after typhoon damage
+Dixie (1893), ex-El Rio – Spanish–American War, later WW1 as destroyer tender, later AD-1
+
+
+=== German war prize ===
+Frankfurt (1915), sunk as target 1921
+
+
+== Armored cruisers (ACR) ==
+
+Officially these ships were e.g., "Armored Cruiser No. 1". Unofficially, top naval officers initially referred to these ships as battleships because they cost almost as much, shared many features with them, and were intended to accompany them in fleet actions; they took care to ensure that Congress never heard their opinion. The 1905 Russo-Japanese War showed armored cruisers did not perform as well as either battleships or as other cruiser types. As battleship technology advanced they were judged obsolete for their original role about the time the last U.S. armored cruiser was commissioned (this advance in part led to the development of battlecruisers as a replacement), and so they were retained for other cruiser roles despite their deficiencies. During 1912–1920 the U.S. armored cruisers had their names changed from states to cities within those states to free up the names for battleships.
+
+(ACR-1) Maine (1895), later classed as a second class battleship, sunk by explosion 15 February 1898, 286 killed
+(ACR-2) New York (1893) – Spanish–American War, later Saratoga, WW1 as Rochester, later CA-2
+(ACR-3) Brooklyn (1896) – Spanish–American War, later CA-3
+Pennsylvania class
+
+(ACR-4) Pennsylvania (1905), later Pittsburgh – United States occupation of Veracruz, WW1, later CA-4
+(ACR-5) West Virginia (1905), later Huntington – WW1, later CA-5
+(ACR-6) California (1907), later San Diego – WW1, sunk by mine 19 July 1918, 6 killed
+(ACR-7) Colorado (1905), later Pueblo – WW1, later CA-7
+(ACR-8) Maryland (1905), later Frederick – WW1, later CA-8
+(ACR-9) South Dakota (1908) – WW1, later Huron CA-9
+Tennessee class
+
+(ACR-10) Tennessee (1906), later Memphis, wrecked 29 August 1916, 43 killed and missing
+(ACR-11) Washington (1906), later Seattle – WW1, later CA-11
+(ACR-12) North Carolina (1908) – WW1, later Charlotte CA-12
+(ACR-13) Montana (1908), later Missoula – WW1, later CA-13
+
+
+== Protected and Peace cruisers (C, PG) ==
+
+In the pre-1920 period abbreviations were informal and not standardized; officially these ships were, e.g., "Cruiser No. 1". Only the Montgomery class were unprotected cruisers, all the rest were protected cruisers. The Navy often referred to unprotected cruisers and obsolete protected cruisers (and some large gunboats without cruiser features) as peace cruisers due to their use in major policing and diplomatic roles.
+
+(C-1) Newark (1891) – Spanish–American War
+(C-2) Charleston (1889) – Spanish–American War, wrecked 2 November 1899
+(C-3) Baltimore (1890) – Spanish–American War, WW1, later minelayer CM-1
+(C-4) Philadelphia (1890), later IX-24
+(C-5) San Francisco (1890) – Spanish–American War, WW1, later minelayer CM-2
+(C-6) Olympia (1895) – Spanish–American War, WW1
+Cincinnati class
+
+(C-7) Cincinnati (1894) – Spanish–American War, WW1
+(C-8) Raleigh (1894) – Spanish–American War, WW1
+Montgomery class
+
+(C-9) Montgomery (1894) – Spanish–American War, WW1 as Anniston
+(C-10) Detroit (1893) – Spanish–American War
+(C-11) Marblehead (1894) – Spanish–American War, WW1, later PG-27
+Columbia class
+
+(C-12) Columbia (1894) – Spanish–American War, WW1, later CA-16
+(C-13) Minneapolis (1894) – Spanish–American War, WW1, later CA-17
+Denver class
+
+(C-14) Denver (1904) – WW1, later PG-28, CL-16
+(C-15) Des Moines (1904) – WW1, later PG-29, CL-17
+(C-16) Chattanooga (1904) – WW1, later PG-30, CL-18
+(C-17) Galveston (1905) – WW1, later PG-31, CL-19
+(C-18) Tacoma (1904) – United States occupation of Veracruz, WW1, later PG-32, CL-20
+(C-19) Cleveland (1903), later PG-33, CL-22
+St. Louis class
+
+(C-20) St. Louis (1906) – WW1, later CA-18
+(C-21) Milwaukee (1906), wrecked 13 January 1917
+(C-22) Charleston (1905) – WW1, later CA-19
+
+While classified as patrol gunboats by the Navy and as sloops by the 1930 London Naval Treaty, the 2,000 ton displacement Erie-class gunboats were designed to fulfill the role of peace cruisers in Asia and the Caribbean as detailed in internal Navy documents.
+Erie class
+
+(PG-50) Erie (1936) – WW2: 1 battle star, burned out and beached after torpedo hit 12 November 1942, 7 killed, later capsized
+(PG-51) Charleston (1936) – WW2: 1 battle star
+
+
+== Cruiser minelayers (CM) ==
+
+In 1919 two cruisers were reclassified as Cruiser Minelayers (CM); they had participated in the laying of the North Sea mine barrage during WW1. Other large minelayers with no cruiser features or history were later given the 'CM' hull symbol, and the 'cruiser' nomenclature was dropped. 
+
+(CM-1) Baltimore, ex-C-3
+(CM-2) San Francisco, ex-C-5
+
+
+== Scout cruisers (SCR, SC, CS) ==
+
+The use of fast armed merchant cruisers in the Spanish–American War and the fleet exercises of 1902-03 convinced the Navy that it needed fast scout cruisers. The Chester class was built in part to test high speed propulsion plants. The Omaha class would become the oldest U.S. cruisers to serve in World War II. Officially these ships were, e.g., "Scout Cruiser No. 1", and sometimes abbreviated SC or SCR; on 8 August 1921 all would be reclassed as light cruisers.
+
+Chester class
+
+(CS-1) Chester (1908) – United States occupation of Veracruz, WW1; later CL-1
+(CS-2) Birmingham (1908) – WW1, later CL-2
+(CS-3) Salem (1908) – WW1, later CL-3
+Omaha class
+
+(CS-4) Omaha (laid down 1918) – later CL-4
+(CS-5) Milwaukee (laid down 1918) – later CL-5
+(CS-6) Cincinnati (laid down 1920) – later CL-6
+(CS-7) Raleigh (ordered 1916) – later CL-7
+(CS-8) Detroit (ordered 1916) – later CL-8
+(CS-9) Richmond (laid down 1920) – later CL-9
+(CS-10) Concord (ordered 1916) – later CL-10
+(CS-11) Trenton (ordered 1916) – later CL-11
+(CS-12) Marblehead (ordered 1916) – later CL-12
+(CS-13) Memphis (ordered 1916) – later CL-13
+
+
+== Battlecruisers (CC) ==
+
+The United States laid down its only six battlecruisers as part of the 1917 construction program; in accordance with the 1922 Washington Naval Treaty four were scrapped incomplete and two converted during construction into the Lexington-class aircraft carriers.
+Lexington class
+
+(CC-1) Lexington – completed as Lexington (CV-2)
+(CC-2) Constellation – canceled
+(CC-3) Saratoga – completed as Saratoga (CV-3)
+(CC-4) Ranger – canceled
+(CC-5) Constitution – canceled
+(CC-6) United States – canceled
+
+
+== Heavy and light cruisers (CA, CL) ==
+
+
+=== Post-World War I ===
+
+On 17 July 1920, all First and Second Class Cruisers (armored and protected cruisers) still in service were reclassified as Armored Cruisers (CA).
+
+(CA-1) skipped
+(CA-2) Rochester (ex-ACR-2)
+(CA-3) Brooklyn (ex-ACR-3)
+Pennsylvania class
+
+(CA-4) Pittsburgh (ex-ACR-4)
+(CA-5) Huntington (ex-ACR-5)
+(CA-6) skipped
+(CA-7) Pueblo (ex-ACR-7)
+(CA-8) Frederick (ex-ACR-8)
+(CA-9) Huron (ex-ACR-9)
+Tennessee class
+
+(CA-10) skipped
+(CA-11) Seattle (ex-ACR-11; later IX-39)
+(CA-12) Charlotte (ex-ACR-12)
+(CA-13) Missoula (ex-ACR-13)
+other classes
+
+(CA-14) Chicago (from 1885 unclassified)
+(CA-15) Olympia (ex-C-6)
+Columbia class
+
+(CA-16) Columbia (ex-C-12)
+(CA-17) Minneapolis (ex-C-13)
+St. Louis class (1905)
+
+(CA-18) St. Louis (ex-C-20)
+(CA-19) Charleston (ex-C-22)
+In the 1920 hull designation system, of the Third Class Cruisers the fast Scout Cruisers became Light Cruisers (CL), and the slower New Orleans and Denver-class "peace cruisers"  were reclassified as Patrol Gunboats (PG).
+On 8 August 1921 the system was revised; the surviving protected cruisers (except for the "semi-armored" St Louis class) and the peace cruiser/patrol gunboats were all grouped with the scout cruisers as Light Cruisers (CL).
+Chester class
+
+(CL-1) Chester (ex-CS-1)
+(CL-2) Birmingham (ex-CS-2)
+(CL-3) Salem (ex-CS-3)
+
+Omaha class
+
+(CL-4) Omaha (ex-CS-4, 1923) – WW2: 1 battle star
+(CL-5) Milwaukee (ex-CS-5, 1923) – WW2: 1 battle star
+(CL-6) Cincinnati (ex-CS-6, 1924) – WW2: 1 battle star
+(CL-7) Raleigh (ex-CS-7, 1924) – WW2: 3 battle stars
+(CL-8) Detroit (ex-CS-8, 1923) – WW2: 6 battle stars
+(CL-9) Richmond (ex-CS-9, 1923) – WW2: 2 battle stars
+(CL-10) Concord (ex-CS-10, 1923) – WW2: 1 battle star
+(CL-11) Trenton (ex-CS-11, 1924) – WW2: 1 battle star
+(CL-12) Marblehead (ex-CS-12, 1924) – WW2: 2 battle stars
+(CL-13) Memphis (ex-CS-13, 1925)
+other classes
+
+(CL-14) Chicago (ex-CA-14; later IX-5 Alton)
+(CL-15) Olympia (ex-C-6, ex-CA-15, later IX-40, then museum ship)
+Denver class
+
+(CL-16) Denver (ex-C-14, ex-PG-28)
+(CL-17) Des Moines (ex-C-15, ex-PG-29)
+(CL-18) Chattanooga (ex-C-16, ex-PG-30)
+(CL-19) Galveston (ex-C-17, ex-PG-31)
+(CL-20) Tacoma (ex-C-18, ex-PG-32), wrecked 1924
+(CL-21) Cleveland (ex-C-19, ex-PG-33)
+New Orleans class (1896)
+
+(CL-22) New Orleans (ex-Amazonas, ex-PG-34)
+(CL-23) Albany (ex-Almirante Abreu, ex-PG-36)
+The CA/CL overlap of hull numbers would persist until the last armored cruiser of the original CA series, Seattle, was reclassed as IX-39 on 17 February 1941.
+
+
+=== Washington Naval Treaty ===
+
+The first cruisers of the Pensacola, Northampton, New Orleans, and Portland classes – which were designed after the 1922 Washington Naval Treaty, so quickly that the last design was complete before sea trial of the first were finished – were originally designated Light Cruisers (CL) due to their light protection. Later, in accordance with the 1930 London Naval Treaty, they were reclassified as "Heavy Cruisers" (CA) in 1931 due to their 8-inch (203 mm) guns. Thenceforward new heavy and light cruisers were numbered in a single sequence. These four classes were known as "Treaty cruisers" and "Tinclads" and were seen even before World War II as deficient by the Navy due to the treaty limitations, but despite their high losses in the early days of the war they performed well.
+Pensacola class
+
+(CL/CA-24) Pensacola (1930) – WW2: 13 battle stars
+(CL/CA-25) Salt Lake City (1929) – WW2: 11 battle stars
+Both ships of the Pensacola class would be Operation Crossroads nuclear test targets in 1946.
+Northampton class
+
+(CL/CA-26) Northampton (1930) – WW2: 6 battle stars, sunk by torpedoes 1 December 1942, 50 killed
+(CL/CA-27) Chester (1930) – WW2: 11 battle stars
+(CL/CA-28) Louisville (1931) – WW2: 13 battle stars
+(CL/CA-29) Chicago (1931) – WW2: 3 battle stars, sunk by air attack 30 January 1943, 62 killed
+(CL/CA-30) Houston (1930) – WW2: 2 battle stars, sunk by torpedoes 1 March 1942, 693 killed and 77 POWs died
+(CL/CA-31) Augusta (1931) – WW2: 3 battle stars
+New Orleans class
+
+(CL/CA-32) New Orleans (1934) – WW2: 17 battle stars
+Portland class
+
+(CL/CA-33) Portland (1933) – WW2: 16 battle stars
+New Orleans class
+
+(CL/CA-34) Astoria (1934) – WW2: 3 battle stars, sunk by gunfire 9 August 1942, 219 killed
+Portland class
+
+(CL/CA-35) Indianapolis (1932) – WW2: 10 battle stars, sunk by torpedoes 30 July 1945, 879 killed
+New Orleans class
+
+(CL/CA-36) Minneapolis (1934) – WW2: 17 battle stars
+(CA-37) Tuscaloosa (1934) – WW2: 7 battle stars
+(CA-38) San Francisco (1934) – WW2: 17 battle stars
+(CA-39) Quincy (1936) – WW2: 1 battle star, sunk by gunfire and torpedoes 9 August 1942, 370 killed
+
+
+=== London Naval Treaty ===
+The terms of the 1930 London Naval Treaty motivated the signatories to de-emphasize heavy cruiser construction in favor of light cruisers. The resultant nine ship Brooklyn-class of light cruisers had a strong influence on US cruiser design. Nearly all subsequent US cruisers, heavy and light, were directly or indirectly based on them, including the unique heavy cruiser Wichita.
+
+Brooklyn class
+
+(CL-40) Brooklyn (1937) – WW2: 4 battle stars, later Chilean O'Higgins
+(CL-41) Philadelphia (1937) – WW2: 5 battle stars, later Brazilian Barroso
+(CL-42) Savannah (1938) – WW2: 3 battle stars
+(CL-43) Nashville (1938) – WW2: 10 battle stars, later Chilean Capitan Prat 
+New Orleans class
+
+(CA-44) Vincennes (1937) – WW2: 2 battle stars, sunk by gunfire and torpedoes 9 August 1942, 332 killed
+Wichita class
+
+(CA-45) Wichita (1939) – WW2: 13 battle stars
+Brooklyn class
+
+(CL-46) Phoenix (1938) – WW2: 11 battle stars, later ARA General Belgrano 
+(CL-47) Boise (1938) – WW2: 11 battle stars, later ARA Nueve de Julio
+(CL-48) Honolulu (1938) – WW2: 8 battle stars
+Brooklyn class (St. Louis subclass)
+
+(CL-49) St. Louis (1939) – WW2: 11 battle stars, later Brazilian Almirante Tamandaré
+(CL-50) Helena (1939) – WW2: 7 battle stars, war loss 6 July 1943, 168 killed
+
+
+=== Second London Naval Treaty ===
+
+The 1936 Second London Naval Treaty would also influence the Navy's light cruiser program. It imposed limits that resulted in the smaller displacement Atlanta class with a 5-inch (127 mm) dual purpose rapid fire main gun battery, the first such ship in the Navy.
+Atlanta class
+
+(CL-51) Atlanta (1941) – WW2: 5 battle stars, scuttled after torpedo damage 13 November 1942
+(CL-52) Juneau (1942) – WW2: 4 battle stars, sunk by torpedoes 13 November 1942, 687 killed
+(CL-53) San Diego (1942) – WW2: 18 battle stars
+(CL-54) San Juan (1942) – WW2: 13 battle stars
+
+
+==== Cruiser-Destroyer (CLD) ====
+Parallel to the Atlanta design was an abortive attempt to design a super-Atlanta known as the Cruiser-Destroyer, or CLD. The "ship characteristics" resulting from this study would be almost identical to that of the later CL-154 design. CLD did not become an official hull classification symbol.
+
+
+=== Early World War II ===
+When the United States entered World War II it had three major classes of cruisers under construction: the Atlanta and Cleveland light cruiser classes (with 5-inch and 6-inch main batteries, respectively), and the Baltimore-class of heavy cruisers. The Cleveland-class was an improvement of the Brooklyn design, while the Baltimore-class was an improved Wichita. These ships would form the bulk of the cruiser war construction effort, with eight Atlanta-class, twenty-seven Cleveland-class, and fourteen Baltimore-class cruisers ultimately completed. Early in the war nine Cleveland hulls would be diverted for conversion into Independence class light aircraft carriers (CVLs). By the end of the war three Cleveland hulls would be canceled, and one incomplete hull would later be converted to a guided missile cruiser.
+
+Cleveland class
+
+(CL-55) Cleveland (1942) – WW2: 13 battle stars
+(CL-56) Columbia (1942) – WW2: 10 battle stars
+(CL-57) Montpelier (1942) – WW2: 13 battle stars
+(CL-58) Denver (1942) – WW2: 11 battle stars
+(CL-59) Amsterdam (completed as Independence (CVL-22))
+(CL-60) Santa Fe (1942) – WW2: 13 battle stars
+(CL-61) Tallahassee (completed as Princeton (CVL-23))
+(CL-62) Birmingham (1943) – WW2: 8 battle stars
+(CL-63) Mobile (1943) – WW2: 11 battle stars
+(CL-64) Vincennes (ex-Flint) (1944) – WW2: 6 battle stars
+(CL-65) Pasadena (1944) – WW2: 5 battle stars
+(CL-66) Springfield (1944) – WW2: 2 battle stars, later converted to CLG-7
+(CL-67) Topeka (1944) – WW2: 2 battle stars, later converted to CLG-8
+Baltimore class
+
+(CA-68) Baltimore (1943) – WW2: 9 battle stars
+(CA-69) Boston (1943) – WW2: 10 battle stars, later converted to CAG-1
+(CA-70) Canberra (ex-Pittsburgh) (1943) – WW2: 7 battle stars, later converted to CAG-2
+(CA-71) Quincy (ex-St Paul) (1943) – WW2: 5 battle stars
+(CA-72) Pittsburgh (ex-Albany) (1944) – WW2: 2 battle stars
+(CA-73) St. Paul (1945) – WW2: 1 battle star, Korea: 8 stars, Vietnam: 9 stars
+(CA-74) Columbus (1945) – later converted to CG-12
+(CA-75) Helena (ex-Des Moines) (1945) – WW2: 4 battle stars
+Cleveland class
+
+(CL-76) New Haven (completed as Belleau Wood (CVL-24))
+(CL-77) Huntington (completed as Cowpens (CVL-25))
+(CL-78) Dayton (completed as Monterey (CVL-26))
+(CL-79) Wilmington (completed as Cabot (CVL-28))
+(CL-80) Biloxi (1943) – WW2: 9 battle stars
+(CL-81) Houston (ex-Vicksburg) (1943) – WW2: 3 battle stars
+(CL-82) Providence (1945) – later converted to CLG-6
+(CL-83) Manchester (1946) – Korea: 9 battle stars
+(CL-84) Buffalo – canceled
+(CL-85) Fargo (completed as Langley (CVL-27))
+(CL-86) Vicksburg (1944) – WW2: 2 battle stars
+(CL-87) Duluth (1944) – WW2: 2 battle stars
+(CL-88) Newark – canceled
+(CL-89) Miami (1943) – WW2: 6 battle stars
+(CL-90) Astoria (ex-Wilkes-Barre) (1944) – WW2: 5 battle stars
+(CL-91) Oklahoma City (1944) – WW2: 2 battle stars, later converted to CLG-5
+(CL-92) Little Rock (1945) – later converted to CLG-4
+(CL-93) Galveston (completed as CLG-3)
+(CL-94) Youngstown – canceled after construction started
+Atlanta class (Oakland subclass)
+
+(CL-95) Oakland (1943) – WW2: 9 battle stars
+(CL-96) Reno (1943) – WW2: 3 battle stars
+(CL-97) Flint (1944) – WW2: 4 battle stars
+(CL-98) Tucson (1945) – WW2: 1 battle star
+Cleveland class
+
+(CL-99) Buffalo (completed as Bataan (CVL-29))
+(CL-100) Newark (completed as San Jacinto (CVL-30))
+(CL-101) Amsterdam (1945) – WW2: 1 battle star
+(CL-102) Portsmouth (1945)
+(CL-103) Wilkes-Barre (1944) – WW2: 4 battle stars
+(CL-104) Atlanta (1944) – WW2: 2 battle stars, later IX-304
+(CL-105) Dayton (1945) – WW2: 1 battle star
+
+
+=== Late World War II ===
+As the Navy gained experience with World War II combat conditions, it was decided that the Atlanta, Cleveland, and Baltimore classes needed improvement. However, major improvements would cause unacceptable delays in the construction programs. A new generation of cruisers with minor improvements would consist of the Juneau and Fargo classes of light cruisers (respectively 5-inch and 6-inch main batteries), and the Oregon City-class of heavy cruisers. The major noticeable difference would be that the Fargo and the Oregon City classes would have their engine exhausts trunked into a single funnel to aid anti-aircraft fire. Due to the near-total destruction of the Imperial Japanese Navy, the number of the ships of this generation to be completed as gun cruisers would be small: three Juneau-class, two Fargo-class, and three Oregon City-class cruisers. A fourth Oregon City-class cruiser would be completed postwar as a command cruiser. Seventeen hulls from among the three classes were canceled.
+Late in the war the Baltimore-class would also serve as the basis of the two Saipan class light aircraft carriers (CVLs).
+
+Fargo class
+
+(CL-106) Fargo (1945)
+(CL-107) Huntington (1946)
+(CL-108) Newark – canceled after construction started
+(CL-109) New Haven – canceled after construction started
+(CL-110) Buffalo – canceled after construction started
+(CL-111) Wilmington – canceled after construction started
+(CL-112) Vallejo – canceled
+(CL-113) Helena – canceled
+(CL-114) Roanoke – canceled
+(CL-115) – canceled unnamed
+(CL-116) Tallahassee – canceled after construction started
+(CL-117) Cheyenne – canceled after construction started
+(CL-118) Chattanooga – canceled after construction started
+Juneau class
+
+(CL-119) Juneau  (1946)
+(CL-120) Spokane (1946)
+(CL-121) Fresno (1946)
+Oregon City class
+
+(CA-122) Oregon City (1946)
+(CA-123) Albany (1946) – later converted to CG-10
+(CA-124) Rochester (1946) – Korea: 6 battle stars
+(CA-125) Northampton (completed as CLC-1)
+(CA-126) Cambridge – canceled after construction started
+(CA-127) Bridgeport – canceled after construction started
+(CA-128) Kansas City – canceled after construction started
+(CA-129) Tulsa – canceled
+Baltimore class
+
+(CA-130) Bremerton (1945) – Korea: 2 battle stars
+(CA-131) Fall River (1945) - Operation Crossroads nuclear test participant
+(CA-132) Macon (1945)
+(CA-133) Toledo (1946) – Korea: 5 battle stars
+
+
+=== Post-World War II ===
+The Navy agreed in the waning days of the war to construct a small number of cruisers for the purpose of operationally testing new gun designs and other major improvements incorporating the lessons learned of World War II combat: the 'CL-154' and Worcester classes of light cruisers  (respectively 5-inch and 6-inch main batteries), and the Des Moines-class of heavy cruisers. Initially the Navy wanted at least one squadron of six ships of each class, but in the end only two Worcester-class and three Des Moines-class cruisers would be completed, and the CL-154 class would be cancelled in its entirety. A total of seventeen hulls from among the three planned classes would be canceled.
+
+Des Moines class
+
+(CA-134) Des Moines (1948)
+Baltimore class
+
+(CA-135) Los Angeles (1945) – WW2: 1 battle star, Korea: 5 stars
+(CA-136) Chicago (1945) – WW2: 1 battle star, later converted to CG-11
+Oregon City class
+
+(CA-137) Norfolk – canceled after construction started
+(CA-138) Scranton – canceled after construction started
+Des Moines class
+
+(CA-139) Salem (1949), museum ship
+(CA-140) Dallas – canceled after construction started
+CA-141 to 143 – canceled unnamed
+Worcester class
+
+(CL-144) Worcester (1948) – Korea: 2 battle stars
+(CL-145) Roanoke (1949)
+(CL-146) Vallejo – canceled after construction started
+(CL-147) Gary – canceled after construction started
+Des Moines class
+
+(CA-148) Newport News (1949) – Vietnam: 3 battle stars
+(CA-149) – canceled unnamed
+(CA-150) Dallas – canceled
+CA-151 to 153 – canceled unnamed
+CL-154 class
+
+CL-154 to 159 – canceled unnamed
+The last ship to be assigned a hull number in the Heavy and Light Cruiser sequence would be the 1950s era nuclear powered Long Beach, though this ship would be assigned another number and designation under the guided missile cruiser hull classification before launch.
+Long Beach class
+
+(CLGN/CGN-160) Long Beach, completed as CGN-9 (1961)
+
+
+== Large cruisers (CB) ==
+
+The motivation for the large cruiser concept came from the deployment of Germany's so-called pocket battleships in the early 1930s, and from concerns that Japan would follow with similar ships. These large cruisers had design features intermediate between heavy cruisers and battleships (such as the unique and highly effective 12-inch/50-caliber Mark 8 guns); this was unlike the designs of the earlier battlecruisers, the ultimate design of which had the same 16-inch guns as battleships but less armor and more speed. Despite these differences large cruisers and battlecruisers were intended to serve much the same role.
+Alaska class 
+
+(CB-1) Alaska (1944) – WW2: 3 battle stars
+(CB-2) Guam (1944) – WW2: 2 battle stars
+(CB-3) Hawaii – construction stopped after launching, conversion to a missile ship (CBG-3) and then a command ship (CBC-1) canceled
+(CB-4) Philippines – canceled
+(CB-5) Puerto Rico – canceled
+(CB-6) Samoa – canceled
+
+
+== German cruiser war prize (IX) ==
+Admiral Hipper class
+
+(IX-300) Prinz Eugen, 1940 Germany heavy cruiser, entered USN service in 1945 as an unclassified miscellaneous vessel (IX) after award as a war prize and was expended in nuclear testing in 1946 following engine sabotage by her German POW crew.
+
+
+== Hunter-Killer cruisers (CLK) ==
+ CLK-1 was authorized in 1947 as an anti-submarine hunter killer.  She was designed on a light cruiser hull so she could carry a greater variety of detection gear than a destroyer. CLK-2 was cancelled due to the high cost ($61.9 million) of CLK-1.
+(CLK-1) Norfolk, reclassified as Destroyer Leader DL-1 prior to launch
+(CLK-2) New Haven, canceled
+
+
+== Antiaircraft cruisers (CLAA) ==
+ On 18 March 1949, the surviving light cruisers of the Atlanta and Juneau classes were redesignated as antiaircraft cruisers (CLAA) without changing their hull numbers; San Diego, San Juan, and Flint were redesignated even though they had been decommissioned and were in reserve. The CL-154 class would also have received this designation had they not been canceled.
+Atlanta class
+
+(CLAA-53) San Diego
+(CLAA-54) San Juan
+Atlanta class (Oakland subclass)
+
+(CLAA-95) Oakland
+(CLAA-96) Reno
+(CLAA-97) Flint
+(CLAA-98) Tucson
+Juneau class
+
+(CLAA-119) Juneau – Korea: 5 battle stars
+(CLAA-120) Spokane, later AG-191
+(CLAA-121) Fresno
+
+
+== Command cruisers (CLC, CC) ==
+
+By the end of World War II the Navy had gained favorable experience with dedicated amphibious command ships, and desired similar but faster ships to accompany aircraft carriers for fleet command, which would also relieve overcrowded fleet command facilities on other ships. Both completed conversions, Northampton and Wright, were indirectly based on the Baltimore class heavy cruiser design (the first via the Oregon City class, the second via the Saipan class). The result would be the highly capable but expensive command cruisers. These ships would be absorbed into the National Emergency Command Post Afloat mission, and then retired when that role was cancelled.
+
+(CLC/CC-1) Northampton (ex-CA-125) (1953)
+(CBC-1) Hawaii (ex-CB-3, ex-CBG-3) – conversion canceled
+(CC-2) Wright (ex-CVL-49, ex-AVT-7) (1963)
+(CC-3) Saipan (ex-CVL-48, ex-AVT-6), - conversion canceled, later AGMR-2 as Arlington
+
+
+== Guided missile cruisers (CAG, CLG, CG) ==
+
+
+=== 'Cruiser hulls' ===
+
+With the exception of the purpose-built nuclear powered guided missile cruiser Long Beach, all of the early guided missile cruisers were converted heavy or light cruisers from the World War II era. The early conversions were heavy (CAG) and light (CLG) 'single-enders' which placed the missile facilities aft and conservatively retained their forward main gun batteries; the later conversions (CG) were 'double-enders' which eliminated the main guns. In 1975 the surviving 'single enders' would be reclassified as CG even though they retained their guns.
+Alaska class
+
+(CBG-3) Hawaii (ex-CB-3) – conversion canceled
+Boston class
+
+(CAG-1) Boston (ex- and later CA-69, 1955) – Vietnam: 5 battle stars
+(CAG-2) Canberra (ex- and later CA-70, 1956) – Vietnam: 4 battle stars
+Galveston class
+
+(CLG-3) Galveston (ex-CL-93, 1958) – Vietnam: 2 battle stars
+(CLG/CG-4) Little Rock (ex-CL-92, 1960), museum ship
+(CLG/CG-5) Oklahoma City (ex-CL-91, 1960) – Vietnam: 11 battle stars
+Providence class
+
+(CLG/CG-6) Providence (ex-CL-82, 1959) – Vietnam: 6 battle stars
+(CLG/CG-7) Springfield (ex-CL-66, 1960)
+(CLG-8) Topeka (ex-CL-67, 1960) – Vietnam: 3 battle stars
+Long Beach class
+
+(CGN-9) Long Beach (ex-CLGN-160, 1961) – Vietnam: 7 battle stars
+Albany class
+
+(CG-10) Albany (ex-CA-123, 1962)
+(CG-11) Chicago (ex-CA-136, 1964) – Vietnam: 11 battle stars
+(CG-12) Columbus (ex-CA-74, 1962)
+(CG-13) Rochester (ex-CA-124) – conversion canceled
+(CG-14) Bremerton (ex-CA-130)– conversion canceled
+CSGN class
+
+The CSGN class, a proposed nuclear-powered Aegis strike cruiser, canceled unnamed and unnumbered; this was the sole proposal since 1961 to use 'cruiser hull' standards in a ship designated 'cruiser'.
+
+
+=== 'Destroyer hulls' ===
+
+Following the conversion of the Albany class, all guided missile cruisers would be built on 'destroyer hulls'; the pre-1975 ships were originally classified as destroyers (DDG) or as destroyer leaders (DLG) and termed 'frigates' before reclassification as cruisers.
+
+(CG-15) skipped to redesignate the Leahy-class frigates without renumbering
+Leahy class
+
+(DLG/CG-16) Leahy (1962) – Gulf War: 2 battle stars
+(DLG/CG-17) Harry E. Yarnell (1963)
+(DLG/CG-18) Worden (1963) – Vietnam: 9 battle stars, Gulf War: 2 stars
+(DLG/CG-19) Dale (1963) – Vietnam: 8 battle stars, Gulf War: 1 star
+(DLG/CG-20) Richmond K. Turner (1964) – Vietnam: 6 battle stars, Gulf War 3 stars
+(DLG/CG-21) Gridley (1963) – Vietnam: 6 battle stars, Gulf War 1 star
+(DLG/CG-22) England (1963) – Vietnam: 6 battle stars, Gulf War 1 star
+(DLG/CG-23) Halsey (1963) – Vietnam: 8 battle stars, Gulf War: 1 star
+(DLG/CG-24) Reeves (1964) – Vietnam: 9 battle stars
+Bainbridge class
+
+(DLGN/CGN-25) Bainbridge (1962) – Vietnam: 8 battle stars, Gulf War: 1 star
+Belknap class
+
+(DLG/CG-26) Belknap (1964) – Vietnam: 3 battle stars
+(DLG/CG-27) Josephus Daniels (1965) – Vietnam: 3 battle stars
+(DLG/CG-28) Wainwright (1966) – Vietnam: 4 battle stars
+(DLG/CG-29) Jouett (1966) – Vietnam: 7 battle stars, Gulf War: 1 star
+(DLG/CG-30) Horne (1967) – Vietnam: 6 battle stars, Gulf War: 1 star
+(DLG/CG-31) Sterett (1967) – Vietnam: 7 battle stars
+(DLG/CG-32) William H. Standley (1966) – Vietnam: 4 battle stars
+(DLG/CG-33) Fox (1966) – Vietnam: 4 battle stars, Gulf War: 1 star
+(DLG/CG-34) Biddle (1967) – Vietnam: 6 battle stars, Gulf War: 2 star
+Truxtun class
+
+(DLGN/CGN-35) Truxtun (1967) – Vietnam: 7 battle stars
+California class
+
+(DLGN/CGN-36) California (1974) – Gulf War: 1 battle star
+(DLGN/CGN-37) South Carolina (1975) – Gulf War: 1 battle star
+Virginia class
+
+(DLGN/CGN-38) Virginia (1976) – Gulf War: 2 battle stars
+(DLGN/CGN-39) Texas (1977) – Gulf War: 1 battle star
+(CGN-40) Mississippi (1978) – Gulf War: 2 battle stars
+(CGN-41) Arkansas (1980) – Gulf War: 1 battle star
+CGN-42 class
+
+CGN-42, Virginia-class derivative nuclear-powered Aegis cruiser, proposed as a cheaper alternative to the CSGN, canceled unnamed
+Ticonderoga class
+
+The Ticonderoga class ships were originally planned as Aegis guided missile destroyers - they were built on Spruance class destroyer hulls - but were then reclassed as cruisers.
+
+CG-43 to CG-46 skipped to allow redesignation of DDG-47 Ticonderoga without renumbering.
+Ticonderoga class with the Mark 26 missile launch system
+(DDG/CG-47) Ticonderoga (1983) – Gulf War: 1 battle star
+(DDG/CG-48) Yorktown (1984)
+(CG-49) Vincennes (1985)
+(CG-50) Valley Forge (1986) – Gulf War: 3 battle stars
+(CG-51) Thomas S. Gates (1987) – Gulf War: 2 battle stars, GWOT
+Ticonderoga class with the Vertical Launch System (VLS)
+(CG-52) Bunker Hill [I] (1986) – Gulf War: 2 battle stars, GWOT
+(CG-53) Mobile Bay [I] (1987) – Gulf War: 2 battle stars, Iraq War, GWOT
+(CG-54) Antietam [I] (1987) – Gulf War: 1 battle star, Iraq War: 1 star, GWOT
+(CG-55) Leyte Gulf [I] (1987) – Gulf War: 2 battle stars, GWOT
+(CG-56) San Jacinto [I] (1988) – Gulf War: 2 battle stars, GWOT
+(CG-57) Lake Champlain [I] (1988) – Gulf War: 1 battle star, GWOT
+(CG-58) Philippine Sea [A] (1989) – Gulf War: 2 battle stars, GWOT
+(CG-59) Princeton [A] (1989) – Gulf War: 3 battle stars, GWOT
+(CG-60) Normandy [A] (1989) – Gulf War: 2 battle stars, Iraq War, GWOT
+(CG-61) Monterey [I] (1990)
+(CG-62) Robert Smalls (ex-Chancellorsville) [A] (1989) – Gulf War: 1 battle star, GWOT
+(CG-63) Cowpens [I] (1991) – Gulf War: 1 battle star, GWOT
+(CG-64) Gettysburg [A] (1991)
+(CG-65) Chosin [A] (1991) – Gulf War: 1 battle star, GWOT
+(CG-66) Hué City [I] (1991) – Gulf War: 1 battle star, GWOT
+(CG-67) Shiloh [A] (1992) – Gulf War: 1 battle star, GWOT
+(CG-68) Anzio [I] (1992) – Iraq War: 2 battle stars, GWOT
+(CG-69) Vicksburg [I] (1992) – Gulf War: 1 battle star, GWOT
+(CG-70) Lake Erie [A] (1993) – Gulf War: 1 battle star, GWOT
+(CG-71) Cape St. George [A] (1993) – Iraq War: 1 battle star, GWOT
+(CG-72) Vella Gulf [I] (1993) – GWOT
+(CG-73) Port Royal [I] (1994)
+
+CG(X) class
+
+The CG(X) class was intended to apply the same technology used in the Zumwalt-class destroyers within a larger hull, nuclear power was a consideration, but was canceled unbuilt and unnamed.
+
+
+== Nuclear-powered cruisers (CGN) ==
+
+To date all nuclear cruisers have been guided missile cruisers, and all have been retired.
+
+Long Beach class
+
+(CGN-9) Long Beach
+Bainbridge class
+
+(CGN-25) Bainbridge
+Truxtun class
+
+(CGN-35) Truxtun
+California class
+
+(CGN-36) California
+(CGN-37) South Carolina
+Virginia class
+
+(CGN-38) Virginia
+(CGN-39) Texas
+(CGN-40) Mississippi
+(CGN-41) Arkansas
+CGN-42 class
+
+CGN-42 – cancelled
+
+
+== Miscellaneous lists ==
+
+
+=== List by name ===
+Names without links were not completed, or completed as aircraft carriers or destroyer leaders.
+
+
+=== List of unnamed cruisers by hull number ===
+CL-115 canceled
+CA-141 to 143 canceled
+CA-149 canceled
+CA-151 to 153 canceled
+CL/CLAA-154 to 159 canceled
+CGN-42 canceled
+
+
+=== List of canceled cruiser conversions ===
+Bremerton (CG-14) 1959
+Hawaii (CBG-3) 1950s
+Hawaii (CBC-1) 1950s
+Rochester (CG-13) 1959
+Saipan (CC-3) 1963
+
+
+=== List of skipped cruiser hull numbers ===
+CA-1, CA-6, CA-10
+CG-15
+CG-43 to CG-46
+
+
+== See also ==
+List of cruisers of World War II
+List of current ships of the United States Navy
+List of light cruisers of the United States Navy
+List of United States Navy ships
+List of United States Navy losses in World War II § Heavy cruisers (CA) - abbreviated list
+List of United States Navy losses in World War II § Light cruisers (CL) - abbreviated list
+List of US Navy ships sunk or damaged in action during World War II § Heavy cruiser (CA) - detailed list
+List of US Navy ships sunk or damaged in action during World War II § Light cruiser (CL) - detailed list
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== Footnotes ===
+
+
+=== General and cited sources ===
+Ewing, Steve (1984). American Cruisers of World War II. Missoula, Montana: Pictorial Histories Publishing Company. ISBN 0-933126-51-4.
+Friedman, Norman (1982). U.S. Destroyers: An Illustrated Design History. Annapolis, Maryland: United States Naval Institute. ISBN 0-87021-733-X.
+Friedman, Norman (1983). U.S. Aircraft Carriers: An Illustrated Design History. Annapolis, Maryland: United States Naval Institute. ISBN 0-87021-739-9.
+Friedman, Norman (1984). U.S. Cruisers: An Illustrated Design History. Annapolis, Maryland: United States Naval Institute. ISBN 0-87021-739-9.
+Knupp, Chris (17 April 2017). "The Awesome Alaska Class: America's (Not Quite) Battlecruisers". Navy General Board. Retrieved 20 July 2021.
+"NavSource Naval History". NavSource. 16 January 2022. Retrieved 16 January 2022.
+
+
+== External links ==
+USS Little Rock (CG-4) - Buffalo and Erie County Naval & Military Park, Buffalo, NY
+USS Olympia (CL-15) - Independence Seaport Museum, Philadelphia, PA
+USS Salem (CA-139) - United States Naval Shipbuilding Museum, Quincy, MA

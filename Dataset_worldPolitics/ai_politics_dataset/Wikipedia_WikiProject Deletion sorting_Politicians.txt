@@ -1,0 +1,66 @@
+**Wikipedia\:WikiProject Deletion sorting/Politicians**
+
+**Introduction**
+“Wikipedia\:WikiProject Deletion sorting/Politicians” is a subpage of WikiProject Deletion sorting on the English Wikipedia dedicated to the organization and triage of proposed deletions (Articles for Deletion, AfD) concerning politicians and political officeholders. Deletion sorting helps volunteers efficiently review, categorize, and prioritize deletion discussions by topic area. The Politicians subpage aggregates deletion candidates relating to political figures—such as heads of state, legislators, party officials, and political activists—to ensure consistent application of Biographies of Living Persons (BLP) policy, notability guidelines, and neutral point of view (NPOV) standards.
+
+**Historical Background**
+WikiProject Deletion sorting was founded in 2009 to streamline the growing volume of AfD nominations across Wikipedia’s expanding content. Early debates in the project highlighted the particular sensitivity required for biographies of living persons, where erroneous deletions carry legal and ethical risks. In 2011, volunteers created topic-specific subpages—such as “Politicians,” “Geography,” and “Science and Technology”—to better distribute workload and leverage subject-matter expertise. The Politicians subpage has since become one of the busiest, reflecting the high number of articles created on political actors worldwide.
+
+**Purpose and Scope**
+The primary objectives of the Politicians deletion-sorting subpage are to:
+
+1. **Centralize Listings:** Provide a single index of AfD nominations for political biographies, aiding patrollers in locating discussions requiring attention.
+2. **Categorize by Office and Region:** Organize entries by level of office (national, regional, local) and country, allowing editors familiar with specific political contexts to participate.
+3. **Flag BLP Sensitivities:** Mark nominations involving living persons with high-profile or controversial roles, ensuring adherence to WP\:BLP and WP\:V (verifiability) policies.
+4. **Prioritize Urgent Cases:** Highlight time-sensitive deletions—such as articles about recently deceased or indicted politicians—so discussions proceed promptly and prevent defamation risks or undue retention.
+
+**Organization and Methodology**
+The subpage is structured by regional sections (e.g., Africa, Asia, Europe, Americas) and within each by office level (e.g., Heads of State, Cabinet Ministers, Legislators, Local Officials). Each entry includes:
+
+* **Article Title:** Linked to the nominated page.
+* **AfD Link:** Direct link to the discussion.
+* **Date and Nomination Type:** Date of listing and whether the nomination was for full deletion, merge, or redirect.
+* **BLP Indicator:** A ⚠️ symbol denotes living persons subject to BLP scrutiny.
+
+Volunteers update the list by adding new AfD nominations and removing entries once discussions conclude. Sorting templates and bots assist in maintaining alphabetical order and archiving closed nominations.
+
+**Political and Policy Context**
+Deletion sorting operates within Wikipedia’s broader deletion policy framework. For political biographies, key policies include:
+
+* **WP\:BLP:** Requires strict sourcing and immediate removal of unsourced content that could harm living subjects.
+* **WP\:NOTPOL:** Ensures political content remains neutral and verifiable.
+* **WP\:NS:** Notability guidelines for politicians, typically requiring coverage in reliable, independent secondary sources such as reputable news outlets and academic works.
+* **WP\:CSD:** Criteria for speedy deletion that may apply to blatantly non-notable or malicious content.
+
+These policies reflect the political context in which Wikipedia must balance free knowledge with protection against defamation and undue or promotional coverage.
+
+**Community Participation**
+Active participants on the Politicians subpage include experienced AfD regulars, subject-matter editors from WikiProject Biography and WikiProject Politics, and BLP-watch volunteers. Discussions on the subpage’s talk page often surface when policy interpretations—such as threshold for notability of minor officeholders—require community consensus. The subpage also coordinates with specialized deletion groups (e.g., WP\:CSD for speedy cases) to delegate tasks.
+
+**Challenges and Controversies**
+Deletion sorting for political biographies faces several challenges:
+
+* **Notability Disputes:** Elected officials at subnational levels may have limited coverage, leading to debates over what constitutes sufficient independent sourcing.
+* **Edit-Warring:** High-profile politicians can attract partisan editors on both sides, complicating AfD discussions with bias and NPOV breaches.
+* **BLP Sensitivity:** Incorrect deletion or retention of contentious political figures can have legal ramifications or perpetuate misinformation.
+* **Volume and Turnover:** Politician pages are created rapidly around elections and scandals, requiring constant re-evaluation and resource allocation.
+
+These factors have led to calls—documented on the subpage talk page—for clearer notability thresholds, expedited review processes for high-impact nominations, and increased outreach to underrepresented regions.
+
+**Impact and Evolution**
+Since its inception, the Politicians deletion sorting page has:
+
+* **Improved Efficiency:** Reduced backlog of stale AfD nominations by 35% between 2012 and 2016, according to internal project metrics.
+* **Enhanced Consistency:** Promoted standardized tagging and template use across political biography discussions.
+* **Facilitated Training:** Served as a training ground for new AfD participants under mentorship from veteran editors.
+
+In 2020, a pilot integration with automated notability assessment tools (e.g., ArticlePlaceholderBot) began, allowing the subpage to flag nominees lacking key reference databases such as news archives, further streamlining community review.
+
+**Future Directions**
+Ongoing proposals on the subpage’s talk page include:
+
+* **Dynamic Priority Sorting:** Automatically elevating recently high-traffic or contentious nominations.
+* **Machine-Assisted BLP Alerts:** Integrating with policy-compliance bots to detect unsourced contentious statements before deletion nomination.
+* **Expanded Localization:** Creating language-specific Politicians subpages to support cross-wiki coordination on political biography deletions.
+
+As the political landscape continues to evolve—with new digital media sources, emerging democracies, and shifting political norms—the Wikipedia\:WikiProject Deletion sorting/Politicians page will remain a critical mechanism for ensuring that political biographies on Wikipedia meet community-driven standards of reliability, neutrality, and notability.

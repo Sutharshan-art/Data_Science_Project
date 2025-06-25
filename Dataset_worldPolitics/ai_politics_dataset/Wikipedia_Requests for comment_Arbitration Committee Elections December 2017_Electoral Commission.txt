@@ -1,0 +1,57 @@
+**Wikipedia\:Requests for comment/Arbitration Committee elections/December 2017/Electoral Commission**
+
+**Introduction**
+The “Electoral Commission” was the ad hoc body appointed to oversee the twenty-first English-language Wikipedia Arbitration Committee (ArbCom) election in December 2017. Convened under the “Requests for comment/Arbitration Committee elections/December 2017” (RfC/ArbCom/Dec2017) process, the Commission’s mandate was to ensure a fair, transparent, and well-administered election for nine three-year ArbCom seats. Its formation, procedures, and decisions exemplify Wikipedia’s community-driven governance in managing high-stakes internal elections.
+
+**Historical Context**
+By 2017, ArbCom had become critical to resolving intractable disputes over editor conduct, sockpuppetry, and content controversies. Previous elections had exposed procedural ambiguities—such as narrow eligibility criteria and uneven candidate scrutiny—prompting community calls for more robust electoral oversight. The Wikimedia community’s evolving emphasis on democratic legitimacy, accountability, and procedural rigor set the stage for formalizing an Electoral Commission to administer the December 2017 vote.
+
+**Mandate and Responsibilities**
+Under the RfC titled “Requests for comment/Arbitration Committee elections/December 2017,” the Electoral Commission was entrusted with several key functions:
+
+1. **Validation of Nominations:** Verify that each nominee met minimum eligibility standards outlined in “Wikipedia\:Arbitration Committee elections,” including required edit count, account tenure, and absence of active sanctions.
+2. **Review of Conflict-of-Interest Disclosures:** Ensure that candidates disclosed any paid affiliations, past administrative roles, or other potential conflicts, coordinating with ArbCom liaisons to flag undeclared issues.
+3. **Supervision of Q\&A and RFC Phases:** Monitor the candidate question-and-answer period and the concurrent RFC for procedural fairness, clarifying timelines, thread organization, and the respectful airing of concerns.
+4. **Ballot Preparation and Integrity:** Compile the final ballot, confirm its accurate reflection of candidate names and sorting order, and safeguard against technical errors or unauthorized edits.
+5. **Vote Counting and Reporting:** Oversee anonymous vote tallying, aggregate support/oppose/neutral counts for each candidate, and publish a statistical summary alongside the official results.
+6. **Conflict Resolution and Appeals:** Adjudicate procedural disputes—such as contested eligibility or allegations of voting irregularities—during the election, escalating issues to ArbCom only if strictly necessary.
+
+**Commission Membership**
+The Electoral Commission comprised five experienced community members selected through consensus during the RfC’s nomination phase. Membership criteria emphasized impartiality, project experience, and reputational integrity. Commissioners included:
+
+* **User\:A**, a veteran editor and former administrator known for policy expertise.
+* **User\:B**, an ArbCom alumnus whose previous term had demonstrated procedural diligence.
+* **User\:C**, a long-time election steward with experience in high-profile referenda.
+* **User\:D**, a talk-page coordinator adept at dispute-resolution facilitation.
+* **User\:E**, a non-administrator respected for neutrality and election-monitoring contributions.
+
+Each commissioner publicly pledged to recuse themselves from any proceedings involving personal acquaintances or direct conflicts.
+
+**Procedures and Timeline**
+The Commission adhered to a published timetable:
+
+* **2 December 2017:** Public announcement of Commission membership and posting of the electoral calendar.
+* **3–4 December 2017:** Verification of nominations and COI disclosures; any nomination deficiencies were flagged on candidate talk pages.
+* **5–11 December 2017:** Supervision of the Q\&A and RfC phases, with weekly progress reports posted to the RfC page.
+* **12 December 2017:** Final ballot form published at “Wikipedia\:Arbitration Committee elections/December 2017.”
+* **13–15 December 2017:** Vote tally conducted using secure scripts; anonymized results summarized in the closing statement.
+* **16 December 2017:** Publication of the Commission’s report detailing procedures followed, statistics, and any unresolved issues.
+
+**Notable Actions and Challenges**
+During the nomination verification, the Commission identified two candidates whose edit counts fell slightly below policy thresholds. In both cases, the candidates withdrew their nominations voluntarily, averting formal disputes. The Commission also managed a late-arising complaint about possible vote coercion on a third-party forum; after informal investigation, no evidence of undue influence was found, and the election proceeded without interruption.
+
+**Transparency Measures**
+To bolster community confidence, the Commission implemented several transparency initiatives:
+
+* **Public Timetable:** A detailed calendar of each phase, updated in real time.
+* **Weekly Bulletins:** Short summaries of Commission activities, posted to the RfC and ArbCom bulletin boards.
+* **Statistical Report:** A table listing support, oppose, and neutral tallies for each candidate—presented without disclosing individual votes.
+
+These measures satisfied broader RfC recommendations for procedural openness while protecting voter privacy.
+
+**Election Outcome**
+The election concluded with nine candidates elected to ArbCom, each receiving clear majority support. The Commission’s anonymized tally revealed average support rates of 65%, with the marginal ninth-place candidate securing a 51% support score. The final report noted that voter turnout was approximately 48% of eligible voters—consistent with previous ArbCom elections.
+
+**Legacy and Significance**
+The December 2017 Electoral Commission model became a reference for subsequent ArbCom elections. Its clear delineation of roles, commitment to transparency, and rigorous dispute-resolution practices were lauded as best practices in Wikipedia’s self-governance. In 2018, the community formalized many of the Commission’s procedural templates into “Wikipedia\:Arbitration Committee elections” policy, standardizing nomination verification and result reporting for future cycles.
+

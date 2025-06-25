@@ -1,0 +1,50 @@
+An anti-materiel rifle (AMR) is a rifle designed for use against military equipment, structures, and other hardware (materiel) targets. Anti-materiel rifles are chambered in significantly larger calibers than conventional rifles and are employed to eliminate equipment such as engines and unarmored or lightly armored targets. Although not originally designed for use against human targets, the bullet weight and velocity of anti-materiel rifles gives them exceptional long-range capability even when compared with designated sniper rifles. Anti-materiel rifles are made in both bolt-action and semi-automatic designs.
+The anti-materiel rifle originated in the anti-tank rifle, which itself originated during World War I. While modern tanks and most other armored vehicles are too well protected to be affected by anti-materiel rifles, the guns are still effective for attacking unarmored or lightly armored vehicles.  They can also be used against stationary enemy aircraft, missile launchers, radar equipment, unexploded ordnance, small watercraft, communications equipment, crew-served weapons and similar targets. Their value lies in their ability to precisely target and disable enemy assets from long range at relatively low cost.
+
+
+== History ==
+
+
+=== World War I ===
+
+The history of anti-materiel rifles dates back to World War I. The need for anti-tank rifles was first encountered by the Germans when faced with the British Mark 1 tank. The Mark I could cross ditches up to nine-foot (2.7 m) wide, which made it a major threat to infantry in trench defenses.
+As a counter, the Germans first used "direct fire mortars", which were mortars aimed at low angles pointing towards enemy tanks. Later, the Germans developed the T-Gewehr anti-tank rifle, which can be credited with being the first anti-materiel rifle. The rifle was designed to penetrate the thick armor of the British tanks. The rifle weighed 41 lb (19 kg) when loaded, fired a 13.2 mm round weighing 55.5 g (1.96 oz), and had an effective range of about 1,600 ft (500 m). This weapon had a two-man crew: one to load and the other to fire the weapon, although they often switched roles. The recoil of this weapon was so high that it was known to break collar bones and dislocate shoulders. The rifle fired a steel core armor-piercing round specifically designed to be used with this rifle.
+
+
+=== World War II ===
+
+During World War II, anti-materiel guns were widely used. In September 1939 Polish army used the successful wz. 35 anti-tank rifle, around 800 of which were captured by Germans and put into service as Panzerbüchse 35(p). The British Boys anti-tank rifle was used to great effect against lightly armored tanks, but was soon replaced by the PIAT due to its ineffectiveness against more armored tanks. The PTRD-41 and PTRS-41 anti-tank rifles were used by the Soviets on the Eastern Front. Germany used the Panzerbüchse 39, while Japan used the Type 97 automatic cannon, though the latter became obsolete by 1942. Notably, the United States did not develop or field any anti-tank rifles during the war, choosing instead to use explosive anti-tank weaponry such as the M1 Bazooka (though Swiss anti-tank rifles were trialed).
+One anti-tank rifle used was the Lahti L-39, a Finnish anti-materiel rifle. One version was designed to fire a 13.2 mm cartridge and another a 20 mm cartridge. There was debate over which was more effective at piercing armor. Some argued that the smaller cartridge travelled faster and could penetrate deeper into the armor, while others believed that the higher caliber rounds would cause greater damage. The weapon was quite heavy at 109 lb (49 kg) and had an 88-inch (220 cm) barrel, and it carried the nickname "the elephant gun".
+
+
+=== Cold War ===
+During the Cold War, the Barrett M82 rifle was produced by the United States, and was chambered to fire a .50 BMG (12.7×99mm NATO) round. This weapon was sold by the U.S. to Swedish forces.
+
+
+=== Gulf War ===
+The M82 rifle first saw action in the early 1990s, during the Gulf War. The U.S. Marine Corps initially purchased around 125 M82 rifles; orders from the Army and Air Force followed. These weapons were used with rounds such as armor piercing incendiary rounds (API) which were effective against such targets as buildings, trucks, and parked aircraft. The purpose of this round was to penetrate non-armored vehicles and burst into flames on impact. Saboted light armor penetrator ammunition was also used in anti-materiel rifles during the conflict.
+
+
+=== Modern day ===
+In the modern era, the armor of tanks and other vehicles increased, making it difficult for .50 BMG bullets to penetrate. As such, modern day anti-materiel rifles are no longer used in an anti-tank capacity, and generally used to penetrate light armor vehicles or for its barrier-blind capabilities against targets behind concrete barricades and buildings; as well as being used to destroy unexploded ordnance. Additionally, modern anti-materiel rifles are frequently used as sniper rifles against personnel targets, due to their long range, relatively low cost of construction for craft-produced models, and robust penetrating capabilities.  They have seen frequent use in Syria and Iraq as a counter-VBIED weapon system, due to their greater ability to penetrate uparmored VBIED threats that standard rifle calibers used by designated marksmen (typically 7.62×54mmR and 7.62×51mm) are not able to reliably stop.
+
+
+== Description ==
+
+Despite having been designed to be used against equipment, anti-materiel rifles have also been used for killing soldiers from distances that are beyond the effective range of regular rifle-caliber cartridges. Anti-materiel rifles can also penetrate most obstacles and building materials, making them viable for engaging targets behind cover that is usually hard enough to stop rifle-caliber cartridges. In general, anti-materiel rifles are chambered for 12.7×99 mm NATO (.50 BMG), 12.7×108 mm Russian, 14.5×114 mm Russian, and 20 mm cartridges. According to the US Army, the range of a standard sniper rifle firing a 7.62×51mm NATO round is a distance of about 2,600 feet (800 m) while the Barrett's effective range is 3,300 feet (1,000 m) against personnel targets, and 6,600 feet (2,000 m) against materiel targets. The offensive use of anti-materiel rifles is termed hard target interdiction (HTI) by the United States military. The longest confirmed kill shot was made with a .50 BMG by a Canadian sniper in Iraq at 11,610 feet (3,540 m).
+
+
+== See also ==
+Designated marksman rifle
+List of anti-materiel rifles
+List of firearms
+High-explosive incendiary/armor-piercing ammunition
+Anti-tank gun
+
+
+== References ==
+
+
+== External links ==
+
+20mm AMR – New Use for Unused Ammo, SOF Weapons SectionCrane Division, Naval Surface Warfare CenterSmall Arms Weapons Systems Division, USSOCOM Comparative Testing Office

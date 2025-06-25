@@ -1,0 +1,264 @@
+This is a collection of discussions on the deletion of articles related to Politicians.  It is one of many deletion lists coordinated by WikiProject Deletion sorting.  Anyone can help maintain the list on this page.   
+
+Adding a new AfD discussion
+Adding an AfD to this page does not add it to  the main page at WP:AFD.  Similarly, removing an AfD from this page does not remove it from the main page at WP:AFD.  If you want to nominate an article for deletion, go through the process on that page before adding it to this page.  To add a discussion to this page, follow these steps:
+Edit this page and add {{Wikipedia:Articles for deletion/PageName}} to the top of the list. Replace "PageName" with the relevant article name, i.e. the one on the existing AFD discussion. Also, indicate the title of the article in the edit summary as it is particularly helpful to add a link to the article in the edit summary. When you save the page, the discussion will automatically appear.
+You should also tag the AfD by adding {{subst:delsort|Politicians|~~~~}} to it, which will inform editors that it has been listed here. You may place this tag above or below the nomination statement or at the end of the discussion thread.
+There are a few scripts and tools that can make this easier.
+Removing a closed AfD discussion
+Closed AfD discussions are automatically removed by a bot.
+Other types of discussions
+You can also add and remove other discussions (prod, CfD, TfD etc.) related to Politicians. For the other XfD's, the process is the same as AfD (except {{Wikipedia:Miscellany for deletion/PageName}} is used for MFD and {{transclude xfd}} for the rest). For PRODs, adding a link with {{prodded}} will suffice.
+Further information
+For further information see Wikipedia's deletion policy and WP:AfD for general information about Articles for Deletion, including a list of article deletions sorted by day of nomination.
+
+Please see Wikipedia:WikiProject Deletion sorting/Politics for a general list of deletion debates on related issues.
+
+
+=== Wang Ji (Ming dynasty politician) ===
+Wang Ji (Ming dynasty politician) (edit | talk | history | protect | delete | links | watch | logs | views) – (View AfD | edits since nomination)
+(Find sources: Google (books · news · scholar · free images · WP refs) · FENS · JSTOR · TWL)
+Unreferenced article with little verifiability. Not much to expand on and demonstrate sufficient notability against possible deletion. Go D. Usopp (talk) 03:09, 13 June 2025 (UTC)
+
+Note:  This discussion has been included in the deletion sorting lists for the following topics: Politicians and China. Go D. Usopp (talk) 03:09, 13 June 2025 (UTC)
+
+
+=== David A. Andelman ===
+David A. Andelman (edit | talk | history | protect | delete | links | watch | logs | views) – (View AfD | edits since nomination)
+(Find sources: Google (books · news · scholar · free images · WP refs) · FENS · JSTOR · TWL)
+Doesn't seem to be notable. My searches on Google came up with only a French article about him receiving an award. The page is heavily edited by the subject of the article. Pxldnky77 (talk) 10:52, 10 June 2025 (UTC)
+
+Note:  This discussion has been included in the deletion sorting lists for the following topics: Authors, Politicians,  and Journalism. Pxldnky77 (talk) 10:52, 10 June 2025 (UTC)
+Note:  This discussion has been included in the deletion sorting lists for the following topics: France, Massachusetts,  and Missouri. WCQuidditch ☎ ✎ 03:45, 11 June 2025 (UTC)
+Delete. There are so many reasons that autobiography is inevitably bad for a non-profit encyclopedia: it involves original research, the subject wants to censor out the uncomfortable truths about themselves, and it's a breach of our charitable status, as self-dealing, which tax status is already being attacked by the richest man in the World and his once again BFF. Bearian (talk) 18:55, 11 June 2025 (UTC)
+
+
+=== James Blair Jr. ===
+James Blair Jr. (edit | talk | history | protect | delete | links | watch | logs | views) – (View AfD | edits since nomination)
+(Find sources: Google (books · news · scholar · free images · WP refs) · FENS · JSTOR · TWL)
+Nomination: Notability questioned: I've searched for sources and I can't find any. I think a Wikidata page is sufficient. (A page with a list of mayors of Williamsburg might also be created, which would list Blair.) ash (talk) 07:14, 10 June 2025 (UTC)
+
+Note:  This discussion has been included in the deletion sorting lists for the following topics: Politicians and Virginia. Shellwood (talk) 10:28, 10 June 2025 (UTC)
+Delete, as per nomination, although a redirect to the proposed list is reasonable. Bearian (talk) 01:25, 11 June 2025 (UTC)
+Delete per nom. Many mayoral positions in Colonial America were unelected (other than maybe a local council), undesired, or both (ex: It wasn't uncommon for Philadelphia's selected Mayors of the 1700's to prefer to face criminal charges or flee the area than to take office) so there is likely little significant coverage. While I would usually oppose a list of mayors for a city that hasn't ever reached a population of 20,000 people, Williamsburg probably deserves an exception given its historical significance. Best, GPL93 (talk) 17:52, 11 June 2025 (UTC)
+
+
+=== Mir Yar Baloch ===
+Mir Yar Baloch (edit | talk | history | protect | delete | links | watch | logs | views) – (View AfD | edits since nomination)
+(Find sources: Google (books · news · scholar · free images · WP refs) · FENS · JSTOR · TWL)
+This article should've been deleted alongside Republic of Balochistan and Balochistan Freedom Declaration last month, and for similar reasons. This was redirected to Republic of Balochistan, then to Operation Herof 2.0, then to Insurgency in Balochistan. While it was a redirect, I nominated it at RfD with the same type of reasoning as what was successfully used against Republic of Balochistan, but I got impatient and later withdrew it and decided to restore the article so it could be speedied under criterion A7, but that one was declined because the sources used (News18, The Economic Times, The Times of India, the Hindustan Times, ANI News and Firstpost) constituted a "credible claim of significance" according to one editor. – MrPersonHumanGuy (talk) 13:30, 9 June 2025 (UTC)
+
+Automated comment: This AfD was not correctly transcluded to the log (step 3).  I have transcluded it to Wikipedia:Articles for deletion/Log/2025 June 9.  —cyberbot ITalk to my owner:Online 13:43, 9 June 2025 (UTC)
+Note:  This discussion has been included in the deletion sorting lists for the following topics: People and Pakistan. Shellwood (talk) 14:12, 9 June 2025 (UTC)
+Note:  This discussion has been included in the deletion sorting lists for the following topics: Politicians and Journalism. WCQuidditch ☎ ✎ 20:12, 9 June 2025 (UTC)
+
+
+=== List of mayors of Auburn, Washington ===
+List of mayors of Auburn, Washington (edit | talk | history | protect | delete | links | watch | logs | views) – (View AfD | edits since nomination)
+(Find sources: Google (books · news · scholar · free images · WP refs) · FENS · JSTOR · TWL)
+Does not meet WP:NLIST due to a lack of coverage as a group by reputable sources. The lone book source listed is self-published, and the other sources concern individual mayors rather than the collective group. Disputed PROD. SounderBruce 00:43, 9 June 2025 (UTC)
+
+Note:  This discussion has been included in the deletion sorting lists for the following topics: Politicians and Washington. SounderBruce 00:43, 9 June 2025 (UTC)
+Note:  This discussion has been included in the list of Lists of people-related deletion discussions. WCQuidditch ☎ ✎ 01:46, 9 June 2025 (UTC)
+Keep The criteria are being applied in a perverse manner that is inconsistent with Wikipedia practice. See Lists of mayors by country. Mayors are often notable, but certainly a complete list of the holders of a notable local office can generally be established for any decent sized municipality. Per WP:CSC point 2, if for some reason this isn't kept, it should be merged into Auburn, Washington as several of the other lists of mayors are incorporated into their cities' articles. Jclemens (talk) 04:25, 9 June 2025 (UTC)
+Delete or merge to Auburn, Washington.  None of the names on the list is notable enough for their own page, so aggregating them into a standalone list article is pointless. WeirdNAnnoyed (talk) 10:51, 9 June 2025 (UTC)
+Keep -  There are many, many such mayor lists on Wikipedia.  Please see Category:Lists of mayors and Category:Lists of mayors of places in the United States - this is just he tip of the mayoral lists on Wikipedia. We don't have the editorial resources to clean up all of these.  Go with the flow of what already exists. — Maile  (talk) 11:44, 9 June 2025 (UTC)
+This is an extremely misinformed keep rationale. We do have the resources to clean up all of these and we should not just go with the flow because other things exist. Esolo5002 (talk) 22:54, 9 June 2025 (UTC)
+Keep or merge to Auburn, Washington. A verifiable list of mayors could be a valid WP:SPINOFF from a main page about a city (alternatively, a list of mayors could be a collapsable list). There may be some desire to clarify NLIST as it applies to lists of officeholders. --Enos733 (talk) 16:52, 9 June 2025 (UTC)
+merge to Auburn, Washington#Government as is the usual solution for smaller places where neither the mayoralty nor its officeholders are notable. Mangoe (talk) 21:25, 9 June 2025 (UTC)
+
+
+=== Zubair Ahmad Quraishi ===
+Zubair Ahmad Quraishi (edit | talk | history | protect | delete | links | watch | logs | views) – (View AfD | edits since nomination)
+(Find sources: Google (books · news · scholar · free images · WP refs) · FENS · JSTOR · TWL)
+Non-notable politician. All sources are either YouTube (not WP:RS) or passing mentions (not WP:SIGCOV). The only English source doesn't even mention Quraishi at all. '''[[User:CanonNi]]''' (talk • contribs) 10:48, 8 June 2025 (UTC)
+
+Note:  This discussion has been included in the deletion sorting lists for the following topics: Politicians and India. '''[[User:CanonNi]]''' (talk • contribs) 10:48, 8 June 2025 (UTC)
+Comment: Self-published material on YouTube is usually not a reliable source, but a newscast from a television station that is normally considered a reliable source does not stop being reliable just because it is uploaded to YouTube. I have not viewed or analyzed the newscasts cited as references, but I think it is likely that at least some of them are reliable. Eastmain (talk • contribs) 14:09, 8 June 2025 (UTC)
+Note:  This discussion has been included in the list of Uttar Pradesh-related deletion discussions. WCQuidditch ☎ ✎ 18:00, 8 June 2025 (UTC)
+
+
+=== Executive Order 14147 ===
+Executive Order 14147 (edit | talk | history | protect | delete | links | watch | logs | views) – (View AfD | edits since nomination)
+(Find sources: Google (books · news · scholar · free images · WP refs) · FENS · JSTOR · TWL)
+I am utterly baffled as to why this Trumpcruft needs its own article. It has barely anything to it. It doesn't have any significant coverage in reliable sources, even from the time of its signing and publication, and it certainly does not have any enduring notability. We already have a very lengthy list of executive orders. We do not need a wee stub for every single one, no matter how insignificant (and this one is so clearly insignificant). Grnrchst (talk) 21:49, 6 June 2025 (UTC)
+
+Note:  This discussion has been included in the deletion sorting lists for the following topics: Politicians, Politics,  and United States of America. Grnrchst (talk) 21:49, 6 June 2025 (UTC)
+Redirect to List of executive orders in the second presidency of Donald Trump Only because it's the first one signed. Nathannah • 📮 02:37, 7 June 2025 (UTC)
+Note:  This discussion has been included in the list of Law-related deletion discussions. WCQuidditch ☎ ✎ 05:37, 7 June 2025 (UTC)
+Redirect to List of executive orders in the second presidency of Donald Trump as an ATD. This is clearly non-notable Trumpcruft with no notable sustained coverage. Esolo5002 (talk) 08:54, 7 June 2025 (UTC)
+
+
+=== Donald Trump's memecoin dinner ===
+Donald Trump's memecoin dinner (edit | talk | history | protect | delete | links | watch | logs | views) – (View AfD | edits since nomination)
+(Find sources: Google (books · news · scholar · free images · WP refs) · FENS · JSTOR · TWL)
+Another excellent example of Trumpcruft we have here. An article about a dinner.... Half of this article isn't even about the dinner, and instead provides context about Trump's memecoin or pithy reactions from the US opposition and comedians. Almost all of the sources are from around the day of the event, with little to nothing since then. Wikipedia is not a newspaper and this was clearly not a significant event with enduring notability. The content worth keeping (if there is any) could easily be merged into the main article about $Trump. Grnrchst (talk) 21:41, 6 June 2025 (UTC)
+
+Note:  This discussion has been included in the deletion sorting lists for the following topics: Politicians, Cryptocurrency, Politics, Business, Economics,  and United States of America. Grnrchst (talk) 21:41, 6 June 2025 (UTC)
+Delete: Christ, yes: not every single thing Donald Trump does deserves an article. I don't see why this is notable. — Czello (music) 21:46, 6 June 2025 (UTC)
+Delete. Not worthy of an entire article and the topic can be mentioned at $Trump as suggested. --MYCETEAE 🍄‍🟫—talk 23:17, 6 June 2025 (UTC)
+Delete and Merge to $Trump per reasons above. Half the article is just giving general background on the memecoin and is not actually about the dinner; the event itself was not very notable. The information about the dinner should be in a section in the memecoin's article and not its own article per WP:TRUMPCRUFT. 2601:402:680:1270:C174:D122:219:19D7 (talk) 01:28, 7 June 2025 (UTC)
+Redirect/merge to $Trump per 2601; this is more background on the coin than about what was not an official state event. Nathannah • 📮 02:38, 7 June 2025 (UTC)
+Merge to $Trump: Per the nominator, The content worth keeping (if there is any) could easily be merged into the main article about $Trump.  Per WP:ATD-M, we should merge rather than delete when we can.  Outside the lede and the 'Trump cryptocurrencies' sub-section, I think that there is sufficient content that could be moved to $Trump.  --Super Goku V (talk) 05:21, 7 June 2025 (UTC)
+Note:  This discussion has been included in the deletion sorting lists for the following topics: Events and Washington, D.C.. WCQuidditch ☎ ✎ 05:38, 7 June 2025 (UTC)
+Merge - without context, it's just a meal; with context, It's number 35. Bearian (talk) 21:15, 7 June 2025 (UTC)
+Merge to $Trump per Super Goku V. KnowDeath (talk) 02:32, 8 June 2025 (UTC)
+Merge to $Trump seems best. Moondragon21 (talk) 01:29, 13 June 2025 (UTC)
+
+
+=== Donald Trump's letter to Ali Khamenei ===
+Donald Trump's letter to Ali Khamenei (edit | talk | history | protect | delete | links | watch | logs | views) – (View AfD | edits since nomination)
+(Find sources: Google (books · news · scholar · free images · WP refs) · FENS · JSTOR · TWL)
+This has to be one of the best examples of Trumpcruft on Wikipedia. This is article is about a single letter, sent a few months ago. I held off nominating this article for deletion when it was first created, but it's been enough time now that I think it's clear it does not have enduring notability by itself; it has not received any extensive coverage since it was sent. Wikipedia is not a newspaper and this was not a significant event. Any information worth keeping can easily be merged into the article on the 2025 United States–Iran negotiations (a subject that does have a more clearly enduring notability). Grnrchst (talk) 21:28, 6 June 2025 (UTC)
+
+Note:  This discussion has been included in the deletion sorting lists for the following topics: People, Politicians, Literature, Politics, Iran,  and United States of America. Grnrchst (talk) 21:28, 6 June 2025 (UTC)
+Merge to 2025 United States–Iran negotiations. No reason this letter needs its own article. Esolo5002 (talk) 08:56, 7 June 2025 (UTC)
+Merge and redirect as suggested. No need for a separate article. Bearian (talk) 21:12, 7 June 2025 (UTC)
+Weak keep only if we have WP:RS, but a merge is more preferable to avoid WP:CFORK happening. Wynwick55gl (talk) 08:44, 8 June 2025 (UTC)
+keep According to WP:NOMERGE, articles that are merged should not be excessively lengthy. Conversely, if an article has the potential for expansion, it should not be deleted. The article 2025 United States–Iran negotiations is lengthy and has the potential for further development. Also, the article about Trump's letter to Ayatollah Khamenei is quite well-known. It is a letter between two important and well-known people. Like the correspondence between Obama and Khamenei. Should this article also be deleted? Many years have passed since this article was published.GolsaGolsa (talk) 08:56, 8 June 2025 (UTC)
+Like the correspondence between Obama and Khamenei. Should this article also be deleted? Probably yes, but don't WP:OTHERSTUFF please. – Muboshgu (talk) 14:43, 8 June 2025 (UTC)
+Merge This letter has no notability independent of the greater scope article. A sentence or two about the letter in 2025 United States–Iran negotiations would suffice. – Muboshgu (talk) 14:42, 8 June 2025 (UTC)
+Merge with 2025 United States–Iran negotiations. It was the starting point for the negotiations. If it is merged, and a redirect is created, all original information in this article is saved (through History). If it is deleted, everything is gone. PS Just to be clear, if it is not merged, then Keep! Lova Falk (talk) 11:47, 9 June 2025 (UTC)
+Merge. This can be covered in 3-4 sentences on the main page. No WP:PAGELENGTH concerns due to the minimal amount of net new content. Longhornsg (talk) 16:44, 9 June 2025 (UTC)
+Merge 78.81.123.235 (talk) 16:23, 11 June 2025 (UTC)
+
+
+=== Roberto Parra Vallette ===
+Roberto Parra Vallette (edit | talk | history | protect | delete | links | watch | logs | views) – (View AfD | edits since nomination)
+(Find sources: Google (books · news · scholar · free images · WP refs) · FENS · JSTOR · TWL)
+Subject fails notability guidelines for politicians, and sources from here and a cursory search are insufficient to establish general notability. Vanderwaalforces (talk) 16:44, 5 June 2025 (UTC)
+
+Note:  This discussion has been included in the deletion sorting lists for the following topics: People, Politicians,  and Chile. Vanderwaalforces (talk) 16:44, 5 June 2025 (UTC)
+Keep Does not fail NPOL, as the mayor of a large city in Chile (Viña del Mar). He did so in full capacity following the removal of office of Rodrigo González, who preceded him. Although he was the mayor for only three months, the article could well be expanded using offline sources such as El Mercurio de Valparaíso. --Bedivere (talk) 16:59, 5 June 2025 (UTC)
+Sorry, but 334,248 is not large enough to entitle the mayors to be inherently notable. Let's be consistent with our judgments. Vanderwaalforces (talk) 17:00, 5 June 2025 (UTC)
+Let's put that into perspective then. It's the sixth largest commune in Chile by population. It's a large city in Chile. Bedivere (talk) 03:08, 7 June 2025 (UTC)
+Population doesn't mean high notability. Honolulu has a population of 344,967. Viña del Mar has more population than Orlando, Pittsburgh, St. Louis, Salt Lake City, Des Moines and Anchorage, notable U.S. cities. — Itzcuauhtli11 (talk) 14:23, 11 June 2025 (UTC)
+Keep Meets enough NPOL, the subject of the biography has held an official position and has received sufficient media coverage. --Carigval.97 (talk) 19:25, 5 June 2025 (UTC)
+NPOL is not about holding "an official position". Geschichte (talk) 20:58, 11 June 2025 (UTC)
+
+
+=== Juan Luis Trejo ===
+Juan Luis Trejo (edit | talk | history | protect | delete | links | watch | logs | views) – (View AfD | edits since nomination)
+(Find sources: Google (books · news · scholar · free images · WP refs) · FENS · JSTOR · TWL)
+Subject fails notability guidelines for politicians, and sources from here and a cursory search are insufficient to establish general notability. Vanderwaalforces (talk) 16:43, 5 June 2025 (UTC)
+
+Note:  This discussion has been included in the deletion sorting lists for the following topics: People, Politicians,  and Chile. Vanderwaalforces (talk) 16:43, 5 June 2025 (UTC)
+Delete, obviously without prejudice against recreation in the future if somebody with access to archived Chilean media can write and source something more substantive than this. Mayors are not automatically entitled to Wikipedia articles just for existing, and have to show significant press coverage enabling us to write a substantive article about their political impact — specific things they did, specific projects they spearheaded, specific effects their mayoralty had on the development of the city, and on and so forth. But this basically just states that he existed, and just cites the absolute bare minimum of sourcing needed to prevent it from being speedied as completely unsourced, without adding any of the more substantive content or sourcing that we would actually need to see. Bearcat (talk) 16:49, 5 June 2025 (UTC)
+Keep: The article sufficiently meets the notability guidelines for politicians, as it addresses the first topic of politicians who have held province–wide offices, in this case, that of mayor of Viña del Mar.
+Just as there are political figures with extensive coverage without holding an official position, in this case, it is a figure with historical notoriety without much media coverage. Carigval.97 (talk) 19:14, 5 June 2025 (UTC)
+Mayor of a city is not a "province-wide" office. It's a local office that falls under NPOL #2, where the notability test depends exclusively on media coverage and cannot be passed without that. Bearcat (talk) 11:53, 6 June 2025 (UTC)
+According to the rules, media coverage is a second important point, not necessary exclusive (that's why I was talking about cases where there are political figures without positions, but with sufficient references). Similarly, that position –mayor of Viña del Mar– is a province-wide office: that important city in Chile is a town in the Province of Valparaíso. Mr. Trejo has encyclopedic relevance as a mayor of a large city in Chile.Carigval.97 (talk) 10:08, 6 June 2025 (UTC)
+Media coverage is essential to passage of WP:GNG, not a mere option that can be bypassed. NPOL does not say that media coverage is optional; even a politician who does pass NPOL #1 (which a mayor does not) still has to have GNG-worthy sourcing too, and the only pass they get is that as long as their holding of the office is properly verifiable, we don't rush their article into the delete bin for not already being in a better state than it is — we give it time for improvement to a GNG-compliant standard, because it's an automatic given that the article will be improvable.
+But mayors don't get the same indulgence: mayors only get articles if and when passage of the criterion for local politicians has already been shown off the bat, because there isn't the same guarantee that every mayor of everywhere can always be improved to a GNG-compliant standard. No politicians, at any level of government, are ever exempted from having to have GNG-worthy media coverage — there are just some levels of government at which the officeholders are given a grace period for improvement, and some levels of office at which they aren't given the same benefit of the doubt, but there is no level of government at which people are exempted from having to cite GNG-worthy sourcing at all.
+I don't think you understand the definition of "province-wide", either. The fact that a city is in a province does not render the city's mayor into a province-wide officeholder, as he's mayor of the city and not mayor of the whole province. A province-wide office is one that has province-wide jurisdictional authority, like a governor or a provincial-level legislator, not a mayor of an individual town or city within the province. Mayors are local officeholders under NPOL #2, not province-wide officeholders under NPOL #1, which is precisely why a mayor cannot be exempted from having to pass GNG on media coverage. Bearcat (talk) 14:59, 6 June 2025 (UTC)
+I understand your reasons, Bearcat, but Trejo's management as mayor of Viña del Mar is reflected in the document that refers to his social policies regarding legal aid, as well as in press reports that mention his management of the Viña International Festival. The lack of more digital news is due to the fact that the internet was not sufficiently widespread at the time. However, this lack is complemented by sufficient historical documents that do give him prominence in his field: the history of the mayoralty of Viña del Mar.
+Regarding "No politicians, at any level of government, are ever exempted from having GNG-worthy media coverage", it's regrettable that there are cases where even long-standing English officials, such as Arthur Henderson, Baron Rowley (Labour), have few references, as well as Sidney Jones, Mayor of Liverpool, who does not register digital press releases, but rather press sources. Despite this, their notability lies in the positions they have held.
+Finally, a city's case may remain provincial, but autonomous. Similarly, and being a local city, Viña del Mar is an important cultural and economic location (services, tourism). Based on this, and the fact that Trejo is a politician, the subject of the biography has sufficient notoriety to have held said office, as verified by official digital archives of proven reliability (Universidad Alberto Hurtado and notes from the Judicial Corporation). Carigval.97 (talk) 18:45, 7 June 2025 (UTC)
+Please don't bring up WP:WHATABOUT "arguments". Geschichte (talk) 08:36, 8 June 2025 (UTC)
+Keep: It's not just a matter of media coverage for the tenure of a politician's biography, a mayor in this case. The most important thing here is that "Politicians who have held international, national, or subnational office (such as members of national legislatures, governors, or mayors of large cities) are presumed notable." In this case, Viña del Mar is one of the largest cities in the country and is an integral part of Greater Valparaíso, the second largest urban agglomeration in Chile. — Preceding unsigned comment added by Igallards7 (talk) 3:45, 7 June 2025 (UTC) 
+Keep: per Igallards7. The article has also been significantly expanded since the nomination. Luis7M (talk) 18:38, 8 June 2025 (UTC)
+Comment WP:NPOL does not state that mayors of large cities are presumed notable. The correct language in NPOL is "Major local political figures who have received significant press coverage." The language does not specify city size or even position a local government. The standard for all local politicians is what Bearcat describes earlier - the need to "show significant press coverage enabling us to write a substantive article about their political impact." This is true for a mayor of a population of 49, or a population of 32 million. In practice, this means that a local official should meet and possibly exceed WP:GNG to have a stand alone page. --Enos733 (talk) 20:52, 8 June 2025 (UTC)
+
+
+=== Kris Knochelmann ===
+Kris Knochelmann (edit | talk | history | protect | delete | links | watch | logs | views) – (View AfD | edits since nomination)
+(Find sources: Google (books · news · scholar · free images · WP refs) · FENS · JSTOR · TWL)
+Subject fails notability guidelines for politicians, and sources from here and a cursory search are insufficient to establish general notability. Vanderwaalforces (talk) 16:39, 5 June 2025 (UTC)
+
+Note:  This discussion has been included in the deletion sorting lists for the following topics: People, Politicians, United States of America,  and Kentucky. Vanderwaalforces (talk) 16:39, 5 June 2025 (UTC)
+
+Keep - Knochelmann meets the notability guidelines for politicians due to extensive coverage of his tenure in office from local media, such as this article with biographical information. Other articles about his priorities and policies in office include: 1, 2, 3, 4, 5, and 6. I know that this is not a criterion for notability, but as an aside I'll note that Kenton County is the third-most populous county in Kentucky after Jefferson and Fayette; there is substantial public interest in covering the county's leader. Mad Mismagius (talk) 23:21, 12 June 2025 (UTC)
+
+
+=== Junie Yu ===
+Junie Yu (edit | talk | history | protect | delete | links | watch | logs | views) – (View AfD | edits since nomination)
+(Find sources: Google (books · news · scholar · free images · WP refs) · FENS · JSTOR · TWL)
+Fails WP:NPOLITICIAN. Suffers from WP:BOMBARD. 🇵🇸‍🇺🇦 FiddleTimtrent FaddleTalk to me 🇺🇦‍🇵🇸 08:53, 5 June 2025 (UTC)
+
+Note:  This discussion has been included in the deletion sorting lists for the following topics: People, Politicians,  and Philippines. 🇵🇸‍🇺🇦 FiddleTimtrent FaddleTalk to me 🇺🇦‍🇵🇸 08:53, 5 June 2025 (UTC)
+Note:  This discussion has been included in the list of Medicine-related deletion discussions. WCQuidditch ☎ ✎ 10:46, 5 June 2025 (UTC)
+Keep While I can understand the nominator's concern about "WP:BOMBARD" given the initial article creation, it's worth assessing the subject's actual notability separately from how the article came to be.
+If Junie Yu indeed meets Wikipedia's notability guidelines (specifically for politicians, WP:NPOLITICIAN, and general notability, WP:GNG) through verifiable, independent sources, then the article should be kept. The focus should be on the subject's notability, not on the initial submission process.
+Let's evaluate based on policy, not just initial impressions.
+see also: https://en.wikipedia.org/wiki/Pam_Baricuatro
+1bisdak (talk) 15:10, 5 June 2025 (UTC)
+While Pam Baricuatro also fails WP:NPOL, she's one level of government higher than Yu (city vs municipality), and can be argued she may pass WP:GNG; of course that can definitely be determined by nominating that article for WP:AFD yourself as well.
+Looking at the references on this article, it's Facebook, the Bohol provincial government, the Calape municipal government, election results databases, and actual WP:RS provide coverage mostly to his children (LOL?) passing the nursing board exams and being in a national beauty pageant, instead of him personally. There's one reference solely about him where his corruption cases were dismissed. Looking at all of this, delete as having failed WP:GNG. Howard the Duck (talk) 12:02, 6 June 2025 (UTC)
+Based on the 2025 local election results, incumbent vice-mayor Sulpicio Yu Jr. unseated incumbent mayor Julius Caesar Herrera. See also the 2013 Bohol local election results.
+See also:
+Dan Lim
+Jose Antonio Veloso
+Luis Marcaida III
+Mikee Morada
+Category:Mayors of places in Bohol
+Category:Filipino politicians by province
+Category:Local politicians in the Philippines
+1bisdak (talk) 00:01, 7 June 2025 (UTC)
+I suppose you need to read WP:OSE. Howard the Duck (talk) 09:23, 7 June 2025 (UTC)
+KEEP the article.
+Junie Yu is notable based on his extensive political career. He served as mayor for three consecutive terms (June 30, 2007 – June 30, 2016) and as vice-mayor for three consecutive terms (June 30, 2016 – June 30, 2025). Furthermore, he unseated incumbent Mayor Julius Caesar Herrera in both the 2013 and 2025 elections, and is set to assume office again as mayor by June 30, 2025. This consistent holding of significant public office directly meets Wikipedia's notability guidelines for politicians (WP:NPOLITICIAN) and provides ample ground for "significant coverage" under WP:GNG. 1bisdak (talk) 01:50, 11 June 2025 (UTC)
+To closing admin, subject of the article fails WP:NPOLITICIAN. I suppose 1bisdak has to paste the provision on that policy where Yu applies? Being mayor for 3 terms, vice mayor for 3 terms, unseating the previous mayor, and defending the mayoralty doesn't make you pass WP:NPOL. I would really highly suggest 1bisdak to rean and understand WP:NPOL; it's not even that long.
+As for WP:GNG, while there were improvements in the sourcing in the article since June 6, these were a court case (WP:PRIMARY), and a self-published Scribd document (again, WP:PRIMARY). As prior sourcing failed WP:RS, and added ones still do not pass WP:RS, the article still fails WP:GNG. Howard the Duck (talk) 14:29, 11 June 2025 (UTC)
+Junie Yu's six consecutive terms as mayor and vice-mayor (2007-2025) demonstrate sustained "significant elected office" under WP:NPOLITICIAN.
+His unseating of incumbent Mayor Julius Caesar Herrera twice (2013 and 2025) further proves his political notability and the likelihood of significant coverage.
+While some current sources might be weak, his long tenure and political impact mean verifiable, independent sources should exist, meeting WP:GNG. The issue is finding them, not a lack of notability.
+
+As WP:Notability states, "Determining notability does not necessarily depend on things such as fame, importance, or popularity." 1bisdak (talk) 01:18, 12 June 2025 (UTC)
+The exact phrase "significant elected office" (your quotes) doesn't appear in WP:NPOLITICIAN.
+People defeating incumbents do not merit Wikipedia articles for most of the time, unless those offices are the ones found in WP:NPOLITICIAN.
+Where are those WP:RS sources? You've been arguing about importance without actually demonstrating it by finding sources. Sources about his offspring don't count. We need actual sources not theoretical ones, "or they're out there". This person's career spans the last 10 years or so, WP:LINKROT should not be an issue for internet sources. Howard the Duck (talk) 13:45, 12 June 2025 (UTC)
+To explain further, failure to meet WP:NPOLITICIAN won't be an issue if the person meets WP:GNG, which can be demonstrated by finding actual sources. Howard the Duck (talk) 13:46, 12 June 2025 (UTC)
+
+
+=== Joseph Ntung Ari ===
+Joseph Ntung Ari (edit | talk | history | protect | delete | links | watch | logs | views) – (View AfD | edits since nomination)
+(Find sources: Google (books · news · scholar · free images · WP refs) · FENS · JSTOR · TWL)
+I initially draftified this article, but reverted myself once I realized it is more than 90 days old. Based on the sources cited, the subject is not notable: refs 1, 2, 4, 5 are just quotes from him (not independent), while the other three are not significant coverage. My web search didn't find anything better. 
+Additionally, the references consistently fail to support the content they are cited for, e.g. ref 1 [1] makes no mention of "Plateau", ref 2 [2] is not about his education at all, ref 3 [3] doesn't mention Plateau, the FRCN, or the NTA. If editors find sufficient sources to deem the subject notable, I ask that the article still be draftified until it is completely rewritten using only information supported by reliable sources. Toadspike [Talk] 21:42, 3 June 2025 (UTC)
+
+Keep. The subject is clearly notable as per WP:NBASIC, as being a director general of Industrial Training Fund (which had significant critical reception) and also satisfies organizational notability under WP:ORG and WP:NORG. The article now contains multiple independent, reliable sources per WP:GNG, which support the content they are cited for (the main reason for sending it to AFD by toadspike). If there were concerns about sourcing, a maintenance tag under WP:VERIFY would have been more appropriate than AfD. Still, it's valid to seek wider input. Cameremote (talk) I came from a remote place 23:33, 5 June 2025 (UTC)
+Note:  This discussion has been included in the deletion sorting lists for the following topics: Businesspeople, Politicians,  and Nigeria. Toadspike [Talk] 21:42, 3 June 2025 (UTC)
+Weak delete - Fails WP:GNG. Shoerack (talk) 15:36, 7 June 2025 (UTC)
+
+
+=== Candidates of the 2024 United Kingdom general election by constituency ===
+Candidates of the 2024 United Kingdom general election by constituency (edit | talk | history | protect | delete | links | watch | logs | views) – (View AfD | edits since nomination)
+(Find sources: Google (books · news · scholar · free images · WP refs) · FENS · JSTOR · TWL)
+This is a lengthy list of candidates per constituency in last year's UK general election. It is all sourced to a single website. It violates WP:NOTDIRECTORY: it is not an encyclopaedia article and is better suited to Wikidata. We have all this information elsewhere (in the individual constituency articles) if someone wants to find out who stood in a particular constituency. What is the value of having it all in big Wikipedia tables repeated here? Bondegezou (talk) 20:38, 22 May 2025 (UTC)
+
+Note:  This discussion has been included in the deletion sorting lists for the following topics: Politics and United Kingdom. Bondegezou (talk) 20:38, 22 May 2025 (UTC)
+I've found it helpful on numerous occasions in my work, it saves me so much time rather than having to go into individual constituencies to find out. It exists for countless other countries and deleting it would only hinder. I would agree that if it were being created now then it would be problematic but it would ADD burdens, admittedly for only a few people but us nevertheless, rather than making anything more simple or easier to use. Please keep this genuinely very helpful article. Kepleo123 (talk) 21:02, 22 May 2025 (UTC)
+Note:  This discussion has been included in the deletion sorting lists for the following topics: Politicians and Lists of people. WCQuidditch ☎ ✎ 04:26, 23 May 2025 (UTC)
+Keep this is a valid navigational article, even if it might need additional sources beyond the single one. A merge is not a good option because the other article is too long already. SportingFlyer T·C 16:46, 23 May 2025 (UTC)
+How is it a valid navigational article? Nearly all losing candidates don't have articles to which to navigate, so the main navigation is just to the winner, but we already have List of MPs elected in the 2024 United Kingdom general election that covers that. How many different ways do we need the same information? Bondegezou (talk) 10:02, 24 May 2025 (UTC)
+Keep. What is it's value? Its value is in its use. I use the page regularly to access information. I find it an invaluable resource. We would not want to delete something if there is data showing that the page is well used. No data is being provided to justify its deletion. Graemp (talk) 11:55, 27 May 2025 (UTC)
+Just because nearly all of them don't doesn't mean there's anything at all invalid about this particular article. SportingFlyer T·C 16:54, 28 May 2025 (UTC)
+Delete WP:NOTDATABASE, WP:NOTDIRECTORY and seeing as there is one single source for all this information it may fall in a grey area copyright-wise per WP:ONESOURCE. Orange sticker (talk) 09:51, 28 May 2025 (UTC)
+This isn't a database as it's properly contextualised and it's not a resource for conducting business. SportingFlyer T·C 16:55, 28 May 2025 (UTC)
+Neither of those things have anything to do with it being a database or not. WP:NOTDATABASE discourages indiscriminate lists with no context, that's that this article is. Orange sticker (talk) 14:50, 11 June 2025 (UTC)
+Furthermore there are other sources available and it's a list of factual information, so there's no copyright issue. SportingFlyer T·C 16:55, 28 May 2025 (UTC)
+I don't think anyone is disputing the veracity of the information but whether this indiscriminate list is encyclopaedic content. To those saying it is useful information, yes, that's why [whocanivotefor.co.uk] went to the trouble of compiling, creating and hosting this list. Wikipedia is not a carbon copy archive of every useful fact on the internet. Orange sticker (talk) 14:53, 11 June 2025 (UTC)
+Delete: Per WP:NOTDATABASE. 🦅White-tailed eagleTalk to the eagleStalking eagle 23:13, 28 May 2025 (UTC)
+
+Comment: WP:NOTDATABASE has been mentioned twice but none of the points there are relevant to this AfD. The more relevant link would seem to be WP:NOTDIRECTORY. Stockhausenfan (talk) 23:58, 29 May 2025 (UTC)
+It's not a directory, either - it's a list. SportingFlyer T·C 02:38, 30 May 2025 (UTC)
+Keep As it's useful and encylopeidc. AlessandroTiandelli333 (talk) 15:02, 30 May 2025 (UTC)
+Comment. I think this is very useful and if something like this is precluded there should be change in policy. I don't see how it is substantially different from 1982 United States House of Representatives election. I don't know enough about WP:DIRECTORY to have an educated vote here. --Mpen320 (talk) 23:35, 3 June 2025 (UTC)
+1982 United States House of Representatives election doesn't exist, so I'm unclear what point is being made here? Bondegezou (talk) 14:42, 11 June 2025 (UTC)
+Comment the sole source of this table has a copyright notice saying it is owned by the Democracy Club Community Interest Company, who sell the data they compile commercially. [4] Should this be brought to WP:CPN? Orange sticker (talk) 08:26, 4 June 2025 (UTC)
+The website's design and prose is copyrighted. A publicly available list of names that they took from government sources is not a creative work that can be copyrighted, even if they sell compilations that include it. Reywas92Talk 14:04, 4 June 2025 (UTC)
+
+Delete: There's no notability in simply standing for election. As this event has passed, we only need a list of the winners of the election. We aren't an election wiki, listing each and every person that ever ran for an election at any point in time, anywhere on the planet. Oaktree b (talk) 19:19, 6 June 2025 (UTC)
+Transwiki to another Wikimedia wiki like Wikidata. Wynwick55gl (talk) 08:49, 8 June 2025 (UTC)
+Keep as a valuable list of information. This page was started after a discussion which involved the splitting of the Candidates in the 2024 United Kingdom general election page. Moondragon21 (talk) 19:34, 19 June 2025 (UTC)
+
+
+=== Donn Favis ===
+Donn Favis (edit | talk | history | protect | delete | links | watch | logs | views) – (View AfD | edits since nomination)
+(Find sources: Google (books · news · scholar · free images · WP refs) · FENS · JSTOR · TWL)
+Fails to pass WP:NPOL as an unelected member to a national body, and city council position is not inherently notable. Coverage all focuses on either failed congressional campaign or general coverage of the Marikina City Council. Yoblyblob (Talk) :) 18:24, 22 May 2025 (UTC)
+
+Draftify and redirect to Marikina#Local government: Still a major figure in local politics; gaining notability in the foreseeable future is not out of the equation. On a related note, if that is the threshold, then Xyza Diazen should also be rediscussed.
+TofuMuncher (talk) 18:29, 22 May 2025 (UTC)
+@TofuMuncher if you want to take action on that page you can. Politicians have notability requirements, where if they hold a certain position they can be considered automatically notable, but they can still be notable if they have been the subject of significant coverage. Yoblyblob (Talk) :) 19:06, 22 May 2025 (UTC)
+Note:  This discussion has been included in the deletion sorting lists for the following topics: Politicians and Philippines. WCQuidditch ☎ ✎ 18:53, 22 May 2025 (UTC)

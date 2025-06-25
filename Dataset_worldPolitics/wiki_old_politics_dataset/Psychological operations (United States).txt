@@ -1,0 +1,361 @@
+Psychological operations (PSYOP)  are operations to convey selected information and indicators to audiences to influence their motives and objective reasoning, and ultimately the behavior of governments, organizations, groups, and large foreign powers.
+The purpose of United States psychological operations is to induce or reinforce behavior perceived to be favorable to U.S. objectives. They are an important part of the range of diplomatic, informational, military and economic activities available to the U.S. They can be utilized during both peacetime and conflict.  There are three main types: strategic, operational, and tactical. Strategic PSYOP includes informational activities conducted by the U.S. government agencies outside of the military arena, though many utilize Department of Defense (DOD) assets.  Operational PSYOP are conducted across the range of military operations, including during peacetime, in a defined operational area to promote the effectiveness of the joint force commander's (JFC) campaigns and strategies. Tactical PSYOP are conducted in the area assigned to a tactical commander across the range of military operations to support the tactical mission against opposing forces.
+PSYOP can encourage popular discontent with the opposition's leadership, and by combining persuasion with a credible threat, degrade an adversary's ability to conduct or sustain military operations.  They can also disrupt, confuse, and protract the adversary's decision-making process, undermining command and control.  When properly employed, PSYOP have the potential to save the lives of friendly or enemy forces by reducing the adversary's will to fight.  By lowering the adversary's morale and then its efficiency, PSYOP can also discourage aggressive actions by creating indifference within their ranks, ultimately leading to surrender.
+
+ The integrated employment of the core capabilities of electronic warfare, computer network operations, psychological operations, military deception, and operations security, in concert with specified supporting and related capabilities, to influence, disrupt, corrupt or usurp adversarial human and automated decision making while protecting our own.
+Between 2010 and 2014, PSYOP was renamed Military Information Support Operations (MISO), then briefly renamed PSYOP in August 2014, only to return to MISO shortly thereafter in 2015. The term was again renamed back to PSYOP in October 2017.
+
+
+== Products ==
+
+PSYOP involves the careful creation and dissemination of a product message. There are three types of products that are used to create these messages. They include White products which are used in overt operations and Gray or Black products which are used in covert PSYOP. White, Gray, and Black don't refer to the product's content but rather the methods used to carry out the operation.
+In order for PSYOP to be successful they must be based in reality. All messages must be consistent and must not contradict each other. Any gap between the product and reality will be quickly noticed. A credible "truth" must be presented which is consistent to all audiences. Primarily it is a component of offensive counterinformation but can be used defensively as well.
+PSYOP are used in support of special operations, unconventional warfare, and counterinsurgency (COIN) operations. PSYOP can include military operations other than warfare and also include joint operations. They include counterterrorism operations, peace operations, noncombatant evacuation, enforcement of sanctions and maritime interception operations, strikes and raids, etc.
+
+
+=== White PSYOP ===
+
+White PSYOP is attributable to PSYOP as a source. White is acknowledged as an official statement or act of the U.S. government, or emanates from a source associated closely enough with the U.S. government to reflect an official viewpoint. The information should be true and factual. It also includes all output identified as coming from U.S. official sources.
+
+Authorized to engage in white activity directed at foreign audiences are: The State Department, USIA, the Foreign Operations Administration (a predecessor of the Agency for International Development), the Defense Department and other U.S. government departments and agencies as necessary.
+
+
+=== Gray PSYOP ===
+The source of the gray PSYOP product is deliberately ambiguous. According to a 2007 State Department from the Historian of the Department of State:
+
+The true source (U.S. Government) is not revealed to the target audience. The activity engaged in plausibly appears to emanate from a non-official American source, or an indigenous, non-hostile source, or there may be no attribution.
+...
+
+Gray information is information whose content is such that the effect will be increased if the hand of the U.S. Government and in some cases any American participation are not revealed. It is simply a means for the U.S. to present viewpoints which are in the interest of U.S. foreign policy, but which will be acceptable or more acceptable to the intended target audience than an official government statement will be.
+
+
+=== Black PSYOP ===
+The activity engaged in appears to emanate from a source (government, party, group, organization, person) usually hostile in nature. The interest of the U.S. government is concealed and the U.S. government would deny responsibility. It is best used in support of strategic plans.
+Covert PSYOP is not a function of the U.S. military but instead is used in special operations due to their political sensitivity and need for higher level compartmentalization. Further, black PSYOP, to be credible, may need to disclose sensitive material, with the damage caused by information disclosure considered to be outweighed by the impact of successful deception.  In order to achieve maximum results and to prevent the compromise of overt PSYOP, overt and covert operations need to be kept separate.  Personnel involved in one must not be engaged in the other.
+
+
+=== Media ===
+PSYOP conveys messages via visual, audio, and audiovisual media.  Military psychological operations, at the tactical level, are usually delivered by loudspeaker, and face to face communication.  For more deliberate campaigns, they may use leaflets, radio or television. Strategic operations may use social media, radio or television broadcasts, various publications, airdropped leaflets, or, as part of a covert operation, with material placed in foreign news media.
+
+
+== Process ==
+In order to create a successful PSYOP the following must be established:
+
+clearly define the mission so that it aligns with national objectives
+need a PSYOP estimate of the situations
+prepare the plan
+media selection
+product development
+pretesting - determines the probable impact of the PSYOP on the target audience
+production and dissemination of PSYOP material
+implementation
+posttesting - evaluates audience responses
+feedback
+Before these steps can occur, intelligence analysts must profile potential targets in order to determine which ones it would be most beneficial to target.  In order to figure this out, analysts must determine the vulnerabilities of these groups and what they would be susceptible to.  The analysts also determine the attitudes of the targets toward the current situation, their complaints, ethnic origin, frustrations, languages, problems, tensions, attitudes, motivations, and perceptions, and so on.  Once the appropriate target(s) have been determined, the PSYOP can be created.
+Psychological operations should be planned carefully, in that even a tactical message, with modern news media, can spread worldwide and be treated as the policy of the United States. The U.S. Army is responsible for military psychological warfare doctrine. See the World War I section for an example of how a tactical leaflet, not properly coordinated, can cause national-level harm.
+
+The message to be delivered can be adapted to tactical situations, but promises made must be consistent with national policy.
+U.S. PSYOP forces are generally forbidden to attempt to change the opinions of "U.S. persons" (citizens, residents, or legal entities), in any location globally. However, commanders may use PSYOP forces to provide public information to U.S. audiences during times of disaster or crisis. Information support to a noncombatant evacuation operation (NEO) by PSYOP forces to provide evacuation information to U.S. and third-country nationals would also adhere to the order. The use of PSYOP forces to deliver necessary public information to a U.S. audience was established in relief activities after Hurricane Andrew in 1992. Tactical Psychological Operations teams (TPTs) were employed to disseminate information by loudspeaker on locations of relief shelters and facilities.
+During such Defense Support of Civil Authorities (DSCA) operations, military public affairs activities, military civil authority information support (CAIS) activities, public information actions, and news media access to the DSCA operational area are subject to approval by the federal department or agency assigned primary responsibility for managing and coordinating a specific emergency support function in the National Response Framework. Since October 2018, PSYOP forces may be employed domestically for such CAIS activities during an emergency under direction of the Department of Homeland Security. In such instances, 
+
+PSYOP forces are restricted by policy and SecDef guidance to only broadcasting and disseminating public information. When authorized for employment in this manner, PSYOP forces utilize their media development, production, and dissemination capabilities to deliver public or other critical information during domestic emergencies. Their mission is strictly to inform....
+Psychological operations were a key Battlefield Operating System used extensively to support Unified Task Force (UNITAF) Somalia operations. In order to maximize the PSYOP impact, the United States established a Joint PSYOP Task Force under the supervision of the Director of Operations, integrated PSYOP into all plans and operations, and limited the PSYOP focus to the operational and tactical levels. Psychological operations do not accomplish missions alone. They work best when they are combined with and integrated in an overall theater campaign plan. In Operation RESTORE HOPE, U.S. psychological operations were successful in doing that.
+An emerging field of Strategic Psychological Operations is the "Battle of the Narratives". The battle of the narrative is a full-blown battle in the cognitive dimension of the information environment, just as traditional warfare is fought in the physical domains (air, land, sea, space, and cyberspace). One of the foundational struggles, in warfare in the physical domains, is to shape the environment such that the contest of arms will be fought on terms that are to your advantage. Likewise, a key component of the “Battle of the Narrative” is to succeed in establishing the reasons for and potential outcomes of the conflict, on terms favorable to your efforts.
+
+
+== Psychological operations units ==
+The majority of U.S. military psychological operations units are in the Army. White PSYOP can come from the Voice of America or regional radio/TV.  Central Intelligence Agency units are apt to have responsibility, on a strategic level, for black and some gray PSYOP. White PSYOP, especially at the strategic level, comes from the Voice of America or United States Information Agency.
+In the United States Department of Defense, Psychological Operations units exist as the Army's 4th Psychological Operations Group, 8th Psychological Operations Group and Air Force with COMMANDO SOLO units under the Air Force Special Operations Command's 193rd Special Operations Wing.  The United States Navy also plans and executes limited PSYOP missions.
+United States PSYOP units and soldiers of all branches of the military are prohibited by law from conducting PSYOP missions on domestic audiences. While PSYOP soldiers may offer non-PSYOP related support to domestic military missions, PSYOP can only target foreign audiences. It is worth noting that this does not rule out PSYOP targeting foreign audiences of allied nations. In the Information Operations Roadmap made public January 2006 but originally approved by Defense Secretary Donald Rumsfeld in October 2003, it stated "information intended for foreign audiences, including public diplomacy and PSYOP, increasingly is consumed by our domestic audience and vice-versa."
+
+
+=== Army ===
+
+Until shortly after the start of the war on terror, the Army's Psychological Operations elements were administratively organized alongside Civil Affairs to form the U.S. Army Civil Affairs and Psychological Operations Command (USACAPOC), forming a part of the U.S. Army Special Operations Command (USASOC).
+In May 2006 the USCAPOC was reorganized to instead fall under the Army reserve command, and all active duty PSYOP elements were placed directly into USASOC. While reserve PSYOP forces no longer belong to USASOC, that command retains control of PSYOP doctrine. Operationally, PSYOP individuals and organizations support Army and Joint maneuver forces or interagency organizations.
+Army Psychological Operations provide support to operations ranging from strategic planning down to tactical employment.
+PSYOP Units generally support Corps sized elements.  Tactical Psychological Operations Companies typically support Division sized elements, with Tactical Control through G-3.  Brigades are typically supported by a Tactical PSYOP Detachment.  The PSYOP Commander maintains Operational Control of PSYOP elements, advises the Commander and General Staff on the psychological battlespace.
+The smallest organizational PSYOP element is the Tactical PSYOP Team (TPT). A TPT generally consists of a PSYOP team chief (Staff Sergeant or Sergeant), an assistant team chief (Sergeant or Specialist), and an additional soldier to serve as a gunner and to operate the speaker system (Specialist). A team is equipped with a Humvee fitted with a loud speaker, and often works with a local translator indigenous to the host or occupied country.
+Generally, each maneuver battalion-sized element in a theater of war or operational area has at least one TPT attached to it.
+
+All active duty PSYOP soldiers must initially volunteer for Psychological Operations Assessment and Selection, held year-round at Camp Mackall.  Upon selection for Psychological Operations, Soldiers then enter the Psychological Operations Qualification Course (POQC) or "Q-Course" consisting of Special Operations Language training, advance cultural and regional studies, MOS specific training, special operations particular training along with a culmination exercise which incorporates and validates the new skillsets attained by the Soldier.
+At the conclusion of the POQC the new PSYOP Soldier is typically assigned to either 4th Psychological Operations Group or 8th Psychological Operations Group. Certain reserve soldiers serving in units designated as Airborne are also required to attend Airborne training, while language training and Airborne qualification for PSYOP soldiers assigned to non-Airborne units is awarded on a merit and need basis.
+A U.S. Army field manual released in January 2013 states that "Inform and Influence Activities" are critical for describing, directing, and leading military operations. Several Army Division leadership staff are assigned to “planning, integration and synchronization of designated information-related capabilities."
+
+
+==== Army units ====
+
+There are four psychological operations units in the U.S. Army:
+
+2nd Psychological Operations Group
+4th Psychological Operations Group (Airborne)
+7th Psychological Operations Group
+8th Psychological Operations Group (Airborne)
+The 4th Psychological Operations Group (Airborne), based at Fort Bragg, was historically the only active duty PSYOP unit remaining in the United States Army following the close of the Vietnam War, until the August 26th, 2011 activation of 8th Psychological Operations Group (Airborne). The 2nd and the 7th Psychological Operations Groups are in the Army Reserve.
+
+
+==== Historic units ====
+245th Psychological Operations Company (POC): Dallas, Texas
+Reactivated and became the 345th PSYOP Company.  Deployed soldiers during Operation Desert Storm (the Gulf War).
+The 345th also deployed post-9/11 to Afghanistan working with U.S. Army Special Forces and Conventional Forces.
+In 2003 the 345th deployed to Iraq in support of Operation Iraqi Freedom.
+Since November 2001, the 345th Tactical Psychological Operations Company (Airborne) has deployed detachments of soldiers to Afghanistan in support of Operation Enduring Freedom (2008-2009), Iraq, and the Horn of Africa.
+244th Psychological Operations Company (POC): Austin, Texas
+Formed during Vietnam as an Active component unit February 10th, 1965, transferred to the Reserves in Abilene Texas on October 30th, 1975.
+Deployed soldiers during Operation Desert Storm (The Gulf War). Inactivated September 15th, 1994.
+Reactivated and became the 344th PSYOP Company. Since September 16th, 2008, has deployed detachments of soldiers to Afghanistan in Operation Enduring Freedom (2010-2011) and Operation Enduring Freedom - Horn of Africa (2019) from its new location in Austin Texas.
+
+
+=== Navy ===
+Navy psychological operations policy is specified in OPNAVINST 3434.1, "Psychological Operations".
+The Navy provides support to Joint PSYOP programs by providing assets (such as broadcast platforms using shortwave and very high frequency (VHF) frequencies) for the production and dissemination of PSYOP materials. With the ability of naval vessels (especially the larger task forces) to produce audio-visual materials the Navy can often produce PSYOP products for use in denied areas. Leaflets are dropped utilizing the PDU-5B dispenser unit (aka Leaflet Bomb). The Navy coordinates extensively with the Army as the majority of PSYOP assets reside within USASOC. PSYOP planning and execution is coordinated through the Naval Network Warfare Command (NETWARCOM) and the Naval Information Operations Command (NIOC), both located in Norfolk, VA.
+The U.S. Navy possesses the capability to produce audiovisual products in the Fleet Audiovisual Command, Pacific; the Fleet Imagery Command, Atlantic; the Fleet Combat Camera Groups; Naval Imaging Command; various film libraries; and limited capability from ships and aircraft of the fleet. A Naval Reserve PSYOP audiovisual unit supports the Atlantic Fleet. Navy personnel assets have the capability to produce documents, posters, articles, and other material suitable for PSYOP. Administrative capabilities exist ashore and afloat that prepare and produce various quantities of printed materials. Language capabilities exist in naval intelligence and among naval personnel for most European and Asian languages.
+The Fleet Tactical Readiness Group provides equipment and technical maintenance support to conduct civil radio broadcasts and broadcast jamming in the amplitude modulation frequency band. This unit is not trained to produce PSYOP products and must be augmented with PSYOP personnel or linguists when necessary. The unit is capable of being fully operational within 48 hours of receipt of tasking. The unit's equipment consists of a 10.6 kW AM band broadcast radio transmitter; a broadcast studio van; antenna tuner; two antennas (a pneumatically raised 100-foot (30 m) top-loaded antenna mast and a 500-foot (150 m) wire helium balloon antenna); and a 30 kW generator that provides power to the system.
+
+
+=== Air Force ===
+
+The Air National Guard provides support for Psychological Operations using a modified C-130 Hercules aircraft named EC-130 COMMANDO SOLO, operated by the 193d Special Operations Wing. The purpose of COMMANDO SOLO is to provide an aerial platform for broadcast media on both television and radio. The media broadcast is created by various agencies and organizations. As part of the broader function of information operations, COMMANDO SOLO can also jam the enemy's broadcasts to his own people, or his psychological warfare broadcasting.
+
+The Commando Solo aircraft currently is the only stand-off, high-altitude means available to PSYOP forces to disseminate information to large denied areas. Two orbits were established during Operation Iraqi Freedom, the 2003 invasion of Iraq, one in the northern area and one in the southern part of the country, both far enough from harm’s way to keep the aircraft out of reach of potential enemy attack. At their operational altitude of 18,000 feet (5,500 m) and assuming clear channels, these aircraft can transmit radio and TV signals approximately 170 miles (270 km), which does not reach the objective areas near Baghdad. Straightforward physics dictate the range, given the power installed and the antenna configuration and assuming clear channels.
+The enhanced altitude capability of the Commando Solo EC–130J (now funded) is increasing transmitter range. While this is an improvement over 130E capability, it is a small step, since the increase in altitude is only 7,000 feet (less than 50 percent) and the range increase is governed by a square root function (that is, a 14 percent increase in range).
+
+A challenge to COMMANDO SOLO is the increasing use of cable television, which will not receive signals from airborne, ground, or any other transmitters that the cable operator does not want to connect to the system. At best, in the presence of cable TV, COMMANDO SOLO may be able to jam enemy broadcasts that are not, themselves, transmitted by cable.
+
+
+=== Central Intelligence Agency ===
+Psychological operations was assigned to the pre-CIA Office of Policy Coordination, with oversight by the Department of State.  The overall psychological operations of the United States, overt and covert, were to be under the policy direction of the U.S. Department of State during peacetime and the early stages of war:
+
+The Secretary of State shall be responsible for:
+(1) The formulation of policies and plans for a national foreign information program in time of peace. This program shall include all foreign information activities conducted by departments and agencies of the U. S. Government.
+(2) The formulation of national psychological warfare policy in time of national emergency and the initial stages of war.
+(3) The coordination of policies and plans for the national foreign information program and for overt psychological warfare with the Department of Defense, with other appropriate departments and agencies of the U.S. Government, and with related planning.
+(4) Plans prepared by this organization for overt psychological warfare in time of national emergency or the initial stages of war shall provide for:
+
+a. Coordination of overt psychological warfare with:
+Covert psychological warfare.
+Censorship.
+Domestic information.
+b. The employment and expansion, insofar as is feasible, of the activities and facilities which compose the national foreign information program in time of peace, in order to assure rapid transition to operations in time of national emergency or war.
+c. Control of the execution of approved plans and policies by:
+(1) the Department of Defense in theaters of military operations;
+(2) the Department of State in areas other than theaters of military operations.
+d. Transmittal of approved psychological warfare plans and policies to theater commanders through the Joint Chiefs of Staff.
+
+After the OPC was consolidated into the CIA, there has been a psychological operations staff, under various names, in what has variously been named the Deputy Directorate of Plans, the Directorate of Operations, or the National Clandestine Service.
+
+
+=== Marines ===
+The career field is fairly new. It was only in the summer of 2018 that the Marine Corps created the new Military Occupational Specialty (MOS) with designator 0521. The aim of PSYOP Marines (0521) is to influence target audiences and advise higher officers and partner forces on cultural considerations to ensure mission success. Candidates will have to complete the Army’s Psychological Qualification Operations Course.  The qualification course includes classes in psychology, sociology, cultural training blocks, language training, and human dynamics training, among other training components.
+The Commandant of the Marine Corps has placed a renewed emphasis on operating in the information environment. The Marine Corps seeks to meet this demand by building a capability to influence target audiences and to advise staffs and partners on cultural considerations to achieve tactical and operational objectives.  Information Operations (IO) includes all actions taken to affect enemy information and information systems while defending friendly information and information systems.  IO is focused on the adversary’s key decision-makers and is conducted during all phases of an operation, across the range of military operations, and at every level. IO, in planning and execution, seeks to coordinate and integrate MAGTF actions and communications and enhance all MAGTF Operations. PSYOP conveys selected information and indicators to foreign audiences to influence their emotions, motives, objective reasoning, and ultimately the behavior of foreign organizations, groups, and individuals in a manner favorable to the commander’s objectives.  PSYOP enables the Marine Corps to understand and achieve effects in the information environment. PSYOP Marines are primarily responsible for the analysis of cultural factors, as well as the development and distribution of products used to cause informational and psychological effects.  PSYOP researches and determines effective methods of influencing foreign populations from a variety of information sources. PSYOP Marines operate and maintain a variety of message dissemination equipment. Interpersonal communication skills, interest in foreign cultures and languages, and the ability to analyze and organize information are required.  PSYOP Marines build rapport with key leaders in unfamiliar surroundings.
+PSYOP Marines enable the Marine Corps to achieve targeted effects in the information environment (IE) by conducting Military Information Support Operations (MISO), providing Civil Authorities Information Support (CAIS), or supporting Military Deception (MILDEC). MISO are missions that convey selected information and indicators to foreign organizations, groups, and individuals to influence their emotions, motives, objective reasoning, and ultimately their behavior in a manner favorable to the Commander’s objectives.
+
+
+== History ==
+
+
+=== World War I ===
+During World War I, the Propaganda Sub-Section was established under the American Expeditionary Force (AEF) Military Intelligence Branch within the Executive Division of the General Staff in early 1918. Although they produced most propaganda, the AEF Propaganda Sub-Section did not produce a few of the leaflets. General Pershing is supposed to have personally composed Leaflet “Y,” Austria Is Out of the War, which was run off on First Army presses, but distributed by the Propaganda Sub-Section. That Sub-Section, perhaps reflecting some professional jealousy, thought the leaflet sound in principle, but too prolix and a little too “brotherly.” Corps and Army presses issued several small leaflet editions containing a “news flash,” after the Sub-Section had approved their content. But in one or two cases that approval was not obtained, and in one unfortunate example a leaflet in Romanian committed the Allies and the United States to the union of all Romanians in Austria-Hungary with Romania. Such geopolitics was emphatically not the job of AEF propaganda and had the potential to cause serious embarrassment.
+
+
+=== World War II ===
+There was extensive use of psychological operations in World War II, from the strategic to the tactical. National-level white propaganda was the responsibility of the Office of War Information, while black propaganda was most often the responsibility of the Morale Operations branch of the Office of Strategic Services (OSS).
+Psychological operations planning started before the U.S. entry into the war, with the creation of the Office of the Coordinator of Inter-American Affairs (OCIAA), under Nelson Rockefeller, with the responsibility for psychological operations targeted at Latin America.  Special operations and intelligence concerning Latin America was a bureaucratic problem throughout the war. Where the OSS eventually had most such responsibilities, the FBI had its own intelligence system in Latin America.
+On 11 July 1941, William Donovan was named the Coordinator of Information, which subsequently became the OSS. At first, there was a unit called the Foreign Information Service inside COI, headed by Robert Sherwood, which produced white propaganda outside Latin America.
+To deal with some of the bureaucratic problems, the Office of War Information (OWl) was created with Elmer Davis as director. FIS, still under Sherwood, became the Overseas Branch of OWl, dealing in white propaganda. The OSS was created at the same time. Donovan obtained considerable help from the British, especially with black propaganda, from the British Political Warfare Executive (PWE), part of the Ministry of Economic Warfare. PWE was a sister organization to the Special Operations Executive, which conducted guerrilla warfare. The British Secret Intelligence Service (SIS, also known as MI6), was an essentially independent organization. For the U.S., the OSS included the functions of SIS and SOE, and the black propaganda work of PWE.
+The OSS Morale Operations (MO) branch was the psychological operations arm of the OSS. In general, its units worked on a theater-by-theater basis, without a great deal of central coordination.  It was present in most theaters, with the exception of the Southwest Pacific theater under Douglas MacArthur, who was hostile to the OSS.
+The OSS was responsible for strategic propaganda, while the military commanders had operational and tactical responsibility. Dwight Eisenhower was notably supportive of psychological operations, had psychological warfare organization in the staff of all his commands, and worked with OSS and OWI.  The military did theater-level white propaganda, although the black propaganda function varied, often carried out by joint U.S.-UK organizations.
+
+For the first time in U.S. history, American psywarriors employed electronic psywar in the field, in September 1944. Engineers of the 1st Radio Section of the 1st MRBC recorded POW interviews for front- line broadcasts, and reproduced the sound effects of vast numbers of tanks and other motor vehicles for Allied armored units in attempts to mislead German intelligence and lower enemy morale.
+Leaflets were delivered principally from aircraft, but also with artillery shells.
+
+
+=== Cold War ===
+
+
+==== Radio ====
+
+The U.S. engaged in major worldwide radio broadcasts to contain communism, through Radio Free Europe and Radio Liberty.
+
+
+==== Korea ====
+
+Psychological operations were used extensively during the Korean War. The first unit, the 1st Loudspeaker and Leaflet Company, was sent to Korea in fall 1950. Especially for the operations directed against troops of the Democratic People's Republic of Korea (DPRK; North Korea), it was essential to work with Republic of Korea (ROK; South Korea personnel) to develop propaganda with the most effective linguistic and cultural context.
+Since the war was a United Nations mandated operation, political sensitivities were high.  While rules limited mentioning the People's Republic of China or the Soviet Union, first due to fear it would increase their intervention, and later because it might demoralize ROK civilians, Stalin was depicted and Chinese troops were targeted in leafleting.
+Various methods were used to deliver propaganda, with constraints imposed by exceptionally rugged terrain and that radios were relatively uncommon among DPRK and PRC troops. Loudspeaker teams often had to get dangerously close to enemy positions. Artillery and light aircraft delivered leaflets on the front lines, while heavy bombers dropped leaflets in the rear. Over 2.5 billion leaflets were dropped over North Korea during the war. There was a somewhat artificial distinction made between strategic and tactical leaflets: rather than differentiating by the message, tactical leaflets were delivered within 40 miles (64 km) of the front lines and strategic leaflets were those delivered farther away.
+
+Less direct and immediate correlation between tactical PSYOP efforts and target audience behavior may still be substantiated after the fact, especially by means of polling and interviews. For example, in the Korean War, approximately one-third of the total prisoner of war (POW) population polled by the United Nations (UN) forces claimed to have surrendered at least in part because of the propaganda leaflets. The contributions of PSYOP in the first Persian Gulf War have also been corroborated through POW interviews. Ninety-eight percent of the 87,000 POWs captured either possessed or had seen PSYOP leaflets that provided them with instructions on how to approach U.S. troops to surrender. Fifty-eight percent of the prisoners interviewed claimed to have heard coalition radio broadcasts, and 46 percent believed that the coalition broadcasts were truthful despite coming from their enemy. Again, some portion of the surrenders might have occurred even without PSYOP encouragement; but certainly, there would appear to be a correlation between PSYOP, which offered the enemy a way to escape the onslaught of U.S. military power, and their compliance with those instructions.
+One such operation, is Operation Moolah. The objective of the psychological operation was to target Communist pilots to defect to South Korea with a MiG-15, in order for the U.S. to conduct analysis of the capabilities of the MiG.
+Some leafleting of North Korea was resumed after the Korean War, such as in the Cold War Operation Jilli from 1964 to 1968.
+
+
+==== Guatemala ====
+The CIA's operation to overthrow the Government of Guatemala in 1954 marked an early zenith in the Agency's long record of covert action. Following closely on two successful operations, one of which was the installation of the Shah as ruler of Iran in August 1953, the Guatemalan operation, known as PBSuccess, was both more ambitious and more thoroughly successful than either precedent. Rather than helping a prominent contender gain power with a few inducements, PBSuccess used an intensive paramilitary and psychological campaign to replace a popular, elected government with a political non-entity. In method, scale and conception it had no antecedent, and its triumph confirmed the belief of many in the Eisenhower Administration that covert operations offered a safe, inexpensive substitute for armed force in resisting what they declared was Communist inroad in the Third World.
+
+
+==== Vietnam ====
+
+Psychological operations were extensively used in Vietnam, with white propaganda under the United States Information Agency and Military Assistance Command Vietnam, and grey and black propaganda under the Central Intelligence Agency and the Studies and Observation Group.
+
+As early as August 1964, almost one year before the activation of the Joint U.S. Public Affairs Office (JUSPAO), General William Westmoreland told a CA and PSYOP conference that “psychological warfare and civic action are the very essence of the counterinsurgency campaign here in Vietnam…you cannot win this war by military means alone.” Westmoreland’s successor, Creighton Abrams, is known to have sent down guidelines to the 4th Psychological Operations Group that resulted in the drawing up of no fewer than 17 leaflets along those lines. In fact, the interest in PSYOP went all the way up to the Presidency; weekly reports from JUSPAO were sent to the White House, as well as to the Pentagon and the Ambassador in Saigon. In sum, it is a myth that the United States, stubbornly fixated on a World War II-style conventional war, was unaware of the "other war."
+
+The first official American Vietnam PSYOP unit was the 24th Detachment, sent from Fort Bragg to II Corps in September 1965.  Later that year, the 24th Detachment became the 245th Company, based at Nha Trang in II Corps.  In February 1966, the 245th Company became the II Corps unit belonging to the 6th PSYOP Battalion, which had just arrived from Fort Bragg.  6th PSYOP Battalion was based in downtown Saigon, with subordinate companies of 244th in DaNang (I Corps), 245th in Nha Trang (II Corps), and 246th in Bien Hoa (III Corps).  In late 1967, the 19th PSYOP Company was reassigned from the 3rd Special Forces Group at Fort Bragg to be a subordinate company based in the Mekong Delta (IV Corps) of the 6th Battalion.  These companies were later enlarged to each become a battalion, and 6th PSYOP Battalion became the 4th PSYOP Group, the headquarters unit in Saigon for the four companies, now battalions.
+During the Vietnam era, the organization of the 4th Psychological Operations Group was very different. The four battalions of the group were divided by geographic region rather than area of expertise as they are now.
+
+The 6th PSYOP Battalion was stationed at Bien Hoa and provided services to the tactical units, both American and Vietnamese, and to the various political entities such as provinces and cities in the area of III Corps.
+The 7th PSYOP Battalion was stationed in Da Nang and provided service to I Corps.
+The 8th PSYOP Battalion was based at Nha Trang, but its B Company,  which was its field teams, was based out of Pleiku nearly 100 kilometers away. The 8th Battalion served the II Corps area of Vietnam.
+The 10th PSYOP Battalion was stationed in Can Tho and served IV Corps.
+The A company of each battalion consisted of a command section, S-1, S-2, S-3, and a PSYOP Development Center (PDC). Additionally, they generally had extensive printing facilities.
+The B companies consisted of the field teams that were stationed throughout their respective corps billeted with MACV teams and combat units.
+
+
+==== Nicaragua ====
+The CIA wrote a manual for right-wing rebels—the Contras—entitled Psychological Operations in Guerrilla Warfare in order to bolster their fight against the Marxist Sandinistas.
+See also CIA activities in Nicaragua
+
+
+==== Sweden ====
+Ola Tunander, a Swedish author, claimed that U.S. submarines as well as other vessels "frequently" and "regularly" operated in the territorial waters of neutral Sweden in the early 1980s, including Stockholm harbor, as part of an elaborate psychological warfare operation whose target was the Swedish people. It is claimed that U.S. operations were conducted by the National Underwater Reconnaissance Office (NURO) and aspects of the operations were coordinated with the secret NATO "stay-behind" network deployed in Sweden. See Strategy of tension and Operation Gladio. It is also claimed that British submarines also participated in such secret operations.
+
+
+=== Wars after 1989 ===
+
+
+==== Panama ====
+Most PSYOP activities and accomplishments in the U.S. invasion of Panama were hardly noticed by either the U.S. public or the general military community. But the special operations community did notice. The lessons learned in Panama were incorporated into standard operating procedures. Where possible, immediate changes were made to capitalize on the PSYOP successes of the Grenada and Panama operations. This led to improved production, performance, and effect in the next contingency, which took place within 6 months after the return of the last PSYOP elements from Panama. Operations [in Iraq] employed PSYOP of an order of magnitude and effectiveness which many credit to the lessons learned from Panama.
+The broader scope of information operations in Panama included denying the Noriega regime use of their own broadcasting facilities. A direct action mission removed key parts of the transmitters. After-action reports indicate that this action should have had a much higher priority and been done very early in the operation.
+An unusual technique, developed in real time, was termed the "Ma Bell Mission", or, more formally, capitulation missions. There were a number of Panamian strongpoints that continued to have telephone access. By attaching Spanish-speaking Special Forces personnel to a combat unit that would otherwise take the strongpoint by force,  the Spanish-speaking personnel would phone the Panamian commander, tell him to put away his weapons and assemble his men on the parade ground, or face lethal consequences. Because of the heavy reliance on telephones, these missions were nicknamed "Ma Bell" operations. "During this ten day period, TF BLACK elements were instrumental in the surrender of 14 cuartels (strongpoints), almost 2,000 troops, and over 6,000 weapons without a single U.S. casualty. Several high-ranking cronies of Manuel Noriega who were on the "most wanted" list were also captured in Ma Bell operations.
+Psychological operations sometimes are intimately linked to combat operations, with the use of force driving home the propaganda mission. During the Panamanian operation, it was necessary. In Ft. Amador, the U.S. and Panamanian Defence Forces (PDF) shared an installation. There were U.S. dependents at the installation, but security considerations prevented evacuating them before the attack. Concern for U.S. citizens, and rules of engagement (ROE) that directed casualties be minimized, PSYOP loudspeaker teams, from the 1st Bn, 4th PSYOP Gp, became a key asset. When the PDF did not surrender after initial appeals, the message changed, with the tactical commander warning "that resistance was hopeless in the face of overwhelming firepower and a series of demonstrations took place, escalating from small arms to 105 mm howitzer rounds. Subsequent broadcasts convinced the PDF to give up. The entire process allowed Ft. Amador to be secured with few casualties and minimal damage."
+
+
+==== The 1991 Gulf War ====
+Psychological operations were particularly valuable during the Gulf War due to the reluctance of many in the Iraqi military to engage in combat. Through leaflets and loudspeaker broadcasts, PSYOP forces walked many enemy soldiers through successful surrender.
+Coalition forces worked extensively with Saudi, Kuwaiti, and other partners, to be sure psychological operations were culturally and linguistically appropriate.
+One unusual technique employed during the Gulf War was dropping leaflets in advance of a strike. These leaflets informed the Iraqi soldiers that they would be bombed the next day by B-52 bombers, and urged them to surrender and save their own lives. The subsequent bombings were then performed in a way that did not necessarily maximize casualties. Subsequently, another set of leaflets were dropped, saying the promise was kept and the survivors should surrender to save themselves. Afterwards, this technique would be employed on other units, telling them the specific unit that had been bombed the previous day.
+
+
+==== Bosnia-Herzegovina ====
+Following the signing of the Dayton Peace Accords in 1995, active duty PSYOP units reinforced with US Army reserve personnel deployed to Bosnia in support of NATO Peace Implementation Forces (IFOR).  Elements of the 6th PSYOP Battalion served as the "Headquarters, Coalition Joint IFOR Information Campaign" (IFOR-CJIIC) at Sarajevo, initially operating out of the former Zetra Olympic Stadium.  Security at Sarajevo was provided by British, French, Italian and Turkish conventional military forces, who had been operating there under United Nations control until NATO initiated operations.  Elements of the 3rd PSYOP Battalion also deployed to Sarajevo and conducted print, radio and television product development.  Elements of the 9th PSYOP Battalion deployed to Tuzla in direct support of the 1st Armored Division conducting media dissemination by radio and handbill.
+The initial mission was to provide information to military and civilians of all three warring factions (Croat, Bosniak and Serb) helping to restore a peaceful environment with the ultimate goal of saving lives and reducing tensions.  The primary means of information dissemination was through radio and television as well as considerable handbill, poster and souvenir distribution such as soccer balls and coloring books. At the start of the mission, PSYOP forces in Sarajevo often came under sniper fire.  Although several 6th PSYOP Battalion HUMMWV vehicles were damaged by gunfire, no casualties were sustained. Gunfire incidents largely subsided within the first 90 days of the mission.
+As the mission continued to develop, PSYOP forces assumed new information support missions focused on educating the civilian population to the considerable danger of landmines and unexploded ordnance littering the countryside.  A reporting system was developed for the civilian population similar to 911 in the United States, with the ultimately successful goal of encouraging civilians to report the presence of landmines and unexploded ordnance for safe removal and destruction.  The threat was so significant and the civilian casualty rate so alarming that this mission became the major focus.  Support was sought and achieved from DC Comics, who produced special editions of Superman comics printed in the Croatian and Serbian dialects, with equal editions printed in Latinic and Cyrillic alphabets for appropriate audiences.  German organizations also contributed with print editions of a children's magazine developed in Germany specifically for this mission called "Mirko", a play on the Serbo-Croatian word "mir", meaning "peace".
+By summer of 1996, most PSYOP missions in Bosnia were being assumed by Reserve PSYOP forces.
+
+
+==== Second Gulf War ====
+Arguably the most visible image of the 2003 invasion of Iraq was the toppling of a statue of Saddam Hussein in Firdos Square in central Baghdad. This widely reported event led to allegations of American manipulation and staging for mass consumption and pro-US propaganda value. Further claims have been made that the toppling of Saddam's statue was not the natural and spontaneous celebration of the local population in Baghdad, but was carefully orchestrated and overseen by a team within US Army PSYOP. Accusations centered around inaccurate media depictions that included inflation of the number of "locals" who were present and cheering that day, as well as the charge that the "local" Iraqis were not even from the area, but were in fact recruited by American Intelligence, and  brought in for the sole purpose of participating in the pre-planned toppling.
+
+
+== Recent controversies ==
+
+
+=== CNN and NPR interns incident ===
+In 2000, it came to light that soldiers from the 4th Psychological Operations Group had been interning at the American news networks Cable News Network (CNN) and National Public Radio (NPR) during the late 1990s. The program was an attempt to provide its PSYOP personnel with the expertise developed by the private sector under its "Training with Industry" program. The program caused concern about the influence these soldiers might have on American news and the programs were terminated.
+National Public Radio reported on April 10, 2000:
+
+The U.S. Army's Psychological Operations unit placed interns at CNN and NPR in 1998 and 1999. The placements at CNN were reported in the European press in February of this year and the program was terminated. The NPR placements will be reported this week in TV Guide.
+
+
+=== Use of music in the interrogation of prisoners ===
+
+In 2003 Sergeant Mark Hadsell claimed to have used loud music during the interrogation of Iraqi prisoners:
+
+"These people haven't heard heavy metal. They can't take it. If you play it for 24 hours, your brain and body functions start to slide, your train of thought slows down and your will is broken. That's when we come in and talk to them."
+Other reports of the use of music during interrogation have occasionally plagued PSYOP.
+On 9 December 2008 the Associated Press reported that various musicians were coordinating their objections to the use of their music as a technique for softening up captives through an initiative called Zero dB. However, not all musicians have taken issue with the possibility that their music is being used during interrogations. Stevie Benton of the group Drowning Pool commented supportively:
+
+"I take it as an honor to think that perhaps our song could be used to quell another 9/11 attack or something like that."
+
+
+=== Afghanistan burning bodies incident ===
+On 1 October 2005 in Gumbad, Afghanistan, soldiers from the 173rd Airborne burned the bodies of two Taliban fighters killed in a firefight the previous day for hygienic reasons, despite Islamic customs that forbid cremation.  The platoon leader also failed to properly notify his battalion commander of the decision prior to burning the bodies.  When his battalion commander was notified, he ordered the flaming bodies to be extinguished.   An official investigation into the incident found evidence of poor decision making, poor judgement, poor reporting, and a lack of knowledge and respect for local Afghan custom and tradition. The infantry officer received a general officer letter of reprimand.  Reserve PSYOP soldiers were involved because they heard about the incident and used the information to incite Taliban fighters in another area where freelance journalist Stephen Dupont was located.   Dupont reported that the PSYOP soldiers claimed the bodies were to be burned due to hygiene concerns.
+During the War on Terror, U.S. PSYOP teams often broadcast abrasive messages over loudspeakers to try to tempt enemy fighters into direct confrontation, where the Americans have the upper hand. Other times, they use their loudspeaker to convince enemy soldiers to surrender. In the Afghanistan incident, a PSYOP sergeant allegedly broadcast the following message to the Taliban:
+
+ Attention, Taliban, you are all cowardly dogs. You allowed your fighters to be laid down facing west and burned. You are too scared to retrieve their bodies. This just proves you are the lady boys we always believed you to be. 
+Another soldier stated:
+
+You attack and run away like women. You call yourself Talibs but you are a disgrace to the Muslim religion and you bring shame upon your family. Come and fight like men instead of the cowardly dogs you are.
+U.S. authorities investigated the incident and the two Reserve PSYOP soldiers received administrative punishment for broadcasting messages which were not approved.  Investigators found no evidence that the bodies were burned for a psychological effect. They concluded that the broadcast violated standing policies for the content of loudspeaker messages and urged that all soldiers in the command undergo training on Afghan sensitivities.
+
+
+=== Pentagon analysts and the mainstream media ===
+In 2008, The New York Times exposed how analysts portrayed in the U.S. news media as independent and objective were in fact under the tutelage of the Pentagon. According to the NYT: Hidden behind that appearance of objectivity, though, is a Pentagon information apparatus that has used those analysts in a campaign to generate favorable news coverage of the administration's wartime performance
+
+
+=== 2009 congressional delegation to Afghanistan ===
+In February 2011, journalist Michael Hastings reported in Rolling Stone that Lt. Colonel Michael Holmes, the supposed leader of a PSYOP group in Afghanistan, alleged that Lt. Gen. William B. Caldwell a three-star General in charge of training troops in Afghanistan, ordered Holmes and his group to perform in-depth research on visiting U.S. congressmen in order to spin presentations and visits.  According to Holmes, his team was tasked with "illegally providing themes and messages to influence the people and leadership of the United States."
+Reported targets included United States Senators John McCain, Joe Lieberman, Jack Reed, Al Franken, Carl Levin, Rep. Steve Israel of the House Appropriations Committee; Adm. Mike Mullen of the Joint Chiefs of Staff; the Czech ambassador to Afghanistan; the German interior minister, and think-tank analysts.  Under the 1948 Smith–Mundt Act, such operations may not be used to target Americans.  When Holmes attempted to seek counsel and to protest, he was placed under investigation by the military at the behest of General Caldwell's chief of staff.
+Caldwell's spokesman, Lt. Col. Shawn Stroud, denied Holmes's assertions, and other unnamed military officials disputed Holmes's claims as false and misleading, saying there are no records of him ever completing any PSYOP training. Subsequently, Holmes conceded that he was not a Psychological Operations officer nor was he in charge of a Psychological Operations unit and acknowledged that Caldwell's orders were "fairly innocuous." Officials say that Holmes spent his time in theater starting a strategic communications business with Maj. Laural Levine, with whom he conducted an improper relationship in Afghanistan. A former aid said, "At no point did Holmes ever provide a product to Gen. Caldwell".  General David Petraeus has since ordered an investigation into the alleged incident.
+
+
+=== Internet influence operation ===
+In 2022, Meta and the Stanford Internet Observatory found that for five years people associated with the U.S. military, who tried to conceal their identities, created fake accounts on social media systems including Balatarin, Facebook, Instagram, Odnoklassniki, Telegram, Twitter, VKontakte and YouTube in an influence operation in Central Asia and the Middle East. Their posts, including nearly 300,000 tweets, were primarily in Arabic, Farsi and Russian. They criticized Iran, China and Russia and gave pro-Western narratives. Data suggested the activity was a series of covert campaigns rather than a single operation.
+
+
+=== Anti-vaccine propaganda targeted at the Philippines ===
+In 2024, Reuters revealed that the first Donald Trump administration launched in 2020 a secret PSYOP against Chinese COVID-19 vaccines in several Asian countries, mainly the Philippines. The campaign consisted of hundreds of fake social network profiles manned by PSYOP staff in Florida that sowed doubts about the Chinese vaccine's efficacy and argued Muslims should reject it because it allegedly contained pork protein. In 2021, a few months after Trump's defeat in the presidential election, the Biden administration cancelled the campaign.
+
+
+== Portrayals in popular culture ==
+
+The general's daughter from both the novel and blockbuster movie The General's Daughter was a PSYOP officer.
+A USACAPOC combat patch (FWS-SSI) can be seen being worn by a soldier in the film X-Men: The Last Stand in the President's command center.
+The book The Men Who Stare at Goats and film deal extensively with PSYOP.
+The USACAPOC patch can be seen being worn by the characters portrayed by Spike Jonze, Ice Cube, and Mark Wahlberg in the movie Three Kings.
+The novel Tree of Smoke by writer Denis Johnson revolves around PSYOP.
+In the 9th season of the television series NCIS, Jamie Lee Curtis plays a recurring role as the civilian PSYOPs director at the US Department of Defense. In the 15th season they also introduced Jacqueline Sloane to the main cast, she was former Army PSYOP and it is shown to have an impact on her regularly.
+In the 1979 film Apocalypse Now, during the famous helicopter attack on the beach, actor Robert Duvall, playing LTC Bill Kilgore says over the radio, "Put on psy war op. Make it loud....Shall we dance?", at which point the helicopter mounted loudspeakers start playing Richard Wagner's "Ride of the Valkyries".
+In the 1959 Korean War film Pork Chop Hill, the Chinese continuously broadcast propaganda over loud speakers between battles.
+In the 2012 film Safe House, Former CIA agent Tobin Frost, with excellent psychological warfare expertise.
+In the 2016 film The Accountant, the father of the main character is a PSYOP Colonel.
+
+
+== See also ==
+Chieu Hoi
+CIA's Special Activities Division
+COINTELPRO
+Congress for Cultural Freedom
+Disinformation
+Fake news
+Information warfare
+Lockheed EC-130
+Operation Mockingbird
+Pentagon military analyst program
+Propaganda
+Psychological warfare
+Psychological Warfare Division
+
+
+== References ==
+
+
+== Further reading ==
+
+
+=== Bibliography ===
+Cruickshank, Charles (1977). The fourth arm: psychological warfare 1938-1945. London: Davis-Poynter. ISBN 9780706702125.
+De McLaurin, Ronald, ed. (1982). Military propaganda: psychological warfare and operations. Praeger Publishers. ISBN 0030588626. OL 18819708W.
+Herz, Martin F. (1949). "Some psychological lessons from leaflet propaganda in World War II". Public Opinion Quarterly. 13 (3): 471–486. doi:10.1086/266096.
+Lerner, Daniel (1971) [1949]. Psychological Warfare Against Germany, The Sykewar Campaign, D-Day to VE-Day. The MIT Press. ISBN 0-262-62019-7. LCCN 73-148851.
+McClintock, Michael (1992). Instruments of statecraft: US guerrilla warfare, counterinsurgency, and counter-terrorism, 1940-1990. New York: Pantheon Books. ISBN 9780394559452. OCLC 493995671. – ch. 1 online
+Margolin, Leo Jay (1946). Paper Bullets: A Brief Story of Psychological Warfare in World War II. New York: Froben Press. OCLC 568030399.
+Newitz, Annalee (2024). Stories are Weapons: Psychological Warfare and the American Mind. New York: Norton. ISBN 9780393881523. OCLC 1430659114. – first 30 pages online
+Paddock, Alfred H. (2002). US Army Special Warfare: Its Origins. University Press of Kansas. ISBN 9780700611775. OCLC 48649750.
+Stubbs, Richard (1989). Hearts and Minds in Guerrilla Warfare: The Malayan Emergency 1948-1960. Singapore: Oxford University Press. hdl:11375/14923. ISBN 0-19-588942-8.
+Taylor, Philip M. (1999). British Propaganda in the Twentieth Century. Edinburgh University Press: Selling Democracy. ISBN 0748610391. OCLC 44964679.{{cite book}}:  CS1 maint: publisher location (link)
+
+
+=== Propaganda ===
+Barnhisel, Greg; Turner, Catherine, eds. (2012). Pressing the Fight: Print, Propaganda, and the Cold War. University of Massachusetts Press.
+Osgood, Kenneth (2006). Total Cold War: Eisenhower's Secret Propaganda Battle at Home and Abroad.
+Osgood, Kenneth A. (2002). "Hearts and minds: the unconventional cold war" (PDF). Journal of Cold War Studies. 4 (2): 85–107. doi:10.1162/152039702753649656.
+Parry-Giles, Shawn J. (2002). The rhetorical presidency, propaganda, and the Cold War, 1945-1955. Greenwood.
+Parry-Giles, Shawn J. (1994). "Rhetorical experimentation and the cold war, 1947–1953: The development of an internationalist approach to propaganda". Quarterly Journal of Speech. 80 (4): 448–467. doi:10.1080/00335639409384087.
+Puddington, Arch (2000). Broadcasting Freedom: The Cold War Triumph of Radio Free Europe and Radio Liberty. University Press of Kentucky. ISBN 9780813121581. OCLC 43076960.
+
+
+== External links ==
+iwar.org.uk Archived 2010-12-08 at the Wayback Machine
+U.S. - PSYOP producing mid-eastern kids comic book
+Psychological Operations Branch Insignia
+Psychological Operations: Lineage and Honors Information

@@ -1,0 +1,27 @@
+Air Command and Control System (ACCS) is the NATO project planned to replace the NATO Air Command and Control Systems of the 1990s. At the highest level it comprised the Combined Air Operations Centre (CAOC) from which the air battle is run.  Beneath this level of command is the Air Control Centre (ACC), Recognized Air Picture (RAP) Production Centre (RPC) and Sensor Fusion Post (SFP) combined in one entity called ARS. The ARS is the equivalent to the Control and Reporting Centers (CRCs) operated in the 1990s. The ACCS project comprised both static and deployable elements. Under separate funding, NATO intended to procure deployable sensors for the deployable ACCS component (DAC).
+Oversight of the project is provided by the NATO Communications and Information Agency (NCIA) in Brussels, Belgium. Until 2012, this was executed by the NATO ACCS Management Organisation (NACMA) Board of Directors, senior representatives of the Nations engaged in the NATO ACCS project.  The Board is responsible to the Secretary General of NATO for the delivery of the project.
+The NCIA AIRC2 PO&S is responsible for the day-to-day management of the project scientific support from former NC3A (now part of the NCIA), system and software engineering support from Systems Support Center (SSC) (as well part of the NCIA), logistic support from the NATO Support and Procurement Agency (NSPA - former NAMSA) and operational support from SHAPE.
+
+
+== History ==
+The contract to build the ACCS was based on 1990s specifications and awarded to the Air Command Systems International (ACSI) consortium in November 1999. Since 2000, the ACSI has been a part of ThalesRaytheonSystems (TRS). The contract provided the development and testing of the ACCS system core software is now completed. The hardware and software system has been accepted by NATO. Italy is the first nation using ACCS for limited Military Air Operations since April 2015. Germany, France and Belgium has not yet transited to ACCS, as validation nations, leaving 17 other nations still pending.
+Fundamental issues with the system design have delayed the implementation by more than 15 years.
+The Integrated System Support of the ACCS system, if operational, will be provided by the NATO Communications and Information Agency (NCIA) supported by in-house System Support Center (SSC).
+
+
+== See also ==
+Index of aviation articles
+List of established military terms
+
+
+== References ==
+
+
+== External links ==
+NACMA Press Statement on the NATO Air Command And Control System
+NATO edges towards ACCS Archived 2013-02-16 at archive.today
+NATO Communication and Information Agency - main website
+NATO Programming Centre - main website
+NATO Maintenance and Supply Agency - main website
+SHAPE - main website
+NSPA - main website

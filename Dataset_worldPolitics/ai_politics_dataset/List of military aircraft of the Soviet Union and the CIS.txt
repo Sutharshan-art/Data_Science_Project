@@ -1,0 +1,76 @@
+**List of Military Aircraft of the Soviet Union and the CIS**
+
+From its founding in 1922 until its dissolution in 1991, the Soviet Union developed one of the world’s largest and most diverse military aviation industries. After 1991, the Commonwealth of Independent States (CIS) inherited much of this fleet, with Russia as its principal successor, alongside Ukraine, Kazakhstan, and other republics. Soviet and CIS aircraft have been shaped by Cold War imperatives—strategic deterrence, air defense, and expeditionary support—as well as post-Soviet budget constraints and export diplomacy.
+
+---
+
+## Fighters and Interceptors
+
+* **Mikoyan-Gurevich MiG-15 (1949):** First successful swept-wing jet fighter; dominated early Korean War aerial combat and set the template for Soviet jet development.
+* **Mikoyan-Gurevich MiG-21 “Fishbed” (1959):** Lightweight supersonic fighter/interceptor; over 11,000 built, widely exported across the Warsaw Pact and developing world as a symbol of Soviet influence.
+* **Mikoyan-Gurevich MiG-23 “Flogger” (1970):** Variable-sweep wing fighter-bomber designed to outpace NATO aircraft and strike ground targets; served in hundreds of export customers.
+* **Mikoyan-Gurevich MiG-25 “Foxbat” (1970):** Mach 3 interceptor built to counter U.S. reconnaissance aircraft; its appearance spurred Western development of the F-15 Eagle.
+* **Mikoyan MiG-29 “Fulcrum” (1977):** Fourth-generation air superiority fighter introduced to regain performance parity with new Western designs; remains in use and export production.
+* **Mikoyan MiG-31 “Foxhound” (1975):** High-speed, long-range interceptor capable of engaging cruise missiles and low-flying targets; reflects Soviet emphasis on homeland air defense.
+* **Sukhoi Su-27 “Flanker” (1977):** Twin-engine air superiority fighter with long range and heavy armament; its success underpinned later multirole variants (Su-30, Su-35).
+* **Sukhoi Su-30/33/34/35 (1989–2008):** Evolving multirole and strike derivatives extending the Flanker line into naval, interdiction, and precision-strike roles for Russia and foreign operators.
+
+---
+
+## Bombers and Strike Aircraft
+
+* **Tupolev Tu-16 “Badger” (1954):** Maritime strike and medium bomber platform; exported to China and India, serving into the 1990s.
+* **Tupolev Tu-95 “Bear” (1956):** Turboprop strategic bomber and missile platform; its endurance epitomized the Soviet nuclear deterrent triad.
+* **Tupolev Tu-22M “Backfire” (1969):** Variable-sweep wing supersonic bomber for maritime and strategic strike; deployed in Afghanistan and remains central to Russian long-range aviation.
+* **Tupolev Tu-160 “Blackjack” (1981):** Swing-wing supersonic strategic bomber, the largest and fastest of its kind; symbolized late-Cold War technological ambition and, post-1991, Russian nuclear reach.
+* **Sukhoi Su-24 “Fencer” (1974):** All-weather, low-level strike aircraft; saw extensive use in Afghanistan and Syria, illustrating Soviet expeditionary doctrine.
+
+---
+
+## Transport and Airlift
+
+* **Antonov An-2 “Colt” (1947):** Single-engine biplane utility aircraft; workhorse for remote airfields, parachute operations, and agricultural uses.
+* **Antonov An-12 “Cub” (1957):** Four-engine medium transport; backbone of Soviet tactical airlift, widely exported.
+* **Ilyushin Il-76 “Candid” (1971):** Strategic heavy transport with short-field capability; remained Russia’s premier cargo jet, critical in humanitarian and military missions.
+* **Antonov An-22 “Cock” (1965) and An-124 “Ruslan” (1982):** Superheavy transports reflecting Soviet interest in global power projection and commercial export sales to allied states.
+
+---
+
+## Helicopters
+
+* **Mil Mi-8/17 “Hip” (1967):** Versatile twin-turbo­shaft transport and gunship; over 17,000 built, used by military and civil operators worldwide.
+* **Mil Mi-24 “Hind” (1972):** Attack gunship and troop transport hybrid; iconic of Soviet low-intensity warfare and export success.
+* **Kamov Ka-25/27/31 “Helix” series (1961–1995):** Coaxial-rotor naval helicopters for ASW, AEW, and transport; emblematic of Soviet naval aviation priorities.
+* **Kamov Ka-50/52 “Black Shark/Alligator” (1982/1997):** High-agility attack helicopters with ejection seats; showcase advanced Soviet and Russian avionics and export marketing.
+
+---
+
+## Trainers and Light Aircraft
+
+* **Aero L-29 “Delfin” (1963) and L-39 “Albatros” (1968):** Standard jet trainers for Warsaw Pact nations; formed the backbone of pilot instruction and light-attack roles.
+* **Yak-52 (1976) and Yak-18T (1967):** Primary piston-trainer aircraft for aerobatics and basic flight training, continuing in civilian use post-1991.
+
+---
+
+## Reconnaissance, AWACS, and Tankers
+
+* **Mikoyan MiG-25R “Foxbat” reconnaissance variant:** High-altitude photo and ELINT platforms exposing Soviet intelligence-gathering priorities.
+* **Beriev A-50 “Mainstay” (1985):** Airborne early warning and control based on Il-76 airframe; critical for Soviet and CIS air defense networks.
+* **Ilyushin Il-78 “Midas” (1983):** Aerial refueling tanker enhancing the long-range deployment capability of strategic aviation.
+
+---
+
+## CIS Developments and Modernization
+
+After 1991, newly independent CIS states inherited Soviet air fleets, prompting joint modernization and maintenance collaborations. Russia, under state-owned United Aircraft Corporation, has upgraded legacy MiG-29s and Su-27s, developed fifth-generation Sukhoi T-50 (Su-57), and pursued export deals (e.g., India’s Su-30MKI). Ukraine repurposed An-124 production and revitalized Antonov designs. Kazakhstan, Uzbekistan, and Belarus operate remnant fleets with indigenous retrofits.
+
+---
+
+## Political and Historical Context
+
+1. **Cold War Doctrine:** Soviet aircraft development was driven by the need for strategic nuclear delivery (Tu-95/160), homeland air defense (MiG-25/31), and Warsaw Pact force projection (MiG-21/23, Su-25).
+2. **Industrial Policy:** Central planning directed design bureaus (Mikoyan, Sukhoi, Tupolev, Ilyushin, Antonov, Mil, Kamov) to fulfill fixed quotas, reflecting the state’s control over R\&D and arms proliferation.
+3. **Export and Diplomacy:** Arms sales of MiG-21, MiG-29, and Mi-24 to allied and non-aligned nations fostered political ties and generated hard currency.
+4. **Post-Soviet Transition:** The fragmentation of production and maintenance networks challenged fleet readiness, prompting Russia-led consolidation and foreign partnerships to sustain operational capability and export markets.
+
+This **List of military aircraft of the Soviet Union and the CIS** illustrates a continuum from Cold War exigencies to post-Soviet adaptation, highlighting how aircraft design and deployment were closely intertwined with broader political, economic, and strategic imperatives.

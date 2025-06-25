@@ -1,0 +1,31 @@
+The purpose of this request for comment is to provide an opportunity to amend the structure, rules, and procedures of the December 2017 English Wikipedia Arbitration Committee election and resolve any issues not covered by existing rules. 22:47, 9 September 2017 (UTC)
+Background: In the case of proposals that change existing rules, or that seek to establish new ones, lack of consensus for a change will result in the rules from the 2016 RFC remaining in force. Some issues are not covered by the existing rules but will need to be decided one way or another for the operation of the election, in those cases it will be up to the closer to figure out a result, even if there is no clear consensus, as they have had to in the past.
+Structure: This RfC is divided into portions, each of which contains a discussion point for the community. The standard RfC structure will be used, in which any user may make a general statement that other users may endorse if they so agree. The points will be listed in the table of contents below, along with the users who have made statements.
+Per the consensus developed in previous requests for comment, the electoral commission timetable is as follows:
+
+Nominations: Friday 00:00, 6 October – Friday 23:59, 13 October (7 days)
+Evaluation period: Saturday 00:00, 14 October – Friday 23:59, 20 October (7 days)
+Commission selection: completed by Friday 00:00, 27 October
+Per the consensus developed in previous request for comments, the arbitration committee election timetable is as follows:
+
+Nominations: Sunday 00:00, 5 November – Tuesday 23:59, 14 November (10 days)
+Setup period: Wednesday 00:00, 15 November to Sunday 23:59, 19 November (5 days)
+Voting period: Monday 00:00, 20 November to Sunday 23:59, 3 December (14 days)
+Scrutineering: Begins Monday 00:00, 4 December
+There is one topic from last year that was raised on the talk page. Anyone is free to raise any new topics that they feel need to be addressed by adding them as level two headers.
+Duration: Normally, these RfCs begin on September 1 and last for 30 days. However, these elections are volunteer-run, and this year, the RfC is starting a bit behind schedule. In order to preserve the timetable above, we'll see whether a consensus after 20 days; on or after September 30, an uninvolved editor(s) will evaluate the RfC and determine whether a consensus has developed. The results will determine the structure, rules, and procedures for the election.
+
+Use the following format below; post a new statement at the BOTTOM of the section in which you want to make a statement. Endorse by adding a hash symbol (#) and your signature.
+
+===Statement #N by [[User:USERNAME|USERNAME]]===
+Comment ~~~~
+
+==== Users who endorse statement #N: ====
+
+#~~~~
+
+Users should only edit one summary or view, other than to endorse.
+
+
+= Points of discussion =
+Any editor may add new discussion topics as level 2 (==) headers

@@ -1,0 +1,40 @@
+The **Gulf War air campaign** was the aerial phase of the 1990–1991 Persian Gulf War, conducted by a U.S.-led coalition against Iraq between 17 January and 23 February 1991. It marked the largest and most technologically advanced air operation since World War II, combining strategic bombing, suppression of enemy air defenses (SEAD), air interdiction, close air support, and reconnaissance to degrade Iraqi military capabilities and compel Iraqi forces to withdraw from Kuwait.
+
+**Background and Political Context**
+On 2 August 1990, Iraq invaded and annexed Kuwait, prompting United Nations Security Council Resolutions demanding Iraq’s immediate withdrawal and authorizing “all necessary means” to enforce the resolutions. Under President George H. W. Bush, the United States assembled a 35‐nation coalition, deploying over 500,000 U.S. personnel and significant forces from the United Kingdom, France, Saudi Arabia, Egypt, and other allies to the Gulf region. After the expiration of a UN withdrawal deadline on 15 January 1991, the coalition commenced **Operation Desert Storm**, with an initial air campaign designed to destroy Iraqi command, control, communications, computer, intelligence, surveillance, and reconnaissance (C4ISR) capabilities, neutralize air defenses, and isolate Iraqi ground forces in Kuwait.
+
+**Objectives**
+The coalition’s air campaign pursued four primary objectives:
+
+1. **Achieve Air Superiority**: Eliminate the Iraqi Air Force and degrade air defenses to ensure unimpeded coalition air operations.
+2. **Suppress Air Defenses (SEAD)**: Destroy surface‐to‐air missile (SAM) sites, radar installations, and command nodes.
+3. **Interdict Ground Forces**: Disrupt Iraqi mechanized formations, supply routes, and logistical bases to isolate frontline units.
+4. **Strategic Targeting**: Cripple Iraq’s military‐industrial infrastructure, including command centers, airfields, petroleum facilities, and support facilities, to degrade its warfighting capacity.
+
+**Phase I: Opening Strikes (17–19 January 1991)**
+On 17 January, over 1,000 aircraft—U.S. Air Force, U.S. Navy, U.S. Marine Corps, Royal Air Force, and French Air Force—launched pre‐dawn strikes. Stealthy F‐117A Nighthawk bombers attacked high‐value targets such as Baghdad’s presidential palace and the Republican Guard command bunker. Concurrently, EA‐6B Prowler electronic‐warfare aircraft and F/A-18s conducted SEAD missions against radar sites, while F-15Es and Tornado GR1s delivered laser‐guided bombs on bridges and communication nodes. Over the first 48 hours, coalition aircraft flew some 2,000 sorties, significantly degrading Iraqi C2 networks and opening corridors for follow‐on strikes.
+
+**Phase II: Deep Strike and Battlefield Air Interdiction (20–26 January 1991)**
+Following initial strikes, coalition planners expanded operations to interdiction of deep‐inside targets. F-111F Aardvarks and RAF Tornados employed precision‐guided munitions (PGMs) to strike Scud missile launchers, airfields, and command posts across southern and central Iraq. The U.S. Air Force’s B-52G Stratofortresses conducted “normal” and “Big Belly” carpet‐bombing runs on Republican Guard assembly areas near Basra and al‐Hillah, disrupting troop concentrations. Concurrently, naval aircraft from U.S. carriers off the Arabian Gulf attacked coastal radar and missile installations.
+
+**Phase III: Battle for Air Supremacy and SEAD Continuation**
+Throughout, U.S. F-15C Eagles and RAF Tornados enforced air superiority by patrolling “free‐fire zones” and engaging Iraqi fighters when encountered—though Iraqi aircraft largely remained grounded. Intensive SEAD operations continued, with AGM-88 HARM missiles launched against SAM radars and British GR.1 Tornados employing JP233 anti‐runway munitions on airfields. By late January, Iraqi SAM effectiveness was severely diminished, enabling lower‐altitude precision strikes.
+
+**Phase IV: Close Air Support and Tactical Support (29 January – 23 February 1991)**
+As coalition ground forces commenced **Operation Desert Saber** on 24 February, air power shifted emphasis to close air support (CAS) and battlefield air interdiction (BAI). A-10 Thunderbolt IIs (“Warthogs”) and British GR.1 Tornados provided direct support to advancing armored divisions, attacking retreating Iraqi convoys and dug‐in positions. AC-130 Spectre gunships patrolled supply routes at night, destroying vehicles and artillery. Helicopter gunships (AH-64 Apaches) struck radar‐directed air defense sites and command posts, facilitating the rapid ground advance that liberated Kuwait in under 100 hours.
+
+**Technological Innovations and Tactics**
+
+* **Precision‐Guided Munitions**: Approximately 8 percent of the estimated 88,500 bombs dropped were laser‐ or satellite‐guided, yet accounted for 75 percent of all successful hits on intended targets.
+* **Stealth Technology**: F-117As flew over 1,300 sorties without loss, validating low‐observable design.
+* **Electronic Warfare and Battle Management**: E-3 AWACS, EC-130H Compass Call, and EA-6B Prowlers integrated coalition airspace management and suppressed Iraqi air defenses.
+* **Networked Operations**: Laser target‐designators (LANTIRN pods) and digital datalinks (TADIL‐B/Link 11) facilitated real‐time coordination between airborne and ground elements.
+
+**Casualties and Damage Assessment**
+Coalition aircraft flew over 100,000 sorties, with 43 aircraft lost (28 to non‐hostile causes). Iraqi air defenses claimed no aerial victories credible after postwar analysis. The campaign destroyed or damaged over 4,000 Iraqi tanks, 5,000 armored vehicles, and significant infrastructure—though precise Iraqi civilian casualty figures remain disputed, with independent estimates ranging from 3,000 to 15,000 noncombatants.
+
+**Political and Strategic Impact**
+The Gulf War air campaign demonstrated the effectiveness of air power in achieving strategic objectives with minimal coalition casualties, shaping post‐Cold War doctrines such as **AirLand Battle** and **Effects‐Based Operations**. It reinforced the U.S. preference for precision engagement and exerted lasting influence on international norms concerning limited‐scope interventions and humanitarian considerations in warfare. The campaign’s success bolstered U.S. credibility but also raised questions about air power’s capacity to achieve political aims without prolonged ground involvement—a debate that persisted in subsequent conflicts.
+
+
+

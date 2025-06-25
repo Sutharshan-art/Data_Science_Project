@@ -1,0 +1,94 @@
+Efforts to impeach Presidents of the United States have arisen periodically since the framing of the Constitution, reflecting deep political divisions and questions about executive conduct. While only three presidents—Andrew Johnson, Richard Nixon (resigned before full House vote), Bill Clinton, and Donald Trump (twice)—have faced formal impeachment inquiries, numerous resolutions and investigations against others illustrate the evolving use of impeachment as a political tool.
+
+---
+
+## Constitutional Basis
+
+Article II, Section 4 of the U.S. Constitution holds that “The President, Vice President and all civil Officers of the United States, shall be removed from Office on Impeachment for, and Conviction of, Treason, Bribery, or other high Crimes and Misdemeanors.” The House of Representatives has the sole power to impeach (i.e., bring charges), and the Senate the sole power to try impeachments.
+
+---
+
+## Successful Impeachments and Resignations
+
+### Andrew Johnson (1868)
+
+* **Context:** Post–Civil War struggle over Reconstruction. Johnson’s frequent vetoes of congressional Reconstruction legislation and his removal of Secretary of War Edwin Stanton prompted conflict with the Republican majority.
+* **Process:** The House adopted 11 articles of impeachment on 24 February 1868, chiefly for violation of the Tenure of Office Act.
+* **Outcome:** The Senate fell one vote short of the two-thirds necessary for conviction on 26 May 1868; Johnson completed his term.
+
+### Richard Nixon (1974)
+
+* **Context:** Watergate burglary cover-up. Special Prosecutor Archibald Cox’s firing (“Saturday Night Massacre”) intensified calls for accountability.
+* **Process:** The House Judiciary Committee approved three articles of impeachment (obstruction of justice, abuse of power, contempt).
+* **Outcome:** Nixon resigned on 9 August 1974, before a full House vote; his successor, Gerald Ford, later pardoned him.
+
+### Bill Clinton (1998)
+
+* **Context:** Independent Counsel Kenneth Starr’s report on the Monica Lewinsky scandal expanded from Whitewater to allegations of perjury and obstruction.
+* **Process:** The House approved two articles—perjury before a grand jury and obstruction of justice—on 19 December 1998.
+* **Outcome:** The Senate acquitted Clinton on 12 February 1999; neither article garnered a simple majority for conviction.
+
+### Donald Trump (2019–2021)
+
+* **First Impeachment (2019–2020):** Alleged abuse of power and obstruction of Congress over solicitation of Ukrainian investigations into political rival; two articles approved 18 December 2019; Senate acquitted 5 February 2020.
+* **Second Impeachment (2021):** Charged with incitement of insurrection for January 6, 2021 Capitol attack; article approved 13 January 2021, making Trump the only president impeached twice; Senate acquitted 13 February 2021.
+
+---
+
+## Unsuccessful or Aborted Efforts
+
+### Ulysses S. Grant (1876)
+
+* **Proposals:** Representative Charles Sumner introduced resolutions over alleged corruption in Grant’s administration (e.g., the Whiskey Ring).
+* **Outcome:** No formal impeachment inquiry; political fatigue and lack of evidence prevented advancement.
+
+### Franklin D. Roosevelt (1933–1945)
+
+* **Proposals:** Isolationist and conservative legislators introduced resolutions objecting to the New Deal’s expansion of federal power and Roosevelt’s 1937 court-packing plan.
+* **Outcome:** No serious inquiry; public support and Democratic majorities in Congress shielded the president.
+
+### Harry S. Truman (1951)
+
+* **Context:** Fired General Douglas MacArthur during the Korean War.
+* **Proposals:** Minority Republicans introduced impeachment resolutions alleging presidential overreach in military affairs.
+* **Outcome:** Resolutions referred to committee and quietly died.
+
+### Richard Nixon (Early 1974)
+
+* **Pre-Watergate Efforts:** Minor resolutions over Vietnam bombing and intelligence abuses; no substantial action before Watergate scandal erupted.
+
+### Ronald Reagan (1980s)
+
+* **Proposals:** Accusations over the Iran–Contra affair led to a 1986 House Judiciary Committee report on possible grounds for impeachment, but no articles were voted.
+* **Outcome:** Independent Counsel Lawrence Walsh’s findings did not prompt full House action.
+
+### George H. W. Bush (1992)
+
+* **Proposals:** Scandals over the Clarence Thomas Supreme Court nomination and Bush’s pardon of Iran-Contra figure Caspar Weinberger prompted minor impeachment resolutions.
+* **Outcome:** None advanced beyond referral to committee.
+
+### Bill Clinton (Pre-1998 Attempts)
+
+* **Proposals:** Conservative lawmakers circulated early resolutions over Whitewater and alleged sexual misconduct.
+* **Outcome:** No formal inquiry until Starr’s report in 1998.
+
+### Barack Obama (2010s)
+
+* **Proposals:** Some Republican members introduced resolutions over the Affordable Care Act, alleged overreach in executive actions, and Benghazi security failures.
+* **Outcome:** All referred to committee; no hearings or votes.
+
+### Donald Trump (Pre-2019 Attempts)
+
+* **Proposals:** Early 2017 resolutions by Representative Brad Sherman over alleged emoluments and obstruction of justice following the Mueller investigation.
+* **Outcome:** Resolutions referred to Judiciary Committee; no formal inquiry until Ukraine events.
+
+---
+
+## Political and Historical Significance
+
+* **Constraint vs. Check:** Impeachment serves as Congress’s primary check on executive misconduct, yet its political nature—requiring supermajorities—often limits use to periods of profound bipartisan consensus on wrongdoing.
+* **Shifting Norms:** Early post-Civil War impeachments focused on statutory violations, while modern efforts incorporate allegations of abuse of power and norms violations.
+* **Public Opinion:** Success of impeachment efforts frequently hinges on public and media sentiment; Nixon resigned as bipartisan support collapsed, while Clinton maintained high approval ratings despite impeachment.
+* **Precedent and Reform:** Recurrent proposals across administrations have prompted debates on clarifying “high crimes and misdemeanors,” executive privilege limits, and the role of independent counsels.
+
+While only four presidents have faced formal impeachment votes in the House, the broader history of attempted impeachments illustrates the enduring tension between executive authority and legislative oversight in American constitutional government.

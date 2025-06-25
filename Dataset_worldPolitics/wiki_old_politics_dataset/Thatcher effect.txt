@@ -1,0 +1,25 @@
+The Thatcher effect or Thatcher illusion is a phenomenon where it becomes more difficult to detect local feature changes in an upside-down face, despite identical changes being obvious in an upright face.  It is named after the then British prime minister Margaret Thatcher, on whose photograph the effect was first demonstrated. The effect was originally created in 1980 by Peter Thompson, professor of psychology at the University of York.
+
+
+== Overview ==
+The effect is illustrated by two originally identical photos, which are inverted.  The second picture is altered so that the eyes and mouth are vertically flipped, though the changes are not immediately obvious until the image is viewed upright.
+The Thatcher effect is thought to be due to specific psychological cognitive modules involved in face perception which are tuned especially to upright faces.  Faces seem unique despite the fact that they are  very similar.  It has been hypothesized that we develop specific processes to differentiate between faces that rely as much on the configuration (the structural relationship between individual features on the face) as the details of individual face features, such as the eyes, nose and mouth.
+There is evidence that rhesus monkeys as well as chimpanzees experience the Thatcher effect, raising the possibility that some brain mechanisms involved in processing faces may have evolved in a common ancestor more than 30 million years ago.
+The basic principles of the Thatcher effect in face perception have also been applied to biological motion. The local inversion of individual dots is hard, and in some cases, nearly impossible to recognize when the entire figure is inverted.
+
+
+== Further investigations ==
+The Thatcher illusion has also been useful in revealing the psychology of face recognition. Typically, experiments using the Thatcher illusion look at the time required to see the inconsistent features either upright or inverted. Such measures have been used to determine the nature of the processing of holistic facial images.
+By looking at the intermediate angles between upright and inverted, studies have explored the gradual or sudden appearance of the illusions. Sensitivity to the Thatcher illusion has been found in children, including children with autism.
+However, people with congenital prosopagnosia have been shown to exhibit an overall much weaker response to the illusion compared to people without such condition. Their response time was shown to be weakly and linearly affected by the grotesque face's orientation. This last observation suggests that the part of the brain responsible for "configural processing" in face recognition is the fusiform face area of the cortex, which is affected in both the congenital and the acquired condition.
+
+
+== References ==
+
+
+== External links ==
+
+Thatcher illusion demonstration
+Open University YouTube Thatcher illusion demonstration
+BBC article on the Thatcher illusion
+Windows utility for "thatcherizing" the face in the webcam (open source)

@@ -1,0 +1,51 @@
+**Government of the Han Dynasty** (206 BC – AD 220) refers to the political institutions, administrative structures, and governing philosophies of one of China’s longest-lasting imperial dynasties. Building upon Qin precedents, the Han blended Legalist bureaucracy with Confucian moral principles, creating a durable system that influenced imperial governance for centuries.
+
+**Imperial Sovereignty and Succession**
+The Han emperor (皇帝, *huangdi*) held absolute authority as the “Son of Heaven,” ruling by the Mandate of Heaven. Founder Emperor Gaozu (Liu Bang) established dynastic legitimacy following the collapse of the Qin in 206 BC. Succession was hereditary within the Liu clan, but factional struggles among imperial relatives, regents, and eunuchs occasionally precipitated palace coups and short regencies, notably under Empress Dowager Lü (188–180 BC) and during the “Rule of the Nine Ministers” interregnum (188 BC).
+
+**Central Administration**
+The Han government was headed by three principal officials, collectively the **Three Excellencies** (三公, *Sāngōng*) under early Western Han:
+
+1. **Chancellor (丞相, *Chengxiang*)**: Premier and chief executive, overseeing civil administration and military affairs.
+2. **Imperial Secretary (御史大夫, *Yùshǐ Dàfū*)**: Supervisor of the bureaucracy, responsible for remonstrance and censure.
+3. **Grand Commandant (太尉, *Tàiwèi*)**: Senior military official advising on defense and frontier policy.
+
+Under Emperor Wu (141–87 BC), the Three Excellencies’ duties were redistributed among the **Three Councillors of State** and later the **State Councillor** system, reflecting the emperor’s desire to curb ministerial power.
+
+Beneath them, the **Nine Ministers** (九卿, *Jiǔqīng*) administered key portfolios:
+
+* Minister of Ceremonies
+* Minister of the Household
+* Minister of the Guards
+* Minister Coachman
+* Minister of Justice
+* Minister of Finance
+* Minister Steward
+* Minister of the Imperial Clan
+* Minister of Agriculture
+
+Each minister managed specialized agencies—ritual, palace security, justice, revenue, imperial estates, and food supply—reporting directly to the central court.
+
+**Local Government**
+The empire was divided into **commanderies** (郡, *jùn*) and **kingdoms** (國, *guó*). Kingdoms, ruled by imperial princes, were gradually curtailed in power to prevent separatism. Each commandery was headed by a **Grand Administrator** (太守, *Tàishǒu*), appointed by the court, and divided into **prefectures** (縣, *xiàn*) led by **Prefects** (縣令, *Xiànlìng*). These local officials implemented imperial edicts, collected taxes (in grain and labor service), and maintained local order.
+
+**Civil Service and Recruitment**
+Early Han recruitment relied on recommendations by local elites. From the reign of Emperor Wu, the **Imperial Academy** (太學, *Tàixué*) and **Nine Chapters on the Art of War** became formal training for potential officials. In AD 165, Emperor Huan instituted the **Recommendation System** (舉孝廉, *jǔ xiàolián*), selecting candidates for filial piety and integrity. Over time, these practices evolved into the **Nine-rank System**, classifying families for appointment eligibility, laying groundwork for later imperial examinations.
+
+**Legal and Administrative Codes**
+Han law codified Qin statutes, softened by Confucian ideals. The **Nine Penal Severity Levels** persisted, but Emperor Wen (180–157 BC) and Emperor Jing (157–141 BC) reduced punishments and corvée labor in the “Rule of Wen and Jing,” fostering internal stability. In AD 62, the **Zhangling** legal code standardized statutes, penalties, and administrative procedures, balancing deterrence with recognition of mitigating factors.
+
+**Imperial Secretariat and Censorate**
+The **Censorate** (御史臺, *Yùshǐtái*) monitored officials and reported malfeasance directly to the emperor. Imperial censors (御史, *Yùshǐ*) wielded the power of remonstrance and impeachment, ensuring accountability. The Secretariat (中書省, *Zhōngshūshěng*) drafted edicts, controlled court records, and managed memorials to the throne, acting as a communication hub.
+
+**Ideological Underpinnings**
+Emperor Wu’s endorsement of Confucianism in 136 BC made it the state doctrine. The **Five Classics** and **Analects** were studied in the Academy, and official ceremonies enshrined Confucian rituals. However, Legalist techniques—centralized authority, standardized weights and measures, and strict administrative hierarchies—sustained imperial power.
+
+**Military Administration**
+Frontier defense against Xiongnu nomads and southern tribes required specialized commanderies and military colonies. The **Defender-in-Chief** (衛尉, *Wèiwèi*) oversaw imperial guards, while regional **Colonel-commanders** (校尉, *Xiàowèi*) led frontier garrisons. Military colonies (屯田, *túntián*) combined agriculture and defense, bolstering supplies and securing borderlands.
+
+**Corruption and Eunuch Influence**
+From the Eastern Han period (AD 25–220), palace eunuchs gained substantial power, interfering in succession and administration. Eunuch‐led purges and factionalism, together with land‐holding abuses by powerful families, undermined state authority, contributing to the dynasty’s fragmentation into the Three Kingdoms.
+
+**Legacy**
+The Han governmental model—centralized bureaucracy, Confucian‐Legalist synthesis, and meritocratic recruitment—endured as the template for subsequent Chinese dynasties. Its administrative geography influenced East Asian polities, while Han-era institutions shaped China’s imperial identity, giving rise to the enduring ethnic designation “Han Chinese.”

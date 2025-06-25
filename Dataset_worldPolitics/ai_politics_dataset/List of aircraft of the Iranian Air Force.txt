@@ -1,0 +1,56 @@
+**List of Aircraft of the Islamic Republic of Iran Air Force**
+
+The Islamic Republic of Iran Air Force (IRIAF) operates a diverse fleet of fixed-wing and rotary-wing aircraft, reflecting its complex political history: rapid expansion under the Shah with Western-made jets, attrition during the Iran–Iraq War (1980–1988), international sanctions following the 1979 Revolution, and recent efforts to modernize through domestic production and purchases from non-Western suppliers.
+
+**Historical Background**
+Under the Pahlavi monarchy (1925–1979), Iran cultivated close military ties with the United States and Europe. In the 1970s, Iran placed among the world’s largest orders for advanced combat aircraft, securing F-14 Tomcats, F-4 Phantom IIs, F-5 Tigers, and F-6 (MiG-19) fighters, as well as C-130 Hercules transports and AH-1J SeaCobras. After the 1979 Islamic Revolution, the U.S. imposed an arms embargo. During the Iran–Iraq War, surviving IRIAF aircraft saw heavy combat and endured wear, while replacement parts and munitions became difficult to procure under sanctions.
+
+**Post-Revolution Sanctions and Adaptation**
+From 1979 onwards, Western sanctions forced Iran to cannibalize its existing fleet for parts, develop indigenous maintenance capabilities, and seek arms from alternative partners. In the 1990s and 2000s, Iran acquired second-hand MiG-29s, Su-24MKs, Su-22s, and Il-76 transports from former Soviet states, while accelerating homegrown programs to produce reverse-engineered airframes, avionics, and unmanned aerial vehicles.
+
+**Current Inventory Overview**
+As of the early 2020s, the IRIAF’s roughly 300 combat-capable aircraft fall into several categories:
+
+1. **Air Superiority and Multirole Fighters**
+
+   * **Grumman F-14A Tomcat:** Approximately two dozen remain operational. The Tomcat provides long-range interception capability with Phoenix missiles, though maintenance challenges have reduced its numbers.
+   * **MiG-29 Fulcrum:** Around 24 inherited from former Soviet republics. These fourth-generation fighters supplement air-defense coverage, though performance varies with avionics retrofits.
+   * **Chengdu F-7/FT-7 (Chinese F-5 derivative):** Hundreds of lightweight fighters and trainer variants serve as multirole interceptors and ground-attack platforms.
+
+2. **Ground-Attack and Strike Aircraft**
+
+   * **McDonnell Douglas F-4 Phantom II:** Roughly 50 remain in service, adapted for strike roles with precision munitions and improved electronic warfare pods.
+   * **Sukhoi Su-24MK Fencer:** Around 20 variable-sweep wing aircraft from Russia, used for deep-strike and maritime interdiction missions.
+   * **Grumman A-6 Intruder (retired):** Former IRIAF plans to acquire U.S. A-6s were aborted; none entered service.
+
+3. **Trainer and Light Attack Aircraft**
+
+   * **Northrop F-5 Tiger II:** Dozens of F-5E/Fs remain as advanced trainers and light-attack aircraft, benefiting from Iranian avionics upgrades.
+   * **Aero L-39 Albatros:** Czech-built jet trainers and light-attack variants bolster pilot training pipelines.
+   * **HESA Saeqeh and Azarakhsh:** Iranian-designed derivatives of the Northrop F-5, produced in limited numbers to advance indigenous fighter-development efforts.
+
+4. **Transport and Support Aircraft**
+
+   * **Lockheed C-130 Hercules:** Over ten remain in tactical transport roles, handling troop movement and humanitarian airlift.
+   * **Ilyushin Il-76MD and MD-90A:** Strategic airlifters acquired from Russia, supporting heavy equipment transport and aerial refueling modifications.
+   * **Dassault Falcon 20/50:** Ex-French business jets converted for electronic warfare and VIP transport.
+
+5. **Helicopters**
+
+   * **Bell AH-1J SeaCobra:** Eighteen or more veteran attack helicopters, extensively maintained domestically, provide anti-armor and close-support fire.
+   * **Mil Mi-17/171 Hip:** Batch of utility helicopters for transport, medevac, and special operations.
+   * **Westland Sea King (licensed):** Search-and-rescue variants serve naval and coastal defense roles.
+
+6. **Unmanned Aerial Vehicles (UAVs)**
+
+   * **Shahed-129:** Medium-altitude, long-endurance drone for reconnaissance and strike, symbolizing Iran’s UAV-development push under sanctions.
+   * **Mohajer series:** Smaller tactical reconnaissance UAVs, operational since the 1980s and continuously upgraded.
+
+**Political Significance and Modernization Efforts**
+Iranian policymakers view a robust air force as vital for deterrence, power projection in the Persian Gulf, and internal regime security. The persistent U.S. and EU arms embargoes have driven Iran toward self-sufficiency in aircraft maintenance and production, spurring domestic programs like the HESA Kowsar (F-5 clone) and Karrar jet. Recent agreements with Russia for Su-35 fighters and India for C-130J Super Hercules illustrate Tehran’s pragmatic diversification of defense partners, navigating geopolitical constraints while seeking to modernize its aging fleet.
+
+**Doctrine and Regional Balance**
+The IRIAF’s mixed fleet supports a doctrine emphasizing area denial and defensive counter-air, complemented by ballistic and cruise missile forces in the broader Islamic Republic of Iran Air Force structure. Against regional challengers—Israel, Saudi Arabia, and Gulf Cooperation Council states—Tehran leverages asymmetric assets (UAVs, missile-armed drones) to offset quantitative and qualitative gaps in fighter inventories. The air force’s role in Syria and Iraq support missions underscores Iran’s strategic outreach beyond its borders.
+
+**Future Prospects**
+Looking ahead, Iran aims to expand indigenous production of trainers and light fighters, integrate advanced avionics and stealth technologies, and procure key logistical assets despite sanctions. Whether domestic defense-industrial advances can bridge capability shortfalls in multirole and air-superiority sectors remains a central question shaping Iran’s military posture and regional security dynamics.

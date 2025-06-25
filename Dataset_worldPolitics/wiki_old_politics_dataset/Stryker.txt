@@ -1,0 +1,362 @@
+The Stryker is a family of eight-wheeled armored fighting vehicles derived from the Canadian LAV III. Stryker vehicles are produced by General Dynamics Land Systems-Canada (GDLS-C) for the United States Army in a plant in London, Ontario. It has four-wheel drive (8×4) and can be switched to all-wheel drive (8×8).
+The Stryker was conceived as a family of vehicles forming the backbone of a new medium-weight brigade combat team (BCT) that was to strike a balance between armored brigade combat teams (heavy armor) and infantry brigade combat teams. The service launched the Interim Armored Vehicle competition, and in 2000, the service selected the LAV III proposed by GDLS and General Motors Defense. The service named this family of vehicles the "Stryker".
+Ten variants of the Stryker were initially conceived, some of which have been upgraded with v-hulls.
+
+
+== Development history ==
+
+
+=== Interim Armored Vehicle competition ===
+
+In October 1999, U.S. Army Chief of Staff General Eric Shinseki outlined a transformation plan for the Army that would allow it to adapt to post–Cold War conditions. The plan, named "Objective Force", would have the army adopt a flexible doctrine that would allow it to deploy quickly, and be equipped for a variety of operations. An early phase of the plan called for the introduction of an Interim Armored Vehicle (IAV), which was intended to fill the capability gap between heavier and heavily armed, but not easily deployable, vehicles, such as the M2 Bradley, and easily deployable vehicles that are lightly armed and protected, such as the Humvee.
+The IAV was intended as an interim vehicle until light air-mobile vehicles from the Future Combat Systems Manned Ground Vehicles program came online, none of which did before the program was canceled.
+
+
+==== Team General Dynamics–General Motors ====
+In February 2000, General Dynamics and General Motors announced they were partnering to enter the IAV competition. The agreement built off earlier cooperative effort: In January 1999, General Dynamics Land Systems (GDLS)–Canada integrated its Low Profile Turret (LPT) onto an assault gun version of the LAV III. The General Motors Defense–General Dynamics Land Systems team was awarded the $8 billion contract in November 2000 to produce 2,131 vehicles of a variant of the Canadian LAV III, for equipping six rapid deployment Brigade Combat Teams by 2008. United Defense protested the contract award in December, saying that their proposal cost less than half that of GM–GDLS. The General Accounting Office rejected the protest in April 2001.
+U.S. Assistant Secretary of the Army Paul J. Hoeper called the IAV "the best off-the-shelf equipment available in the world in this class", though many in the Army openly wondered whether the vehicles were underclassed compared to the vehicles they might face in battle. In February 2002, the Army formally renamed the IAV as the "Stryker" after two unrelated U.S. soldiers who posthumously received the Medal of Honor: Private First Class Stuart S. Stryker, who died in World War II, and Specialist Four Robert F. Stryker, who died in the Vietnam War.
+
+
+=== Production ===
+
+In 2002, as the Stryker program faced criticism from lawmakers, including former Congressman Newt Gingrich, Pentagon officials mulled reducing the number of planned Stryker Brigade Combat Teams from six to three for a cost savings of $4.5 billion. In October, the Stryker's C-130 air mobility was demonstrated for lawmakers at Andrews Air Force Base. At the Association of the United States Army, Army Chief of Staff Eric Shinseki defended the six-brigade plan and boasted that the C-130 could carry a Stryker "every way but sideways".
+Four brigades were funded in the DoD's budget proposal for fiscal year 2004, with Secretary of Defense Donald Rumsfeld deferring a decision on two additional until July 2003. In May, the Army readied the Stryker for initial operating capability at Fort Polk. The New York Times noted the swiftness with which the program had proceeded from its inception in 1999.
+In November 2003, 311 Stryker vehicles were deployed in the Iraq War, where they saw mixed success. Never designed for frontline combat, the vehicles were pressed into counterinsurgency roles for which there was an unmet need.
+Unexpectedly fierce resistance by insurgents prompted field upgrades to the vehicle's armor. To counter the threat of rocket-propelled grenades, General Dynamics developed slat armor, which added 5,000 lb (2,270 kg) to the Stryker's total weight. In addition to hindering mobility in the field, the heavy slat armor made transporting the Stryker via C-130 impossible.
+In February 2005, Army Chief of Staff General Peter J. Schoomaker told the House Armed Services Committee that "we're absolutely enthusiastic about what the Stryker has done." However, a leaked U.S. Army report from December 2004 said the Stryker was "effective and survivable only with limitations for use in small-scale contingencies." The report, which drew from feedback from Stryker personnel in Mosul, described a litany of design flaws, and said the effectiveness of the vehicles was "getting worse, not better."
+The Stryker 105 mm M1128 mobile gun system (MGS) moved into low-rate initial production in 2005 for evaluation, and entered full production in 2007. General Dynamics Land Systems-Canada assembles the Stryker for the U.S. Army in a plant in London, Ontario.
+The vehicle is employed in Stryker Brigade Combat Teams, light and mobile units based on the brigade combat team doctrine that relies on vehicles connected by military C4I (Command, Control, Communications, Computers, and Intelligence) networks.
+General Dynamics's Robotic Systems division was developing autonomous navigation for the Stryker and several other vehicles with a $237 million contract, until the program was cut in July 2011. The Tank Automotive Research, Development and Engineering Center (TARDEC) has tested an active magneto rheological suspension, developed by MillenWorks for the Stryker, at the Yuma Proving Ground, which resulted in greater vehicle stability.
+In 2011, over 1,000 Stryker vehicles had been rebuilt by the Anniston Army Depot and returned to operations.
+
+
+=== Upgrades ===
+
+Throughout its years in service, the Stryker has undergone various survivability upgrades and received "kit" applications designed to improve the vehicle's ability to withstand attacks.
+The US Army plans to improve its fleet of Stryker vehicles with the introduction of improved semi-active suspension, modifications reshaping the hull into a shallow V-shaped structure, to protect against improvised explosive devices (IEDs). Included are additional armor for the sides, redesigned hatches to minimize gaps in the armor, blast-absorbent, mine-resistant seating, non-flammable tires, an upgrade to the remote weapon station that allows it to fire while moving, increased 500 ampere electrical generation, a new solid-state power distribution system and data bus, and the automotive and power plant systems improvements to support one-fourth greater gross vehicle weight. The upgraded V-hull will be part of the new StrykShield situational awareness kit, which will address many of these upgrades. Allegheny Technologies' ATI 500-MIL armor steel was designated the primary armored plating for the StrykShield package in 2008.
+The upgrade incorporating lessons learned from combat in Afghanistan is designated LAV-H. General Dynamics had a technology demonstrator displayed at the 2007 Association of the United States Army (AUSA) Exposition. In March 2010, it was reported that General Dynamics and Army were working to incorporate a double V-hull into the Stryker design. In July 2010 the Army awarded a $30 million contract to GDLS to start production of the new hull.
+In March 2011, the Department of Defense's director of operational test and evaluations testified that the new V-hull design was "not suitable" for long missions in Afghanistan's terrain. The issues are due to the tight driver's compartment and difficulty releasing the seat to extract an incapacitated driver. General Dynamics stated these issues would be corrected before the deployment of the new Stryker version. The upgrade added significant weight to the vehicle, which can cause it to sink into soft ground.
+In July 2011, 450 Double V-Hull (DVH) variants of the Stryker were ordered. The total was increased to 742 a few months later and then to 760 in 2012. DVH Strykers include a new hull configuration, increased armor, upgraded suspension and braking systems, wider tires, blast-attenuating seats, and a height management system.
+
+By August 2012, the Army's Stryker fleet included over 4,187 vehicles, with 10 flat-bottom variants and seven in double V-hull designs. In Afghanistan, it retained a 96 percent readiness rate. To upgrade the existing fleet, the Army has implemented an Engineering Change Proposal (ECP) program to provide a stronger engine, improved suspension, more onboard electrical power, and next-generation networking and computing technology.
+Phase 1 of the ECP includes an electrical power upgrade by replacing the extant 570 amp alternator with a higher current 910 amp alternator, replacing the existing 350 horsepower engine with a 450-horsepower engine, a stronger suspension system to improve mobility at higher weights, and an in-vehicle network to improve data and video sharing between crew stations and more secure and reliable data sharing between vehicle systems. In May 2013, Kongsberg Integrated Tactical Systems was awarded a contract to supply the Driver's Situational Awareness Display (DSAD) and Commander's Situational Awareness Display (CSAD) for the Stryker ECP program, featuring an onboard processor and additional I/O ports for both data and video.
+As of January 2014, the U.S. Army had two Stryker Brigades that completed the DVH upgrade. A third brigade, the 2nd Brigade, 2nd Infantry Division at Joint Base Lewis–McChord, was to be fully upgraded by the end of FY 2016. In mid-October 2014, the Army approved the procurement of DVH Strykers for a fourth Stryker brigade, with conversions to 360 vehicles to begin in FY 2017. The Strykers will be the first to receive ECPs to handle the upgrades better than the previous three brigade vehicles, which increased weight, decreased mobility, and added a power burden. Previous DVH-upgraded Strykers will get ECP enhancements when funding is available. ECP enhancements include a more robust 450 HP engine, a more powerful 910 amp power generator, a chassis upgrade to handle the new engine, and improvements to the vehicle's internal network. In 2018, the Army Requirements Oversight Council approved the conversion of all flat bottomed Strykers to the DVHA1 standard. This will be done through a combination of upgrading existing Strykers and new built vehicles. The Army acquisition goal for the fleet of DVHA1 vehicles is 4,459 which will allow all Stryker Brigades to field the vehicle and other units within the army which use the vehicle like M-SHORAD and CBRN detection. Procurement is to last into the 2030s with procurement averaging 165 Strykers a year or roughly half of a Stryker brigades vehicle set.
+Upgrading the fourth brigade also kept the production line active through 2018, whereas deciding to upgrade after the line had closed would be more difficult and costly to reopen it. The upgrades of the engine and power generator, 60,000 lb (27,000 kg) suspension, and DVH designate the vehicle the Stryker-A1. The Army plans to increase the lethality of Stryker ICVs by having half equipped with a 30 mm cannon and the other half given a Javelin anti-tank missile on the existing RWS in each brigade. By September 2020, half of the 2nd Brigade, 4th Infantry Division had fielded the third-generation Stryker DVHA1 variant.
+
+
+=== SHORAD ===
+
+In February 2018, the Army announced that Stryker vehicles would be modified with sensors and weapons to fulfill an interim Maneuver-Short-Range Air Defense (M-SHORAD) requirement. This is in response to a capability gap identified in Europe against Russian unmanned aerial vehicles (UAVs). With the previous focus on fighting in the Middle East, the U.S. Army had neglected SHORAD capabilities. In future conflicts, it is feared they would not be able to rely on air dominance to counter enemy aircraft. In addition to deploying AN/TWQ-1 Avengers and fielding man-portable Stinger missiles, Strykers are to be upgraded to buy time to build a lasting mobile air defense solution.
+Because the unarmored Humvee-based Avenger lacks survivability and range to keep up with maneuver forces and hold off enemy aircraft in contested territory, four battalions totaling 144 Stryker SHORADs are planned, with the first battery of 12 systems fielded in 2020. The Stryker platform was chosen because it has better protection and in regards to size, weight and power considerations, especially for the possibility of integrating a directed energy weapon in the future. The first unit to be equipped with them will be the 4th Battalion, 5th Air Defense Artillery Regiment. The Army planned to select the weapons configuration to be fitted onto the vehicle in late 2018.
+In June 2018, the Army chose Leonardo DRS to supply the mission equipment package, which partnered with Moog Inc. to integrate the Reconfigurable Integrated-weapons Platform (RIwP) onto the vehicle. The system can be fitted with a Stinger pod and Longbow Hellfire missile rails and comes equipped with a 30 mm M230LF chain gun and the 7.62 mm M240 coaxial machine gun, as well as non-kinetic defeat capabilities and a RADA Electronic Industries onboard Multi-Mission Hemispheric Radar (MHR).
+The Army chose DRS because of the flexibility of the reconfigurable turret to allow for growth opportunities and alternate weapon options. It posed less intrusion to the existing vehicle platform, as they have a desire to keep the Stryker as common across the fleet as possible, and it provided increased protection as the crew can reload ammunition under armor. All 144 M-SHORAD systems are planned to be delivered by 2022.
+The turret can mount one four-shot Stinger pod or two Hellfire missiles on either side. Reloading of the M230LF and Stingers can be done through roof hatches giving partial protection. The system can act in a secondary anti-vehicle role, as the 30 mm cannon is larger than the 25 mm gun mounted on the M2 Bradley and the Hellfire has greater range than TOW missiles typically used by ground vehicles.
+In September 2020, the Army awarded General Dynamics the IM-SHORAD contract worth $1.2 billion, to deliver 144 vehicles over five years. The first order was for 28 vehicles for $230 million. The first four Stryker M-SHORAD vehicles were deployed to Germany in April 2021 as part of the 5th Battalion, 4th Air Defense Artillery Regiment under the 10th Army Air and Missile Defense Command. A full battalion will be fielded in September 2021.
+In 2024, the M-SHORAD air defense vehicle based on the Stryker platform was officially named the Sergeant Stout after the only Air Defense Artillery Soldier to receive the Medal of Honor, Mitchell W. Stout.
+
+As of 2025, the U.S. Army is advancing toward the M-SHORAD Increment 3 configuration to address operational shortcomings and counter increasingly complex aerial threats. A major update includes the planned removal of the AGM-114L Longbow Hellfire missiles from future variants. Mounted externally on the Stryker chassis, the Hellfires were subjected to constant vibration, environmental exposure, and rough terrain, which led to wear and tear on the missiles and raised safety concerns. To replace them, the Army is doubling the Stinger missile loadout from four to eight per vehicle by adding a second four-round pod. This expanded missile capacity enhances the system’s endurance in swarm or multi-axis engagements. The Stinger remains effective against rotary-wing aircraft and small UAVs but faces growing limitations against faster, higher-flying, or more maneuverable threats. To further improve capability, Increment 3 will introduce the Next Generation Short Range Interceptor (NGSRI), equipped with multi-mode seekers and an extended intercept range compared to the FIM-92 Stinger. 
+
+
+==== DE M-SHORAD ====
+
+The Army began an effort to put a laser on an M-SHORAD vehicle during 2019. A combat shoot-off of laser-equipped Strykers facing realistic scenarios was conducted in July 2021, after which Raytheon was awarded a contract to supply a platoon of four vehicles each equipped with a 50 kW laser to defend against Group 1-3 UAS and rocket, artillery, and mortar (RAM) threats. The first two Directed Energy Maneuver-SHORAD Strykers were delivered in early 2023 for training with soldiers. A second platoon is planned to be ordered later in 2023, with the program to transfer to a program of record in 2025 and a competition to open up to produce the DE M-SHORAD capability. Four DE M-SHORAD Strykers were deployed to the Middle East in February 2024 for real-world testing.
+
+
+== Design ==
+
+The Stryker is based on the LAV III light armored vehicle, which was based on the LAV-25 series.
+The vehicle comes in several variants with a common engine, transmission, hydraulics, wheels, tires, differentials and transfer case. The M1130 command vehicle and M1133 medical evacuation vehicle have an air conditioning unit mounted on the back. The medical vehicle has a higher-capacity generator. A recent upgrade program provided a field retrofit kit to add air conditioning units to all variants. Production started in 2005 on the Mobile Gun System, mounting an overhead General Dynamics Land Systems (GDLS) 105 mm automatic gun called the M1128 mobile gun system.
+
+
+=== Engine and mechanical features ===
+For its powerpack the Stryker uses a Caterpillar diesel engine common in U.S. Army medium-lift trucks, eliminating additional training for maintenance crews and allowing the use of common parts. Because of obsolescence concerns, the Caterpillar 3126 engine was recently replaced by a Caterpillar C7 engine and the Allison 3200SP transmission.
+Pneumatic or hydraulic systems drive almost all of the vehicle's mechanical features. For example, a pneumatic system switches between 8×4 and 8×8 drive.
+Designers strove to ease the maintainer's job, equipping most cables, hoses, and mechanical systems with quick-disconnecting mechanisms. The engine and transmission can be removed and reinstalled in approximately two hours, allowing repairs to the turbocharger and many other components to be done outside the vehicle.
+
+
+=== Command, control, and targeting ===
+
+Extensive computer support helps soldiers fight the enemy while reducing friendly fire incidents. Each vehicle can track friendly vehicles in the field as well as detected enemies. The driver and the vehicle commander, who also serves as the gunner, have periscopes that allow them to see outside the vehicle without exposing themselves to outside dangers. The vehicle commander has access to a day-night thermal imaging camera which allows the vehicle commander to see what the driver sees. The vehicle commander has an almost 360-degree field of vision. The Stryker vehicle is equipped with advanced camera systems to enhance driver visibility in various conditions. The AN/VAS–5 Driver’s Vision Enhancer (DVE), a compact thermal camera with a high-resolution infrared sensor, provides a 50-degree field of view for effective navigation in low-visibility environments such as fog, smoke, and dust. On the M1296 Infantry Carrier Vehicle Dragoon (ICV-D), this system has been replaced by the DVE-Wide, which provides a 107-degree horizontal field of view. The DVE-Wide cameras are mounted around the hull, collectively enabling a full 360-degree view for the crew, significantly improving situational awareness. Both systems feature image stabilization to counteract shock and vibration, while their ruggedized displays ensure reliability in demanding tactical environments. The U.S. Army is also working to integrate the DVE-Wide cameras on the Stryker with the Integrated Visual Augmentation System (IVAS) to give the crew and dismounts a 360-degree view around the vehicle with all doors and hatches closed. Soldiers can practice training with the vehicles from computer training modules inside the vehicle.
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+General Dynamics Land Systems is developing a new Power and Data Management Architecture to handle computer upgrades.
+The Stryker's thermal sights can see out to 7,800 ft (2,400 m; 1.48 mi), compared to 330 ft (100 m) for night vision sights used by dismounted soldiers. This capability allows the vehicle to warn dismounted soldiers of threats which lie beyond the range of their night vision sights.
+
+
+=== Protection ===
+
+The Stryker's hull is constructed from high-hardness steel which offers a basic level of protection against 14.5 mm rounds on the frontal arc. It has all-around protection against 7.62 mm ball ammunition. Strykers are equipped with bolt-on ceramic armor which offers all-around protection against 14.5 mm armor-piercing ammunition, and artillery fragments from 155 mm rounds.
+Problems were encountered with the initial batch of ceramic armor when it was found that a number of panels failed in tests against 14.5 mm ammunition. Army officials determined that this was due to changes in the composition and size of the panels introduced by their manufacturer, IBD Deisenroth. A stopgap solution of adding another 3 mm of steel armor was introduced until a permanent solution could be found. The issue was resolved in 2003 when DEW Engineering was selected as the new, exclusive supplier for the ceramic armor.
+
+In addition to the integral ceramic armor, optional packages have been developed. These include slat armor and Stryker reactive armor tiles (SRAT) for protection against rocket propelled grenades and other projectiles, the hull protection kit (HPK), armored skirts for additional protection against improvised explosive devices, and a ballistic shield to protect the commander's hatch.
+The Army began sending reactive armor tiles to Strykers in Iraq in 2004, as well as tiles for Abrams tanks and Bradley Fighting Vehicles. Tiles have to be specifically crafted for each vehicle type they are fitted to. Insurgents attempted to counter reactive armor by having teams fire multiple RPGs at once, but at close range these groups could be engaged and broken up. Reactive armor can be defeated by tandem-charge weapons like the RPG-29 or by explosively formed penetrators, although the Bradley's tiles can withstand EFPs. In 2005, slat armor for the Stryker vehicles was designed and developed by the Army Research Laboratory and the Aberdeen Test Center in Maryland to further protect them from RPGs.
+The cage is placed 50 cm ahead around the vehicle to provide adequate protection. The slat armor on the Stryker vehicles is effective against HEAT rounds. In May 2009, General Dynamics and Rafael won a contract to provide SRAT tiles to replace slat armor on Strykers. The additional weight of the two systems is comparable, but reactive armor tiles offer greater vehicle stability and maneuverability and "assured" rather than "statistical" protection.
+The Stryker incorporates an automatic fire-extinguishing system with sensors in the engine and troop compartments that activate one or more halon fire bottles, which can also be activated by the driver, externally mounted fuel tanks, and a CBRN (Chemical, Biological, Radiological, Nuclear) Warfare system which will keep the crew compartment airtight and positively pressurized.
+Reports from military personnel and analysts state that the Stryker's is better able to survive IEDs than other light military vehicles.
+In spring 2016, a Stryker regiment deployed to Europe with the Saab mobile camouflage system (MCS), which both changes its physical appearance to better blend into the environment and incorporates properties that improve signature management against long-wave and mid-wave thermal sensors, near-wave and short-wave infrared, and radar. Further tests will influence the Army to decide whether to pursue acquiring the camouflage system through a Program of Record.
+In 2016, Artis LLC's Iron Curtain active protection system was selected for integration onto the Stryker as an interim system, until the Army develops the Modular Active Protection System (MAPS). Iron Curtain differs from other APS by defeating projectiles just inches away from the vehicle, rather than intercepting them several meters out. In August 2018 the Army decided not to continue qualifying Iron Curtain onto the Stryker due to maturity issues with the system.
+
+
+=== Armament ===
+
+With the exception of some specialized variants, the primary armament of the Stryker is a Protector M151 Remote Weapon Station with 12.7 mm (.50 in) M2 machine gun, 7.62 mm M240B machine gun, or 40 mm Mk 19 grenade launcher. The choice of armament was driven by many factors. The US Army wanted a vehicle that could rapidly transport and protect infantry to and around battlefields.
+In September 2017, Raytheon fired Stinger missiles it had integrated into a Stryker-mounted Common Remotely Operated Weapon Station (CROWS) to intercept airborne targets in a demonstration, turning the vehicle into a short-range air defense system. By early 2024, the Army had deployed three battalions of Stinger-equipped Strykers.
+In August 2018, 86 Strykers began fielding with a CROWS turret adapted to be able to fit a FGM-148 Javelin tube, allowing the vehicle to fire the weapon instead of needing dismounted troops to use it.
+
+
+==== 30 mm cannon ====
+
+While the Stryker MGS gives medium brigades heavy firepower, the baseline infantry carrier vehicle has a light armament. Stryker program officials pursued mounting a 30 mm cannon to the ICV's remote weapons station. With the number of MGS vehicles per brigade being reduced, individual ICVs are to be upgunned. The cannon will give greater firepower without needing to add a turret. The plan was to purchase and test a company set of 30 mm cannons and determine if they should be issued for every Stryker or have one per company.
+The Army planned to test stabilized 30 mm cannons in early 2014, including Kongsberg Protech Systems' Medium Caliber Remote Weapons Station (RWS). Kongsberg, which makes the Stryker's M151 RWS joined with Stryker manufacturer, General Dynamics for the MCRWS in 2008. The MCRWS is not a true turret, which would extend into the crew compartment and take up space. It can be loaded from inside the vehicle, but does eliminate one of the four roof hatches.
+The autocannon is fed by two magazines holding armor piercing and high explosive ammunition. Each carries 78 rounds. Another 264 rounds are stored in the hull. Test firings of a 30 mm cannon in the Kongsberg MCRWS occurred on a Stryker demonstrator vehicle in February 2014. The cannon showed increased lethality and accuracy over the standard 0.50 in (12.7 mm) machine gun, at ranges of 600 to 1,550 meters (660 to 1,700 yd). Four rounds in five-round bursts hit the targets.
+After comparative testing of the Kongsberg MCRWS mounted to Stryker vehicles, the U.S. Army approved in April 2015 the equipping of 81 of the 2nd Cavalry Regiment's Strykers with 30 mm cannons after the unit requested the upgrade. Reviews of the effectiveness of these new turrets in Stryker companies informed decisions regarding the upgrade of more Strykers across the nine Stryker Brigades. The remote turret requires a modification of the hull roof, and adds two tons of weight with an upgraded suspension and wider tires. Outfitting the first Strykers with Mk44 Bushmaster II cannons was planned to occur during the next two years, it was stated in 2015.
+
+The cannon, which can engage light armored vehicles out to 3,000 meters (1.9 mi). is able to fire airburst rounds that explode above a target to hit enemy troops behind barriers and can defend against unmanned aerial vehicles. The Kongsberg turret and Orbital ATK XM813 variant of the Mk44 Bushmaster were officially selected in December 2015. Kongsberg later renamed the turret system the RT40 (Remote Turret). The first upgraded Stryker, designated XM1296 "Dragoon", was delivered for testing in October 2016, with fielding to begin in May 2018. The first Infantry Carrier Vehicle – Dragoon (ICVD) was delivered to the 2CR in Germany in December 2017.
+In April 2019, the Army decided to add cannon armament to Stryker DVH ICVVA1 vehicles in three brigades. The first is planned to be equipped in 2022. In June 2021, the Army chose Oshkosh Defense to supply its Medium Caliber Weapon System (MCWS). The previous GDLS/Kongsberg team which supplied turrets to the 2nd Cavalry Regiment competed in the full-and-open competition but was not chosen to deliver more. The June contract award is worth up to $942 million over six years. As of the award date, the Army had approved plans to outfit three brigades with 83 Medium Caliber Weapon Systems (MCWSs) each. The contract covers up to six brigades worth of vehicles if the service decides that is how it wants to proceed.
+The initial order calls for 91 vehicles for approximately US$130 million. The Army will provide the Oshkosh-led team with the vehicles and the XM813 cannon for integration. In August 2021, Oshkosh received an additional US$99 million to cover the modification of 83 further vehicles, bringing the total number of vehicles under contract to 174. The Oshkosh team provides a turret based on Rafael's Samson family of turrets but customized for the Army.
+On September 26, 2024, a $78.5 million production contract was awarded to Northrop Grumman Defense Systems for the XM1182 High Explosive Airburst with Tracer (HEAB-T), designed for the ICVVA1-30mm Stryker. Developed for the XM813 weapon system, the XM1182 achieved Milestone B in March 2020 and Milestone C in 2023, following an aggressive development timeline. This advanced round features multi-mode functionality, including airburst (AB) to engage personnel in open or defilade positions, point detonate (PD) to defeat unarmored vehicles, point detonate delay (PDD) to penetrate urban structures or vehicles before detonation, and self-destruct (SD) to reduce unexploded ordnance hazards. Additionally, the XM1182 HEAB-T includes an advanced warhead with increased fragmentation, providing a larger lethal footprint and improved penetration of urban structures. Complementing the XM1182, the XM1170 Armor Piercing Fin Stabilized Discarding Sabot with Tracer (APFSDS-T) enhances the Stryker's capabilities with improved armor penetration at extended ranges, utilizing a depleted uranium (DU) penetrator in place of the previous Tungsten-Nickel-Cobalt penetrator. Both rounds are vital upgrades for the U.S. Army’s Stryker Brigade Combat Teams.
+
+
+=== Mobility ===
+
+
+==== Strategic and operational ====
+
+One of the key objectives outlined as part of the Army transformation plan was the ability to deploy a brigade anywhere in the world within 96 hours, a division in 120 hours, and five divisions within 30 days. Operational mobility requirements dictated that the vehicle be transportable by C-130 aircraft and that it would be able to roll-off manned and ready to fight.
+The Stryker's suitability for C-130 transport has led to criticism that the aircraft's range may not meet the 1,000-mile goal. The aircraft's range depends on variables such as the C-130 variant and conditions at the departure airport. In a demonstration conducted in April 2003, a Stryker infantry company with 21 Stryker vehicles was transported by C-130s to another airport 70 miles away. This proved that the vehicle can be transported by C-130, but did not address the concerns regarding range and airport departure conditions. When equipped with slat armor the Stryker is too large to fit on a C-130, but RPG protection was not a requirement for C-130 transport. The Airbus A400M Atlas was being tested for compatibility with the Stryker in Autumn 2015.
+The Stryker is too heavy, 19–26 tons, depending on variant and add-on features, to be lifted by existing helicopters.
+In August 2004, testing was conducted to determine if the Stryker MGS could be airdropped. This testing started with a series of 12-foot drop tests, followed by the US Air Force successfully airdropping an up-weighted Stryker Engineering Support Vehicle from a C-17. Even though this test was a success, none of the Stryker variants have been certified for airdrop. As of 2013 work continues in this area with the capability assumed for the Unified Quest war game.
+
+
+==== Tactical ====
+The Stryker can alter the pressure in all eight tires to suit terrain conditions: highway, cross-country, mud/sand/snow, and emergency. The system warns the driver if the vehicle exceeds the recommended speed for its tire pressure, then automatically inflates the tires to the next higher pressure setting. The system can warn the driver of a flat tire. The Stryker is equipped with run-flat tire inserts that also serve as bead-locks, allowing the vehicle to move at reduced speeds for several miles before the tire completely deteriorates.
+
+Some criticism of the Stryker continues a decades-long ongoing debate concerning whether tracked or wheeled vehicles are more effective. Conventional tracks have superior off-road mobility, greater load capacity, can pivot a vehicle in place, and are more resistant to battle damage. Wheeled vehicles are easier to maintain, and have higher road speeds. The US Army chose the Stryker over tracked vehicles due to these advantages.
+Rollover is a greater risk with the Stryker relative to other transport vehicles, due to its higher center of gravity. The Stryker's high ground clearance, however, is likely to reduce the damage caused by land mines and IEDs on the vehicle.
+While not amphibious, the Stryker has watertight combat hatch seals to allow fording water up to the tops of its wheels.
+
+
+=== Cost ===
+The unit cost to purchase the initial Stryker ICVs, without add-ons, including the slat armor, was US$3 million in April 2002. By May 2003, the regular production cost per vehicle was US$1.42 million. In February 2012, the cost had risen to US$4.9 million.
+In 2013, media reports stated that the Stryker Project Management Office had ordered almost $900 million in unneeded or outdated parts due to a failure to control its inventory during the War on Terror.
+
+
+=== Mission ===
+
+A standard Stryker Brigade typically consists of: 130 Infantry Carrier Vehicles; 9 Anti-Tank Guided Missile Vehicles; 27 Medical Evacuation Vehicles; 12 Engineer Squad Vehicles; 32 Commander's Vehicles; 36 120 mm Mounted Mortar Carriers; 56 Reconnaissance Vehicles; 13 Fire Support Vehicles; three NBC Reconnaissance Vehicles; and 12 105 mm Mobile Gun Systems.
+The Stryker family of vehicles fills a role in the United States Army that is neither heavy nor light, but rather an attempt to create a force that can move infantry to the battlefield quickly and in relative security. Brigades that have been converted to the Stryker have primarily been light, or, in the case of the 2nd Cavalry Regiment, unarmored Humvee-based cavalry scouts. For these units, the addition of Strykers has increased combat power by providing armor protection, a vehicle-borne weapon system to support each dismounted squad, and the speed and range to conduct missions far from the operating base.
+Stryker units seem to be especially effective in urban areas, where vehicles can establish initial security positions near a building and dismount squads on a doorstep.
+The Stryker relies on its speed and communications for the majority of its defense against heavy weapon systems. Most Stryker variants are not designed to engage heavily armored units, relying on communication and other units to control threats outside of its classification. One variant is armed with anti-tank missiles.
+Brigades equipped with the Stryker are intended to be strategically mobile, i.e., capable of being rapidly deployed over long distances. As such, the Stryker was intentionally designed with a lower level of protection compared to tracked vehicles like the M2 Bradley, but with much lower logistic requirements.
+Although the Stryker was designed to be rapidly deployable and not heavily armored, a training exercise in January 2014 demonstrated that in some circumstances, a Stryker brigade with vehicles and infantry using anti-tank missiles could successfully engage a conventional enemy force of tanks, armored vehicles, and helicopters.
+
+
+== Service history ==
+
+
+=== Deployments ===
+
+Iraq War, 2003–2011:
+The first Stryker brigades were deployed to Iraq in October 2003. 3rd Brigade, 2nd Infantry Division from Fort Lewis was the first to field and deploy the Stryker vehicle to combat in Iraq from November 2003 to November 2004.
+3rd Brigade was relieved by 1st Brigade, 25th Infantry Division (SBCT). The 1st Brigade served in Iraq from October 2004 to October 2005. Units from this Brigade participated in the Battle of Mosul (2004) and were responsible for the first successful elections in January 2005. The Brigade was awarded the Valorous Unit Award for their tour in Iraq.
+The 172nd Stryker Brigade Combat Team from Fairbanks, Alaska's Fort Wainwright began its initial deployment in August 2005 to Summer 2006. Their stay was subsequently extended for up to four months and they were reassigned to Baghdad. The Brigade was awarded the Valorous Unit Award for their tour in Iraq.
+The 3rd Brigade, 2nd Infantry Division re-deployed to Iraq late Spring of 2006 and returned home in September 2007. Like its sister brigades it too was awarded the Valorous Unit Award for operations in Baqubah, Iraq.
+As part of a three way move, upon redeployment from Iraq, the 1st Stryker Brigade, 25th Infantry Division and the 2nd Armored Cavalry Regiment both cased their colors. The former 1st SBCT, 25th ID was redesignated as the new 2nd Stryker Cavalry Regiment in Vilseck, Germany and the former 2nd ACR was redesignated as the new 4th Stryker Brigade Combat Team, 2nd Infantry Division at Fort Lewis, Washington. During the same period of time, upon redeployment from Iraq, the 172nd Stryker Brigade Combat Team was deactivated and reactivated as the 1st Stryker Brigade Combat Team, 25th Infantry Division, in Fort Wainwright, Alaska.
+In April 2007, the 4th Brigade 2nd Infantry Division deployed as part of the surge in Iraq. This deployment marked the first time the Stryker Mobile Gun System was deployed in Iraq. The Stryker MGS was initially deployed with 5 dedicated maintenance experts from General Dynamics Land Systems. They provided technical support and maintenance for the systems initial deployment. The team of 5 technicians played a pivotal role in support of the system and in troop training. A team of engineers was sent to support MGS operations, but this played a very minor role in the ultimate success of the weapons system. The 4th Battalion, 9th Infantry Regiment (MANCHU), deployed Land Warrior for the first time in combat.
+In August 2007, the 2nd Cavalry Regiment deployed to Baghdad for a 15-month tour, relieving 3rd BDE, 2ID.
+In December 2007, the 2nd Brigade 25th Infantry Division deployed to Iraq.
+In September 2008, 1-25th Infantry based in Fort Wainwright, Alaska was deployed to Iraq.
+
+In January 2009, the 56th Stryker Brigade Combat Team, 28th Infantry Division, from the Pennsylvania Army National Guard, was deployed to Iraq. The 56th SBCT was the first National Guard unit in the U.S. Army to field Strykers.
+In August 2009, 3rd Brigade 2nd Infantry Division was again deployed to Iraq for a third tour.
+In September 2009, 4th Brigade 2nd Infantry Division deployed to Iraq for a third tour. The Brigade drove "The Last Patrol" out of Iraq, driving from Baghdad to Kuwait, symbolizing the exit of the "last combat brigade" and ending Operation Iraqi Freedom. The Brigade was awarded the Meritorious Unit Commendation for the tour in Iraq.
+In July 2010, 2nd Brigade 25th Infantry Division once again deployed to Iraq, relieving 3rd Brigade, 2nd ID. 2nd Brigade, becoming the first "Advise and Assist" Stryker brigade.
+
+War in Afghanistan, 2001–2021:
+The 5th Brigade 2nd Infantry Division was the first Stryker unit sent to Afghanistan, deployed in summer 2009, as part of a troop level increase. The brigade's 1st Battalion, 17th Infantry Regiment suffered the heaviest losses of any Stryker battalion to date. The 5th Stryker Brigade's losses during its one-year deployment were 37 killed and 238 wounded.
+In June 2010, the 2nd Stryker Cavalry Regiment deployed to Afghanistan relieving 5th Brigade 2nd Infantry Division.
+In April 2011, 1st Brigade, 25th Infantry Division deployed to Afghanistan to relieve the 2nd Stryker Cavalry Regiment.
+In November 2012, 4th Brigade, 2nd Infantry Division deployed to Afghanistan to relieve 3-2 SBCT.
+Military intervention against ISIL, 2014–present:
+In March 2017, Strykers were seen operated by U.S. special forces operators near the northeastern Syrian town of Manbij.
+2022 Russian invasion of Ukraine, 2022–present:
+In January 2023, an aid package to Ukraine included the first Strykers to be sent to the country, containing 90 vehicles with 20 mine rollers. They first arrived in March and began being used in August in Zaporizhzhia Oblast by the 82nd Air Assault Brigade during the 2023 Ukrainian counteroffensive.
+On 21 September 2023, Ukrainian Strykers were operating on Surovikin Line, near Verbove, Zaporizhzhia Oblast for the first time.
+According to the Oryx blog, as of 30 April 2025, at least 44 M1126 Strykers were destroyed, 5 damaged, 7 damaged and abandoned and 7 captured.
+
+
+=== Field reports ===
+Due to their use during the 2003–11 Iraq War, many reports have come back on the Stryker's performance. Soldiers and officers who use Strykers defend them as very effective vehicles. A 2005 Washington Post article states that "commanders, soldiers and mechanics who use the Stryker fleet daily in one of Iraq's most dangerous areas unanimously praised the vehicle. The defects outlined in the report were either wrong or relatively minor and did little to hamper the Stryker's effectiveness."
+In the same article, Col. Robert B. Brown, commander of the 1st Brigade, 25th Infantry Division (Stryker Brigade Combat Team), said that the Strykers saved the lives of at least 100 soldiers deployed in northern Iraq. The article states that the bolt-on slat armor is effective ballistic protection, which was the main flaw cited in 2009 by critics. A 2003 GAO report to Congress stated that the added weight of slat armor created a mobility limitation in wet conditions due to shortcomings in the vehicle's suspension.
+Reports from military personnel and analysts indicate the Stryker is superior to other light military vehicles of the US Army regarding survivability against IEDs (improvised explosive devices). Soldiers have anecdotally referred to Strykers as "Kevlar Coffins".
+The non-partisan Project on Government Oversight received unexpectedly positive reviews when it spoke to soldiers who served in Strykers:
+"The Stryker's fantastic. It has incredible mobility, incredible speed..." "We've been hit by 84 suicide VBIEDs... the greater majority of soldiers walk away without even a scratch. It's absolutely amazing. If I were in any other type vehicle, I would've had huge problems," said Colonel Robert Brown, commander of the 1st Brigade of the 25th Infantry Division.
+Maj. Doug Baker, executive officer of the 5th Battalion, 20th Infantry Regiment in 3/2 said, "When you rolled out the gate, you were fairly confident that the vehicle was going to take care of you… I'm familiar with what a Bradley can do. It's a fantastic vehicle, but I would take a Stryker over it in Iraq any day." Crew members of the Stryker Mobile Gun System attest to its "seamless" ability to fill the high-mobility niche between main battle tank and armored personnel carrier.
+As of 2005, the Stryker vehicle logged more than 27 million combat miles, with operational readiness rates greater than 96 percent.
+
+
+== Variants ==
+The Stryker chassis modular design supports a wide range of variants. The main chassis is the infantry carrier vehicle (ICV). The Stryker vehicles have the following variants:
+
+M1126 infantry carrier vehicle (ICV): The basic armored personnel carrier version, which provides protected transport for two crew and a nine-man infantry squad, and can support dismounted infantry. It weighs 19 tons; communications include text and a map network between vehicles. It can be armed with 12.7 mm M2 Browning machine gun, 40 mm Mk 19 grenade launcher or 7.62 mm M240 machine gun.
+M1126 infantry carrier vehicle DVH-Scout (ICVV-S): A reconnaissance version of the ICV fitted with an internally mounted long-range advance scout (LRAS) surveillance system and the double v-hull.
+M1127 reconnaissance vehicle (RV): A version used by RSTA squadrons and battalion scouts, moving throughout the battlefield to gather and transmit real time intelligence/surveillance for situational awareness. The RV's purpose is to anticipate and avert threats, improving the brigade's decisiveness and freedom of maneuver.
+
+M1128 mobile gun system (MGS): A version armed with an 105 mm M68A1E4 rifled cannon, a 7.62 mm M240 machine gun mounted coaxially, a 12.7 mm M2 commander's machine gun and two M6 smoke grenade launchers. The M68A1E4 also features a muzzle brake to assist with recoil and an autoloader, a rare feature on US tank guns. The main gun provides direct fire in support of infantry, engaging stationary and mobile enemy targets, such as bunkers or armored vehicles to create a combined arms effect of overmatched firepower that improves survivability of the combat team. It has a rate of fire of six rounds per minute, and carries 400 rounds of 0.5 in (12.7 mm) caliber and 3,400 rounds of 7.62 mm ammunition, and the same C4ISR communications and driver's vision as the ICV. The MGS vehicle is a strengthened variant of the LAV III compared to the standard variant other Stryker vehicles are based on, but retains commonality across all vehicles in the family. The Stryker MGS was retired at the end of 2022, due in part to the expense and difficulty of maintaining and upgrading the autoloader.
+
+M1129 mortar carrier (MC): armed with Soltam 120 mm and Cardom recoil mortar system (RMS), this version provides indirect fire support to fellow infantry with screening obscurants, suppressive forces and on-call supporting fires including HE, illumination, IR illumination, smoke, precision guided, and DPICM cluster bombs. The XM395 precision guided mortar munition (PGMM) can be used to attack point targets at extended ranges with GPS guidance. Vehicles at battalion level also carry the 81 mm mortar for dismounted use, while company mortar vehicles carry the 60 mm mortar.
+M1130 commander's vehicle (CV): This vehicle provides commanders with communication, data, and control functions to analyze and prepare information for combat missions; it can also link to aircraft antenna/power for planning missions while aboard transport aircraft. They are deployed as three vehicles per brigade headquarters, two per battalion headquarters and two per infantry company.
+M1131 fire support vehicle (FSV): This version is organic to maneuver companies and provides surveillance and communications (4 secure combat radio nets), with target acquisition/identification/tracking/designation being transmitted automatically to the shooting units.
+M1132 engineer squad vehicle (ESV): This vehicle provides mobility and limited counter mobility support. Integrated into the ESV are obstacle neutralization and lane marking systems and mine detection devices. The ESV with its attachments provides a partial solution to the obstacle clearance role, primarily for clearance of hastily emplaced mines on hard surfaces and rubble, plus will enable the Engineer squad to control future robotic based systems.
+
+M1133 medical evacuation vehicle (MEV): This is used as the en route care platform for brigade units, part of the battalion aid station, providing treatment for serious injury and advanced trauma as an integrated part of the combat forward formation. An attendant's seat allows the attendant to change position and visually monitor all patients while the vehicle is in motion. Medical personnel must be seated for safety while the vehicle is in motion, but able to visually monitor patients. Geneva Convention markings can be masked/removed as required.
+
+M1134 anti-tank guided missile vehicle (ATGM): It is a missile vehicle armed with the TOW missile to reinforce the brigade's infantry and reconnaissance, providing long-range anti-tank fires against armor beyond tank gun effective range. The separate anti-tank company can also be used to shape the battlefield, reinforce the infantry battalions and reconnaissance squadron (e.g. counter-reconnaissance), serve as a reserve, and of course may counterattack. Vehicle commanders independently locate secondary targets while the gunner is engaging the primary. After ready rounds are fired, crewman will need to rearm the launcher. A vehicle commander, gunner, loader, and driver operate the ATGM in a tactical environment and to carry equipment if the missile launcher is used in a dismounted mode.
+M1135 nuclear, biological, chemical, reconnaissance vehicle (NBCRV): This vehicle automatically integrates contamination information from detectors with input from navigation and meteorological systems and transmits digital NBC warning messages to warn follow-on forces. The core of the NBC RV is its onboard integrated NBC sensor suite and integrated meteorological system. An NBC positive overpressure system minimizes cross-contamination of samples and detection instruments, provides crew protection, and allows extended operations at MOPP 0.
+
+M1296 Dragoon: The Dragoon is the first variant of the Stryker family to be equipped as an Infantry Fighting Vehicle (IFV). Modifications were made to the hull roof of the Stryker for installing a Kongsberg unmanned turret with an XM813 30 mm cannon, capable of firing airburst munitions. This added around two tons of weight to the vehicle. The new cannon has significantly increased lethality, range and accuracy over the previous M2 heavy machine gun.
+
+
+=== Double V-hull ===
+
+In response to poor performance against Improvised explosive devices (IEDs), the Army began manufacturing and retrofitting Stryker vehicles with a more survivable double V-hull designed underside. Seven Stryker versions are being produced in this configuration: the M1256 ICVV, M1252 MCVV, M1255CVV, M1251 FSVV, M1257 ESVV, M1254 MEVV and M1253 ATVV. Three variants are no longer in service: the M1127 reconnaissance vehicle is to be replaced by a scout variant of the ICVV (called the ICVV-S), the M1128 mobile gun system and the M1135 NBC reconnaissance vehicle have been removed.
+
+
+=== Double V-hull A1 ===
+The Double V-Hull A1 (DVH A1) is a modernized upgrade of the original Stryker Double V-Hull (DVH) variants, addressing key performance and capability needs. It replaces the 350-horsepower engine of the original DVH with a more powerful 450-horsepower Caterpillar C9 engine, significantly enhancing mobility and reducing engine strain during demanding operations. The electrical system has been upgraded to an air-cooled 910-amp alternator, supporting advanced electronics and future system integrations. Payload capacity has increased from 55,000 to 63,000 pounds, enabling greater versatility in carrying equipment and personnel. Enhanced situational awareness displays for both the driver and commander improve operational coordination and decision-making. The Stryker DVH-A1 vehicles have the following variants:
+
+M1251A1 FSVVA1: similar to the M1131 FSV, but with the improvements from the DVH-A1 modernization.
+M1252A1 MCVVA1: a DVH-A1 improved version of the M1129 mortar carrier. Armed with the Soltam 120 mm and Cardom recoil mortar system (RMS).
+M1253A1 ATVVA1: a DVH-A1 improved version of the M1134 ATGM. Equipped with a Precision Far Target Locator (pFTL), Image Enhancement (IE), an HD color camera, and an Upgraded TOW Missile Launcher (UTML), it can detect, identify, and engage targets at ranges exceeding 4.5 km with TOW missiles.
+M1254A1 MEVVA1: an improved version of the M1133 MEV, with DVH-A1 upgrades.
+M1255A1 CVVA1: a DVH-A1 improved version of the M1130 CV.
+M1256A1 ICVVA1: an improved version of the M1126 Stryker ICV, features a Double-V Hull A1 (DVH-A1) design and is equipped with an M153A4 CROWS-J, which can mount an FGM-148 Javelin missile in conjunction with either an M2 .50 caliber machine gun, M240 7.62 mm machine gun, or Mk-19 40 mm automatic grenade launcher.
+M1257A1 ESVVA1: a DVH-A1 improved version of the M1132 ESV. Equipped with a Surface Mine Plow, Magnetic Signature Duplicator, and an M153A4 CROWS-J with Javelin ATGM.
+M1304 ICVVA1-30mm: replaces the M1296 Dragoon, it has the same improvements as the other DVHA1 variants and is equipped with a new unmanned turret, based on the Rafael Samson Pro turret, which is armed with the 30mm XM813 Chain Gun and a coaxial 7.62mm M240C. The M1304 also features 3rd-generation thermal optics for both the gunner and commander that offer a hunter-killer function for day and night operations.
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Experimental ===
+
+Stryker self-propelled howitzer (SPH): Army officials considered a self-propelled howitzer variant when drafting its requirements for the IAV program. Officials ultimately passed over the SPH requirement when it determined the service would be unable to afford the expense and risk. The service settled on the M198 howitzer for its artillery requirement, later to be replaced by the M777 howitzer that was then under development. General Dynamics later produced this variant with a turret and ammunition developed by Denel Land Systems. Work stopped after the successful November 2005 demonstration of the prototype.
+Stryker maintenance recovery vehicle (MRV): An armored recovery vehicle based on a Stryker hull. Equipped with a Rotzler TR 200 winch, Magnum 210M crane and hydraulic earth anchor.
+Tracked Stryker: For the Army's Armored Multi-Purpose Vehicle (AMPV) program to replace the M113 APC, General Dynamics created a tracked version of the Stryker. The vehicle kept the highly survivable Double-V hull, and tracks were attached using externally mounted suspension. It was considerably heavier at 70,000 pounds (35 tons, 31,800 kg), but the tracked suspension could handle up to 84,000 lb (42 tons, 38,100 kg) to allow for additional armor, weapons, and cargo. Its powerplant offered 700 horsepower and the vehicle had greater than 60 percent commonality with wheeled Strykers. The Tracked Stryker also had greater fuel efficiency and a wider track for better mobility than the M113. With the suspension mounted externally and the elimination of axles, the Double-V hull's survivability could have been even more effective, as the wheeled version required an interruption in the V-hull to accept axles. The Tracked Stryker was to have competed against the BAE Systems Turretless Bradley, but serious efforts on developing the tracked version never materialized because the cost needed to modify the vehicle to meet requirements was too high.
+Stryker launched assault bridge: German manufacturer Krauss-Maffei Wegmann (KMW) proposed a bridgelaying version of the Stryker that enables tactical vehicles with little or no gap-crossing capabilities to move over divides. The 12 m (39 ft)-long bridge is carried atop the Stryker with hydraulic arms at the front position to launch it and have it in place within two minutes. It can support vehicles weighing up to 40 tons and allow them to cross 11 m (36 ft) gaps.
+Stryker mobile expeditionary high-energy laser (MEHEL): The Army is integrating a directed energy weapon onto the M1131 Fire Support Vehicle version to defend against Group 1 and 2 UAVs (up to 55 lb (25 kg)-class) for mobile forces as the first-ever integration of an Army laser weapon onto a combat vehicle. In an April 2016 test, a 2 kW laser fired from the Stryker shot down 21 drone targets. The vehicle has an electronic warfare jamming system to scramble drone command signals. A 5 kW version could be operational in 2017, with plans to increase power to 18 kW by 2018.
+Stryker mobile SHORAD launcher (MSL) and Stryker anti-UAV defense system (AUDS): In August 2017, Boeing and General Dynamics unveiled mobile SHORAD launcher (MSL) fitted with an Avenger turret for short-range air defense and operated by a three-man crew. The turret replaces the passenger compartment. Standard FIM-92 Stinger pod can be switched with launcher rails to fire Longbow Hellfire and AIM-9X Sidewinder missiles. In October 2017, Orbital ATK unveiled the Stryker Anti-UAV Defense System (AUDS), combining electronic-scanning radar target detection, EO tracking/classification, and directional RF inhibition capability coupled with a M230LF 30 mm cannon loaded with advanced airburst and guided ammunition suite. The package creates a mobile C-UAV system capable of lethally or non-lethally defeating small drones at ranges of up to 8 km (5.0 mi), and can defeat Group 1 micro UAVs as far as 2 km (1.2 mi) out. The system is also called the Tactical-Robotic Exterminator. In June 2018, the Army ordered 144 converted Stryker SHORAD vehicles to be delivered by 2022; the configuration with a modified Avenger turret was not chosen.
+
+
+== Operators ==
+
+ United States – Used by the US Army and the Army National Guard. A total of 4,466 Stryker vehicles were delivered until production ended in 2014.  As of 2024 eight Stryker brigades exist:
+US Army:
+As of January 2025:: 36 
+545 M1127 Stryker RV;
+83 M1296 Stryker Dragoon;
+83 Stryker MCWS (in test);
+1,162 M1126 Stryker ICV;
+240 M1130 Stryker CV (CP);
+144 M1131 Stryker FSV (OP);
+173 M1133 Stryker MEV (Ambulance);
+44 M1251A1 Stryker FSV (OP);
+131 M1254A1 Stryker MEV (Ambulance);
+108 M1255A1 Stryker CV (CP);
+521 M1256A1 Stryker ICV;
+123 M1132 Stryker ESV;
+45 M1257A1 Stryker ESV;
+234 M1135 Stryker NBCRV;
+102 M1134 Stryker ATGM;
+31 M1253A1 Stryker ATGM;
+322 M1129 Stryker MC;
+119 M1252A1 Stryker MC;
+Estimated 120 Sgt Stout;
+4 DE M-SHORAD (in test)
+7th Infantry Division:
+1st Stryker Brigade Combat Team
+2nd Stryker Brigade Combat Team
+4th Infantry Division:
+1st Stryker Brigade Combat Team
+2nd Stryker Brigade Combat Team
+11th Airborne Division:
+1st Stryker Brigade Combat Team (Converted to a light infantry brigade in 2022)
+2nd Cavalry Regiment
+3rd Cavalry Regiment
+US Army National Guard:
+28th Infantry Division:
+56th Stryker Brigade Combat Team
+36th Infantry Division:
+81st Stryker Brigade Combat Team
+ North Macedonia: The sale of 54 Stryker vehicles was approved by the U.S. in 2021 for a total cost of $210 million ($30 million of which was donated). The package includes M2A1 0.50 caliber machine guns, M6 smoke grenade launchers and associated spares, Harris radios, Common Remotely Operated Weapon Station (CROWS), Defense Advanced GPS Receiver, AN/VAS-5 driver's vision enhancer, and other parts and components are included. In 2024, the order was reduced to 42 Strykers.
+ Thailand – A total of 130 vehicles in service as of 2023.
+ Ukraine – More than 400 Strykers, including 20 M1132 engineer squad vehicles were delivered from March 2023 onwards. As 30 April 2025, 63 M1116 Strykers and 9 M1132 Stryker Engineering Vehicles have been reported destroyed, damaged or captured by the Oryxblog.
+
+
+=== Future operators ===
+ Bulgaria The US M1296 Stryker Dragoon is a very strong contender for Bulgaria's New IFV Program to replace the BMP-1 in the Bulgarian Land Forces. The U.S. State Department approved of a potential sale of 183 Stryker IFVs for US$1.5 billion. On 9 November 2023, the Bulgarian National Assembly approved the purchase of 183 Strykers and 15 HEMTT trucks.
+
+
+=== Potential operators ===
+ Argentina: The US offered to sell 27 Strykers to the Argentine Army.
+ Chile: The Stryker is one of the options considered by the Chilean army to replace the Mowag Piranha I.
+ India: The US has reportedly proposed a plan for joint production of their Stryker ICV with India and talks are underway for formulating a deal. Trials are planned for the Stryker in various Indian terrains. India plans to buy 530 units for 10 standard wheeled mechanised infantry battalions. The offer will evaluated after a thorough analysis of the platform's performance in India. If the deal proceeds, first of the units will be directly imported while the rest will be co-produced in India and several changes will be also made in the platform to make it compatible in high-altitude terrain. As of October 2024, the discussions about the procurement has been paused. On 10 January 2025, proposals to establish manufacturing for the Stryker in India were approved by the US government.
+
+
+=== Failed bids ===
+ Canada – Canada originally ordered 66 Stryker Mobile Gun System vehicles in 2003, which were expected to arrive in 2010. In 2006, the Canadian Forces asked its government to cancel the MGS acquisition. The MGS was originally intended to be used in the "Direct Fire Unit", which will include Tow Under Armour (LAV III) and MMEV (ADATS on LAV III). The MGS was to provide the direct gun fire capabilities of the retiring Leopard C2 tank. With the recent demonstrated usefulness of tanks in Iraq and hurried deployment of Canadian Leopard C2 tanks to Afghanistan, Canada announced the purchase of surplus Leopard 2s from the Netherlands. The MMEV project has since been canceled, and the TUA requirement cut in half.
+ Israel – The Israel Defense Forces (IDF) had received three Stryker variants for trials, the first of which were vehicles from early production and did not include add-on armor. A 2004 article in The Jerusalem Post cited an unnamed military source who said the deal was "buried for good", and speculated that the Stryker was not chosen due to a number of shortcomings. In 2008, the IDF began receiving the locally designed and produced Namer heavy armored personnel carriers instead.
+ Lithuania – In 2015, the Lithuanian State Defence Council chose the German made Boxer IFV over the US-made Stryker. Lithuania's requirement that the first batch be delivered in 2017, and the lack of testing of Stryker's 30 mm cannon were reasons.
+
+
+== See also ==
+
+
+=== Comparable vehicles ===
+
+
+== References ==
+
+
+== External links ==
+
+Official U.S. Army web pages
+Stryker Brigade Combat Team Project Management Office
+3rd Brigade / 2nd Infantry Division, 5th Brigade / 2nd Infantry Division pages and "172nd Stryker Brigade Combat Team". Archived from the original on 18 July 2006.
+Other web pages
+General Dynamics Land Systems Canada Stryker brochure
+Stryker at howstuffworks.com
+Stryker destroys VBIED from distance (video)
+Stryker photos and walk arounds at Prime Portal
+Stryker Vehicle on Armour.ws
+Stryker Information and Images
+Superman – Report of a Stryker named "General Lee" getting bombed by IED in Iraq from Michael Yon, July 2007 Archived 17 June 2008 at the Wayback Machine
+Improving the Strykers on Defense-Update
+Defense News double V-hull, 03/2010
+Stars and Stripes double V-hull, 05/2011

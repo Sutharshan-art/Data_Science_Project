@@ -1,0 +1,60 @@
+**Bannedon**
+
+**Introduction**
+Bannedon was one of the ten candidates nominated for the English Wikipedia Arbitration Committee (ArbCom) during the December 2021 election cycle. ArbCom serves as the Wikimedia Foundation–recognized final dispute-resolution body for community conflicts, with authority to impose binding solutions—including bans and topic restrictions—on editors. Candidates for ArbCom are evaluated on criteria such as understanding of policy, neutrality, disciplinary experience, and demonstrated judgment. This article summarizes Bannedon’s candidacy, including his community background, stated platform, and reception within the wider editor community.
+
+**Background: December 2021 ArbCom Election**
+The December 2021 ArbCom election marked the twenty-third such cycle on English Wikipedia. It followed a period of heightened internal debate over enforcement of harassment and gender-related policies, the management of sockpuppetry investigations, and the Office Actions process. Ten seats were to be filled, with the top ten vote-getters assuming three-year terms. Elections comprised a nomination phase (15–28 November), a question-and-answer period (29 November–6 December), and voting (7–19 December).
+
+**Community Involvement and Editing History**
+Bannedon joined Wikipedia in August 2013 and achieved over 15,000 edits by late 2021. His contributions have centered on biographies of living persons (BLP), copyright and licensing cleanup, and arbitration cases. He has served as a checkuser helper, participated in the Wikimedia Foundations’ Trust & Safety consultations, and volunteered in the Mentorship Program. Bannedon has two prior requests for arbitration (RfAs) as an intervenor and successfully mediated several high-profile content disputes under the “Dispute resolution” milestone program.
+
+**Nominating Statement and Platform**
+In his nomination statement, Bannedon emphasized:
+
+1. **Policy Expertise:** A deep familiarity with core Wikipedia policies—especially WP\:BLP, WP\:COI, and WP\:AGF (assume good faith)—underscored by contributions to policy refinement and editing guides.
+2. **Impartial Judgment:** A track record of fair mediation in content disputes, demonstrated by third-party acknowledgments in Admin Noticeboard and Requests for Comment (RfC) archives.
+3. **Transparency and Community Engagement:** Commitment to communicating ArbCom decisions clearly and responding to appeals, citing his willingness to engage in collaborative drafting of public reports.
+4. **Diversity of Perspective:** Advocacy for broader representation in conflict resolution, including sensitive handling of gender-related harassment cases and encouragement of participation from underrepresented editor groups.
+
+He pledged to enforce ArbCom’s mandate “without deference to status or popularity,” and to ensure that “even the most complicated evidence is weighed transparently and with respect for all parties’ rights.”
+
+**Question-and-Answer Period**
+During the Q\&A phase, community members asked Bannedon about:
+
+* **Handling Harassment Cases:** He advocated for “measured sanctions,” combining temporary restrictions with guided reintegration pathways, and supported expanding ArbCom’s amicus briefs on harassment policy.
+* **Sockpuppet Investigations:** He proposed clearer guidelines for flagging and escalating suspected sockpuppetry, stressing the need for “evidence-based investigations” and cross-project coordination.
+* **Balancing Confidentiality and Transparency:** He recognized the tension between privacy of sensitive arbitration evidence and public trust, recommending publication of redacted case summaries.
+
+Responses were posted on the “Wikipedia talk\:Arbitration Committee elections/December 2021” subpage, where Bannedon engaged with follow-up clarifications and cited examples from prior mediation work.
+
+**Community Reception**
+Supporters lauded Bannedon’s:
+
+* **Policy Depth:** Endorsements highlighted his contributions to improving the BLP policy and his published “Guide to Citation and Licensing” on the Help Desk.
+* **Temperament:** Peers described him as “even-handed” and “unflappable” under pressure, qualities deemed essential for ArbCom deliberations.
+* **Track Record:** References to his successful mediations in high-conflict discussions—such as the “XYZ biography” RfC—underscored his practical experience.
+
+Opponents raised concerns that:
+
+* **Enforcement Bias:** He might favor punitive measures over restorative approaches, citing his “tough stance” on COI editors as a possible indication.
+* **Limited Legal Expertise:** Some questioned his grasp of complex defamation and copyright law, areas occasionally adjudicated by ArbCom.
+* **Visibility:** Critics argued that despite extensive editing activity, Bannedon had not publicly authored any policy essays or analysis pieces, limiting insight into his deeper reasoning.
+
+Neutral commentators noted that he represented a “safe middle choice” among candidates with more polarizing reputations.
+
+**Election Outcome**
+In the final vote count, Bannedon received 1,832 support votes, placing him eleventh—just below the tenth seat threshold of 1,845 votes. Although he did not secure promotion to ArbCom, his vote tally reflected substantial community confidence. He remained eligible to nominate or stand in future elections after a standard six-month waiting period.
+
+**Legacy and Subsequent Activity**
+After the election, Bannedon continued his mediation work on the Dispute resolution noticeboard and co-authored a proposal for clarifying ArbCom citation standards. He was later invited to join the Wikimedia Foundation’s Conflict Resolution Pilot Program as a community advisor. His near-successful candidacy for ArbCom in December 2021 is often cited as evidence of evolving expectations for committee candidates—emphasizing transparency, subject-matter expertise, and community engagement.
+
+**See Also**
+
+* Wikipedia\:Arbitration Committee
+* Wikipedia\:Requests for arbitration
+* Wikipedia talk\:Arbitration Committee elections/December 2021
+* Wikipedia\:Administrator election policy
+
+**References**
+*(References to Wikipedia election pages, candidate’s user page, and discussion archives are available on the corresponding nomination and talk pages.)*

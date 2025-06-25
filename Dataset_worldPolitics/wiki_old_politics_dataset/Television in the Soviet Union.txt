@@ -1,0 +1,101 @@
+Television in the Soviet Union was owned, controlled and censored by the state. The body governing television in the era of the Soviet Union was the Gosteleradio committee, which was responsible for both the Soviet Central Television and the All-Union Radio.
+Soviet television production was classified into central (Soviet Central Television), republican, and regional broadcasting.
+
+
+== History ==
+On 1 October 1934, Soviet first television receivers were produced. The B-2 had a 3×4-centimetre (1¼×1½-inch) screen and a mechanical raster scan in 30 lines at 12.5 frames per second. On 15 November 1934, Moscow had its first television broadcast, of a concert. On 15 October 1935, the first broadcast of a film was made.
+After the television laboratory was established at the Moscow radio station, the first Soviet cartoons were made. In 1936, 300 television broadcasts with a total duration of 200 hours were produced.
+In 1938, television broadcasting began in Moscow and Leningrad under the auspices of the All-Union Committee for Radiofication and Radio Broadcasting at the USSR Sovnarkom (Всесоюзный комитет по радиофикации и радиовещанию при СНК СССР).
+On 9 March 1938, a first experimental studio television program was broadcast, from Shabolovka tower, in Moscow. Three weeks later, the first full film, The Great Citizen (Великий гражданин), was broadcast. On 7 June 1938, a television broadcast was tried in Leningrad.
+Between 1937 and 1939 an experimental network of cable television, called Broadcasting Television Node (Телевизионный Трансляционный Узел), was mounted inside a house, located at Petrovsky Bouleward,17, Moscow. Technicians of VNII of Television, Leningrad and TsNII of Communication, Moscow developed the cable distribution system of radio programms and TV signal for high rank Soviet military commanders as well as Communist Party members. The system included up to 30 ATP-1 (АТП-1) TV receivers.   
+On March 10, 1939, the first documentary film was shown on television in Moscow.
+World War II disrupted regular television broadcasting and caused great damage to the equipment; it was re-instated in Moscow on 15 December 1945. On 4 November 1948, the Moscow television centre began broadcasting in a 625-line standard. 
+On 29 June 1949, the first out-of-studio broadcast, of a football match, was made, from the Dynamo sports stadium. On 24 August 1950, a long-range broadcast was made from Moscow to Ryazan. 
+In 1954, the first experimental color television program was broadcast in Moscow.
+In February 1956, the second television channel began operating in the USSR. On May 1, 1956, the first live broadcast was made. It was a broadcast from the Red Square.
+In 1956, the first Soviet studio camera for color broadcasting on three superorthicons was created at NII-100.
+Since 1961, the USSR has been a member of the International Radio and Television Organisation. On April 14, 1961, the first Eurovision telecasts were held. It was a program about the meeting of the first cosmonaut Yu. A. Gagarin, which was broadcast by all European television stations connected to the Eurovision and Intervision system.
+In August 1962, the world's first television transmission in outer space took place between Soviet spacecrafts «Vostok-3» and «Vostok-4».
+In 1964, television broadcasts began on the international channels Moscow - Kiev - Bucharest - Sofia and Moscow - Kiev - Lvоv - Katowice - Berlin.
+In February 1965, the first television series was shown on USSR television. Also, in 1965, a third television channel began operating in the USSR (it was a special educational channel for children and schoolchildren). Since 1966, annual contests for the best television films have been held in the USSR.
+In time for the golden jubilee year of the October Revolution, 1967, SECAM color broadcasts debuted in both Moscow and Leningrad on their local TV channels. In the same time, since November 1967, Orbita, the world's first satellite television broadcasting system, became operational. 
+Since January 1, 1968, a special television news program ("Vremya") began on the 1st television channel.
+By 1972, the Soviet television service had grown into six full national channels, plus republican and regional stations serving all republics and minority communities.
+A major boost to television in the Soviet Union occurred with the implementation of the Ekran system. The first Ekran satellite was launched on October 26, 1976, into geostationary orbit at 99° E. The system covered 40% of the country's territory (5 million square kilometers) and was intended for small settlements in Siberia, the Far East, and the Far North of the Soviet Union. Unlike Orbita, Ekran already had elements of direct satellite television broadcasting. The satellite-to-earth channel operated on UHF television frequencies of 714 MHz and 754 MHz, and was originally planned to broadcast from orbit in the format of terrestrial television, which would allow signals to be received directly on a television. However, this required high peak transmitter power and did not meet the requirements of the Radio Regulations on limiting the power flux density in the territory of states adjacent to the Soviet Union. At the suggestion of V. A. Shamshin, frequency modulation was used in the satellite-to-earth channel, which required ground-based signal conversion. However, class II collective reception stations were small and relatively inexpensive, each of them had a built-in low-power terrestrial TV repeater with a power of 1 W (Ekran KR-1) or 10 W (Ekran KR-10), or distributed the signal via a cable network inside an apartment building. Class I stations were created for large television centers. The Ekran system became the first step towards the creation of modern direct television broadcasting systems.
+The further development of the Ekran system was the creation of the Moscow satellite TV broadcasting system, developed by the Radio Research Institute and operated on the basis of the Gorizont geostationary satellites, but used a tube with a central frequency of 3675 MHz. This solved the problems with frequency compatibility and made it possible to cover the entire territory of the Soviet Union with broadcasting (Ekran served only Siberia, the Far North and part of the Russian Far East). The basic model of the Moscow-B earth station, also developed at the Radio Research Institute, had a receiving parabolic antenna with a diameter of 2.5 m and, when working together with the RCTA-70/R-12 TV repeater, provided a zone of confident reception with a radius of about 20 km.
+Development began in 1974 on the initiative of Nikolai Talyzin and Lev Kantor; in 1979, the first satellite was launched at a geostationary position of 14° W. d., and the system was put into operation. Later, satellites at positions 53° E, 80° E, 90° E and 140° E were connected to broadcasting. Each satellite broadcast a Soviet Central Television program with a time shift for different time zones of the USSR and Radio Mayak, and a telefax channel for transmitting newspaper strips also operated. Systems of the "Moscow" type were widely used in the USSR and in some foreign missions of the country, a total of about 10 thousand earth stations of various modifications were released. In 2005, with the transition to a digital signal, broadcasting of several TV programs in a package began through the system.
+On October 13, 1980, an agreement on cooperation in television between the USSR and Mexico was signed in Moscow. As a result, some Mexican films and music began to be shown in the USSR, and some Soviet films and songs began to be shown in Mexico.
+In 1986–1988, under the leadership of Yuri Zubarev, Lev Kantor, the "Moscow-Global" system was developed specifically for broadcasting to domestic missions abroad. It used the same Gorizont satellite trunk as the Moskva system, but connected to an antenna that covered the maximum possible area of the Earth's surface. Two satellites at 11° W and 96.5° E covered most of the Earth's territory and provided work with receiving stations that had an antenna mirror with a diameter of 4 m. The system transmitted one TV channel, three digital channels at 4800 bit/s and two at 2400 bit/s.
+
+
+== Distance and geography ==
+The size and geography of the Soviet Union made television broadcasting difficult. These factors included mountains, such as the Urals, the Taiga, and the Steppes, and the spanning of eleven time zones. For instance, a program broadcast at 18:00 in Moscow came at 21:00 in Frunze, Kirghizia. The population density was irregular, with many more residents in the west. The Soviet Union also relayed broadcasts to other Warsaw Pact states.
+
+
+== Soviet television standard ==
+The Soviet broadcast television standard used CCIR System D (OIRT VHF band with the "R" channels ranging from R1 to R12) and System K (pan-European/African UHF band), with SECAM as the color system standard. The resulting system is commonly referred to as "SECAM D/K".
+
+
+== Soviet television channels ==
+There were six television channels (called "programmes") in the Soviet Union. "Programme One" was the main channel, with time-slots for regional programming (see "Regional television services", below). The other channels were Programme Two (also known as the All Union Programme), the Moscow Programme (the third channel), the Fourth Programme (the fourth channel), the Fifth programme (broadcast from Leningrad), and the Sixth Programme (sports, science, and technology).
+Not all channels were available across all of the Soviet Union. Until perestroika and the establishment of the Gorizont satellite network, many regions received just the First Programme and the All Union Programme. The satellite network brought all six channels to the entire Soviet Union. The new channels offered urban news and entertainment (Channel 3); culture, documentaries, and programmes for the Intelligentsia (Channel 4); information and entertainment from the point of view of another city (Channel 5); and scientific and technological content (Channel 6).
+
+
+== Regional television services ==
+In addition to the national television channels, each of the Republics of the Soviet Union (SSR) and Autonomous Soviet Socialist Republics of the Soviet Union (ASSR) had its own state radio and television company or state broadcasting committees. The regional company or committee was able to broadcast regional programming in Russian or the local language alongside the official First Programme schedule and was also able to broadcast additional channels for their coverage area only. Alongside them were a number of city television stations that served as retransmitters of national programming with local opt-outs for news and current affairs.
+
+
+== Soviet satellite services ==
+The Soviet Union's domestic satellite television system, Orbita, was the world's first satellite television broadcasting system, and was as large as Canada's Anik and the United States' satellite system. The system provided the opportunity to watch Central Television programs for almost 90 million citizens of the USSR living in Siberia and the Far East. Under his leadership, the satellite systems "Moscow" and "Moscow-Global" were also introduced.
+In 1990, there were 90 Orbita satellites, supplying programming to 900 main transmitters and over 4,000 relay stations. The best-known Soviet satellites were the Molniya (or "Lightning") satellites. Other satellite groups were the Gorizont ("Horizon"), Ekran ("Screen"), and Statsionar ("Stationary") satellites. People outside the Soviet Union who used a TVRO satellite television could receive Soviet broadcasts.
+Broadcasts were time-shifted for the Soviet Union's many time zones. The national television channels were only on the air for part of the day, giving room in the schedule to time-shift. There were two types of Soviet time-shifting, one based on a similar radio programme, and "Double" programs, which was composite time-shifting for the different time zones.
+Only the First Programme was time-shifted on the pattern of a similar radio programme, the All-Union First Programme from Soviet radio. TV Orbita-1 was broadcast in the UTC +11, +12, and +13 time zones. TV Orbita-2 was broadcast in the UTC +9 and +10 time zones; TV Orbita-3 in the UTC +7 and +8 time zones; TV Orbita-4 in UTC +5 and +6; and the First Programme in time zones UTC +2, +3, and +4.
+All other national television channels (the All-Union, Moscow, Fourth, and Leningrad programmes) used the "double" programme composite time-shifting.
+
+
+== Programming ==
+Soviet TV programming was diverse and similar to that of American PBS. It included news programmes, educational programmes, documentaries, occasional movies, and children's programmes. Major sports events, such as football and ice hockey matches, were often broadcast live. Programming was domestic or made in Warsaw Pact countries.
+The broadcasts had relatively high levels of self-censorship. Prohibited topics included criticism against the status and implementation of Soviet ideology, all aspects of erotica and nudity, graphic portrayal of violence, coarse language, and illicit drug use.
+The leading news programmes used presenters with exemplary diction and excellent knowledge of the Russian language. Sergey Georgyevich Lapin, chairman of the USSR State Committee for Television and Radio (1970 to 1985), made a number of rules. Male presenters could not have beards and had to wear a tie and jacket. Women were not allowed to wear pants. Lapin banned a broadcast of a close-up of Alla Pugacheva singing into the microphone, as he considered it reminiscent of oral sex. Lapin and his committee were accused of antisemitism in the television programming.
+Despite these limitations, television grew in popularity. The average daily volume of broadcasting grew from 1673 hours in 1971 to 3,700 hours in 1985. A new television and radio complex, the "PTRC" was built for the 1980 Moscow Olympics. The Ostankino Technical Center in Moscow was one of the largest in the world at that time.
+In the late 1980s, the nature of programming began to change. Some Western programs, mostly from the United Kingdom and Latin America, were imported. Talk shows and game shows were introduced, often copied from their western counterparts. For example, the game show Pole Chudes (The Field of Miracles) was based on Wheel of Fortune. Free speech regulations were gradually eased.
+Until the late 1980s, Soviet television had no advertisements. Even then, they were rare, because few companies could produce advertisements about themselves.
+The Soviet Union's television news was provided by the Telegraph Agency of the Soviet Union (TASS).
+
+
+=== Made-for-TV movies ===
+At the beginning of the 1960s, television in the USSR expanded rapidly. The increase in the number of channels and the duration of daily broadcasts created a shortage of suitable content. This led to production of television films, in particular of multiple-episode television films (Russian: многосерийный телевизионный фильм)—the official Soviet moniker for miniseries. Despite that the Soviet Union started broadcasting in color in 1967, color TV sets did not become widespread until the end of the 1980s. This justified shooting made-for-TV movies on black-and-white film.
+The 1965 four-episode Calling for fire, danger close is considered the first Soviet miniseries. It is a period drama set in the Second World War that depicts Soviet guerrilla fighters infiltrating a German compound and directing the fire of the regular Soviet Army to destroy the German airfield. During the 1970s, the straightforward fervor gave way to a more nuanced interplay of patriotism, family and everyday life wrapped into traditional genres of crime drama, spy show or thriller. One of the most popular Soviet miniseries—Seventeen Moments of Spring about a Soviet spy operating in Nazi Germany—was shot in 1972. This 12-episode miniseries incorporated features of political thriller and docudrama and included excerpts from period newsreels. Originally produced in black-and-white in 4:3 aspect ratio, it was colorized and re-formatted for wide-screen TVs in 2009.
+Other popular miniseries of the Soviet era include The Shadows Disappear at Noon (1971, 7 episodes) about the fate of several generations of locals from a Siberian village, The Meeting Place Cannot Be Changed (1979, 5 episodes) about the fight against criminals in the immediate post-war period, and TASS Is Authorized to Declare... (1984, 10 episodes) about the tug-of-war of Soviet and American intelligence agencies.
+Numerous miniseries were produced for children in the 1970s and 1980s. Among them are: The Adventures of Buratino (1976, 2 episodes)—an adaptation of The Golden Key, or the Adventures of Buratino by Alexey Tolstoy, which in turn is a retelling of The Adventures of Pinocchio by Carlo Collodi; The Two Captains (1976, 6 episodes)—an adaptation of The Two Captains by Veniamin Kaverin about a search for a lost Arctic expedition and the discovery of Severnaya Zemlya; The Adventures of Elektronic (1979, 3 episodes) about a humanoid robot meeting and befriending his prototype—a 6th grade schoolboy; Guest from the Future (1985, 5 episodes) about a boy and a girl travelling in time and fighting intergalactic criminals. In each of these, CTV-USSR co-produced them with the Gorky Film Studio.
+
+
+== Television hardware ==
+Televisions in the Soviet Union were known to have low quality hardware. The Rubin-714 model was known to explode because of the low plastic and tube quality.
+
+
+== See also ==
+Censorship in the Soviet Union
+Propaganda in the Soviet Union
+Soviet Central Television
+Media of the Soviet Union
+
+
+== References ==
+
+1990 edition of the WRTH (World Radio and Television Handbook)
+
+
+== Literature ==
+Ю. А. Шумихин. Телевидение в науке и технике. — Москва, изд-во "Энергия", 1970. — 304 стр.
+Телевидение / под ред. П. В. Шмакова. 3-е изд., пер. и доп. М., изд-во "Связь", 1970. — 540 стр.
+Телевизионная техника. М., изд-во "Связь", 1971. — 456 стр.
+
+
+== External links ==
+CCCP TV: the Soviet TV portal
+(in English) Library of Congress—The U.S. Naval Academy Collection of Soviet & Russian TV
+(in Russian) Russian Museum of Radio and TV website
+The U.S. Naval Academy Collection of Soviet & Russian TV
+Nu Pogodi, the Soviet equivalent of Road Runner/Coyote, or Tom and Jerry.
+(in English) Television of Perestroika

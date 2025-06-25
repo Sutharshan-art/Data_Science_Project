@@ -1,0 +1,31 @@
+**Reconciliation (United States Congress)**
+
+**Overview**
+Reconciliation is a legislative process in the U.S. Congress designed to expedite consideration of certain budgetary legislation. Created by the Congressional Budget Act of 1974, reconciliation bypasses filibuster rules in the Senate by limiting debate to 20 hours and prohibiting non‐germane amendments. Its principal purpose is to align existing spending, revenue, and debt‐limit laws with the fiscal targets set in an annual budget resolution, streamlining enactment of deficit‐reduction or tax policy measures.
+
+**Constitutional and Statutory Basis**
+While the U.S. Constitution grants Congress authority over federal spending and taxation, it does not specify reconciliation. The procedure was established under the Congressional Budget Act of 1974, which created the budget process and the Budget Committees in both chambers. Reconciliation instructions are included in the concurrent budget resolution, directing authorizing committees to develop legislation achieving specified savings or revenue changes and requiring that their measures be combined into a single reconciliation bill.
+
+**Key Features and the Byrd Rule**
+A reconciliation measure is privileged in the Senate: it cannot be filibustered, requires a simple majority for passage, and imposes strict time limits. Under the “Byrd Rule,” named for Senator Robert Byrd, provisions extraneous to budgetary matters are subject to point of order and must be waived by 60 votes. The rule restricts provisions that do not change outlays or revenues, whose budgetary effects are merely incidental, or that increase the federal deficit beyond the budget window, thereby limiting reconciliation’s scope to primarily fiscal content.
+
+**Process and Timeline**
+The reconciliation process begins with adoption of a budget resolution by April 15, which may include reconciliation directives for both spending and revenue committees. Committees report implementing legislation by a date specified in the resolution. Party leaders then consolidate these proposals into an omnibus reconciliation bill, which must be approved by the Budget Committees before floor consideration. In the Senate, debate is capped at 20 hours and roll‐call votes must occur within that limit, ensuring a majority can secure passage without crossover support.
+
+**Origins and Early Uses**
+Originally intended to remedy boilerplate omnibus cuts after the 1974 budget act, reconciliation was first used in 1980 by the Carter administration to implement spending reductions under a Democratic‐controlled Congress. Throughout the 1980s and 1990s, reconciliation bills facilitated deficit‐reduction packages, including the tax increases of 1982 and the Omnibus Budget Reconciliation Act of 1990, which combined spending cuts and revenue increases to address growing federal deficits under President George H. W. Bush.
+
+**Major Implementations**
+Key reconciliation measures have shaped U.S. fiscal policy: the 1993 Omnibus Budget Reconciliation Act enacted under President Clinton raised taxes on high‐income earners and slowed spending growth; the 2001 and 2003 tax cuts under President George W. Bush were enacted via two separate reconciliation bills; and the 2010 Patient Protection and Affordable Care Act was partially enacted through reconciliation to extend subsidies and Medicaid expansions after losing a Senate filibuster.
+
+**Recent and Controversial Uses**
+In December 2017, the Tax Cuts and Jobs Act—slashing corporate rates and individual taxes—was enacted through reconciliation by the Republican majority, marking one of the largest tax overhauls in U.S. history. Democrats’ efforts to repeal or replace the Affordable Care Act and Republicans’ attempts to eliminate its individual mandate also relied on reconciliation. More recently, the 2022 Inflation Reduction Act used reconciliation to authorize prescription‐drug pricing reforms, clean‐energy incentives, and deficit reduction in line with climate and healthcare goals.
+
+**Political Implications**
+Reconciliation has become a strategic tool for majority parties to advance partisan priorities without bipartisan support. Its use often intensifies partisan tensions, as budget resolutions and reconciliation instructions must be negotiated at the outset of each fiscal year. Minority parties critique the process as undermining deliberative debate, while majorities defend it as essential for fulfilling campaign mandates and enacting urgent fiscal measures.
+
+**Criticism and Reform Proposals**
+Critics argue reconciliation encourages rushed policymaking, limits scrutiny, and produces narrowly focused laws that require frequent reauthorization. The Byrd Rule’s exemptions are sometimes circumvented through creative legislative drafting, prompting calls for tighter definitions of “extraneous” content. Reform proposals include requiring a 60-vote threshold for reconciliation bills, extending debate time, or broadening the rule to include non‐budgetary policy matters, though such changes would require legislative agreement unlikely under polarized conditions.
+
+**Conclusion**
+Reconciliation remains a cornerstone of the congressional budget process, balancing efficient enactment of fiscal legislation with procedural safeguards against non‐budgetary provisions. Its evolution reflects the growing importance of budgetary policy in American politics and the enduring tension between majority rule and minority rights in the Senate. As partisan polarization persists, reconciliation’s role in shaping taxation, spending, and debt policy is likely to remain central to the legislative agenda.

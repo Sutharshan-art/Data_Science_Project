@@ -1,0 +1,100 @@
+A guided bomb (also known as a smart bomb, guided bomb unit, or GBU) is a precision-guided munition designed to achieve a smaller circular error probable (CEP).
+The creation of precision-guided munitions resulted in the retroactive renaming of older bombs as unguided bombs or "dumb bombs".
+
+
+== Guidance ==
+
+Guided bombs carry a guidance system which is usually monitored and controlled from an external device. A guided bomb of a given weight must carry fewer explosives to accommodate the guidance mechanisms.
+
+
+=== Radio ===
+
+The Germans were first to introduce precision guided munitions (PGMs) in combat, using the 1,400-kg (3,100 lb) MCLOS-guidance Fritz X to successfully attack the Italian battleship Roma in September 1943. The closest Allied equivalents were the 1,000-lb (454 kg) AZON (AZimuth ONly), used in both Europe and the CBI Theater, and the US Navy's Bat, primarily used in the Pacific Theater of World War II which used autonomous, on-board radar guidance. In addition, the U.S. tested the rocket-propelled Gargoyle; it never entered service. No Japanese remotely guided PGMs ever saw service in World War II.
+The United States Army Air Forces used similar techniques with Operation Aphrodite, but had few successes; the German Mistel (Mistletoe) "parasite aircraft" was no more effective.
+The U.S. programs restarted in the Korean War. In the 1960s, the electro-optical bomb (or camera bomb) was reintroduced. They were equipped with television cameras and flare sights, by which the bomb would be steered until the flare superimposed the target. The camera bombs transmitted a "bomb's eye view" of the target back to a controlling aircraft. An operator in this aircraft then transmitted control signals to steerable fins fitted to the bomb. Such weapons were used increasingly by the USAF in the last few years of the Vietnam War because the political climate was increasingly intolerant of civilian casualties, and because it was possible to strike difficult targets (such as bridges) effectively with a single mission; the Thanh Hoa Bridge, for instance, was attacked repeatedly with gravity bombs, to no effect, only to be dropped in one mission with PGMs.
+Although not as popular as the newer JDAM and JSOW weapons, or even the older laser-guided bomb systems, weapons like the AGM-62 Walleye TV-guided bomb are still being used, in conjunction with the AAW-144 Data Link Pod, on US Navy F/A-18 Hornets.
+
+
+=== Infrared ===
+
+In World War II, the U.S. National Defense Research Committee developed the VB-6 Felix, which used infrared to home on ships. While it entered production in 1945, it was never employed operationally.
+
+
+=== Laser ===
+
+In 1962, the US Army began research into laser guidance systems and by 1967 the USAF had conducted a competitive evaluation leading to full development of the world's first laser-guided bomb, the BOLT-117, in 1968. All such bombs work in much the same way, relying on the target being illuminated, or "painted," by a laser target designator on the ground or on an aircraft. They have the significant disadvantage of not being usable in poor weather where the target illumination cannot be seen, or where it is not possible to get a target designator near the target. The laser designator sends its beam in a series of encrypted pulses so the bomb cannot be confused by an ordinary laser, and also so multiple designators can operate in reasonable proximity.
+Laser-guided weapons did not become commonplace until the advent of the microchip. They made their practical debut in Vietnam, where on 13 May 1972 when they were used in the second successful attack on the Thanh Hoa Bridge ("Dragon's Jaw"). This structure had previously been the target of 800 American sorties (using unguided weapons) and was partially destroyed in each of two successful attacks, the other being on 27 April 1972 using Walleyes. That first mission also had laser-guided weapons, but bad weather prevented their use. They were used, though not on a large scale, by the British forces during the 1982 Falklands War. The first large-scale use of smart weapons came in 1991 during Operation Desert Storm when they were used by coalition forces against Iraq. Even so, most of the air-dropped ordnance used in that war was "dumb," although the percentages are biased by the large use of various (unguided) cluster bombs. Laser-guided weapons were used in large numbers during the 1999 Kosovo War, but their effectiveness was often reduced by the poor weather conditions prevalent in the southern Balkans.
+There are two basic families of laser-guided bombs in American (and American-sphere) service: the Paveway II and the Paveway III. The Paveway III guidance system is more aerodynamically efficient and so has a longer range, however it is more expensive. Paveway II 500-pound LGBs (such as GBU-12) are a cheaper lightweight PGM suitable for use against vehicles and other small targets, while a Paveway III 2000-pound penetrator (such as GBU-24) is a more expensive weapon suitable for use against high-value targets. GBU-12s were used to great effect in the first Gulf War, dropped from F-111F aircraft to destroy Iraqi armored vehicles in a process referred to as "tank plinking."
+
+
+=== Satellite ===
+
+Lessons learned during the first Gulf War showed the value of precision munitions, yet they also highlighted the difficulties in employing them—specifically when visibility of the ground or target from the air was degraded. The problem of poor visibility does not affect satellite-guided weapons such as Joint Direct Attack Munition (JDAM) and Joint Stand-Off Weapon (JSOW), which make use of the United States' GPS system for guidance. This weapon can be employed in all weather conditions, without any need for ground support. Because it is possible to jam GPS, the guidance package reverts to inertial navigation in the event of GPS signal loss. Inertial navigation is significantly less accurate; the JDAM achieves a published circular error probable (CEP) of 13 m under GPS guidance, but typically only 30 m under inertial guidance (with free fall times of 100 seconds or less).
+
+The precision of these weapons is dependent both on the precision of the measurement system used for location determination and the precision in setting the coordinates of the target. The latter critically depends on intelligence information, not all of which is accurate. According to a CIA report, the accidental bombing of the Chinese embassy in Belgrade during Operation Allied Force by NATO aircraft was attributed to faulty target information. However, if the targeting information is accurate, satellite-guided weapons are significantly more likely to achieve a successful strike in any given weather conditions than any other type of precision-guided munition.
+Other military satellite guidance systems include: Russian GLONASS, European Galileo, Chinese BeiDou, Indian NavIC, Japanese QZSS.
+
+
+== History ==
+The guided bomb had its origins in World War II. Its usage increased after the success of the weapon in the Gulf War.
+
+
+=== World War II ===
+
+In World War II, the aforementioned Fritz X and Henschel Hs 293 guided ordnance designs were used in combat by Nazi Germany against ships, as the USAAF would do with the Azon in hitting bridges and other hard-to-hit targets in both Western Europe and Burma.  Later, U.S. National Defense Research Committee developed the VB-6 Felix, which used infrared to home on ships. While it entered production in 1945, it was never employed operationally.
+
+
+=== Korean War ===
+The US briefly deployed the ASM-A-1 Tarzon (or VB-13 Tarson) bomb (a Tallboy fitted with radio guidance) during the Korean War, dropping them from Boeing B-29 Superfortresses.
+
+
+=== Vietnam War ===
+In 1962, the US Army began research into laser guidance systems and by 1967 the USAF had conducted a competitive evaluation leading to full development of the world's first laser-guided bomb, the BOLT-117, in 1968.
+
+
+=== Gulf War ===
+GBU-12 Paveway IIs were used to great effect in the first Gulf War, dropped from F-111F aircraft to destroy Iraqi armored vehicles in a process referred to as "tank plinking".
+
+
+=== War on Terror ===
+The first Gulf War showed the value of guided bombs, with precision-guided munitions accounting for 70% of munitions expended during Operation Enduring Freedom.
+
+
+=== Advanced guidance concepts ===
+Responding to after-action reports from pilots who employed laser and/or satellite guided weapons, Boeing has developed a Laser JDAM (LJDAM) to provide both types of guidance in a single kit. Based on the existing JDAM configurations, a laser guidance package is added to a GPS/INS guided weapon to increase the overall accuracy of the weapons. Raytheon has developed the Enhanced Paveway family, which adds GPS/INS guidance to their Paveway family of laser-guidance packages. These "hybrid" laser and GPS guided weapons permit the carriage of fewer weapons types, while retaining mission flexibility, because these weapons can be employed equally against moving and fixed targets, or targets of opportunity. For instance, a typical weapons load on an F-16 flying in the Iraq War included a single 2,000-lb JDAM and two 500-lb LGBs. With LJDAM, and the new Small Diameter Bomb, these same aircraft can carry more bombs if necessary, and have the option of satellite or laser guidance for each weapon release.
+
+
+== See also ==
+M1156 precision guidance kit
+M982 Excalibur
+XM395 precision guided mortar munition
+M712 Copperhead
+Krasnopol (weapon system)
+Strix mortar round
+Cruise missile
+Wire-guided missile
+Glide bomb
+Precision-guided munition
+Guidance system
+Missile
+Missile guidance
+Terminal guidance
+Proximity sensor
+Artillery fuze
+Magnetic proximity fuze
+Proximity fuze
+
+
+== Notes ==
+
+
+== External links ==
+"Bomb With A Brain". British Pathé newsreel 52/51A, June 23, 1952.
+How Smart Bombs Work
+A Brief History of Precision Guided Weapons
+"Smart bombs" missed Iraqi targets BBC story on the first employment of the JSOW, guidance failures were attributed to a software error that was subsequently fixed.
+"Fact File: Smart Bombs - not so Smart BBC story discussing the limitations of guided munition employment.
+Ukraine develops indigenous guided airborne weapons Article about Ukrainian guided bomb development, August 2006
+"World War II Glide Bombs World War II Glide Bombs (Part1)
+"World War II Glide Bombs World War II Glide Bombs (Part2)
+"World War II Glide Bombs Modern Glide Bombs

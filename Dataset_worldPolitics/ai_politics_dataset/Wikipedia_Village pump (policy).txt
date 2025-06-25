@@ -1,0 +1,70 @@
+**Wikipedia\:Village pump (policy)**
+
+**Introduction**
+“Wikipedia\:Village pump (policy)”—often abbreviated “VP (Policy)”—is the primary forum on the English Wikipedia for discussing, formulating, and refining site-wide policy and guideline issues. As one of several “village pump” pages, it serves a distinct function: to host policy-related Requests for Comment (RfCs), proposals for new or revised policies, and community debates on the interpretation and application of existing rules. The page plays a central role in Wikipedia’s self-governance, providing a transparent venue where any registered editor may raise policy questions and seek consensus before codifying changes.
+
+**Historical Background**
+In the earliest days of Wikipedia (2001–2003), policy discussions occurred informally on user talk pages and at off-site mailing lists. As the project scaled, the need for a dedicated, centralized policy forum became clear. In mid-2003, the first “Village pump” pages were created—“Discussion” for general project talk, “Technical” for software and interface issues, and “Policy” for matters of editorial standards. Over time, VP (Policy) absorbed numerous ad hoc threads from scattered locations, evolving into the authoritative site for formal policy development.
+
+**Purpose and Scope**
+VP (Policy) fulfills several key functions:
+
+1. **Policy Proposals and RfCs:** Editors post structured Requests for Comment on proposed new policies or amendments, following procedural guidelines (e.g., clearly stating the problem, proposed text, and expected outcomes).
+2. **Policy Interpretation:** Questions about applying existing policies—such as neutral point of view, verifiability, or notability—are raised and debated before escalating to specific article talk pages or formal dispute resolution.
+3. **Announcements and Coordination:** Notices about major policy reviews, coordination of cross-project policy efforts (e.g., global policies affecting multiple language editions), and links to relevant off-wiki discussions appear here.
+4. **Archival Record:** Once resolved, threads are closed and archived, creating a searchable history of policy debates and decisions.
+
+VP (Policy) does **not** host article-specific content disputes (handled on individual article talk pages) or software-related issues (redirected to VP (Technical) or Phabricator).
+
+**Organization and Navigation**
+The page is divided into three main sections:
+
+* **Open Requests for Comment:** Active RfCs awaiting community input.
+* **Closed and Archived Discussions:** Links to past RfCs, marked by date, outcome, and archive location.
+* **Policy Resources:** Pinned links to policy development guides, templates, and related policy pages (e.g., “Wikipedia\:Policies and guidelines,” “Wikipedia\:Requests for comment”).
+
+Each RfC thread begins with a standard template summarizing the proposal, discussion timeline, and instructions for participation (e.g., signing comments with four tildes). Administrators and experienced editors often monitor the page, summarizing consensus and updating policy pages accordingly.
+
+**Procedural Guidelines**
+To maintain order and effectiveness, VP (Policy) follows established procedural norms:
+
+1. **RfC Structure:** Proposals must include a clear problem statement, a detailed suggestion (often with draft policy text), and a defined comment period (typically two to four weeks).
+2. **Consensus Building:** Discussions seek broad editor input; substantial support from active editors and absence of sustained objections indicate consensus.
+3. **Closure and Implementation:** Once consensus emerges, a closing editor posts a summary, records the decision, and initiates edits to the relevant policy pages.
+4. **Archival Practice:** Closed threads are moved to an archive subpage (e.g., “Archive XX”) by date, preserving the record for future reference.
+
+**Relationship to Other Forums**
+While VP (Policy) is the hub for policy formulation, related venues include:
+
+* **Wikipedia talk namespace:** Used for policy clarification on specific pages.
+* **Requests for Deletion (RfD) and Articles for Creation (AfC):** Procedural matters that occasionally spur broader policy discussions.
+* **Arbitration Committee and Administrator noticeboards:** Where escalated disputes may invoke or refine policy through formal cases.
+* **Global noticeboards:** For cross-wiki coordination on policies adopted network-wide.
+
+Editors proposing policy changes may cross-link between these forums to gather specialized input.
+
+**Notable Debates and Decisions**
+Over its history, VP (Policy) has hosted RfCs on pivotal topics, including:
+
+* **Neutral Point of View (2005):** Clarifying “due weight” in balance of controversial viewpoints.
+* **Biographies of Living Persons (BLP) revisions (2006, 2010, 2012):** Strengthening sourcing requirements and privacy protections.
+* **Conflict of Interest guidelines (2012, 2017):** Expanding disclosure standards for paid advocacy.
+* **Harassment policy (2015–2016):** Debating the boundaries of permissible speech and enforcement mechanisms.
+* **Global lock and cross-wiki sanctions (2018):** Enabling account locking across Wikimedia projects.
+
+Each debate resulted in policy text updates, reflecting VP (Policy)’s influence on Wikipedia’s rulebook.
+
+**Political and Governance Significance**
+VP (Policy) embodies Wikipedia’s community-driven governance model, demonstrating how a decentralized, volunteer-based project can maintain coherent editorial standards through open deliberation. It balances technical precision (drafting policy language) with social processes (consensus-based decision-making), highlighting the interplay between formal rules and community norms in a large-scale collaborative enterprise.
+
+**Challenges and Criticisms**
+VP (Policy) has faced criticism and logistical hurdles:
+
+* **Volume and Complexity:** High traffic and technical jargon can intimidate new editors, limiting participation to experienced users.
+* **Process Length:** Extended RfC timelines may delay necessary policy updates during fast-moving news cycles.
+* **Consensus Bias:** Dominance by active or senior editors may suppress minority viewpoints, risking groupthink.
+
+To mitigate these issues, ongoing efforts include improving RfC templates, providing clearer onboarding guides for newcomers, and exploring tools for summarizing long threads.
+
+**Legacy and Future Directions**
+As Wikipedia evolves, VP (Policy) remains indispensable for adapting policies to emerging challenges—such as deep-fakes, AI-generated content, and global digital governance. Continued refinement of procedural practices and enhanced outreach to underrepresented communities will be critical to sustaining VP (Policy)’s role as the crucible of Wikipedia’s editorial standards and the project’s political heartbeat.

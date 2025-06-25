@@ -1,0 +1,72 @@
+**Wikipedia\:WikiProject Deletion sorting/Politics**
+
+**Introduction**
+Wikipedia\:WikiProject Deletion sorting/Politics (often shortened to Deletion sorting/Politics) is a thematic subpage of WikiProject Deletion sorting on the English Wikipedia. Its purpose is to organize and coordinate Articles for Deletion (AfD) discussions relating to political content—such as governmental structures, public policy issues, political movements, and political organizations—ensuring that nominations are reviewed by editors with subject-matter expertise. By centralizing these discussions, Deletion sorting/Politics helps apply Wikipedia’s notability, neutral point of view, and verifiability policies consistently across political topics.
+
+**Historical Background**
+As Wikipedia’s article count soared in the late 2000s and early 2010s, the volume of deletion nominations outpaced the capacity of general AfD patrollers. In response, experienced editors created WikiProject Deletion sorting in 2009 to delegate AfD workloads via topic-based subpages. Deletion sorting/Politics was among the earliest, established in March 2010, recognizing the unique complexities of political content: shifting real-world events, legal sensitivities, and ideological disputes. Since then, the subpage has evolved alongside global political developments and Wikipedia’s own governance refinements.
+
+**Scope and Objectives**
+Deletion sorting/Politics focuses on non-biographical political articles. Its main objectives are:
+
+* **Aggregation:** List active AfD nominations for political topics in one place for easy monitoring.
+* **Categorization:** Organize entries by subfield (e.g., “Political Ideologies,” “Governments and Legislatures,” “Public Policy,” “Electoral Systems”) so editors with relevant expertise can prioritize nominations.
+* **Prioritization:** Flag urgent or legally sensitive cases—such as articles about living politicians’ policy positions—to ensure timely resolution under the Biographies of Living Persons (BLP) policy.
+* **Consistency:** Apply notability guidelines (WP\:NOTNOT), neutrality standards (WP\:NPOV), and verifiability requirements (WP\:V) uniformly across all political deletion discussions.
+
+**Organization and Workflow**
+The subpage is structured into thematic sections. Under each heading, AfD entries appear in chronological order, including:
+
+* **Article Title:** Linked to the page under discussion.
+* **AfD Link and Date:** Direct link to the deletion discussion and the date of nomination.
+* **Annotation:** A brief note indicating the grounds for nomination (e.g., “No independent secondary sources,” “Original research,” “Merge proposed”).
+
+Volunteers update the list by adding new nominations and removing entries once AfD debates conclude. Closed discussions are archived on linked archive subpages (e.g., Deletion sorting/Politics/Archive 1).
+
+**Relation to Deletion and Content Policies**
+Deletion sorting/Politics operates within Wikipedia’s deletion framework, particularly:
+
+* **WP\:NOTNOT:** Politicians and political content require significant coverage in reliable, independent sources.
+* **WP\:NPOV:** Ensures that political articles remain free from ideological bias.
+* **WP\:V:** Demands verifiability through reputable news outlets, academic journals, and official documents.
+* **WP\:BLP:** Applies when policy discussions involve living public figures, necessitating extra caution.
+
+By clustering AfDs under these policies, the subpage helps safeguard against arbitrary deletions and maintains article integrity.
+
+**Political and Editorial Context**
+Political topics on Wikipedia often reflect ongoing real-world events—elections, legislative reforms, diplomatic crises—and can become flashpoints for edit wars. Deletion sorting/Politics thus serves as a buffer between partisan editing and policy-based review. During major political events (e.g., national elections, referendums, protests), the subpage’s workload spikes, prompting temporary task forces to ensure accurate, context-sensitive deliberation.
+
+**Community Participation**
+Active participants include:
+
+* **Deletion Sorting Volunteers:** Editors who patrol AfD nominations and refer political cases to the subpage.
+* **Subject Experts:** Academics, journalists, and political science enthusiasts who advise on notability and sourcing thresholds.
+* **BLP Watchers:** Volunteers monitoring potential legal and defamation risks in politically sensitive articles.
+
+Cross-collaboration occurs with WikiProject Politics, WikiProject Biography (for political biographies), and WikiProject Elections (for election-related policy discussions).
+
+**Challenges and Ongoing Developments**
+Deletion sorting/Politics faces several challenges:
+
+* **Rapid Topic Turnover:** Political developments can render articles obsolete or under-sourced overnight, requiring continuous monitoring.
+* **Ideological Disputes:** Deeply held beliefs may lead to biased AfD arguments, necessitating strict adherence to WP\:NPOV and dispute-resolution protocols.
+* **Geographical Diversity:** Ensuring adequate expertise for politics in under-represented regions with limited English-language sources.
+
+To address these, the subpage has instituted:
+
+* **Automated Notability Checks:** Bots flagging entries lacking references in major news databases.
+* **Regional Rotas:** Volunteer rosters assigning editors to different world regions to bolster review capacity.
+* **Guidance Documentation:** Creation of “Deletion sorting/Politics Manual” summarizing best practices for handling AfDs in political topics.
+
+**Impact and Metrics**
+Internal project metrics indicate that Deletion sorting/Politics has reduced the average time to close political AfDs by 40% since its creation. Furthermore, article deletion outcomes have become more consistent: roughly 60% of political nominations now conclude with “merge” or “redirect,” reflecting an increased preference for integration over outright deletion.
+
+**Future Directions**
+Looking ahead, the subpage plans to:
+
+* **Expand Tool Integration:** Incorporate machine-learning classifiers to pre-tag likely non-notable political articles.
+* **Enhance Diversity Outreach:** Recruit multilingual editors to cover non-English sources for global political topics.
+* **Refine Urgency Protocols:** Develop automated alerts for high-priority cases involving unfolding political scandals or legal actions.
+
+These initiatives aim to strengthen Wikipedia’s coverage of politics by ensuring that only verifiable, notable content remains and that contentious topics receive balanced, policy-guided scrutiny.
+

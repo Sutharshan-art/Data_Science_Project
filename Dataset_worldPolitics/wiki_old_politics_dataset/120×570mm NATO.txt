@@ -1,0 +1,71 @@
+120×570mm NATO tank ammunition (4.7 inch), also known as 120×570mmR, is a common, NATO-standard (STANAG 4385), tank gun semi-combustible cartridge used by 120mm smoothbore guns, superseding the earlier 105×617mmR cartridge used in NATO-standard rifled tank guns.
+
+
+== History ==
+The 120×570 R cartridge was originally intended for the German Rh-120 smoothbore gun but an interoperability agreement signed between West Germany and France in April 1979, followed in September 1981 by a project to install the M256 120 mm smoothbore gun on future M1A1 Abrams tanks made it a NATO standard.
+
+
+== Characteristics ==
+The 120×570mm are one-piece ammunition with semi-combustible cartridge cases. These incorporate a short, metallic stub case with an elastomeric sealing ring which allows the use of a normal sliding wedge type of breech and at the same time significantly reduces the weight of the rounds. Thus, a round of 120 mm Rheinmetall APFSDS ammunition has a mass of 19.8 kg, which is little more than the 18 kg mass of a typical 105 mm APFSDS round with the traditional metallic cartridge case.
+
+
+== Ammunition ==
+
+
+=== Armour-Piercing Fin-Stabilized Discarding Sabot (APFSDS) ===
+
+There are different ways to measure APFSDS penetration value. NATO uses the 50% (This means that 50% of the shell had to go through the plate), while the Soviet/Russian standard is higher (80% had to go through).
+
+
+=== High Explosive Anti-Tank (HEAT) ===
+
+
+=== Close Combat ===
+
+
+=== Guided munition ===
+
+
+=== Target Practice Tracer (TP-T) ===
+
+Notes on notation:
+
+Table includes information on ballistically-matched combat ammunition for each practice round if possible.
+TP-T stands for target practice, tracer. Some nations add a parenthetical to indicate the class of ammunition being emulated, e.g. TP-T (HEAT).
+TPCSDS-T stands for target practice, cone stabilized, discarding sabot, with tracer. It is commonly used to match the ballistics of an APFSDS round.
+
+
+== Weapon platforms ==
+Rh-120 L44 ( Germany), used on the Leopard 2 and Type 90 MBTs
+Rh-120 L55 ( Germany), used on later Leopard 2 variants including the Leopard 2E
+Rh-120 L55A1 ( Germany), foreseen for the Challenger 3
+M256 ( United States), used on the M1 Abrams and M60-2000
+M256E1 ( United States)
+XM360 ( United States)
+XM360E1 ( United States)
+CN120-25 ( France), used on the AMX-32, AMX-40, and EE-T1 Osório
+CN120-26 ( France), used on the Leclerc
+120 FER ( France), tested on the VEXTRA POLE prototype
+MG251 ( Israel), used on the Merkava III
+MG251-LR ( Israel) used on the Merkava IV
+MG253 ( Israel) used on the M60 Sabra
+OTO Melara-Breda 120/44 ( Italy), used on the C1 Ariete
+OTO Melara-Breda 120/45 ( Italy), used on the B2 Centauro
+CTG (  Switzerland), used on the CV90120 and WPB Anders
+CN03 ( South Korea), used on the K1A2
+CN08 ( South Korea), used on the K2 Black Panther
+MKE 120 mm tank gun ( Turkey), used on the Altay (main battle tank)
+Type 10 ( Japan), used on the Type 10
+
+
+== See also ==
+105×617mm tank gun ammunition
+125 mm smoothbore ammunition used by Russia, China and Eastern Bloc
+
+
+== Notes ==
+
+
+== References ==
+
+DIRECT FIRE AMMUNITION Handbook 2019, Project Manager Maneuver Ammunition Systems Archived 12 July 2021 at the Wayback Machine

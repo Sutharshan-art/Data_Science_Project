@@ -1,0 +1,58 @@
+**Nuclear Energy Policy by Country**
+
+Nuclear energy policy varies widely across the world, reflecting differences in historical experience, energy security needs, public opinion, technological capacity, and geopolitical considerations. Since the mid-20th century, nuclear power has been promoted as a low-carbon baseload source, yet concerns over safety, waste management, proliferation, and cost have driven divergent national approaches.
+
+## Historical Overview
+
+The first civilian nuclear power plants began operating in the 1950s under the United States’ “Atoms for Peace” program. The UK, France, the Soviet Union, and Canada rapidly developed their own reactors, both to secure domestic energy supplies and to demonstrate technological prowess. The 1970s oil crises spurred further expansion, while the 1986 Chernobyl disaster and the 2011 Fukushima Daiichi accident triggered policy reversals in several countries.
+
+## Key National Approaches
+
+### United States
+
+The U.S. pioneered commercial nuclear power but has seen its share decline since the 1980s. Regulatory uncertainty after Three Mile Island (1979) and rising construction costs stalled new builds. In the 2000s, loan guarantees and subsidies under the Energy Policy Act (2005) sought to revive the industry, leading to a handful of new reactors under construction. The U.S. Department of Energy supports research into small modular reactors (SMRs) and advanced designs, while state-level policies—such as Zero Emission Credits in New York and Illinois—aim to preserve existing plants facing market pressures from cheap natural gas and renewables.
+
+### France
+
+France pursued an aggressive nuclear program beginning in the 1970s, driven by oil import vulnerabilities. By the 1990s, nuclear supplied about 75% of electricity. State-owned EDF operates a fleet of 56 standardized reactors, achieving economies of scale but facing aging reactor retirements and cost overruns at new projects (e.g., Flamanville EPR). Successive governments have pledged gradual reductions in nuclear’s share to 50% by 2035, offset by renewables, though recent political consensus has delayed closures.
+
+### Germany
+
+Germany’s 2011 decision to phase out nuclear power (“Atomausstieg”) reflected strong public opposition post-Fukushima. All 17 reactors were closed by April 2023. The policy accelerated coal use and imported electricity from neighboring nuclear-dependent countries, complicating climate goals. However, energy security concerns following Russia’s 2022 invasion of Ukraine spurred debates over delaying coal and restarting closed reactors, though formal reactivation remains politically constrained.
+
+### United Kingdom
+
+The UK’s nuclear policy has oscillated between state sponsorship and market liberalization. The 1990s privatization led to underinvestment. Recent policy under successive governments revived nuclear as a low-carbon pillar alongside renewables. Government guarantees and Contracts for Difference support new builds at Hinkley Point C (two EPRs), Sizewell C (planned twin EPRs), and Rolls-Royce SMR development, aiming to deliver up to 24 GW by 2050.
+
+### Russia
+
+Russia’s state-backed Rosatom pursues nuclear geopolitics through domestic fleet renewal and aggressive export programs (e.g., Turkey’s Akkuyu, China’s Tianwan). Nuclear provides \~20% of Russia’s electricity. Rosatom’s guaranteed‐rate contracts finance overseas projects, underpinning Russia’s soft-power and economic ties.
+
+### China
+
+China has rapidly scaled nuclear capacity—from near zero in 2002 to 55 GW operational by 2023—with plans for 150 GW by 2035. State energy strategy pairs large conventional reactors (AP1000, Hualong One) with SMR prototypes and a substantial fast-reactor program. Nuclear is central to meeting China’s carbon-neutral pledge by 2060.
+
+### Japan
+
+Before 2011, nuclear met \~30% of Japan’s electricity. The Fukushima disaster prompted a near-complete shutdown and stricter safety regulations. Restarting reactors under new safety standards has been slow; by 2023, only 10 of 33 operable reactors have resumed operation. Government strategy retains nuclear as essential for energy security and climate targets, but public opposition remains fierce.
+
+### South Korea
+
+South Korea built a strong indigenous industry under state planning, achieving \~30 GW capacity (25% of electricity) by 2020. Following the 2017 election, the Moon Jae-in administration announced a gradual phase-out, halting new projects and extending lifetimes only for strategic reactors. The subsequent Yoon Suk-yeol government reversed course, planning six new reactors by 2030 and strengthening nuclear R\&D.
+
+### India and Pakistan
+
+India’s nuclear program operates under partial NPT exemption, focusing on pressurized heavy-water reactors fed by domestic uranium and plutonium. Nuclear supplies \~3% of India’s electricity, with ambitious expansion targets—up to 63 GW by 2032—via indigenous and Russian designs. Pakistan, a non-NPT weapon state, runs two Chinese-built PWRs at Karachi, with plans for further capacities to meet growing demand.
+
+### Other Countries
+
+* **Canada** maintains \~14 GW of CANDU reactors, supports SMR development, and promotes exports.
+* **Sweden** held a 1980 referendum to phase out nuclear—but later backtracked; \~40% of electricity remains nuclear.
+* **Finland** expanded nuclear in the 2000s (Olkiluoto 3) to secure climate targets, though delays plagued construction.
+* **United Arab Emirates** built its first four APR-1400 reactors (Barakah) under a turnkey contract, marking the first Arab nuclear power program, with more regional projects planned.
+
+## International Frameworks and Future Prospects
+
+The International Atomic Energy Agency (IAEA) sets safety and non-proliferation norms. The Paris Agreement’s decarbonization goals have renewed interest in nuclear as firm low-carbon generation. Advanced reactors—SMRs, molten salt, and Generation IV—promise enhanced safety and reduced waste, though commercialization timelines remain uncertain.
+
+National policies will continue to reflect trade-offs among energy security, climate ambition, economic cost, and public acceptance. As nations diverge—some phasing out, others scaling up—nuclear energy policy by country underscores the complex interplay of politics, technology, and international relations in the global energy transition.

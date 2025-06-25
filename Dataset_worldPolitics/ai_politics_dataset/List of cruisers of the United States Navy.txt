@@ -1,0 +1,71 @@
+**List of Cruisers of the United States Navy**
+
+Cruisers have long served as versatile surface combatants in the United States Navy, combining speed, firepower, and endurance to perform a range of missions—from commerce protection and shore bombardment to fleet air defense and naval gunfire support. Over more than a century, U.S. cruisers evolved through armored, light, heavy, and guided‐missile configurations, reflecting shifts in naval technology, treaties, and strategic priorities.
+
+---
+
+## Historical and Political Context
+
+### Armored and Protected Cruisers (1890s–1920s)
+
+In the late 19th and early 20th centuries, the U.S. Navy built **protected cruisers** (with armored decks) and **armored cruisers** (with belt armor) to assert American interests overseas. Classes such as *Pennsylvania* and *Pennsylvania*-class (renamed to *Pittsburgh* and *San Francisco*) escorted merchant shipping and showed the flag in Asia and the Caribbean. The **Great White Fleet** (1907–1909) included armored cruisers as part of President Theodore Roosevelt’s demonstration of U.S. global reach.
+
+### Treaty Cruisers (1920s–1945)
+
+The **Washington Naval Treaty** (1922) and **London Naval Treaties** (1930, 1936) limited cruiser displacement to 10,000 tons and gun caliber to 8 inches, giving rise to the term **“treaty cruisers.”**
+
+* **Pensacola class (1929):** Among the first U.S. treaty cruisers, mounting ten 8-inch guns but suffering from stability issues.
+* **Portland and New Orleans classes (1932–1933):** Improved protection and seaworthiness.
+* **Brooklyn class (1937):** With fifteen 6-inch guns, optimized under treaty limits for rate of fire.
+* **Northampton and Chicago classes (1930s):** Balanced speed, protection, and armament, serving in Atlantic convoy escort and Pacific campaigns.
+
+### World War II Service
+
+During WWII, U.S. cruisers provided shore bombardment (e.g., at Guadalcanal), carrier screening, and naval gunfire support. Heavy cruiser **USS Indianapolis** (CA-35) delivered components of the atomic bomb and was later lost by submarine attack in July 1945. Light cruisers like **USS Atlanta** (CL-51) became specialized anti-aircraft escorts, while Cleveland-class light cruisers (1942–45) formed the backbone of late-war cruiser forces.
+
+---
+
+## Cold War and Guided‐Missile Cruisers
+
+### Gun Cruisers to Missile Conversions (1950s–1960s)
+
+Post-war drawdowns saw many WWII cruisers decommissioned or converted to flagship duties. The increased threat of Soviet aircraft and missiles prompted the conversion of several *Albany*-class guided-missile cruisers (rebuilding of *Des Moines*-class hulls) to carry Terrier and Tartar surface-to-air missiles.
+
+### Nuclear Age and Modern Fleet Air Defense
+
+* **USS Long Beach (CGN-9) (1961):** The world’s first nuclear-powered guided-missile cruiser, combining high speed, endurance, and a mix of Talos, Terrier, and Tartar missiles.
+* **Leahy and Belknap classes (1960s):** “Double-ended” missile cruisers with Terrier/Tartar systems, designed for carrier battle group air defense under the Polaris-era strategic posture.
+
+### Ticonderoga‐Class (1980s–2010s)
+
+The **Ticonderoga class** (CG-47 through CG-73) marked a leap in capability, introducing the **Aegis Combat System** with the AN/SPY-1 radar. Initially classified as destroyers, they were redesignated cruisers (CG-47) to reflect their command facilities and flagship roles. Equipped with Standard missiles, Tomahawk cruise missiles, and ASROC, Ticonderogas provided layered air defense, land‐attack options, and anti-submarine warfare in multiple theaters—from Cold War Atlantic patrols to post-9/11 maritime security.
+
+---
+
+## Decommissioning and Legacy
+
+With evolving threats and budget constraints, the U.S. Navy began retiring Ticonderoga-class cruisers in the 2000s. USS Ticonderoga (CG-47) was the first decommissioned in 2004; the final ships are scheduled for retirement by the mid-2020s. The **Zumwalt-class destroyers** and **Arleigh Burke-class destroyers** have assumed many cruiser missions, while the **future Constellation-class frigates** and **DDG(X)** program promise to reshape surface forces.
+
+---
+
+## Notable Classes and Ships
+
+* **Protected/Armored Cruisers:** *USS Baltimore* (C-3), *USS Pennsylvania* (ACR-4)
+* **World War II Heavy Cruisers:** *USS Pensacola* (CA-24), *USS Northampton* (CA-26)
+* **World War II Light Cruisers:** *USS Cleveland* (CL-55), *USS Atlanta* (CL-51)
+* **Cold War Conversions:** *USS Albany* (CG-10), *USS Bainbridge* (CGN-25)
+* **Modern Guided-Missile Cruisers:** *USS Long Beach* (CGN-9), *USS Leahy* (CG-16)
+* **Aegis Cruisers:** *USS Ticonderoga* (CG-47), *USS Antietam* (CG-54)
+
+---
+
+## Political Significance
+
+Cruisers have embodied U.S. naval strategy across eras:
+
+* **Gun Cruiser Era:** Power projection in colonial and world wars.
+* **Treaty Era:** Arms‐control diplomacy balancing fleet size and global commitments.
+* **Cold War:** Carrier battle group defense against Soviet air and missile threats.
+* **Post–Cold War:** Shift toward multi‐mission platforms emphasizing integration, networked warfare, and precision strike.
+
+As symbols of U.S. maritime power, cruisers have featured in alliances (NATO maritime exercises), deterrence postures (forward deployment in the Mediterranean and Western Pacific), and expeditionary operations (Persian Gulf, Balkans, anti‐piracy). The transition to next-generation surface combatants continues this political and strategic lineage.

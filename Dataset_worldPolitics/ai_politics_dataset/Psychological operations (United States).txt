@@ -1,0 +1,73 @@
+**Psychological Operations (United States)**
+
+**Psychological Operations (PSYOP)** in the United States refer to operations intended to convey selected information and indicators to foreign audiences in order to influence their emotions, motives, objective reasoning, and ultimately the behavior of foreign governments, organizations, groups, and individuals. Managed primarily by the United States military under the Department of Defense (DoD), PSYOP constitute a core element of Information Operations (IO) and are closely tied to broader national security and foreign policy objectives.
+
+Psychological operations are distinct from domestic propaganda efforts, which are restricted under U.S. law, and are conducted with the strategic goal of advancing U.S. interests in foreign theaters. They are considered a force multiplier in both peacetime and combat operations, complementing diplomatic, informational, military, and economic instruments of power.
+
+---
+
+### Historical Background
+
+The origins of U.S. psychological operations date back to the World Wars. During **World War I**, the U.S. formed the Committee on Public Information to shape public opinion both at home and abroad, although this initiative was more akin to propaganda than modern PSYOP doctrine. In **World War II**, the Office of War Information (OWI) and the Office of Strategic Services (OSS)—a predecessor to the CIA—conducted a wide array of psychological activities, including leaflet drops, radio broadcasts, and deception campaigns targeting Axis powers.
+
+During the **Korean War** and **Vietnam War**, PSYOP took on greater prominence. In Vietnam, the U.S. deployed extensive psychological campaigns involving leaflet drops, loudspeaker broadcasts, and radio programming designed to demoralize North Vietnamese forces and gain the support of rural populations. However, the effectiveness of these operations was often debated due to cultural misunderstandings and mixed reception from local populations.
+
+The Cold War period also witnessed the development of strategic psychological operations to counter the Soviet Union, including efforts via Radio Free Europe/Radio Liberty and Voice of America broadcasts to influence populations in Eastern Europe and beyond.
+
+---
+
+### Organizational Structure
+
+Psychological operations are currently conducted by **U.S. Army Special Operations Forces (ARSOF)**, particularly under the **U.S. Army Civil Affairs and Psychological Operations Command (USACAPOC)** and **U.S. Army Special Operations Command (USASOC)**. The **4th Psychological Operations Group (Airborne)**, headquartered at Fort Liberty (formerly Fort Bragg), is the primary PSYOP unit, operating both Tactical PSYOP companies in the field and Strategic PSYOP teams that develop broader campaigns.
+
+PSYOP is organized into three tiers:
+
+* **Strategic PSYOP**: Targeted at national leadership and populations to shape long-term perceptions and align them with U.S. policy.
+* **Operational PSYOP**: Supports theater-level military objectives and regional combatant commands.
+* **Tactical PSYOP**: Works with deployed units on the ground to influence local populations, enemy forces, and non-state actors.
+
+---
+
+### Methods and Tools
+
+U.S. PSYOP campaigns employ a range of media and messaging platforms, including:
+
+* **Print materials**: Leaflets, posters, and pamphlets.
+* **Broadcast media**: Radio, television, and internet broadcasts.
+* **Loudspeakers and public announcements**: Used in both rural and urban settings.
+* **Social media and digital platforms**: Increasingly used to engage target audiences in real-time.
+* **Cultural and linguistic adaptation**: Essential for ensuring message relevance and credibility.
+
+Campaigns typically aim to reduce enemy morale, discredit adversary leadership, promote defection or surrender, and encourage support for U.S. allies or partner governments. In conflict zones, PSYOP has also been used for public safety messaging and to counter misinformation.
+
+---
+
+### Notable Operations
+
+* **Operation Desert Storm (1991)**: PSYOP was employed to weaken Iraqi forces' will to fight. Millions of leaflets were dropped, and radio broadcasts encouraged surrender, reportedly contributing to a high rate of defection among Iraqi troops.
+
+* **War in Afghanistan (2001–2021)**: PSYOP supported counterinsurgency efforts by promoting support for Afghan government institutions and discouraging support for Taliban forces.
+
+* **Iraq War (2003–2011)**: U.S. forces conducted extensive PSYOP operations aimed at disrupting insurgent networks, gaining the cooperation of civilians, and reducing sectarian violence.
+
+---
+
+### Legal and Ethical Considerations
+
+Under U.S. law, PSYOP activities are legally restricted from targeting domestic audiences. The **Smith-Mundt Act of 1948**, amended in 2013, historically prohibited the dissemination of propaganda intended for foreign audiences within the United States. This was to safeguard democratic institutions and ensure transparency in government communication. However, the blurred boundaries of digital communication have raised concerns about the inadvertent domestic reach of such operations.
+
+Critics have also questioned the ethics of psychological operations, particularly regarding truthfulness, consent, and long-term societal impacts. The use of disinformation, even for strategic purposes, has sparked debates over credibility, international norms, and counterproductive effects.
+
+---
+
+### Contemporary Developments
+
+The nature of PSYOP has evolved with the rise of hybrid warfare and information threats from state and non-state actors. U.S. military doctrine now emphasizes **Military Information Support Operations (MISO)** as the official terminology for psychological operations. Modern PSYOP increasingly integrates with cyber capabilities, artificial intelligence, and data analytics to conduct influence operations in contested information environments.
+
+As adversaries such as Russia, China, and Iran intensify their own influence campaigns, the role of U.S. PSYOP in countering foreign propaganda and promoting democratic values abroad has become an important facet of strategic competition in the 21st century.
+
+---
+
+### Conclusion
+
+Psychological operations represent a critical but often underexamined component of U.S. military and foreign policy. Rooted in the dynamics of perception and persuasion, PSYOP aims to shape the information environment in favor of U.S. objectives while minimizing direct confrontation. As global conflicts increasingly hinge on narrative control and psychological impact, the strategic relevance of PSYOP is likely to grow in both scope and sophistication.

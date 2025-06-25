@@ -1,0 +1,57 @@
+**Anti-materiel rifle**
+
+An **anti-materiel rifle** (AMR) is a type of high-caliber firearm designed primarily to engage and disable military equipment (materiel) rather than personnel. These rifles are used to target vehicles, radar systems, communication equipment, aircraft, and fortifications at long ranges. Though capable of inflicting casualties on personnel, their primary function lies in neutralizing material assets to degrade an enemy’s operational capabilities.
+
+---
+
+### Historical Development
+
+The concept of anti-materiel rifles emerged in the early 20th century, paralleling the evolution of armored vehicles and aircraft that required specialized weapons to counter. During **World War I**, the proliferation of armored cars and the need to penetrate thick vehicle armor led to the development of large-caliber rifles and machine guns capable of firing armor-piercing ammunition.
+
+In **World War II**, specialized rifles such as the **Boys anti-tank rifle** were employed by British and Commonwealth forces to disable lightly armored tanks and vehicles. However, with the advancement of tank armor, these weapons gradually lost effectiveness against main battle tanks but retained utility against lighter armored targets and equipment.
+
+Post-World War II, technological improvements in firearms, optics, and ammunition led to the modern anti-materiel rifle’s development, characterized by calibers typically ranging from 12.7 mm (.50 caliber) up to 20 mm or more, providing exceptional range and armor penetration.
+
+---
+
+### Technical Characteristics
+
+Anti-materiel rifles are generally bolt-action or semi-automatic and chambered for heavy cartridges such as:
+
+* **12.7×99mm NATO (.50 BMG)**
+* **12.7×108mm Russian**
+* Larger calibers like **14.5×114mm** or **20mm** rounds in some specialized models
+
+These rifles typically feature long barrels and advanced optical sights to enable precise targeting at distances exceeding 1,500 meters. The heavy recoil and size often require the use of bipods or mounts.
+
+Ammunition types include armor-piercing (AP), armor-piercing incendiary (API), high-explosive incendiary (HEI), and sabot rounds, designed to defeat various types of materiel.
+
+---
+
+### Political and Military Context
+
+The proliferation and use of anti-materiel rifles are closely linked to evolving military doctrines and asymmetric warfare. For conventional armed forces, AMRs serve as force multipliers, allowing infantry units to engage high-value targets that were previously the domain of artillery or air strikes.
+
+In asymmetric conflicts, guerrilla and insurgent groups have employed AMRs to target enemy vehicles, aircraft on the ground, or critical infrastructure, thus leveling the battlefield against technologically superior forces. The ability to disrupt supply lines, disable armored vehicles, or destroy communications equipment has significant tactical and psychological effects.
+
+---
+
+### International Use and Proliferation
+
+Anti-materiel rifles are used by many nations worldwide and have been featured in numerous conflicts from the late 20th century into the 21st century. The U.S. military’s **M82 Barrett** rifle, developed in the 1980s, popularized the AMR role in modern warfare and has been widely exported.
+
+Similarly, Russian, Chinese, and European manufacturers have produced AMRs tailored to their military requirements. The widespread availability of AMRs has led to concerns regarding their use by non-state actors, contributing to debates about arms control and regulation.
+
+---
+
+### Legal and Ethical Considerations
+
+Unlike sniper rifles designed specifically to target personnel, anti-materiel rifles occupy a unique legal space under international law. Their intended use against equipment generally complies with laws of armed conflict; however, when used against personnel, especially civilians or outside combat zones, their employment raises legal and ethical questions.
+
+The potential for high collateral damage due to large calibers and explosive ammunition necessitates strict rules of engagement and responsible usage to comply with humanitarian law.
+
+---
+
+### Conclusion
+
+The anti-materiel rifle represents a specialized and potent category of firearm developed to address the challenges posed by increasingly armored and technologically complex battlefields. Its role continues to evolve alongside military tactics and technologies, reflecting broader trends in modern warfare and asymmetric conflict. Balancing its tactical advantages with legal and ethical constraints remains a critical concern for armed forces and policymakers worldwide.

@@ -1,0 +1,158 @@
+The Sukhoi Su-15 (NATO reporting name: Flagon) is a twinjet supersonic interceptor aircraft developed by the Soviet Union. It entered service in 1965 and remained one of the front-line designs into the 1990s. The Su-15 was designed to replace the Sukhoi Su-11 and Sukhoi Su-9, which were becoming obsolete as NATO introduced newer and more capable strategic bombers.
+
+
+== Development ==
+Recognizing the limitations of the earlier Su-9 and Su-11 in intercepting the new Boeing B-52 Stratofortress, particularly in terms of radar and aircraft performance, the Sukhoi OKB quickly began the development of a heavily revised and more capable aircraft. A variety of development aircraft evolved, including the Sukhoi T-49, which shared the fuselage of the Su-9 (including its single engine), but used cheek-mounted intakes to leave the nose clear for a large radome for the RP-22 Oryol-D ("Eagle") radar (NATO "Skip Spin"), and the T-5, essentially a heavily modified Su-11 with a widened rear fuselage containing two Tumansky R-11 engines.
+These led to the T-58, which combined the twin engines with a modified version of the T-49's nose, but with side inlets further back, behind the cockpit. It was approved for production on 5 February 1962, as the Su-15, and the prototype first flew on 30 May 1962. It entered service testing 5 August 1963, but its service entry was delayed by political infighting with the Yakovlev OKB over production line capacity in Novosibirsk, which was also building the Yak-28P. The Su-15 proved to be superior in most respects other than range, and it was officially commissioned on 3 April 1965. Series production began the following year, and it entered service with the PVO in 1967, replacing Su-9s, Su-11s, and Yakovlev Yak-25s. The initial Su-15 received the NATO reporting name "Flagon-A". A simplified trainer version, the Su-15UT (NATO "Flagon-C"), with no radar or combat capability, entered service in 1970.
+Initial delta-winged Su-15s had poor take-off and landing characteristics, and so Sukhoi investigated a new wing design with extended wingtips (increasing wing area) and boundary layer control. Su-15s with the new wing went into production in 1969. They were dubbed "Flagon-D" by NATO, although the Soviet designation was unchanged.
+Also in 1969 testing began of the upgraded Su-15T with the Volkov Taifun ("Typhoon") radar, which was based on the MiG-25's powerful RP-25 Smerch-A ("Tornado") radar (NATO "Foxfire"). The Taifun proved troublesome, however, and ceased production after only 10 aircraft had been built. It was followed in December 1971 by the Su-15TM (NATO "Flagon-E"), with the improved Taifun-M radar (NATO "Twin Scan") and provision for UPK-23-250 gun pod or R-60 (AA-8 "Aphid") short-range air-to-air missiles. Aerodynamic demands forced a redesign of the radome with an ogival shape, earning a new NATO reporting name, "Flagon-F", although again the Soviet designation did not change. A comparable combat-capable trainer, the Su-15UM (NATO "Flagon-G"), followed from 1976. The final Su-15UMs, the last Su-15s produced, came off the line in 1979.
+Various OKB proposals for upgraded Su-15s with better engines and aerodynamics to satisfy a VVS requirement for a long-range tactical fighter were rejected in favour of the Mikoyan MiG-23 fighter.
+
+
+== Design ==
+
+Although many components of the Su-15 were similar or identical to the previous Su-9 and Su-11, including Sukhoi's characteristic rear-fuselage air brake, the Su-15 abandoned the shock-inlet cone nose intake for side-mounted intake ramps with splitter plates feeding two powerful turbojet engines, initially the Tumansky R-11F2S-300. The change allowed room in the nose for a powerful search radar, initially the RP-22 Oryol-D (NATO 'Skip Spin'). The early Su-15 ("Flagon-A") had pure delta wings like its predecessors, but these were replaced from the 11th production series onward by a new double-delta wing of increased span and area, with a small wing fence above each outer pylon and blown flaps to improve landing characteristics. This was accompanied by a new tail of greater anhedral and a vertical fin of reduced height.
+The Su-15 had maximum speed of Mach 2.5 and a rate of climb of 228 m/s (750 ft/s, 45,000 ft/min), a very important parameter for an interceptor aircraft. Take-off and landing speeds were comparatively high, with a take-off speed of 395 km/h (245 mph) for early delta-winged 'Flagon-A's and 370 km/h (230 mph) for the larger-winged 'Flagon-F'. While the controls were responsive and precise, the aircraft was unforgiving of pilot error.
+Despite its powerful radar, the Su-15, like most Soviet interceptors before the late 1980s, was heavily dependent on ground control interception (GCI), with aircraft vectored onto targets by ground radar stations. It was fitted with the Lazur-S datalink system, which transmitted instructions to the pilot to accomplish the interception. The later Su-15TM had a Vozdukh-1M datalink and SAU-58 (sistema automaticheskogo upravleniya, automatic control system)  capable of carrying out completely automatic, 'hands-off' interceptions until the last moments of the interception.
+Primary armament of the Su-15 was the R-8/K-8 (AA-3 "Anab"; later R-98) air-to-air missile. Early models carried two missiles, but 'Flagon-D' and later versions could carry four. Like most Soviet missiles, the R-98 was made in both infrared and semi-active radar homing versions, and standard practice was to fire the weapons in pairs (one semi-active radar homing, one IR homing) to give the greatest chance of a successful hit. The IR homing missile was normally fired first in order to prevent the possibility of the IR missile locking on to the radar homing missile. Later 'Flagon-F' models often carried two R-98s and one or two pairs of short-range R-60 (AA-8 'Aphid') missiles. Late-model 'Flagons' also sometimes carried a pair of UPK-23-250 23 mm gun pods on the fuselage pylons, each containing a two-barrel GSh-23L cannon.
+
+
+== Operational history ==
+The Su-15 formed a significant part of the V-PVO's interceptor force, and was designed to intercept easier targets such as the American B-52 and U-2 and the British V bombers, leaving the more difficult targets such as the XB-70 and B-58 to the faster MiG-25P. The Taifun radar of the Su-15TM was optimised for counter-countermeasure operation, as opposed to range. As an interceptor, the task of the Su-15TM was to fly under autopilot, using GCI commands sent through the datalink. The radar would only be turned on as the interceptor approached the target in order to provide targeting parameters for the radar homing K-8/R-8/R-98 missiles, the high power of the radar allowing it to 'burn through' enemy ECM signals. If all else failed, IR homing versions of the K-8 would provide a last opportunity to shoot down the intruder, along with any gun pods the Su-15 might be carrying.
+The Su-15 was optimised for the high-altitude interception role with its fast climb-rate and high speed at high altitude but lacked look-down/shoot-down capability, even with the Su-15TM's more sophisticated Taifun radar. This eventually led to the MiG-23P, which did have look-down/shoot-down capability, becoming the preferred asset of the V-PVO, especially once NATO switched to low-level penetration tactics. Even so, the Su-15 remained an important part of the V-PVO until the fall of the Soviet Union.
+As one of the V-PVO's principal interceptors, the Su-15 was involved in several attacks on foreign aircraft that inadvertently crossed into Soviet airspace: 
+
+In 1978, Korean Air Lines Flight 902 veered into Soviet airspace and was attacked over Murmansk by a PVO Su-15. Although the civilian aircraft survived the missile hit, two passengers were killed, and the damaged plane subsequently made a forced landing on a frozen lake.
+In 1981, a Soviet Su-15, from a base in Georgia, collided with a Canadair CL-44 of Transporte Aéreo Rioplatense (TAP; Argentinian airline), killing the three Argentinians and one Briton on board. The TAP aircraft was allegedly transporting weapons bought secretly from Israel by Iran, when it allegedly strayed into Soviet airspace. While some aviation experts believed the collision was accidental, the Soviet Su-15 pilot claimed that he had been deliberately rammed.
+In the Korean Air Lines Flight 007 incident in 1983, a South Korean Boeing 747 was fired upon near Moneron Island, after it veered into restricted Soviet airspace, by a Su-15TM based on Sakhalin, with the 747's control surfaces having been disabled as a result of a direct hit to the aircraft's tail. The crippled airliner then crashed into the Sea of Japan off the coast of Moneron, killing all 246 passengers and 23 crew.
+The Su-15 was also credited with shooting down five reconnaissance balloons sent to spy on Soviet territory (by Sweden) in 1975.
+Although it was produced in large numbers (1,290 of all types), the Su-15, like other highly sensitive Soviet aircraft, was never exported to the Warsaw Pact or any other country due to its sophisticated systems. Some Su-15 were reported to be deployed in Egypt in 1972 but were used with Soviet crews. At one point, the Su-15 was considered for use as a strike fighter, but proved to be too specialised as an interceptor to be used in that role.
+After the fall of the Soviet Union, the Su-15 was abruptly retired from the new Russian Air Force in 1993 to comply with the Treaty on Conventional Armed Forces in Europe. Most were hastily scrapped in favour of more advanced interceptors, including the Su-27 and MiG-31, but some are in reserve storage for emergency use. In Ukraine, the last Su-15s (at Kramatorsk and Belbek) were withdrawn from use in 1996.
+
+
+== Variants ==
+T-58
+Prototype of Su-15.
+Su-15 (Flagon-A)
+First production version.
+T-58VD (Flagon-B)
+One-off prototype using three Kolesov lift jets in the centre fuselage to provide STOL capability. Not mass-produced.
+Su-15UT (Flagon-C)
+Trainer version without radar and combat capability, in use since 1970.
+Su-15 (Flagon-D)
+Version with extended wingtips built since 1969.
+Su-15T (Flagon-E)
+Version equipped with Volkov Taifun radar.
+Su-15TM  (Flagon-F)
+Improved Su-15T version equipped with Taifun-M radar and additional aerodynamic modifications, in use since 1971. New radome design for improving radar performances.
+Su-15UM (Flagon-G)
+Trainer version of Su-15TM without radar but with combat capability, built between 1976 and 1979.
+U-58UM
+Prototype of Su-15UM with Taifun-M radar, not entered serial production.
+Su-15Sh
+Proposed supersonic ground-attack aircraft, offered in 1969. Not built.
+Su-15-30
+Proposed version sharing the radar and missiles of the MiG-25; not built.
+Su-15bis
+Converted Su-15TM with R-25-300 engines of 69.9 kN (15,652 lb) afterburning thrust for improved performance; approved for series production, but not built because of a shortage of the engines.
+Su-19 (T-58PS)
+Proposed advanced version with Tumansky R-67-300 three spool turbofan engines, each producing 78.44 KN of afterburning thrust. Sukhoi Su-19 would have ogival wing, improved avionics suite with new Look down - shoot down radar and additional pylons for missiles. Not built.
+Some Western reports indicate that the Su-15TM was also designated Su-21 and the Su-15UM Su-21U. These reports are apparently incorrect. Designation Su-21 was reserved for Su-17M4 but never used.
+
+
+== Operators ==
+ Soviet Union
+Soviet Air Defence Forces
+ Russia
+Russian Air Force retired all from front line duty in 1994, but some may remain in the emergency war reserve storage.
+ Ukraine
+Ukrainian Air Force retired in 1996.
+
+
+== Specifications (Su-15TM) ==
+
+Data from Wilson airwar.ru, GordonGeneral characteristics
+Crew: 1
+Length: 19.56 m (64 ft 2 in)
+Wingspan: 9.43 m (30 ft 11 in)
+Height: 4.84 m (15 ft 11 in)
+Wing area: 36.6 m2 (394 sq ft)
+Empty weight: 10,760 kg (23,722 lb)
+Gross weight: 17,200 kg (37,920 lb)
+Max takeoff weight: 17,900 kg (39,463 lb)
+Powerplant: 2 × Tumansky R-13F-300 afterburning turbojet engines, 40.21 kN (9,040 lbf) thrust  each dry, 70 kN (16,000 lbf) with afterburner
+Performance
+
+Maximum speed: 2,230 km/h (1,390 mph, 1,200 kn) with 2 × K-8 or 2 × R-60 air-to-air missiles at 12,000 m (39,000 ft)
+Maximum speed: Mach 2.1
+Range: 1,380 km (860 mi, 750 nmi)
+Combat range: 725 km (450 mi, 391 nmi)
+Ferry range: 1,700 km (1,100 mi, 920 nmi)
+Service ceiling: 18,100 m (59,400 ft)
+g limits: +6.5
+Rate of climb: 228 m/s (44,900 ft/min)
+Wing loading: 555 kg/m2 (114 lb/sq ft)
+Armament
+
+Guns: 2 × UPK-23 gun pods with 2 × 23 mm Gryazev-Shipunov GSh-23L autocannons each on fuselage pylons
+Hardpoints: 6 hardpoints with a capacity of up to 1,500 kg (3,300 lb), with provisions to carry combinations of:
+Rockets: UB-16 rocket pods for S-5 rockets
+Missiles: (Air-to-air Missiles)
+2 × K-8
+2 × R-60
+Bombs: FAB-500 general-purpose bomb
+Avionics
+
+Radar: «Taifun-M»
+Detection range:
+high-flying targets: 70 km
+low-flying targets: 15 km
+Lock range:
+high-flying targets: 45 km
+low-flying targets: 10 km
+Angular range:
+vertical: +30°/-10°
+horizontal: +/- 70°
+
+
+== See also ==
+
+Korean Airlines Flight 007
+Related development
+
+Sukhoi Su-9
+Sukhoi Su-11
+Aircraft of comparable role, configuration, and era
+
+Avro CF-105 Arrow  – (Canada)
+Chengdu J-7  – (China)
+Convair F-106 Delta Dart  – (United States)
+Dassault Mirage III  – (France)
+English Electric Lightning  – (United Kingdom)
+Lockheed F-104 Starfighter  – (United States)
+McDonnell Douglas F-4 Phantom II  – (United States)
+Mikoyan-Gurevich MiG-21  – (Soviet Union)
+Mikoyan-Gurevich MiG-25  – (Soviet Union)
+Saab 35 Draken  – (Sweden)
+Shenyang J-8  – (China)
+Tupolev Tu-128  – (Soviet Union)
+
+Related lists
+
+List of military aircraft of the Soviet Union and the CIS
+
+
+== References ==
+Citations
+
+Bibliography
+Butowski, Piotr and Pankov, Valeriy and Ponomaryev, Vadim. Su-15 Flagon. Monografie Lotnicze #14. Gdańsk: AJ-Press, 1994 (ISBN 83-86208-04-X) (in Polish).
+
+
+== External links ==
+
+Su-15 from FAS
+Su-15 from The Global Aircraft Organization
+Su-15 from Military Factory
+Su-15TM walkaround photos Archived 2010-03-18 at the Wayback Machine
+Another article about the Su-15

@@ -1,0 +1,58 @@
+**Nuclear Weapon**
+
+A **nuclear weapon** is an explosive device that derives its destructive force from nuclear fission, fusion, or a combination of both. Capable of releasing energy equivalent to thousands to millions of tons of TNT, nuclear weapons have shaped international politics, military strategy, and global security since their first deployment in 1945.
+
+## Origins and Development
+
+The scientific foundations of nuclear weapons were laid in the early 20th century with discoveries of atomic structure and nuclear fission. During World War II, the United States led the **Manhattan Project** (1942–1945), mobilizing American, British, and Canadian scientists to develop the first atomic bombs. On 6 and 9 August 1945, the U.S. dropped two fission bombs—“Little Boy” on Hiroshima and “Fat Man” on Nagasaki—killing over 200,000 people, largely civilians, and precipitating Japan’s surrender.
+
+## The Cold War and Arms Race
+
+In 1949, the Soviet Union’s first atomic test ended the U.S. nuclear monopoly, inaugurating a **nuclear arms race**. The United States developed the vastly more powerful hydrogen (thermonuclear) bomb in 1952; the USSR followed in 1953. By the late 1950s both superpowers possessed thousands of warheads and delivery systems—intercontinental ballistic missiles (ICBMs), submarine-launched ballistic missiles (SLBMs), and strategic bombers—forming the **nuclear triad**.
+
+The doctrine of **Mutually Assured Destruction** (MAD) emerged to describe the deterrent effect of this balance: each side’s capacity to inflict unacceptable retaliation ostensibly prevented either from initiating a nuclear first strike. High-profile crises—the Berlin standoff (1961), Cuban Missile Crisis (1962)—brought the world to the brink of nuclear war, underscoring the risks of escalation.
+
+## Proliferation and International Responses
+
+Beyond the United States and Soviet Union, the United Kingdom (1952), France (1960), and China (1964) became recognized nuclear-weapon states. India (1974) and Pakistan (1998) joined later, while Israel maintained a policy of opacity. In 1968, the **Treaty on the Non-Proliferation of Nuclear Weapons** (NPT) sought to halt further spread by obliging non-nuclear states to forgo weapons in exchange for peaceful nuclear cooperation and disarmament commitments by the five recognized nuclear powers.
+
+Regional proliferation—South Africa’s brief arsenal (1970s–1990s), North Korea’s test (2006), and Iran’s contested enrichment program—has posed challenges to the NPT regime. The **Comprehensive Nuclear-Test-Ban Treaty** (CTBT, 1996) further aimed to ban all nuclear-explosive testing, though it has not entered into force due to key states’ non-ratification.
+
+## Delivery Systems and Yield
+
+Modern nuclear weapons fall into two main categories:
+
+* **Strategic weapons**, designed for long-range delivery and high yields (hundreds of kilotons to megatons), mounted on ICBMs, SLBMs, or heavy bombers.
+* **Tactical (or non-strategic) weapons**, with shorter ranges and lower yields (sub-kiloton to tens of kilotons), intended for use on the battlefield.
+
+A single warhead’s explosive yield is often measured in kilotons or megatons of TNT equivalent. Thermonuclear weapons use a fission “primary” to trigger fusion in a secondary stage, achieving yields thousands of times greater than fission bombs alone.
+
+## Arms Control and Disarmament Efforts
+
+Concerned by the human and environmental consequences of nuclear war, governments and civil-society organizations pursued arms-control measures:
+
+* **Partial Test-Ban Treaty** (1963): Prohibited atmospheric, underwater, and outer-space tests.
+* **Strategic Arms Limitation Talks (SALT)**: Capped numbers of strategic launchers.
+* **Intermediate-Range Nuclear Forces Treaty (INF, 1987)**: Eliminated an entire class of medium-range missiles.
+* **Strategic Arms Reduction Treaties (START I, 1991; New START, 2010)**: Mandated deep cuts in deployed strategic warheads and delivery vehicles, with verification protocols.
+
+Despite these accords, global stockpiles peaked at over 60,000 warheads in the late 1980s and have since declined to around 13,000 today, though modernization programs continue in nuclear-armed states.
+
+## Humanitarian and Environmental Impact
+
+The detonation of nuclear weapons produces blast, thermal radiation, and ionizing radiation, causing immediate mass casualties and long-term health effects such as cancer and genetic damage. The concept of **nuclear winter**, developed in the 1980s, posited that large-scale use would inject soot into the stratosphere, drastically reducing sunlight and disrupting agriculture worldwide. These catastrophic scenarios have fueled disarmament advocacy, culminating in the **Treaty on the Prohibition of Nuclear Weapons** (2017), which bans development, testing, possession, and use, though none of the nuclear-armed states have joined.
+
+## Modern Challenges and Future Directions
+
+In the 21st century, evolving threats and technologies have complicated nuclear dynamics:
+
+* **Tactical nuclear weapons** raise concerns about lowered thresholds for use.
+* **Missile defense** and emerging **hypersonic glide vehicles** challenge traditional deterrence assumptions.
+* **Cybersecurity risks** threaten command-and-control systems.
+* **Non-state actor proliferation** underscores the need for securing fissile materials.
+
+Efforts to prevent proliferation and reduce arsenals continue under U.N. auspices, regional nuclear-weapon-free zones, and bilateral dialogues. The concept of **Minimum Deterrence**, embraced by some states, advocates maintaining only the smallest arsenal needed for credible retaliation, potentially paving a path toward deeper reductions.
+
+## Conclusion
+
+Nuclear weapons remain the most destructive military capability ever developed, with profound implications for international security, moral and legal norms, and environmental safety. Their existence has deterred large-scale interstate war since 1945 but has also generated persistent political tensions, technological competition, and humanitarian fears. The future of nuclear weapons policy will hinge on balancing deterrence requirements with aspirations for disarmament, non-proliferation, and global stability.

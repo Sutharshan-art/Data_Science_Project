@@ -1,0 +1,62 @@
+**Wikipedia\:Requests for comment/Arbitration Committee elections/December 2017**
+
+**Overview**
+“Wikipedia\:Requests for comment/Arbitration Committee elections/December 2017” (often shortened to “RfC/ArbCom/Dec2017”) was the formal community consultation page used to gather input on the twenty-first English-language Wikipedia Arbitration Committee (ArbCom) election. Held from 2 to 15 December 2017, this election filled nine three-year seats on ArbCom—the ultimate dispute-resolution body empowered to issue binding decisions on editor conduct, including bans and content sanctions. The RfC page provided a venue for editors to propose procedural improvements, discuss candidate qualifications, and recommend policy clarifications ahead of the vote.
+
+**Historical and Political Context**
+By late 2017, Wikipedia had grown to more than 5 million articles and faced increasingly complex disputes: cross-wiki sockpuppetry, paid editing scandals, and high-profile content conflicts (such as coverage of politically controversial events). Previous ArbCom terms had drawn criticism for inconsistent application of evidence standards and lengthy case backlogs. Against this backdrop, many editors saw the December 2017 election as an opportunity to refine the rules governing ArbCom’s composition and its election mechanics, ensuring that newly elected arbitrators possessed both subject-matter expertise and procedural rigor.
+
+**Purpose of the Request for Comment**
+The RfC page served three primary functions:
+
+1. **Process Review:** Solicit community feedback on the nomination, question-and-answer (Q\&A), and ballot-closing procedures to promote fairness and transparency.
+2. **Policy Refinement:** Debate proposed amendments to “Wikipedia\:Arbitration Committee elections” policy, including candidate eligibility criteria and conflict-of-interest declarations.
+3. **Candidate Vetting:** Provide a forum for raising concerns or support regarding individual nominees’ suitability based on their editing history, policy knowledge, and prior dispute-resolution experience.
+
+**Timeline**
+
+* **2 December 2017:** The RfC page was opened concurrently with the start of the candidate Q\&A period.
+* **2–8 December 2017:** Editors posted comments, proposals, and questions under standard headings such as “Process,” “Policy,” and “Candidates.”
+* **9–11 December 2017:** ArbCom liaisons and veteran arbitrators summarized emerging consensus points and addressed clarifications.
+* **12 December 2017:** The RfC was formally closed; the official ballot was published on “Wikipedia\:Arbitration Committee elections/December 2017.”
+* **15 December 2017:** Voting concluded, and results were announced by ArbCom and on the community portal.
+
+**Key Discussion Topics**
+
+1. **Eligibility Thresholds**
+
+   * **Edit Count and Tenure:** Some editors proposed raising the minimum edit count from 1,500 to 2,000 and extending the required registration period from six to twelve months, aiming to ensure deeper policy familiarity. Opponents cautioned that higher thresholds might exclude well-qualified newer contributors.
+   * **Conduct Prerequisites:** Debates surfaced over requiring a clean disciplinary record or documented mediation experience, with suggestions to formalize “good behavior” pledges in nomination templates.
+
+2. **Conflict-of-Interest Declarations**
+
+   * A majority supported adding a standard COI disclosure section for nominees—especially those with paid affiliations or prior involvement in Wikimedia administrative roles—to enhance transparency.
+   * Some editors argued that strict COI declarations risked discouraging qualified candidates, proposing instead a voluntary but encouraged disclosure practice.
+
+3. **Q\&A Period Structure**
+
+   * To avoid “stacking” questions on a single nominee, participants discussed limiting the number of questions per candidate or staggering submission deadlines.
+   * The final consensus maintained a seven-day open Q\&A with guidance urging questioners to space postings and allow candidates time to respond.
+
+4. **Ballot Transparency**
+
+   * Editors recommended that ArbCom publish anonymized vote tallies—showing counts of support, oppose, and neutral—for each candidate, rather than only announcing successful nominees.
+   * Concerns about revealing voting patterns led to a compromise: ArbCom agreed to include a high-level summary of vote counts without disclosing individual ballots.
+
+5. **Post-Election Review**
+
+   * A minority proposed instituting a “post-election debrief” thread where newly elected members could outline priorities for their term. While the idea was well received, it fell outside the immediate scope of the RfC and was deferred for separate implementation.
+
+**Consensus Outcomes**
+By the close of the RfC, informal consensus endorsed the following actions:
+
+* **Maintain existing edit and tenure thresholds** for the December 2017 election, with a review of eligibility criteria planned for mid-2018.
+* **Encourage—but not mandate—COI disclosures** in nomination statements.
+* **Retain the seven-day Q\&A period** with added reminders about question pacing.
+* **Publish anonymized vote summaries** alongside election results, providing greater transparency without compromising privacy.
+
+These consensus recommendations were incorporated into the ArbCom election policy on 16 December 2017.
+
+**Impact and Significance**
+The December 2017 RfC exemplified Wikipedia’s iterative, community-driven governance model. By openly debating procedural and policy refinements, editors demonstrated a commitment to improving ArbCom’s selection process and reinforcing its legitimacy. The RfC’s outcomes influenced subsequent election cycles, contributing to more consistent candidate vetting and greater transparency in dispute-resolution admissions. Moreover, the RfC process itself underscored the role of community consultation in stewarding one of Wikipedia’s most consequential governing bodies.
+

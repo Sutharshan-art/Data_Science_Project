@@ -1,0 +1,84 @@
+**List of Kamov Aircraft**
+
+The Kamov Design Bureau, established in 1940 in the Soviet Union and later part of Russia’s United Aircraft Corporation, is renowned for its distinctive coaxial-rotor helicopters. Kamov aircraft have played key roles in Soviet and Russian military doctrine, naval operations, industrial development, and international arms exports. Below is an overview of principal Kamov types, organized by era and function, with attention to their historical and political context.
+
+---
+
+## Early Experimental and Post-War Prototypes
+
+* **Ka-8 “Irkutyanin” (1947)**
+  A light two-seat experimental helicopter, the Ka-8 demonstrated coaxial rotors’ compactness—a critical attribute for Soviet naval and shipborne use.
+
+* **Ka-10 (1949)**
+  Refinement of the Ka-8, featuring enclosed cabin and minor rotor improvements. Although not mass-produced, it laid groundwork for future naval reconnaissance types.
+
+* **Ka-15/Ka-18 (1952–1965)**
+  Light utility helicopters adopted by Soviet fishing fleets, border guards, and civil aviation. Their all-metal construction and twin-rotor layout illustrated Soviet efforts to diversify civil aviation under state-driven modernization plans.
+
+---
+
+## Cold War Naval and Anti-Submarine Warfare
+
+* **Ka-25 “Hormone” (1961)**
+  First mass-produced naval helicopter for shipborne anti-submarine warfare (ASW). Equipped with sonar, depth charges, and torpedoes, the Ka-25 reflected Soviet emphasis on countering Western submarine threats in contested maritime zones.
+
+* **Ka-27 “Helix” (1973)**
+  Upgraded ASW helicopter replacing Ka-25, with improved avionics and anti-ship missiles variants. Widely exported to Warsaw Pact and allied navies, its deployment underscored Soviet naval diplomacy and projection of power.
+
+* **Ka-29 “Helix-B” (1982)**
+  Assault transport variant of Ka-27, integrating troop-carrier capability with shipborne ASW platforms. Its design embodied Soviet doctrine of amphibious and coastal defense operations.
+
+---
+
+## High-Performance Attack Helicopters
+
+* **Ka-50 “Black Shark” (1982)**
+  Single-seat armored attack helicopter with advanced targeting systems and co-axial rotors for enhanced maneuverability. Developed amid 1980s Soviet military reforms, it signaled a shift toward precision strike and helicopter survivability.
+
+* **Ka-52 “Alligator” (1997)**
+  Two-seat derivative of Ka-50 featuring side-by-side cockpits, night-vision capability, and improved weapons suite. Exported to nations such as Egypt and Algeria, it demonstrates Russia’s post-Soviet strategy of arms sales to sustain its defense industry.
+
+---
+
+## Airborne Early Warning and Communications
+
+* **Ka-31 “Helix-A” (1995)**
+  AEW variant of Ka-27 fitted with a large folding radar underbelly. Its introduction reflected Russian efforts to modernize maritime surveillance and to compete in global arms markets with multi-role naval helicopters.
+
+---
+
+## Utility, Transport, and Civilian Variants
+
+* **Ka-32 (1993)**
+  Civilian version of Ka-27, widely used in firefighting, logging, and search-and-rescue. Its export—particularly to China, Canada, and Europe—illustrates Russian diversification into niche civilian markets in the post-Cold War era.
+
+* **Ka-226 “Hoodlum” (1997)**
+  Light modular helicopter with interchangeable mission pods, produced jointly with France’s Eurocopter. Its modular design and Western co-production exemplify Russia’s integration into the global aerospace supply chain following the Soviet collapse.
+
+* **Ka-60 “Kasatka” (1999)**
+  Medium-lift utility helicopter with a more conventional transmission, intended to replace aging Mi-8s. Development delays reflect challenges in post-Soviet defense funding and industrial restructuring.
+
+---
+
+## Experimental and Specialty Models
+
+* **Ka-22 “Vintokryl” (1960)**
+  Compound helicopter with both rotors and fixed wings, combining vertical take-off with airplane-like range. Though ultimately unsuccessful, it showcased Soviet ambition for high-speed rotorcraft during the Space Race era.
+
+* **Ka-126/Ka-226 International Projects**
+  Collaborative efforts with Romania (Ka-126) and European firms (Ka-226) in the 1980s and 1990s demonstrated Soviet and Russian attempts to broaden technical partnerships and access foreign markets.
+
+---
+
+## Political and Strategic Significance
+
+1. **Naval Doctrine and Power Projection:** Coaxial-rotor designs allowed Kamov helicopters to operate from compact Soviet warships, reinforcing anti-submarine and surface-strike capabilities during Cold War naval competition.
+
+2. **State-Led Industrialization:** Kamov’s close ties to the Soviet Ministry of Defense drove innovation and production quotas, illustrating the centrally planned economy’s role in shaping aerospace priorities.
+
+3. **Export Diplomacy:** Post-1991, Kamov exports became instruments of Russian foreign policy—deepening ties with India, China, and Middle Eastern countries through defense cooperation agreements and joint ventures.
+
+4. **Technological Legacy:** Kamov’s coaxial rotor remains unique globally, influencing modern Russian helicopter designs and underscoring Soviet-era specialization in aerospace engineering.
+
+---
+
